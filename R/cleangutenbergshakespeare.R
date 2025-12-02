@@ -355,9 +355,9 @@ output_dir = "data"
 #   output_dir = "data"
 # )
 
-# Convert to single tidy dataframe (contents only)
+# Convert to single tidy dataframe (remove final hash for contents only)
 # shakespeare <- plays %>%
-#   bind_rows() %>%
+# bind_rows() %>%
 #   filter(section == "contents")
 
 # Save combined dataset
