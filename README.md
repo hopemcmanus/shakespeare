@@ -12,4 +12,4 @@ The data is scraped from [gutenberg.org](https://www.gutenberg.org/), and proces
 
 [github.com/nrennie/shakespeare/](https://github.com/nrennie/shakespeare/) contains data on the plays of William Shakespeare from [shakespeare.mit.edu](https://shakespeare.mit.edu/).
 
-[gitlab.com/culturalcartography/text2map/](https://gitlab.com/culturalcartography/text2map/-/blob/HEAD/R/data.R) has Gutenberg Shakespeare metadata.
+[gitlab.com/culturalcartography/text2map/](https://gitlab.com/culturalcartography/text2map/-/blob/HEAD/R/data.R) has the Gutenberg Shakespeare metadata.

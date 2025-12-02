@@ -155,10 +155,11 @@ clean_shakespeare <- function(text_lines, gutenberg_id = NA) {
       gutenberg_title = title,
       short_title = NA_character_,
       genre = NA_character_,
-      year = NA_integer_
+      year = NA_integer_,
+      gutenberg_id = gutenberg_id
     ) %>%
     rename(class = subsection) %>%
-    select(short_title, gutenberg_title, genre, year, author, section, class, act, scene, character, line_number, text)
+    select(gutenberg_id, short_title, gutenberg_title, genre, year, author, section, class, act, scene, character, line_number, text)
   
   # =========================================================================
   # PROCESS PLAY CONTENTS
@@ -171,7 +172,7 @@ clean_shakespeare <- function(text_lines, gutenberg_id = NA) {
       is_act = str_detect(text, regex("^\\s*ACT\\s+[IVXLC]+\\.?$", ignore_case = TRUE)),
       is_scene = str_detect(text, regex("^\\s*SCENE\\s+[IVXLC]+\\.", ignore_case = TRUE)),
       is_prologue = str_detect(text, regex("^(Prologue|Epilogue)$", ignore_case = TRUE)),
-      is_stage_direction = str_detect(text, "^\\[.*\\]$"),
+      is_stage_direction = str_detect(text, "^\\[") | str_detect(text, "\\]$"),  # Starts with [ OR ends with ]
       is_enter_exit = str_detect(text, "^(Enter|Exit|Exeunt|Re-enter)"),
       is_character_name = str_detect(text, "^[A-Z][A-Z\\s'-]+\\.$") & 
         !is_act & !is_scene & !is_prologue,
@@ -209,7 +210,8 @@ clean_shakespeare <- function(text_lines, gutenberg_id = NA) {
       gutenberg_title = title,
       short_title = NA_character_,
       genre = NA_character_,
-      year = NA_integer_
+      year = NA_integer_,
+      gutenberg_id = gutenberg_id
     ) %>%
     filter(!is.na(subsection)) %>%
     # Add continuous line numbers for dialogue only
@@ -219,7 +221,7 @@ clean_shakespeare <- function(text_lines, gutenberg_id = NA) {
                             NA_integer_)
     ) %>%
     rename(class = subsection) %>%
-    select(short_title, gutenberg_title, genre, year, author, 
+    select(gutenberg_id, short_title, gutenberg_title, genre, year, author, 
            section, class, act, scene, character, line_number, text)
   
   # =========================================================================
@@ -334,14 +336,13 @@ download_and_clean_plays <- function(gutenberg_ids = NULL,
 
 # Load metadata from text2map package
 library(text2map)
-library(remotes)
 data(meta_shakespeare)
 
 # Or load from CSV if saved locally
 # meta_shakespeare <- read_csv("meta_shakespeare.csv")
 
 # Download ALL Shakespeare plays to 'data' folder
-# dir.create("data", showWarnings = FALSE)
+dir.create("data", showWarnings = FALSE)
 plays <- download_and_clean_plays(
 meta_shakespeare = meta_shakespeare,
 output_dir = "data"
@@ -355,9 +356,9 @@ output_dir = "data"
 # )
 
 # Convert to single tidy dataframe (contents only)
-shakespeare <- plays %>%
-bind_rows() %>%
-filter(section == "contents")
+# shakespeare <- plays %>%
+#   bind_rows() %>%
+#   filter(section == "contents")
 
 # Save combined dataset
 # write_csv(shakespeare, "data/shakespeare.csv")
