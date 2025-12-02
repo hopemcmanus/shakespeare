@@ -10,20 +10,21 @@ clean_shakespeare <- function(text_lines, gutenberg_id = NA) {
   # EXTRACT METADATA AND CLEAN TEXT
   # =========================================================================
   
-  # Find title and author from Gutenberg header
-  title_line <- str_which(text_lines, "^Title: ")
-  author_line <- str_which(text_lines, "^Author: ")
+  # Look for Gutenberg metadata (if downloading)
+  title_meta_line <- str_which(text_lines, "^Title: ")
+  author_meta_line <- str_which(text_lines, "^Author: ")
   start_line <- str_which(text_lines, "^\\*\\*\\* START OF")
   end_line <- str_which(text_lines, "^\\*\\*\\* END OF")
   
-  title <- if (length(title_line) > 0) {
-    str_remove(text_lines[title_line[1]], "^Title: ")
+  # Extract from Gutenberg header if present
+  title_from_meta <- if (length(title_meta_line) > 0) {
+    str_remove(text_lines[title_meta_line[1]], "^Title: ")
   } else {
     NA_character_
   }
   
-  author <- if (length(author_line) > 0) {
-    str_remove(text_lines[author_line[1]], "^Author: ")
+  author_from_meta <- if (length(author_meta_line) > 0) {
+    str_remove(text_lines[author_meta_line[1]], "^Author: ")
   } else {
     NA_character_
   }
@@ -42,6 +43,31 @@ clean_shakespeare <- function(text_lines, gutenberg_id = NA) {
   }
   
   text_lines <- text_lines[start_idx:end_idx]
+  
+  # If no Gutenberg metadata, extract from play text
+  # Title is all lines before "by William Shakespeare"
+  # Author is usually "William Shakespeare"
+  if (is.na(title_from_meta)) {
+    by_line_idx <- str_which(text_lines, "^by William Shakespeare$")
+    if (length(by_line_idx) > 0) {
+      # Get all non-blank lines before "by William Shakespeare"
+      title_lines <- text_lines[1:(by_line_idx[1] - 1)]
+      title_lines <- title_lines[str_trim(title_lines) != ""]
+      title <- paste(title_lines, collapse = " ")
+    } else {
+      # No "by" line found, use first non-blank line
+      title <- str_trim(text_lines[str_trim(text_lines) != ""][1])
+    }
+  } else {
+    title <- title_from_meta
+  }
+  
+  if (is.na(author_from_meta)) {
+    author_line_idx <- str_which(text_lines, "^by William Shakespeare$")
+    author <- if (length(author_line_idx) > 0) "William Shakespeare" else NA_character_
+  } else {
+    author <- author_from_meta
+  }
   
   # Create dataframe
   df <- tibble(
@@ -88,9 +114,16 @@ clean_shakespeare <- function(text_lines, gutenberg_id = NA) {
       
       # Find section boundaries
       contents_start = if_else(any(is_contents_header), min(which(is_contents_header)), as.integer(NA)),
-      dramatis_start = if_else(any(is_dramatis_header), min(which(is_dramatis_header)), as.integer(NA)),
-      scene_desc_idx = which(is_scene_desc),
-      scene_desc_start = if_else(length(scene_desc_idx) > 0, min(scene_desc_idx), as.integer(NA)),
+      dramatis_start = if_else(any(is_dramatis_header), min(which(is_dramatis_header)), as.integer(NA))
+    )
+  
+  # Calculate scene_desc_start outside mutate to avoid warning
+  scene_desc_idx <- which(front_matter$is_scene_desc)
+  scene_desc_start_val <- if (length(scene_desc_idx) > 0) scene_desc_idx[1] else NA_integer_
+  
+  front_matter <- front_matter %>%
+    mutate(
+      scene_desc_start = scene_desc_start_val,
       
       # Classify subsection
       subsection = case_when(
@@ -118,11 +151,14 @@ clean_shakespeare <- function(text_lines, gutenberg_id = NA) {
       
       character = NA_character_,
       line_number = NA_integer_,
-      title = title,
       author = author,
-      gutenberg_id = gutenberg_id
+      gutenberg_title = title,
+      short_title = NA_character_,
+      genre = NA_character_,
+      year = NA_integer_
     ) %>%
-    select(gutenberg_id, title, author, section, subsection, act, scene, character, line_number, text)
+    rename(class = subsection) %>%
+    select(short_title, gutenberg_title, genre, year, author, section, class, act, scene, character, line_number, text)
   
   # =========================================================================
   # PROCESS PLAY CONTENTS
@@ -169,9 +205,11 @@ clean_shakespeare <- function(text_lines, gutenberg_id = NA) {
       # Character only for dialogue (not directions)
       character = if_else(subsection == "dialogue", character_temp, NA_character_),
       
-      title = title,
       author = author,
-      gutenberg_id = gutenberg_id
+      gutenberg_title = title,
+      short_title = NA_character_,
+      genre = NA_character_,
+      year = NA_integer_
     ) %>%
     filter(!is.na(subsection)) %>%
     # Add continuous line numbers for dialogue only
@@ -180,7 +218,9 @@ clean_shakespeare <- function(text_lines, gutenberg_id = NA) {
                             cumsum(subsection == "dialogue"), 
                             NA_integer_)
     ) %>%
-    select(gutenberg_id, title, author, section, subsection, act, scene, character, line_number, text)
+    rename(class = subsection) %>%
+    select(short_title, gutenberg_title, genre, year, author, 
+           section, class, act, scene, character, line_number, text)
   
   # =========================================================================
   # COMBINE AND RETURN
@@ -195,43 +235,96 @@ clean_shakespeare <- function(text_lines, gutenberg_id = NA) {
 # DOWNLOAD AND CLEAN
 # ============================================================================
 
-download_and_clean_plays <- function(gutenberg_ids, output_dir = ".") {
+download_and_clean_plays <- function(gutenberg_ids = NULL, 
+                                     meta_shakespeare = NULL,
+                                     output_dir = ".",
+                                     save_combined = TRUE,
+                                     combined_filename = "all_shakespeare.csv") {
+  
+  # If metadata provided and no IDs specified, use all IDs from metadata
+  if (!is.null(meta_shakespeare) && is.null(gutenberg_ids)) {
+    gutenberg_ids <- meta_shakespeare$gutenberg_id
+    message("Using all ", length(gutenberg_ids), " plays from metadata")
+  }
   
   results <- list()
   
   for (id in gutenberg_ids) {
-    message("Processing play ", id, "...")
+    message("\nProcessing play ", id, "...")
     
     # Download
     url <- paste0("https://www.gutenberg.org/files/", id, "/", id, "-0.txt")
-    raw_text <- read_lines(url)
+    raw_text <- tryCatch({
+      read_lines(url)
+    }, error = function(e) {
+      message("✗ Failed to download play ", id, ": ", e$message)
+      return(NULL)
+    })
+    
+    if (is.null(raw_text)) {
+      next
+    }
     
     # Clean
     clean_text <- clean_shakespeare(raw_text, gutenberg_id = id)
     
-    # Get title for filename (clean it up)
-    play_title <- unique(clean_text$title)[1]
+    # Merge with metadata if provided
+    if (!is.null(meta_shakespeare)) {
+      metadata_row <- meta_shakespeare %>%
+        filter(gutenberg_id == id)
+      
+      if (nrow(metadata_row) > 0) {
+        # Update the placeholder columns with metadata values
+        clean_text <- clean_text %>%
+          mutate(
+            short_title = metadata_row$short_title[1],
+            genre = metadata_row$genre[1],
+            year = metadata_row$year[1]
+          )
+      }
+    }
+    
+    # Get title for filename
+    if (!is.null(meta_shakespeare) && "short_title" %in% names(clean_text)) {
+      play_title <- unique(clean_text$short_title)[1]
+    } else {
+      play_title <- unique(clean_text$title)[1]
+    }
+    
     if (!is.na(play_title)) {
       filename <- play_title %>%
         str_to_lower() %>%
         str_replace_all("[^a-z0-9]+", "_") %>%
         str_remove("^_|_$")
-      output_file <- file.path(output_dir, paste0(filename, "_clean.csv"))
+      output_file <- file.path(output_dir, paste0(filename, ".csv"))
     } else {
-      output_file <- file.path(output_dir, paste0("play_", id, "_clean.csv"))
+      output_file <- file.path(output_dir, paste0("play_", id, ".csv"))
     }
     
-    # Save
+    # Save individual play
     write_csv(clean_text, output_file)
     message("✓ Saved: ", output_file)
     message("  Title: ", play_title)
     message("  Rows: ", nrow(clean_text))
-    message("  Front matter: ", sum(clean_text$section == "front_matter"))
-    message("  Contents: ", sum(clean_text$section == "contents"), "\n")
+    message("  Dialogue lines: ", sum(clean_text$class == "dialogue", na.rm = TRUE))
     
     results[[as.character(id)]] <- clean_text
   }
   
+  # Save combined file if requested
+  if (save_combined && length(results) > 0) {
+    message("\n", strrep("=", 60))
+    message("Combining all plays...")
+    all_plays <- bind_rows(results)
+    combined_path <- file.path(output_dir, combined_filename)
+    write_csv(all_plays, combined_path)
+    message("✓ Saved combined file: ", combined_path)
+    message("  Total plays: ", length(results))
+    message("  Total rows: ", nrow(all_plays))
+    message("  Total dialogue lines: ", sum(all_plays$class == "dialogue", na.rm = TRUE))
+  }
+  
+  message("\n✓ Complete! Downloaded ", length(results), " plays")
   return(results)
 }
 
@@ -239,13 +332,38 @@ download_and_clean_plays <- function(gutenberg_ids, output_dir = ".") {
 # USAGE
 # ============================================================================
 
-# Download and clean one play
-# hamlet <- download_and_clean_plays(1524)
+# Load metadata from text2map package
+library(text2map)
+library(remotes)
+data(meta_shakespeare)
 
-# Download and clean multiple plays  
-plays <- download_and_clean_plays(c(1524, 1523, 1522))
+# Or load from CSV if saved locally
+# meta_shakespeare <- read_csv("meta_shakespeare.csv")
 
-# Or manually:
-# raw <- read_lines("hamlet.txt")
-# clean <- clean_shakespeare(raw, gutenberg_id = 1524)
-# write_csv(clean, "hamlet_clean.csv")
+# Download ALL Shakespeare plays to 'data' folder
+# dir.create("data", showWarnings = FALSE)
+plays <- download_and_clean_plays(
+meta_shakespeare = meta_shakespeare,
+output_dir = "data"
+)
+
+# Or download specific plays
+# plays <- download_and_clean_plays(
+#   gutenberg_ids = c(1524, 1519),
+#   meta_shakespeare = meta_shakespeare,
+#   output_dir = "data"
+# )
+
+# Convert to single tidy dataframe (contents only)
+shakespeare <- plays %>%
+bind_rows() %>%
+filter(section == "contents")
+
+# Save combined dataset
+# write_csv(shakespeare, "data/shakespeare.csv")
+
+# Or tokenize for text analysis
+# library(tidytext)
+# tidy_shakespeare <- shakespeare %>%
+#   unnest_tokens(word, text) %>%
+#   anti_join(stop_words)
