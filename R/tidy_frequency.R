@@ -9,14 +9,18 @@ stop_words_custom <- bind_rows(
                       "art", "tis", "enter", "exit", "exeunt", "act", "scene"))
 )
 
-#Tidy Shakespeare
-tidy_shakespeare <- shakespeare %>%
+#Tidy All Shakespeare
+tidy_shakespeare <- all_shakespeare %>%
 unnest_tokens(word, text)
 
-tidy_hsc <- shakespeare %>%
+#Tidy All Shakespeare Contents Only
+tidy_shakespeare <- shakespeare %>%
+  unnest_tokens(word, text)
+
+#Tidy Plays in 2019 or 2027 HSC English Prescriptions
+tidy_hsc <- all_shakespeare %>%
   filter(gutenberg_id %in% c("1516", "1519", "1522", "1524", "1520", "1523", "1503", "1540", "1531", "1515"), section == "contents") %>%
   unnest_tokens(word, text)          # split into words first
-
 
 #Analysing word and document frequency
 #Term Frequency 
