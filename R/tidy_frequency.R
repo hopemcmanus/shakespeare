@@ -167,17 +167,17 @@ play_tf_idf %>%
 # ℹ 32,155 more rows
 library(forcats)
 
-p <- play_tf_idf %>%
+p <- bigram_tf_idf %>%
   group_by(short_title) %>%
-  slice_max(tf_idf, n = 15) %>%
+  slice_max(tf_idf, n = 10) %>%
   ungroup() %>%
-  ggplot(aes(tf_idf, fct_reorder(word, tf_idf), fill = short_title)) +
+  ggplot(aes(tf_idf, fct_reorder(bigram, tf_idf), fill = short_title)) +
   geom_col(show.legend = FALSE) +
   facet_wrap(~short_title, ncol = 2, scales = "free") +
   labs(x = "tf-idf", y = NULL)
 
 ggsave(
-  filename = "highest_tf-idf_words.png",
+  filename = "highest_tf-idf.png",
   plot = p,
   path = "plots",   # save inside the "plots" folder
   width = 10,
