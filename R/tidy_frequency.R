@@ -177,7 +177,7 @@ p <- play_tf_idf %>%
   labs(x = "tf-idf", y = NULL)
 
 ggsave(
-  filename = "highest_tf-idf.png",
+  filename = "highest_tf-idf_words.png",
   plot = p,
   path = "plots",   # save inside the "plots" folder
   width = 10,
