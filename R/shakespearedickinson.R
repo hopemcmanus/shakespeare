@@ -235,7 +235,66 @@ library(tidytext)
 library(dplyr)
 
 tidy_dickinson <- dickinson_final%>%
-  unnest_tokens(word, text)
+  unnest_tokens(word, text) %>%
+  anti_join(stop_words_custom)  
 
 tidy_dickinson_hsc <- tidy_dickinson %>%
 filter(poem_id %in% c("To learn the transport by the pain,", "I felt a funeral in my brain,", "No rack can torture me,", "Much madness is divinest sense", "I died for beauty, but was scarce", "One need not be a chamber to be haunted,", "Because I could not stop for Death,", "The show is not the show,"))
+
+tidy_h <- shakespeare %>%
+  filter(gutenberg_id == "1524")%>%
+  unnest_tokens(word, text) %>%
+  anti_join(stop_words_custom)  
+
+library(tidyr)
+
+frequency <- bind_rows(mutate(tidy_dickinson_hsc, author = "Emily Dickinson"),
+                       mutate(tidy_h, author = "William Shakespeare")) %>% 
+  mutate(word = str_extract(word, "[a-z']+")) %>%
+  count(author, word) %>%
+  group_by(author) %>%
+  mutate(proportion = n / sum(n)) %>% 
+  select(-n) %>% 
+  pivot_wider(names_from = author, values_from = proportion) %>%
+  pivot_longer(`Emily Dickinson`,
+               names_to = "author", values_to = "proportion")
+
+frequency
+library(ggplot2)
+library(scales)
+
+# expect a warning about rows with missing values being removed
+p <- ggplot(frequency, aes(x = proportion, y = `William Shakespeare`, 
+                           color = abs(`William Shakespeare` - proportion))) +
+  geom_abline(color = "gray40", lty = 2) +
+  geom_jitter(alpha = 0.1, size = 2.5, width = 0.3, height = 0.3) +
+  geom_text(aes(label = word), check_overlap = TRUE, vjust = 1.5) +
+  scale_x_log10(labels = percent_format()) +
+  scale_y_log10(labels = percent_format()) +
+  scale_color_gradient(limits = c(0, 0.001), 
+                       low = "darkslategray4", high = "gray75") +
+  facet_wrap(~author, ncol = 2) +
+  theme(legend.position="none") +
+  labs(y = "William Shakespeare", x = NULL)
+
+ggsave(
+  filename = "word_frequency_comparison_dickinson.png",
+  plot = p,
+  path = "plots",   # save inside the "plots" folder
+  width = 10,
+  height = 12,
+  dpi = 600
+)
+cor.test(data = frequency[frequency$author == "Emily Dickinson",],
+         ~ proportion + `William Shakespeare`)
+#> 
+#>  Pearson's product-moment correlation
+#> 
+#> data:  proportion and William Shakespeare
+#> t = 119.65, df = 10404, p-value < 2.2e-16
+#> alternative hypothesis: true correlation is not equal to 0
+#> 95 percent confidence interval:
+#>  0.7527854 0.7689628
+#> sample estimates:
+#>       cor 
+#> 0.7609924
