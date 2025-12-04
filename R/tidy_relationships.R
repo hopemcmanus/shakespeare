@@ -203,6 +203,71 @@ library(igraph)
 library(ggraph)
 library(ggplot2)
 
+# Choose one play
+play <- "Hamlet"
+
+# Filter for the play and relevant columns
+play_data <- all_shakespeare %>%
+  filter(short_title == play, section == "contents") %>%
+  select(short_title, text) %>%
+  mutate(line = row_number(),
+         section = line %/% 10) %>%  # 10 lines per section
+  filter(section > 0) %>%        # skip first incomplete section
+  unnest_tokens(word, text) %>%  # split lines into words
+  filter(!word %in% stop_words_custom$word)  # remove stop words
+
+# Keep words that appear at least 10 times
+play_data <- play_data %>%
+  add_count(word) %>%
+  filter(n >= 10)
+
+# Compute pairwise correlations across sections
+word_cors <- play_data %>%
+  pairwise_cor(word, section, sort = TRUE)
+
+if(nrow(word_cors) == 0){
+  message("No correlations found for play: ", play)
+} else {
+  
+  # Filter strong correlations
+  word_cors_filtered <- word_cors %>%
+    filter(correlation > 0.15)
+  
+  if(nrow(word_cors_filtered) == 0){
+    message("No edges above threshold for play: ", play)
+  } else {
+    # Build graph
+    g <- word_cors_filtered %>%
+      graph_from_data_frame(directed = FALSE)
+    
+    # Plot graph
+    p <- ggraph(g, layout = "fr") +
+      geom_edge_link(aes(edge_alpha = correlation),
+                     edge_width = 0.3,
+                     show.legend = FALSE) +
+      geom_node_point(color = "lightblue", size = 4) +
+      geom_node_text(aes(label = name), repel = TRUE) +
+      theme_void()
+    
+    print(p)
+    
+    # Save plot
+    if(!dir.exists("plots")) dir.create("plots")
+    ggsave(paste0("plots/section_correlations_", play, ".png"),
+           plot = p, width = 12, height = 10, dpi = 300)
+    
+    message("✓ Saved section correlation graph for play: ", play)
+  }
+}
+
+
+library(dplyr)
+library(tidytext)
+library(widyr)
+library(igraph)
+library(ggraph)
+library(ggplot2)
+
 # Plays you want
 selected_plays <- c("1516", "1519", "1522", "1524", "1520", "1523", "1503", "1540", "1531", "1515")
 

@@ -173,7 +173,7 @@ ggsave(
   dpi = 600
 )
 
-#Sentiment patterns across acts in Shakespeare's plays, comparing aggregate genre trends against exemplar works (Twelfth Night, Henry IV Part 1, Hamlet). Blue bars indicate positive sentiment, red bars indicate negative sentiment, with color intensity reflecting magnitude.
+
 
 # 1. Genre aggregate sentiment by act (normalized)
 genre_sentiment <- tidy_shakespeare %>%
