@@ -35,3 +35,6 @@ data/processed/tokens/*.csv
 data/processed/filtered/by_content/*.csv
 data/processed/filtered/by_genre/*.csv
 data/processed/tokens/*.csv
+data/processed/filtered/by_content/*.csv
+data/processed/filtered/by_genre/*.csv
+data/processed/tokens/*.csv
