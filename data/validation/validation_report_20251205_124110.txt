@@ -1,0 +1,238 @@
+====================================================================== 
+SHAKESPEARE PARSING VALIDATION REPORT
+Generated:  2025-12-05 12:41:10 
+====================================================================== 
+
+
+ ---------------------------------------------------------------------- 
+[ERROR] Orphan Dialogue
+---------------------------------------------------------------------- 
+Description:  Dialogue lines with no character assigned 
+Count:  0 
+
+
+ ---------------------------------------------------------------------- 
+[WARNING] Unusual Character Names
+---------------------------------------------------------------------- 
+Description:  Character names containing unexpected lowercase letters 
+Count:  1 
+
+Sample data:
+# A tibble: 1 × 2
+  character                       n
+  <chr>                       <int>
+1 CAESAR, ANTONY, and LEPIDUS     2
+
+
+ ---------------------------------------------------------------------- 
+[INFO] Inline Stage Directions
+---------------------------------------------------------------------- 
+Description:  Dialogue lines containing [bracketed] stage directions 
+Count:  20 
+
+Sample data:
+# A tibble: 10 × 3
+   short_title      character     text                                   
+   <chr>            <chr>         <chr>                                  
+ 1 Henry VI, Part 1 FIRST WARDER  [Within.] Who’s there that knocks so i…
+ 2 Henry VI, Part 1 SECOND WARDER [Within.] Whoe’er he be, you may not b…
+ 3 Henry VI, Part 1 FIRST WARDER  [Within.] The Lord protect him, so we …
+ 4 Henry VI, Part 1 TALBOT        Come hither, Captain. [Whispers.] You …
+ 5 Henry VI, Part 1 PLANTAGENET   [Aside.] Plantagenet, I see, must hold…
+ 6 Henry VI, Part 1 GLOUCESTER    [Aside.] Ay, but, I fear me, with a ho…
+ 7 Henry VI, Part 1 WINCHESTER    [Aside.] So help me God, as I intend i…
+ 8 Henry VI, Part 1 SOMERSET      [Aside.] Perish, base prince, ignoble …
+ 9 Henry VI, Part 1 WATCH         [Within.] Qui est la?                  
+10 Henry VI, Part 1 PUCELLE       [Aside.] Done like a Frenchman: turn a…
+
+
+ ---------------------------------------------------------------------- 
+[ERROR] Enter/Exit Continuation
+---------------------------------------------------------------------- 
+Description:  Lines after Enter/Exit incorrectly classified as dialogue 
+Count:  0 
+
+
+ ---------------------------------------------------------------------- 
+[WARNING] Missing Structure
+---------------------------------------------------------------------- 
+Description:  Dialogue lines missing act or scene labels 
+Count:  0 
+
+
+ ---------------------------------------------------------------------- 
+[ERROR] Empty Text
+---------------------------------------------------------------------- 
+Description:  Rows with empty or NA text 
+Count:  0 
+
+
+ ---------------------------------------------------------------------- 
+[WARNING] Line Number Issues
+---------------------------------------------------------------------- 
+Description:  Line numbers with gaps or duplicates 
+Count:  0 
+
+
+ ---------------------------------------------------------------------- 
+[INFO] Numbered Characters
+---------------------------------------------------------------------- 
+Description:  Characters with ordinal numbers (FIRST, SECOND, etc.) 
+Count:  20 
+
+Sample data:
+# A tibble: 10 × 3
+   short_title               character            n
+   <chr>                     <chr>            <int>
+ 1 All's Well That Ends Well FIRST LORD         129
+ 2 Henry VIII                SECOND GENTLEMAN   111
+ 3 Henry VIII                FIRST GENTLEMAN    106
+ 4 Timon of Athens           FIRST SENATOR       90
+ 5 All's Well That Ends Well SECOND LORD         85
+ 6 Hamlet                    FIRST CLOWN         77
+ 7 Coriolanus                FIRST CITIZEN       71
+ 8 All's Well That Ends Well FIRST SOLDIER       69
+ 9 Cymbeline                 FIRST GENTLEMAN     66
+10 Timon of Athens           SECOND SENATOR      62
+
+
+ ---------------------------------------------------------------------- 
+[INFO] Group Speaking
+---------------------------------------------------------------------- 
+Description:  Lines where 'ALL' speak together 
+Count:  20 
+
+Sample data:
+# A tibble: 10 × 4
+   short_title      act     scene     text                               
+   <chr>            <chr>   <chr>     <chr>                              
+ 1 Henry VI, Part 1 ACT III SCENE I   Welcome, high prince, the mighty D…
+ 2 Henry VI, Part 2 ACT I   SCENE I   [Kneeling.] Long live Queen Margar…
+ 3 Henry VI, Part 2 ACT I   SCENE III Come, let’s be gone.               
+ 4 Henry VI, Part 2 ACT IV  SCENE II  God save your majesty!             
+ 5 Henry VI, Part 2 ACT IV  SCENE II  He hath confessed. Away with him! …
+ 6 Henry VI, Part 2 ACT IV  SCENE II  Ay, marry, will we; therefore get …
+ 7 Henry VI, Part 2 ACT IV  SCENE II  No, no, and therefore we’ll have h…
+ 8 Henry VI, Part 3 ACT IV  SCENE VII Long live Edward the Fourth!       
+ 9 Richard III      ACT III SCENE VII Amen.                              
+10 Titus Andronicus ACT I   SCENE I   [Kneeling.] No man shed tears for …
+
+
+ ---------------------------------------------------------------------- 
+[INFO] Front Matter
+---------------------------------------------------------------------- 
+Description:  Front matter classification summary 
+Count:  10 
+
+Sample data:
+# A tibble: 10 × 8
+   short_title            author contents contents_header dramatis_header
+   <chr>                   <int>    <int>           <int>           <int>
+ 1 A Midsummer Night's D…      1       23               1               1
+ 2 All's Well That Ends …      1       28               1               1
+ 3 Antony and Cleopatra        1       89               1               1
+ 4 As You Like It              1       28               1               1
+ 5 Comedy of Errors            1       16               1               1
+ 6 Coriolanus                  1       34               1               1
+ 7 Cymbeline                   1       37               1               1
+ 8 Hamlet                      1       25               1               1
+ 9 Henry IV, Part 1            1       24               1               1
+10 Henry IV, Part 2            1       26               1               1
+# ℹ 3 more variables: dramatis_personae <int>, scene_description <int>,
+#   title <int>
+
+
+ ---------------------------------------------------------------------- 
+[WARNING] Potential Missed Characters
+---------------------------------------------------------------------- 
+Description:  All-caps lines without periods that might be character names 
+Count:  20 
+
+Sample data:
+# A tibble: 10 × 3
+   short_title               class    text        
+   <chr>                     <chr>    <chr>       
+ 1 Richard III               dialogue VAUGHAN     
+ 2 Richard III               dialogue RATCLIFFE   
+ 3 Comedy of Errors          dialogue BALTHASAR   
+ 4 Titus Andronicus          dialogue YOUNG LUCIUS
+ 5 Two Gentlemen of Verona   dialogue SONG        
+ 6 King John                 dialogue CONSTANCE   
+ 7 A Midsummer Night's Dream dialogue SNOUT       
+ 8 A Midsummer Night's Dream dialogue SNUG        
+ 9 A Midsummer Night's Dream dialogue ALL         
+10 A Midsummer Night's Dream dialogue FAIRY       
+
+
+ ---------------------------------------------------------------------- 
+[WARNING] Unusual Dialogue Length
+---------------------------------------------------------------------- 
+Description:  Dialogue lines that are very short (<3 chars) or very long (>500 chars) 
+Count:  5 
+
+Sample data:
+# A tibble: 5 × 4
+  short_title               character  length text 
+  <chr>                     <chr>       <int> <chr>
+1 Taming of the Shrew       PETER           2 I.   
+2 All's Well That Ends Well PAROLLES        2 O!   
+3 Antony and Cleopatra      CLEOPATRA       2 O!   
+4 Coriolanus                CORIOLANUS      2 O,   
+5 Tempest                   ANTONIO         2 O,   
+
+
+ ---------------------------------------------------------------------- 
+[INFO] Play Structure
+---------------------------------------------------------------------- 
+Description:  Number of acts and scenes per play 
+Count:  37 
+
+Sample data:
+# A tibble: 10 × 3
+   short_title                acts scenes
+   <chr>                     <int>  <int>
+ 1 A Midsummer Night's Dream     5      3
+ 2 All's Well That Ends Well     5      7
+ 3 Antony and Cleopatra          5     15
+ 4 As You Like It                5      8
+ 5 Comedy of Errors              5      4
+ 6 Coriolanus                    5     10
+ 7 Cymbeline                     5      8
+ 8 Hamlet                        5      7
+ 9 Henry IV, Part 1              5      5
+10 Henry IV, Part 2              5      5
+
+
+ ---------------------------------------------------------------------- 
+[ERROR] Character in Directions
+---------------------------------------------------------------------- 
+Description:  Character names appearing in direction/reference lines 
+Count:  0 
+
+
+ ---------------------------------------------------------------------- 
+[INFO] Dialogue Statistics
+---------------------------------------------------------------------- 
+Description:  Line counts and character counts per play 
+Count:  37 
+
+Sample data:
+# A tibble: 10 × 7
+   short_title          genre  total_lines dialogue_lines direction_lines
+   <chr>                <chr>        <int>          <int>           <int>
+ 1 Hamlet               Trage…        4126           3834             212
+ 2 Richard III          Histo…        3986           3653             227
+ 3 Cymbeline            Trage…        3894           3623             170
+ 4 Coriolanus           Trage…        3907           3588             226
+ 5 Antony and Cleopatra Trage…        3911           3489             246
+ 6 Othello              Trage…        3652           3416             174
+ 7 King Lear            Trage…        3676           3361             225
+ 8 Troilus and Cressida Trage…        3628           3283             193
+ 9 Henry VIII           Histo…        3511           3240             145
+10 Winter's Tale        Comedy        3353           3170             110
+# ℹ 2 more variables: reference_lines <int>, unique_characters <int>
+
+
+ ====================================================================== 
+END OF REPORT
+====================================================================== 

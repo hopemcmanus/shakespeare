@@ -1,0 +1,16 @@
+issue_type,severity,count
+Unusual Dialogue Length,WARNING,5
+Unusual Character Names,WARNING,2
+Potential Missed Characters,WARNING,2
+Missing Structure,WARNING,0
+Line Number Issues,WARNING,0
+Play Structure,INFO,37
+Dialogue Statistics,INFO,37
+Inline Stage Directions,INFO,20
+Numbered Characters,INFO,20
+Group Speaking,INFO,20
+Front Matter,INFO,10
+Orphan Dialogue,ERROR,0
+Enter/Exit Continuation,ERROR,0
+Empty Text,ERROR,0
+Character in Directions,ERROR,0

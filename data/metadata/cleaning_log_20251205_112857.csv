@@ -1,0 +1,38 @@
+gutenberg_id,short_title,cleaning_timestamp,cleaning_method,cleaning_success,cleaning_error,validation_passed,validation_warnings,total_rows,dialogue_lines,front_matter_rows,contents_rows,unique_acts,unique_scenes,unique_characters,output_file_path,script_version
+1514,A Midsummer Night's Dream,2025-12-05T00:28:53Z,cleaned,TRUE,NA,TRUE,NA,2284,2093,53,2231,5,5,29,/Users/hopeelizamcmanus/R Projects/Shakespeare/data/cleaned/1514_cleaned.csv,1.0
+1529,All's Well That Ends Well,2025-12-05T00:28:54Z,cleaned,TRUE,NA,TRUE,NA,2890,2660,51,2839,5,14,24,/Users/hopeelizamcmanus/R Projects/Shakespeare/data/cleaned/1529_cleaned.csv,1.0
+1523,As You Like It,2025-12-05T00:28:54Z,cleaned,TRUE,NA,TRUE,NA,2612,2378,57,2555,5,15,26,/Users/hopeelizamcmanus/R Projects/Shakespeare/data/cleaned/1523_cleaned.csv,1.0
+1504,Comedy of Errors,2025-12-05T00:28:54Z,cleaned,TRUE,NA,TRUE,NA,1861,1732,37,1824,5,8,18,/Users/hopeelizamcmanus/R Projects/Shakespeare/data/cleaned/1504_cleaned.csv,1.0
+1510,Love's Labour's Lost,2025-12-05T00:28:54Z,cleaned,TRUE,NA,TRUE,NA,2737,2537,39,2698,5,6,20,/Users/hopeelizamcmanus/R Projects/Shakespeare/data/cleaned/1510_cleaned.csv,1.0
+1530,Measure for Measure,2025-12-05T00:28:54Z,cleaned,TRUE,NA,TRUE,NA,2864,2630,52,2812,5,12,23,/Users/hopeelizamcmanus/R Projects/Shakespeare/data/cleaned/1530_cleaned.csv,1.0
+1515,Merchant of Venice,2025-12-05T00:28:54Z,cleaned,TRUE,NA,TRUE,NA,2727,2530,53,2674,5,18,25,/Users/hopeelizamcmanus/R Projects/Shakespeare/data/cleaned/1515_cleaned.csv,1.0
+1517,Merry Wives of Windsor,2025-12-05T00:28:54Z,cleaned,TRUE,NA,TRUE,NA,2543,2218,56,2487,5,12,24,/Users/hopeelizamcmanus/R Projects/Shakespeare/data/cleaned/1517_cleaned.csv,1.0
+1519,Much Ado about Nothing,2025-12-05T00:28:54Z,cleaned,TRUE,NA,TRUE,NA,2456,2251,63,2393,5,9,24,/Users/hopeelizamcmanus/R Projects/Shakespeare/data/cleaned/1519_cleaned.csv,1.0
+1508,Taming of the Shrew,2025-12-05T00:28:54Z,cleaned,TRUE,NA,TRUE,NA,2855,2253,422,2433,5,10,26,/Users/hopeelizamcmanus/R Projects/Shakespeare/data/cleaned/1508_cleaned.csv,1.0
+1540,Tempest,2025-12-05T00:28:54Z,cleaned,TRUE,NA,TRUE,NA,2371,2180,43,2328,5,7,19,/Users/hopeelizamcmanus/R Projects/Shakespeare/data/cleaned/1540_cleaned.csv,1.0
+1526,Twelfth Night,2025-12-05T00:28:54Z,cleaned,TRUE,NA,TRUE,NA,2434,2195,44,2390,10,10,19,/Users/hopeelizamcmanus/R Projects/Shakespeare/data/cleaned/1526_cleaned.csv,1.0
+1509,Two Gentlemen of Verona,2025-12-05T00:28:54Z,cleaned,TRUE,NA,TRUE,NA,2336,2123,45,2291,5,14,18,/Users/hopeelizamcmanus/R Projects/Shakespeare/data/cleaned/1509_cleaned.csv,1.0
+1539,Winter's Tale,2025-12-05T00:28:55Z,cleaned,TRUE,NA,TRUE,NA,3354,3150,53,3301,5,8,31,/Users/hopeelizamcmanus/R Projects/Shakespeare/data/cleaned/1539_cleaned.csv,1.0
+1516,"Henry IV, Part 1",2025-12-05T00:28:55Z,cleaned,TRUE,NA,TRUE,NA,3019,2775,54,2965,5,10,33,/Users/hopeelizamcmanus/R Projects/Shakespeare/data/cleaned/1516_cleaned.csv,1.0
+1518,"Henry IV, Part 2",2025-12-05T00:28:55Z,cleaned,TRUE,NA,TRUE,NA,3163,2881,114,3049,5,10,48,/Users/hopeelizamcmanus/R Projects/Shakespeare/data/cleaned/1518_cleaned.csv,1.0
+1521,Henry V,2025-12-05T00:28:55Z,cleaned,TRUE,NA,TRUE,NA,3252,2974,126,3126,5,16,47,/Users/hopeelizamcmanus/R Projects/Shakespeare/data/cleaned/1521_cleaned.csv,1.0
+1500,"Henry VI, Part 1",2025-12-05T00:28:55Z,cleaned,TRUE,NA,TRUE,NA,3034,2735,80,2954,5,13,53,/Users/hopeelizamcmanus/R Projects/Shakespeare/data/cleaned/1500_cleaned.csv,1.0
+1501,"Henry VI, Part 2",2025-12-05T00:28:55Z,cleaned,TRUE,NA,TRUE,NA,3355,3022,83,3272,5,14,52,/Users/hopeelizamcmanus/R Projects/Shakespeare/data/cleaned/1501_cleaned.csv,1.0
+1502,"Henry VI, Part 3",2025-12-05T00:28:55Z,cleaned,TRUE,NA,TRUE,NA,3261,2966,78,3183,5,16,38,/Users/hopeelizamcmanus/R Projects/Shakespeare/data/cleaned/1502_cleaned.csv,1.0
+1541,Henry VIII,2025-12-05T00:28:55Z,cleaned,TRUE,NA,TRUE,NA,3511,3242,104,3407,5,9,46,/Users/hopeelizamcmanus/R Projects/Shakespeare/data/cleaned/1541_cleaned.csv,1.0
+1511,King John,2025-12-05T00:28:55Z,cleaned,TRUE,NA,TRUE,NA,2825,2649,53,2772,5,14,28,/Users/hopeelizamcmanus/R Projects/Shakespeare/data/cleaned/1511_cleaned.csv,1.0
+1537,Pericles,2025-12-05T00:28:55Z,cleaned,TRUE,NA,TRUE,NA,2614,2328,59,2555,5,12,47,/Users/hopeelizamcmanus/R Projects/Shakespeare/data/cleaned/1537_cleaned.csv,1.0
+1512,Richard II,2025-12-05T00:28:55Z,cleaned,TRUE,NA,TRUE,NA,3017,2798,59,2958,5,12,38,/Users/hopeelizamcmanus/R Projects/Shakespeare/data/cleaned/1512_cleaned.csv,1.0
+1503,Richard III,2025-12-05T00:28:56Z,cleaned,TRUE,NA,TRUE,NA,3986,3621,76,3910,5,14,64,/Users/hopeelizamcmanus/R Projects/Shakespeare/data/cleaned/1503_cleaned.csv,1.0
+1534,Antony and Cleopatra,2025-12-05T00:28:56Z,cleaned,TRUE,NA,TRUE,NA,3913,3478,129,3784,5,30,58,/Users/hopeelizamcmanus/R Projects/Shakespeare/data/cleaned/1534_cleaned.csv,1.0
+1535,Coriolanus,2025-12-05T00:28:56Z,cleaned,TRUE,NA,TRUE,NA,3910,3592,59,3851,5,20,68,/Users/hopeelizamcmanus/R Projects/Shakespeare/data/cleaned/1535_cleaned.csv,1.0
+1538,Cymbeline,2025-12-05T00:28:56Z,cleaned,TRUE,NA,TRUE,NA,3895,3583,67,3828,5,16,42,/Users/hopeelizamcmanus/R Projects/Shakespeare/data/cleaned/1538_cleaned.csv,1.0
+1524,Hamlet,2025-12-05T00:28:56Z,cleaned,TRUE,NA,TRUE,NA,4137,3810,55,4082,5,14,35,/Users/hopeelizamcmanus/R Projects/Shakespeare/data/cleaned/1524_cleaned.csv,1.0
+1522,Julius Caesar,2025-12-05T00:28:56Z,cleaned,TRUE,NA,TRUE,NA,2812,2575,57,2755,5,10,47,/Users/hopeelizamcmanus/R Projects/Shakespeare/data/cleaned/1522_cleaned.csv,1.0
+1532,King Lear,2025-12-05T00:28:56Z,cleaned,TRUE,NA,TRUE,NA,3677,3332,59,3618,5,14,26,/Users/hopeelizamcmanus/R Projects/Shakespeare/data/cleaned/1532_cleaned.csv,1.0
+1533,Macbeth,2025-12-05T00:28:56Z,cleaned,TRUE,NA,TRUE,NA,2599,2334,67,2532,5,16,39,/Users/hopeelizamcmanus/R Projects/Shakespeare/data/cleaned/1533_cleaned.csv,1.0
+1531,Othello,2025-12-05T00:28:56Z,cleaned,TRUE,NA,TRUE,NA,3653,3384,42,3611,5,8,24,/Users/hopeelizamcmanus/R Projects/Shakespeare/data/cleaned/1531_cleaned.csv,1.0
+1513,Romeo and Juliet,2025-12-05T00:28:56Z,cleaned,TRUE,NA,TRUE,NA,3302,2989,83,3219,5,12,31,/Users/hopeelizamcmanus/R Projects/Shakespeare/data/cleaned/1513_cleaned.csv,1.0
+1536,Timon of Athens,2025-12-05T00:28:56Z,cleaned,TRUE,NA,TRUE,NA,2616,2368,60,2556,5,12,60,/Users/hopeelizamcmanus/R Projects/Shakespeare/data/cleaned/1536_cleaned.csv,1.0
+1507,Titus Andronicus,2025-12-05T00:28:56Z,cleaned,TRUE,NA,TRUE,NA,2770,2532,51,2719,5,8,27,/Users/hopeelizamcmanus/R Projects/Shakespeare/data/cleaned/1507_cleaned.csv,1.0
+1528,Troilus and Cressida,2025-12-05T00:28:56Z,cleaned,TRUE,NA,TRUE,NA,3628,3267,123,3505,5,20,29,/Users/hopeelizamcmanus/R Projects/Shakespeare/data/cleaned/1528_cleaned.csv,1.0

@@ -1,0 +1,38 @@
+short_title,genre,year,total_tokens,dialogue_tokens,direction_tokens,reference_tokens,unique_words,unique_characters
+Hamlet,Tragedy,1600,30922,29812,706,150,4772,40
+Richard III,History,1592,30060,28486,988,174,4077,66
+Coriolanus,Tragedy,1608,28265,26677,1054,209,4071,71
+Cymbeline,Tragedy,1610,28184,27035,591,204,4296,44
+"Henry IV, Part 2",History,1598,26848,25621,520,119,4143,48
+Othello,Tragedy,1604,26840,25964,556,108,3830,26
+King Lear,Tragedy,1606,26770,25477,770,211,4220,27
+Henry V,History,1599,26769,25494,499,150,4559,48
+Troilus and Cressida,Tragedy,1602,26680,25423,571,174,4267,30
+"Henry VI, Part 2",History,1591,26393,18273,7657,137,4109,44
+Antony and Cleopatra,Tragedy,1607,25646,23921,941,311,3976,59
+Winter's Tale,Comedy,1611,25560,24787,375,136,3927,34
+Henry VIII,History,1613,25241,23684,858,116,3686,48
+"Henry IV, Part 1",History,1597,25205,24141,631,156,3876,34
+Romeo and Juliet,Tragedy,1595,25147,23954,603,152,3741,31
+"Henry VI, Part 3",History,1595,25136,23374,1209,180,3609,38
+All's Well That Ends Well,Comedy,1603,23599,22657,439,191,3554,24
+Richard II,History,1595,23003,21950,562,165,3701,38
+Merry Wives of Windsor,Comedy,1601,22631,21385,794,160,3258,27
+As You Like It,Comedy,1599,22367,21510,376,162,3263,27
+Love's Labour's Lost,Comedy,1595,22273,10028,11991,72,3721,18
+"Henry VI, Part 1",History,1592,22259,20777,928,156,3889,55
+Measure for Measure,Comedy,1604,22128,21362,422,122,3344,25
+Merchant of Venice,Comedy,1597,21837,21006,405,142,3302,25
+Much Ado about Nothing,Comedy,1598,21580,20894,374,110,2995,24
+Taming of the Shrew,Comedy,1592,21570,18257,581,90,3294,28
+King John,History,1597,21378,20529,392,138,3599,29
+Titus Andronicus,Tragedy,1591,21242,20038,819,117,3410,27
+Twelfth Night,Comedy,1601,20281,19505,440,117,3134,19
+Julius Caesar,Tragedy,1599,20185,19204,585,141,2924,48
+Pericles,History,1608,19140,17780,856,191,3326,47
+Timon of Athens,Tragedy,1604,18965,17923,601,152,3319,60
+Macbeth,Tragedy,1606,17750,16539,618,224,3380,40
+Two Gentlemen of Verona,Comedy,1598,17730,16953,361,160,2734,18
+Tempest,Comedy,1611,17059,16440,354,79,3219,20
+A Midsummer Night's Dream,Comedy,1595,16896,16215,396,77,3012,32
+Comedy of Errors,Comedy,1594,14983,14414,350,60,2551,18

@@ -1,0 +1,38 @@
+gutenberg_id,short_title,cleaning_timestamp,cleaning_success,total_rows,dialogue_lines,front_matter_rows,contents_rows,output_file
+1500,"Henry VI, Part 1",2025-12-05T01:05:34Z,TRUE,2344,1934,80,2264,henry_vi_part_1.csv
+1501,"Henry VI, Part 2",2025-12-05T01:05:34Z,TRUE,2648,2149,83,2565,henry_vi_part_2.csv
+1502,"Henry VI, Part 3",2025-12-05T01:05:34Z,TRUE,2481,2110,78,2403,henry_vi_part_3.csv
+1503,Richard III,2025-12-05T01:05:34Z,TRUE,2873,2387,76,2797,richard_iii.csv
+1504,Comedy of Errors,2025-12-05T01:05:34Z,TRUE,1396,1255,37,1359,comedy_of_errors.csv
+1507,Titus Andronicus,2025-12-05T01:05:34Z,TRUE,2078,1750,51,2027,titus_andronicus.csv
+1508,Taming of the Shrew,2025-12-05T01:05:35Z,TRUE,2383,1697,422,1961,taming_of_the_shrew.csv
+1509,Two Gentlemen of Verona,2025-12-05T01:05:35Z,TRUE,1647,1386,45,1602,two_gentlemen_of_verona.csv
+1510,Love's Labour's Lost,2025-12-05T01:05:35Z,TRUE,2004,1688,39,1965,love_s_labour_s_lost.csv
+1511,King John,2025-12-05T01:05:35Z,TRUE,2287,2048,53,2234,king_john.csv
+1512,Richard II,2025-12-05T01:05:35Z,TRUE,2309,2008,59,2250,richard_ii.csv
+1513,Romeo and Juliet,2025-12-05T01:05:35Z,TRUE,2598,2208,83,2515,romeo_and_juliet.csv
+1514,A Midsummer Night's Dream,2025-12-05T01:05:35Z,TRUE,1812,1553,53,1759,a_midsummer_night_s_dream.csv
+1515,Merchant of Venice,2025-12-05T01:05:35Z,TRUE,2207,1914,53,2154,merchant_of_venice.csv
+1516,"Henry IV, Part 1",2025-12-05T01:05:35Z,TRUE,2525,2202,54,2471,henry_iv_part_1.csv
+1517,Merry Wives of Windsor,2025-12-05T01:05:35Z,TRUE,2216,1633,56,2160,merry_wives_of_windsor.csv
+1518,"Henry IV, Part 2",2025-12-05T01:05:35Z,TRUE,2675,2216,114,2561,henry_iv_part_2.csv
+1519,Much Ado about Nothing,2025-12-05T01:05:35Z,TRUE,2088,1779,63,2025,much_ado_about_nothing.csv
+1521,Henry V,2025-12-05T01:05:35Z,TRUE,2773,2411,126,2647,henry_v.csv
+1522,Julius Caesar,2025-12-05T01:05:35Z,TRUE,2193,1848,57,2136,julius_caesar.csv
+1523,As You Like It,2025-12-05T01:05:36Z,TRUE,2111,1816,57,2054,as_you_like_it.csv
+1524,Hamlet,2025-12-05T01:05:36Z,TRUE,3420,2812,55,3365,hamlet.csv
+1526,Twelfth Night,2025-12-05T01:05:36Z,TRUE,2071,1746,44,2027,twelfth_night.csv
+1528,Troilus and Cressida,2025-12-05T01:05:36Z,TRUE,3027,2596,123,2904,troilus_and_cressida.csv
+1529,All's Well That Ends Well,2025-12-05T01:05:36Z,TRUE,2436,2096,51,2385,all_s_well_that_ends_well.csv
+1530,Measure for Measure,2025-12-05T01:05:36Z,TRUE,2329,1977,52,2277,measure_for_measure.csv
+1531,Othello,2025-12-05T01:05:36Z,TRUE,3041,2636,42,2999,othello.csv
+1532,King Lear,2025-12-05T01:05:36Z,TRUE,3116,2545,59,3057,king_lear.csv
+1533,Macbeth,2025-12-05T01:05:36Z,TRUE,2218,1802,67,2151,macbeth.csv
+1534,Antony and Cleopatra,2025-12-05T01:05:36Z,TRUE,3152,2536,129,3023,antony_and_cleopatra.csv
+1535,Coriolanus,2025-12-05T01:05:36Z,TRUE,3294,2808,59,3235,coriolanus.csv
+1536,Timon of Athens,2025-12-05T01:05:37Z,TRUE,2102,1734,60,2042,timon_of_athens.csv
+1537,Pericles,2025-12-05T01:05:37Z,TRUE,2214,1847,59,2155,pericles.csv
+1538,Cymbeline,2025-12-05T01:05:37Z,TRUE,3416,2774,67,3349,cymbeline.csv
+1539,Winter's Tale,2025-12-05T01:05:37Z,TRUE,2964,2542,53,2911,winter_s_tale.csv
+1540,Tempest,2025-12-05T01:05:37Z,TRUE,2042,1694,43,1999,tempest.csv
+1541,Henry VIII,2025-12-05T01:05:37Z,TRUE,2911,2497,104,2807,henry_viii.csv

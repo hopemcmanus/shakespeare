@@ -1,0 +1,59 @@
+category,name,description,tokens,unique_words,plays,filepath
+by_content,dialogue_only,All dialogue lines,797489,25256,37,/Users/hopeelizamcmanus/R Projects/Shakespeare/data/processed/filtered/by_content/dialogue_only.csv
+by_content,directions_only,All stage directions,41173,4861,37,/Users/hopeelizamcmanus/R Projects/Shakespeare/data/processed/filtered/by_content/directions_only.csv
+by_content,references_only,All structural references,5513,404,37,/Users/hopeelizamcmanus/R Projects/Shakespeare/data/processed/filtered/by_content/references_only.csv
+by_play,henry_vi_part_1,"Henry VI, Part 1 - all tokens",22259,3889,1,/Users/hopeelizamcmanus/R Projects/Shakespeare/data/processed/filtered/by_play/henry_vi_part_1.csv
+by_play,henry_vi_part_2,"Henry VI, Part 2 - all tokens",26393,4109,1,/Users/hopeelizamcmanus/R Projects/Shakespeare/data/processed/filtered/by_play/henry_vi_part_2.csv
+by_play,henry_vi_part_3,"Henry VI, Part 3 - all tokens",25136,3609,1,/Users/hopeelizamcmanus/R Projects/Shakespeare/data/processed/filtered/by_play/henry_vi_part_3.csv
+by_play,richard_iii,Richard III - all tokens,30060,4077,1,/Users/hopeelizamcmanus/R Projects/Shakespeare/data/processed/filtered/by_play/richard_iii.csv
+by_play,comedy_of_errors,Comedy of Errors - all tokens,14983,2551,1,/Users/hopeelizamcmanus/R Projects/Shakespeare/data/processed/filtered/by_play/comedy_of_errors.csv
+by_play,titus_andronicus,Titus Andronicus - all tokens,21242,3410,1,/Users/hopeelizamcmanus/R Projects/Shakespeare/data/processed/filtered/by_play/titus_andronicus.csv
+by_play,taming_of_the_shrew,Taming of the Shrew - all tokens,21570,3294,1,/Users/hopeelizamcmanus/R Projects/Shakespeare/data/processed/filtered/by_play/taming_of_the_shrew.csv
+by_play,two_gentlemen_of_verona,Two Gentlemen of Verona - all tokens,17730,2734,1,/Users/hopeelizamcmanus/R Projects/Shakespeare/data/processed/filtered/by_play/two_gentlemen_of_verona.csv
+by_play,love_s_labour_s_lost,Love's Labour's Lost - all tokens,22273,3721,1,/Users/hopeelizamcmanus/R Projects/Shakespeare/data/processed/filtered/by_play/love_s_labour_s_lost.csv
+by_play,king_john,King John - all tokens,21378,3599,1,/Users/hopeelizamcmanus/R Projects/Shakespeare/data/processed/filtered/by_play/king_john.csv
+by_play,richard_ii,Richard II - all tokens,23003,3701,1,/Users/hopeelizamcmanus/R Projects/Shakespeare/data/processed/filtered/by_play/richard_ii.csv
+by_play,romeo_and_juliet,Romeo and Juliet - all tokens,25147,3741,1,/Users/hopeelizamcmanus/R Projects/Shakespeare/data/processed/filtered/by_play/romeo_and_juliet.csv
+by_play,a_midsummer_night_s_dream,A Midsummer Night's Dream - all tokens,16896,3012,1,/Users/hopeelizamcmanus/R Projects/Shakespeare/data/processed/filtered/by_play/a_midsummer_night_s_dream.csv
+by_play,merchant_of_venice,Merchant of Venice - all tokens,21837,3302,1,/Users/hopeelizamcmanus/R Projects/Shakespeare/data/processed/filtered/by_play/merchant_of_venice.csv
+by_play,henry_iv_part_1,"Henry IV, Part 1 - all tokens",25205,3876,1,/Users/hopeelizamcmanus/R Projects/Shakespeare/data/processed/filtered/by_play/henry_iv_part_1.csv
+by_play,merry_wives_of_windsor,Merry Wives of Windsor - all tokens,22631,3258,1,/Users/hopeelizamcmanus/R Projects/Shakespeare/data/processed/filtered/by_play/merry_wives_of_windsor.csv
+by_play,henry_iv_part_2,"Henry IV, Part 2 - all tokens",26848,4143,1,/Users/hopeelizamcmanus/R Projects/Shakespeare/data/processed/filtered/by_play/henry_iv_part_2.csv
+by_play,much_ado_about_nothing,Much Ado about Nothing - all tokens,21580,2995,1,/Users/hopeelizamcmanus/R Projects/Shakespeare/data/processed/filtered/by_play/much_ado_about_nothing.csv
+by_play,henry_v,Henry V - all tokens,26769,4559,1,/Users/hopeelizamcmanus/R Projects/Shakespeare/data/processed/filtered/by_play/henry_v.csv
+by_play,julius_caesar,Julius Caesar - all tokens,20185,2924,1,/Users/hopeelizamcmanus/R Projects/Shakespeare/data/processed/filtered/by_play/julius_caesar.csv
+by_play,as_you_like_it,As You Like It - all tokens,22367,3263,1,/Users/hopeelizamcmanus/R Projects/Shakespeare/data/processed/filtered/by_play/as_you_like_it.csv
+by_play,hamlet,Hamlet - all tokens,30922,4772,1,/Users/hopeelizamcmanus/R Projects/Shakespeare/data/processed/filtered/by_play/hamlet.csv
+by_play,twelfth_night,Twelfth Night - all tokens,20281,3134,1,/Users/hopeelizamcmanus/R Projects/Shakespeare/data/processed/filtered/by_play/twelfth_night.csv
+by_play,troilus_and_cressida,Troilus and Cressida - all tokens,26680,4267,1,/Users/hopeelizamcmanus/R Projects/Shakespeare/data/processed/filtered/by_play/troilus_and_cressida.csv
+by_play,all_s_well_that_ends_well,All's Well That Ends Well - all tokens,23599,3554,1,/Users/hopeelizamcmanus/R Projects/Shakespeare/data/processed/filtered/by_play/all_s_well_that_ends_well.csv
+by_play,measure_for_measure,Measure for Measure - all tokens,22128,3344,1,/Users/hopeelizamcmanus/R Projects/Shakespeare/data/processed/filtered/by_play/measure_for_measure.csv
+by_play,othello,Othello - all tokens,26840,3830,1,/Users/hopeelizamcmanus/R Projects/Shakespeare/data/processed/filtered/by_play/othello.csv
+by_play,king_lear,King Lear - all tokens,26770,4220,1,/Users/hopeelizamcmanus/R Projects/Shakespeare/data/processed/filtered/by_play/king_lear.csv
+by_play,macbeth,Macbeth - all tokens,17750,3380,1,/Users/hopeelizamcmanus/R Projects/Shakespeare/data/processed/filtered/by_play/macbeth.csv
+by_play,antony_and_cleopatra,Antony and Cleopatra - all tokens,25646,3976,1,/Users/hopeelizamcmanus/R Projects/Shakespeare/data/processed/filtered/by_play/antony_and_cleopatra.csv
+by_play,coriolanus,Coriolanus - all tokens,28265,4071,1,/Users/hopeelizamcmanus/R Projects/Shakespeare/data/processed/filtered/by_play/coriolanus.csv
+by_play,timon_of_athens,Timon of Athens - all tokens,18965,3319,1,/Users/hopeelizamcmanus/R Projects/Shakespeare/data/processed/filtered/by_play/timon_of_athens.csv
+by_play,pericles,Pericles - all tokens,19140,3326,1,/Users/hopeelizamcmanus/R Projects/Shakespeare/data/processed/filtered/by_play/pericles.csv
+by_play,cymbeline,Cymbeline - all tokens,28184,4296,1,/Users/hopeelizamcmanus/R Projects/Shakespeare/data/processed/filtered/by_play/cymbeline.csv
+by_play,winter_s_tale,Winter's Tale - all tokens,25560,3927,1,/Users/hopeelizamcmanus/R Projects/Shakespeare/data/processed/filtered/by_play/winter_s_tale.csv
+by_play,tempest,Tempest - all tokens,17059,3219,1,/Users/hopeelizamcmanus/R Projects/Shakespeare/data/processed/filtered/by_play/tempest.csv
+by_play,henry_viii,Henry VIII - all tokens,25241,3686,1,/Users/hopeelizamcmanus/R Projects/Shakespeare/data/processed/filtered/by_play/henry_viii.csv
+by_genre,tragedies,All tragedies,296596,15938,12,/Users/hopeelizamcmanus/R Projects/Shakespeare/data/processed/filtered/by_genre/tragedies.csv
+by_genre,comedies,All comedies,290494,15010,14,/Users/hopeelizamcmanus/R Projects/Shakespeare/data/processed/filtered/by_genre/comedies.csv
+by_genre,histories,All histories,271432,14742,11,/Users/hopeelizamcmanus/R Projects/Shakespeare/data/processed/filtered/by_genre/histories.csv
+by_genre,late_romances,"Late Romances (Tempest, Winter's Tale, Cymbeline, Pericles)",89943,8481,4,/Users/hopeelizamcmanus/R Projects/Shakespeare/data/processed/filtered/by_genre/late_romances.csv
+by_genre,problem_plays,"Problem Plays (Measure for Measure, All's Well, Troilus and Cressida)",72407,7414,3,/Users/hopeelizamcmanus/R Projects/Shakespeare/data/processed/filtered/by_genre/problem_plays.csv
+by_genre,roman_plays,"Roman Plays (Julius Caesar, Antony and Cleopatra, Coriolanus, Titus Andronicus)",95338,8324,4,/Users/hopeelizamcmanus/R Projects/Shakespeare/data/processed/filtered/by_genre/roman_plays.csv
+by_genre,early_plays,Early plays (before 1600),452861,18498,20,/Users/hopeelizamcmanus/R Projects/Shakespeare/data/processed/filtered/by_genre/early_plays.csv
+by_genre,late_plays,Late plays (1600 and after),405661,18597,17,/Users/hopeelizamcmanus/R Projects/Shakespeare/data/processed/filtered/by_genre/late_plays.csv
+by_stopwords,all_no_stopwords,All tokens without stop words,316892,25224,37,/Users/hopeelizamcmanus/R Projects/Shakespeare/data/processed/filtered/by_stopwords/all_no_stopwords.csv
+by_stopwords,dialogue_no_stopwords,Dialogue tokens without stop words,288777,24667,37,/Users/hopeelizamcmanus/R Projects/Shakespeare/data/processed/filtered/by_stopwords/dialogue_no_stopwords.csv
+by_stopwords,tragedies_no_stopwords,Tragedy tokens without stop words,109416,15382,12,/Users/hopeelizamcmanus/R Projects/Shakespeare/data/processed/filtered/by_stopwords/tragedies_no_stopwords.csv
+by_character,hamlet_character,All lines spoken by Hamlet,11782,2673,1,/Users/hopeelizamcmanus/R Projects/Shakespeare/data/processed/filtered/by_character/hamlet_character.csv
+by_character,othello_character,All lines spoken by Othello,6258,1643,1,/Users/hopeelizamcmanus/R Projects/Shakespeare/data/processed/filtered/by_character/othello_character.csv
+by_character,lady_macbeth_character,All lines spoken by Lady Macbeth,1920,720,1,/Users/hopeelizamcmanus/R Projects/Shakespeare/data/processed/filtered/by_character/lady_macbeth_character.csv
+by_subset,hsc_plays,HSC English prescribed plays (2019/2027),216055,12998,9,/Users/hopeelizamcmanus/R Projects/Shakespeare/data/processed/filtered/by_subset/hsc_plays.csv
+by_subset,hsc_dialogue_filtered,"HSC plays - dialogue only, no stop words",72996,12352,9,/Users/hopeelizamcmanus/R Projects/Shakespeare/data/processed/filtered/by_subset/hsc_dialogue_filtered.csv
+by_content,act_v_all,All Act V scenes (endings),148916,11339,37,/Users/hopeelizamcmanus/R Projects/Shakespeare/data/processed/filtered/by_content/act_v_all.csv
+by_play,hamlet_act3_scene1,Hamlet Act III Scene I,1545,621,1,/Users/hopeelizamcmanus/R Projects/Shakespeare/data/processed/filtered/by_play/hamlet_act3_scene1.csv

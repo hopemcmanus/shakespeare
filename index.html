@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Shakespeare Plays</title>
+  <style>
+    body { font-family: sans-serif; padding: 2rem; }
+    h1 { margin-bottom: 1rem; }
+    ul { list-style-type: none; padding: 0; }
+    li { margin-bottom: 0.5rem; }
+  </style>
+</head>
+<body>
+
+<h1>Shakespeare Plays</h1>
+
+<p>List of plays:</p>
+<ul id="playList"></ul>
+
+<script src="https://code.jquery.com/jquery-3.7.0.min.js"></script>
+<script>
+  const JSON_META = "data/metadata/meta_shakespeare.json";
+
+  $.getJSON(JSON_META, function(plays) {
+    const ul = document.getElementById('playList');
+    plays.forEach(play => {
+      const li = document.createElement('li');
+      const link = document.createElement('a');
+      const fileName = play.short_title.toLowerCase().replace(/[^a-z0-9]+/g, '_');
+      link.href = `plays/${fileName}.html`;
+      link.textContent = play.short_title;
+      li.appendChild(link);
+      ul.appendChild(li);
+    });
+  });
+</script>
+
+</body>
+</html>

@@ -1,0 +1,12 @@
+cff-version: 1.2.0
+message: "Please cite it as below."
+title: "shakespeare"
+authors:
+  - family-names: "McManus"
+    given-names: "Hope"
+version: 1.0.0
+doi: "10.5281/zenodo.1234"
+date-released: 2025-12-03
+url: "https://github.com/hopemcmanus/shakespeare"
+type: "software"
+license: "MIT"
