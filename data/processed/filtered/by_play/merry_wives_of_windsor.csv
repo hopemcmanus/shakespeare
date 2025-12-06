@@ -1,304 +1,4 @@
 gutenberg_id,short_title,gutenberg_title,genre,year,author,section,class,act,scene,character,line_number,word
-1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,front_matter,title,NA,NA,NA,NA,the
-1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,front_matter,title,NA,NA,NA,NA,merry
-1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,front_matter,title,NA,NA,NA,NA,wives
-1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,front_matter,title,NA,NA,NA,NA,of
-1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,front_matter,title,NA,NA,NA,NA,windsor
-1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,front_matter,author,NA,NA,NA,NA,by
-1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,front_matter,author,NA,NA,NA,NA,william
-1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,front_matter,author,NA,NA,NA,NA,shakespeare
-1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,front_matter,contents_header,NA,NA,NA,NA,contents
-1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,front_matter,contents,ACT I,NA,NA,NA,act
-1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,front_matter,contents,ACT I,NA,NA,NA,i
-1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,front_matter,contents,ACT I,Scene I,NA,NA,scene
-1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,front_matter,contents,ACT I,Scene I,NA,NA,i
-1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,front_matter,contents,ACT I,Scene I,NA,NA,windsor
-1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,front_matter,contents,ACT I,Scene I,NA,NA,before
-1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,front_matter,contents,ACT I,Scene I,NA,NA,page’s
-1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,front_matter,contents,ACT I,Scene I,NA,NA,house
-1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,front_matter,contents,ACT I,Scene II,NA,NA,scene
-1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,front_matter,contents,ACT I,Scene II,NA,NA,ii
-1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,front_matter,contents,ACT I,Scene II,NA,NA,the
-1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,front_matter,contents,ACT I,Scene II,NA,NA,same
-1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,front_matter,contents,ACT I,Scene III,NA,NA,scene
-1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,front_matter,contents,ACT I,Scene III,NA,NA,iii
-1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,front_matter,contents,ACT I,Scene III,NA,NA,a
-1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,front_matter,contents,ACT I,Scene III,NA,NA,room
-1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,front_matter,contents,ACT I,Scene III,NA,NA,in
-1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,front_matter,contents,ACT I,Scene III,NA,NA,the
-1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,front_matter,contents,ACT I,Scene III,NA,NA,garter
-1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,front_matter,contents,ACT I,Scene III,NA,NA,inn
-1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,front_matter,contents,ACT I,Scene IV,NA,NA,scene
-1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,front_matter,contents,ACT I,Scene IV,NA,NA,iv
-1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,front_matter,contents,ACT I,Scene IV,NA,NA,a
-1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,front_matter,contents,ACT I,Scene IV,NA,NA,room
-1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,front_matter,contents,ACT I,Scene IV,NA,NA,in
-1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,front_matter,contents,ACT I,Scene IV,NA,NA,doctor
-1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,front_matter,contents,ACT I,Scene IV,NA,NA,caius’s
-1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,front_matter,contents,ACT I,Scene IV,NA,NA,house
-1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,front_matter,contents,ACT II,NA,NA,NA,act
-1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,front_matter,contents,ACT II,NA,NA,NA,ii
-1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,front_matter,contents,ACT II,Scene I,NA,NA,scene
-1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,front_matter,contents,ACT II,Scene I,NA,NA,i
-1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,front_matter,contents,ACT II,Scene I,NA,NA,before
-1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,front_matter,contents,ACT II,Scene I,NA,NA,page’s
-1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,front_matter,contents,ACT II,Scene I,NA,NA,house
-1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,front_matter,contents,ACT II,Scene II,NA,NA,scene
-1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,front_matter,contents,ACT II,Scene II,NA,NA,ii
-1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,front_matter,contents,ACT II,Scene II,NA,NA,a
-1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,front_matter,contents,ACT II,Scene II,NA,NA,room
-1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,front_matter,contents,ACT II,Scene II,NA,NA,in
-1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,front_matter,contents,ACT II,Scene II,NA,NA,the
-1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,front_matter,contents,ACT II,Scene II,NA,NA,garter
-1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,front_matter,contents,ACT II,Scene II,NA,NA,inn
-1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,front_matter,contents,ACT II,Scene III,NA,NA,scene
-1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,front_matter,contents,ACT II,Scene III,NA,NA,iii
-1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,front_matter,contents,ACT II,Scene III,NA,NA,a
-1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,front_matter,contents,ACT II,Scene III,NA,NA,field
-1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,front_matter,contents,ACT II,Scene III,NA,NA,near
-1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,front_matter,contents,ACT II,Scene III,NA,NA,windsor
-1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,front_matter,contents,ACT III,NA,NA,NA,act
-1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,front_matter,contents,ACT III,NA,NA,NA,iii
-1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,front_matter,contents,ACT III,Scene I,NA,NA,scene
-1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,front_matter,contents,ACT III,Scene I,NA,NA,i
-1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,front_matter,contents,ACT III,Scene I,NA,NA,a
-1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,front_matter,contents,ACT III,Scene I,NA,NA,field
-1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,front_matter,contents,ACT III,Scene I,NA,NA,near
-1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,front_matter,contents,ACT III,Scene I,NA,NA,frogmore
-1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,front_matter,contents,ACT III,Scene II,NA,NA,scene
-1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,front_matter,contents,ACT III,Scene II,NA,NA,ii
-1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,front_matter,contents,ACT III,Scene II,NA,NA,a
-1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,front_matter,contents,ACT III,Scene II,NA,NA,street
-1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,front_matter,contents,ACT III,Scene II,NA,NA,in
-1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,front_matter,contents,ACT III,Scene II,NA,NA,windsor
-1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,front_matter,contents,ACT III,Scene III,NA,NA,scene
-1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,front_matter,contents,ACT III,Scene III,NA,NA,iii
-1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,front_matter,contents,ACT III,Scene III,NA,NA,a
-1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,front_matter,contents,ACT III,Scene III,NA,NA,room
-1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,front_matter,contents,ACT III,Scene III,NA,NA,in
-1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,front_matter,contents,ACT III,Scene III,NA,NA,ford’s
-1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,front_matter,contents,ACT III,Scene III,NA,NA,house
-1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,front_matter,contents,ACT III,Scene IV,NA,NA,scene
-1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,front_matter,contents,ACT III,Scene IV,NA,NA,iv
-1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,front_matter,contents,ACT III,Scene IV,NA,NA,a
-1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,front_matter,contents,ACT III,Scene IV,NA,NA,room
-1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,front_matter,contents,ACT III,Scene IV,NA,NA,in
-1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,front_matter,contents,ACT III,Scene IV,NA,NA,page’s
-1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,front_matter,contents,ACT III,Scene IV,NA,NA,house
-1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,front_matter,contents,ACT III,Scene V,NA,NA,scene
-1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,front_matter,contents,ACT III,Scene V,NA,NA,v
-1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,front_matter,contents,ACT III,Scene V,NA,NA,a
-1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,front_matter,contents,ACT III,Scene V,NA,NA,room
-1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,front_matter,contents,ACT III,Scene V,NA,NA,in
-1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,front_matter,contents,ACT III,Scene V,NA,NA,the
-1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,front_matter,contents,ACT III,Scene V,NA,NA,garter
-1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,front_matter,contents,ACT III,Scene V,NA,NA,inn
-1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,front_matter,contents,ACT IV,NA,NA,NA,act
-1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,front_matter,contents,ACT IV,NA,NA,NA,iv
-1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,front_matter,contents,ACT IV,Scene I,NA,NA,scene
-1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,front_matter,contents,ACT IV,Scene I,NA,NA,i
-1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,front_matter,contents,ACT IV,Scene I,NA,NA,the
-1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,front_matter,contents,ACT IV,Scene I,NA,NA,street
-1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,front_matter,contents,ACT IV,Scene II,NA,NA,scene
-1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,front_matter,contents,ACT IV,Scene II,NA,NA,ii
-1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,front_matter,contents,ACT IV,Scene II,NA,NA,a
-1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,front_matter,contents,ACT IV,Scene II,NA,NA,room
-1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,front_matter,contents,ACT IV,Scene II,NA,NA,in
-1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,front_matter,contents,ACT IV,Scene II,NA,NA,ford’s
-1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,front_matter,contents,ACT IV,Scene II,NA,NA,house
-1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,front_matter,contents,ACT IV,Scene III,NA,NA,scene
-1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,front_matter,contents,ACT IV,Scene III,NA,NA,iii
-1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,front_matter,contents,ACT IV,Scene III,NA,NA,a
-1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,front_matter,contents,ACT IV,Scene III,NA,NA,room
-1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,front_matter,contents,ACT IV,Scene III,NA,NA,in
-1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,front_matter,contents,ACT IV,Scene III,NA,NA,the
-1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,front_matter,contents,ACT IV,Scene III,NA,NA,garter
-1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,front_matter,contents,ACT IV,Scene III,NA,NA,inn
-1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,front_matter,contents,ACT IV,Scene IV,NA,NA,scene
-1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,front_matter,contents,ACT IV,Scene IV,NA,NA,iv
-1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,front_matter,contents,ACT IV,Scene IV,NA,NA,a
-1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,front_matter,contents,ACT IV,Scene IV,NA,NA,room
-1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,front_matter,contents,ACT IV,Scene IV,NA,NA,in
-1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,front_matter,contents,ACT IV,Scene IV,NA,NA,ford’s
-1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,front_matter,contents,ACT IV,Scene IV,NA,NA,house
-1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,front_matter,contents,ACT IV,Scene V,NA,NA,scene
-1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,front_matter,contents,ACT IV,Scene V,NA,NA,v
-1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,front_matter,contents,ACT IV,Scene V,NA,NA,a
-1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,front_matter,contents,ACT IV,Scene V,NA,NA,room
-1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,front_matter,contents,ACT IV,Scene V,NA,NA,in
-1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,front_matter,contents,ACT IV,Scene V,NA,NA,the
-1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,front_matter,contents,ACT IV,Scene V,NA,NA,garter
-1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,front_matter,contents,ACT IV,Scene V,NA,NA,inn
-1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,front_matter,contents,ACT IV,Scene VI,NA,NA,scene
-1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,front_matter,contents,ACT IV,Scene VI,NA,NA,vi
-1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,front_matter,contents,ACT IV,Scene VI,NA,NA,another
-1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,front_matter,contents,ACT IV,Scene VI,NA,NA,room
-1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,front_matter,contents,ACT IV,Scene VI,NA,NA,in
-1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,front_matter,contents,ACT IV,Scene VI,NA,NA,the
-1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,front_matter,contents,ACT IV,Scene VI,NA,NA,garter
-1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,front_matter,contents,ACT IV,Scene VI,NA,NA,inn
-1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,front_matter,contents,ACT V,NA,NA,NA,act
-1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,front_matter,contents,ACT V,NA,NA,NA,v
-1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,front_matter,contents,ACT V,Scene I,NA,NA,scene
-1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,front_matter,contents,ACT V,Scene I,NA,NA,i
-1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,front_matter,contents,ACT V,Scene I,NA,NA,a
-1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,front_matter,contents,ACT V,Scene I,NA,NA,room
-1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,front_matter,contents,ACT V,Scene I,NA,NA,in
-1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,front_matter,contents,ACT V,Scene I,NA,NA,the
-1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,front_matter,contents,ACT V,Scene I,NA,NA,garter
-1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,front_matter,contents,ACT V,Scene I,NA,NA,inn
-1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,front_matter,contents,ACT V,Scene II,NA,NA,scene
-1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,front_matter,contents,ACT V,Scene II,NA,NA,ii
-1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,front_matter,contents,ACT V,Scene II,NA,NA,windsor
-1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,front_matter,contents,ACT V,Scene II,NA,NA,park
-1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,front_matter,contents,ACT V,Scene III,NA,NA,scene
-1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,front_matter,contents,ACT V,Scene III,NA,NA,iii
-1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,front_matter,contents,ACT V,Scene III,NA,NA,the
-1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,front_matter,contents,ACT V,Scene III,NA,NA,street
-1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,front_matter,contents,ACT V,Scene III,NA,NA,in
-1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,front_matter,contents,ACT V,Scene III,NA,NA,windsor
-1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,front_matter,contents,ACT V,Scene IV,NA,NA,scene
-1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,front_matter,contents,ACT V,Scene IV,NA,NA,iv
-1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,front_matter,contents,ACT V,Scene IV,NA,NA,windsor
-1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,front_matter,contents,ACT V,Scene IV,NA,NA,park
-1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,front_matter,contents,ACT V,Scene V,NA,NA,scene
-1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,front_matter,contents,ACT V,Scene V,NA,NA,v
-1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,front_matter,contents,ACT V,Scene V,NA,NA,another
-1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,front_matter,contents,ACT V,Scene V,NA,NA,part
-1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,front_matter,contents,ACT V,Scene V,NA,NA,of
-1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,front_matter,contents,ACT V,Scene V,NA,NA,the
-1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,front_matter,contents,ACT V,Scene V,NA,NA,park
-1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,front_matter,dramatis_header,NA,NA,NA,NA,dramatis
-1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,front_matter,dramatis_header,NA,NA,NA,NA,personæ
-1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,host
-1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,of
-1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,the
-1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,garter
-1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,inn
-1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,sir
-1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,john
-1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,falstaff
-1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,robin
-1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,page
-1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,to
-1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,falstaff
-1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,bardolph
-1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,follower
-1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,of
-1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,falstaff
-1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,pistol
-1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,follower
-1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,of
-1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,falstaff
-1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,nym
-1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,follower
-1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,of
-1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,falstaff
-1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,robert
-1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,shallow
-1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,a
-1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,country
-1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,justice
-1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,abraham
-1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,slender
-1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,cousin
-1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,to
-1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,shallow
-1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,peter
-1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,simple
-1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,servant
-1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,to
-1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,slender
-1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,fenton
-1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,a
-1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,young
-1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,gentleman
-1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,george
-1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,page
-1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,a
-1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,gentleman
-1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,dwelling
-1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,at
-1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,windsor
-1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,mistress
-1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,page
-1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,his
-1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,wife
-1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,mistress
-1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,anne
-1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,page
-1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,her
-1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,daughter
-1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,in
-1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,love
-1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,with
-1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,fenton
-1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,william
-1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,page
-1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,a
-1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,boy
-1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,son
-1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,to
-1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,page
-1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,frank
-1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,ford
-1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,a
-1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,gentleman
-1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,dwelling
-1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,at
-1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,windsor
-1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,mistress
-1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,ford
-1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,his
-1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,wife
-1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,john
-1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,servant
-1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,to
-1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,ford
-1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,robert
-1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,servant
-1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,to
-1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,ford
-1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,sir
-1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,hugh
-1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,evans
-1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,a
-1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,welsh
-1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,parson
-1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,doctor
-1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,caius
-1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,a
-1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,french
-1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,physician
-1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,mistress
-1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,quickly
-1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,servant
-1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,to
-1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,doctor
-1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,caius
-1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,john
-1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,rugby
-1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,servant
-1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,to
-1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,doctor
-1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,caius
-1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,servants
-1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,to
-1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,page
-1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,c
-1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,front_matter,scene_description,NA,NA,NA,NA,scene
-1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,front_matter,scene_description,NA,NA,NA,NA,windsor
-1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,front_matter,scene_description,NA,NA,NA,NA,and
-1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,front_matter,scene_description,NA,NA,NA,NA,the
-1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,front_matter,scene_description,NA,NA,NA,NA,neighbourhood
-1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,reference,ACT I,NA,NA,NA,act
-1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,reference,ACT I,NA,NA,NA,i
-1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,reference,ACT I,SCENE I,NA,NA,scene
-1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,reference,ACT I,SCENE I,NA,NA,i
-1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,reference,ACT I,SCENE I,NA,NA,windsor
-1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,reference,ACT I,SCENE I,NA,NA,before
-1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,reference,ACT I,SCENE I,NA,NA,page’s
-1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,reference,ACT I,SCENE I,NA,NA,house
 1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,directions,ACT I,SCENE I,NA,NA,enter
 1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,directions,ACT I,SCENE I,NA,NA,justice
 1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,directions,ACT I,SCENE I,NA,NA,shallow
@@ -2585,10 +2285,6 @@ gutenberg_id,short_title,gutenberg_title,genre,year,author,section,class,act,sce
 1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,dialogue,ACT I,SCENE I,SLENDER,234,indeed
 1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,dialogue,ACT I,SCENE I,SLENDER,234,la
 1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,directions,ACT I,SCENE I,NA,NA,exeunt
-1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,reference,ACT I,SCENE II,NA,NA,scene
-1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,reference,ACT I,SCENE II,NA,NA,ii
-1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,reference,ACT I,SCENE II,NA,NA,the
-1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,reference,ACT I,SCENE II,NA,NA,same
 1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,directions,ACT I,SCENE II,NA,NA,enter
 1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,directions,ACT I,SCENE II,NA,NA,sir
 1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,directions,ACT I,SCENE II,NA,NA,hugh
@@ -2698,14 +2394,6 @@ gutenberg_id,short_title,gutenberg_title,genre,year,author,section,class,act,sce
 1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,dialogue,ACT I,SCENE II,EVANS,244,to
 1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,dialogue,ACT I,SCENE II,EVANS,244,come
 1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,directions,ACT I,SCENE II,NA,NA,exeunt
-1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,reference,ACT I,SCENE III,NA,NA,scene
-1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,reference,ACT I,SCENE III,NA,NA,iii
-1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,reference,ACT I,SCENE III,NA,NA,a
-1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,reference,ACT I,SCENE III,NA,NA,room
-1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,reference,ACT I,SCENE III,NA,NA,in
-1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,reference,ACT I,SCENE III,NA,NA,the
-1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,reference,ACT I,SCENE III,NA,NA,garter
-1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,reference,ACT I,SCENE III,NA,NA,inn
 1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,directions,ACT I,SCENE III,NA,NA,enter
 1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,directions,ACT I,SCENE III,NA,NA,falstaff
 1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,directions,ACT I,SCENE III,NA,NA,host
@@ -3483,14 +3171,6 @@ gutenberg_id,short_title,gutenberg_title,genre,year,author,section,class,act,sce
 1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,dialogue,ACT I,SCENE III,PISTOL,326,troop
 1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,dialogue,ACT I,SCENE III,PISTOL,326,on
 1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,directions,ACT I,SCENE III,NA,NA,exeunt
-1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,reference,ACT I,SCENE IV,NA,NA,scene
-1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,reference,ACT I,SCENE IV,NA,NA,iv
-1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,reference,ACT I,SCENE IV,NA,NA,a
-1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,reference,ACT I,SCENE IV,NA,NA,room
-1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,reference,ACT I,SCENE IV,NA,NA,in
-1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,reference,ACT I,SCENE IV,NA,NA,doctor
-1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,reference,ACT I,SCENE IV,NA,NA,caius’s
-1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,reference,ACT I,SCENE IV,NA,NA,house
 1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,directions,ACT I,SCENE IV,NA,NA,enter
 1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,directions,ACT I,SCENE IV,NA,NA,mistress
 1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,directions,ACT I,SCENE IV,NA,NA,quickly
@@ -4814,13 +4494,6 @@ gutenberg_id,short_title,gutenberg_title,genre,year,author,section,class,act,sce
 1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,dialogue,ACT I,SCENE IV,MISTRESS QUICKLY,451,i
 1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,dialogue,ACT I,SCENE IV,MISTRESS QUICKLY,451,forgot
 1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,directions,ACT I,SCENE IV,NA,NA,exit
-1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,reference,ACT II,SCENE IV,NA,NA,act
-1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,reference,ACT II,SCENE IV,NA,NA,ii
-1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,reference,ACT II,SCENE I,NA,NA,scene
-1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,reference,ACT II,SCENE I,NA,NA,i
-1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,reference,ACT II,SCENE I,NA,NA,before
-1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,reference,ACT II,SCENE I,NA,NA,page’s
-1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,reference,ACT II,SCENE I,NA,NA,house
 1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,directions,ACT II,SCENE I,NA,NA,enter
 1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,directions,ACT II,SCENE I,NA,NA,mistress
 1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,directions,ACT II,SCENE I,NA,NA,page
@@ -6675,14 +6348,6 @@ gutenberg_id,short_title,gutenberg_title,genre,year,author,section,class,act,sce
 1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,dialogue,ACT II,SCENE I,FORD,626,well
 1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,dialogue,ACT II,SCENE I,FORD,626,bestowed
 1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,directions,ACT II,SCENE I,NA,NA,exit
-1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,reference,ACT II,SCENE II,NA,NA,scene
-1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,reference,ACT II,SCENE II,NA,NA,ii
-1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,reference,ACT II,SCENE II,NA,NA,a
-1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,reference,ACT II,SCENE II,NA,NA,room
-1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,reference,ACT II,SCENE II,NA,NA,in
-1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,reference,ACT II,SCENE II,NA,NA,the
-1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,reference,ACT II,SCENE II,NA,NA,garter
-1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,reference,ACT II,SCENE II,NA,NA,inn
 1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,directions,ACT II,SCENE II,NA,NA,enter
 1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,directions,ACT II,SCENE II,NA,NA,falstaff
 1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,directions,ACT II,SCENE II,NA,NA,and
@@ -9212,12 +8877,6 @@ gutenberg_id,short_title,gutenberg_title,genre,year,author,section,class,act,sce
 1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,dialogue,ACT II,SCENE II,FORD,853,cuckold
 1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,dialogue,ACT II,SCENE II,FORD,853,cuckold
 1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,directions,ACT II,SCENE II,NA,NA,exit
-1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,reference,ACT II,SCENE III,NA,NA,scene
-1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,reference,ACT II,SCENE III,NA,NA,iii
-1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,reference,ACT II,SCENE III,NA,NA,a
-1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,reference,ACT II,SCENE III,NA,NA,field
-1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,reference,ACT II,SCENE III,NA,NA,near
-1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,reference,ACT II,SCENE III,NA,NA,windsor
 1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,directions,ACT II,SCENE III,NA,NA,enter
 1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,directions,ACT II,SCENE III,NA,NA,doctor
 1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,directions,ACT II,SCENE III,NA,NA,caius
@@ -9923,14 +9582,6 @@ gutenberg_id,short_title,gutenberg_title,genre,year,author,section,class,act,sce
 1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,dialogue,ACT II,SCENE III,CAIUS,927,jack
 1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,dialogue,ACT II,SCENE III,CAIUS,927,rugby
 1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,directions,ACT II,SCENE III,NA,NA,exeunt
-1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,reference,ACT III,SCENE III,NA,NA,act
-1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,reference,ACT III,SCENE III,NA,NA,iii
-1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,reference,ACT III,SCENE I,NA,NA,scene
-1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,reference,ACT III,SCENE I,NA,NA,i
-1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,reference,ACT III,SCENE I,NA,NA,a
-1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,reference,ACT III,SCENE I,NA,NA,field
-1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,reference,ACT III,SCENE I,NA,NA,near
-1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,reference,ACT III,SCENE I,NA,NA,frogmore
 1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,directions,ACT III,SCENE I,NA,NA,enter
 1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,directions,ACT III,SCENE I,NA,NA,sir
 1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,directions,ACT III,SCENE I,NA,NA,hugh
@@ -10816,12 +10467,6 @@ gutenberg_id,short_title,gutenberg_title,genre,year,author,section,class,act,sce
 1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,dialogue,ACT III,SCENE I,EVANS,1021,you
 1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,dialogue,ACT III,SCENE I,EVANS,1021,follow
 1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,directions,ACT III,SCENE I,NA,NA,exeunt
-1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,reference,ACT III,SCENE II,NA,NA,scene
-1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,reference,ACT III,SCENE II,NA,NA,ii
-1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,reference,ACT III,SCENE II,NA,NA,a
-1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,reference,ACT III,SCENE II,NA,NA,street
-1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,reference,ACT III,SCENE II,NA,NA,in
-1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,reference,ACT III,SCENE II,NA,NA,windsor
 1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,directions,ACT III,SCENE II,NA,NA,enter
 1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,directions,ACT III,SCENE II,NA,NA,mistress
 1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,directions,ACT III,SCENE II,NA,NA,page
@@ -11557,13 +11202,6 @@ gutenberg_id,short_title,gutenberg_title,genre,year,author,section,class,act,sce
 1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,dialogue,ACT III,SCENE II,ALL,1089,this
 1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,dialogue,ACT III,SCENE II,ALL,1089,monster
 1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,directions,ACT III,SCENE II,NA,NA,exeunt
-1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,reference,ACT III,SCENE III,NA,NA,scene
-1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,reference,ACT III,SCENE III,NA,NA,iii
-1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,reference,ACT III,SCENE III,NA,NA,a
-1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,reference,ACT III,SCENE III,NA,NA,room
-1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,reference,ACT III,SCENE III,NA,NA,in
-1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,reference,ACT III,SCENE III,NA,NA,ford’s
-1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,reference,ACT III,SCENE III,NA,NA,house
 1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,directions,ACT III,SCENE III,NA,NA,enter
 1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,directions,ACT III,SCENE III,NA,NA,mistress
 1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,directions,ACT III,SCENE III,NA,NA,ford
@@ -13363,13 +13001,6 @@ gutenberg_id,short_title,gutenberg_title,genre,year,author,section,class,act,sce
 1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,dialogue,ACT III,SCENE III,EVANS,1263,his
 1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,dialogue,ACT III,SCENE III,EVANS,1263,mockeries
 1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,directions,ACT III,SCENE III,NA,NA,exeunt
-1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,reference,ACT III,SCENE IV,NA,NA,scene
-1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,reference,ACT III,SCENE IV,NA,NA,iv
-1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,reference,ACT III,SCENE IV,NA,NA,a
-1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,reference,ACT III,SCENE IV,NA,NA,room
-1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,reference,ACT III,SCENE IV,NA,NA,in
-1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,reference,ACT III,SCENE IV,NA,NA,page’s
-1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,reference,ACT III,SCENE IV,NA,NA,house
 1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,directions,ACT III,SCENE IV,NA,NA,enter
 1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,directions,ACT III,SCENE IV,NA,NA,fenton
 1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,directions,ACT III,SCENE IV,NA,NA,and
@@ -14253,14 +13884,6 @@ gutenberg_id,short_title,gutenberg_title,genre,year,author,section,class,act,sce
 1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,dialogue,ACT III,SCENE IV,MISTRESS QUICKLY,1360,slack
 1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,dialogue,ACT III,SCENE IV,MISTRESS QUICKLY,1360,it
 1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,directions,ACT III,SCENE IV,NA,NA,exit
-1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,reference,ACT III,SCENE V,NA,NA,scene
-1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,reference,ACT III,SCENE V,NA,NA,v
-1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,reference,ACT III,SCENE V,NA,NA,a
-1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,reference,ACT III,SCENE V,NA,NA,room
-1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,reference,ACT III,SCENE V,NA,NA,in
-1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,reference,ACT III,SCENE V,NA,NA,the
-1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,reference,ACT III,SCENE V,NA,NA,garter
-1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,reference,ACT III,SCENE V,NA,NA,inn
 1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,directions,ACT III,SCENE V,NA,NA,enter
 1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,directions,ACT III,SCENE V,NA,NA,falstaff
 1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,dialogue,ACT III,SCENE V,FALSTAFF,1361,bardolph
@@ -15462,12 +15085,6 @@ gutenberg_id,short_title,gutenberg_title,genre,year,author,section,class,act,sce
 1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,dialogue,ACT III,SCENE V,FORD,1470,horn
 1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,dialogue,ACT III,SCENE V,FORD,1470,mad
 1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,directions,ACT III,SCENE V,NA,NA,exit
-1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,reference,ACT IV,SCENE V,NA,NA,act
-1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,reference,ACT IV,SCENE V,NA,NA,iv
-1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,reference,ACT IV,SCENE I,NA,NA,scene
-1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,reference,ACT IV,SCENE I,NA,NA,i
-1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,reference,ACT IV,SCENE I,NA,NA,the
-1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,reference,ACT IV,SCENE I,NA,NA,street
 1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,directions,ACT IV,SCENE I,NA,NA,enter
 1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,directions,ACT IV,SCENE I,NA,NA,mistress
 1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,directions,ACT IV,SCENE I,NA,NA,page
@@ -15948,13 +15565,6 @@ gutenberg_id,short_title,gutenberg_title,genre,year,author,section,class,act,sce
 1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,dialogue,ACT IV,SCENE I,MISTRESS PAGE,1534,too
 1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,dialogue,ACT IV,SCENE I,MISTRESS PAGE,1534,long
 1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,directions,ACT IV,SCENE I,NA,NA,exeunt
-1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,reference,ACT IV,SCENE II,NA,NA,scene
-1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,reference,ACT IV,SCENE II,NA,NA,ii
-1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,reference,ACT IV,SCENE II,NA,NA,a
-1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,reference,ACT IV,SCENE II,NA,NA,room
-1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,reference,ACT IV,SCENE II,NA,NA,in
-1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,reference,ACT IV,SCENE II,NA,NA,ford’s
-1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,reference,ACT IV,SCENE II,NA,NA,house
 1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,directions,ACT IV,SCENE II,NA,NA,enter
 1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,directions,ACT IV,SCENE II,NA,NA,falstaff
 1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,directions,ACT IV,SCENE II,NA,NA,and
@@ -17607,14 +17217,6 @@ gutenberg_id,short_title,gutenberg_title,genre,year,author,section,class,act,sce
 1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,dialogue,ACT IV,SCENE II,MISTRESS PAGE,1698,things
 1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,dialogue,ACT IV,SCENE II,MISTRESS PAGE,1699,cool
 1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,directions,ACT IV,SCENE II,NA,NA,exeunt
-1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,reference,ACT IV,SCENE III,NA,NA,scene
-1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,reference,ACT IV,SCENE III,NA,NA,iii
-1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,reference,ACT IV,SCENE III,NA,NA,a
-1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,reference,ACT IV,SCENE III,NA,NA,room
-1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,reference,ACT IV,SCENE III,NA,NA,in
-1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,reference,ACT IV,SCENE III,NA,NA,the
-1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,reference,ACT IV,SCENE III,NA,NA,garter
-1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,reference,ACT IV,SCENE III,NA,NA,inn
 1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,directions,ACT IV,SCENE III,NA,NA,enter
 1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,directions,ACT IV,SCENE III,NA,NA,host
 1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,directions,ACT IV,SCENE III,NA,NA,and
@@ -17714,13 +17316,6 @@ gutenberg_id,short_title,gutenberg_title,genre,year,author,section,class,act,sce
 1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,dialogue,ACT IV,SCENE III,HOST,1707,them
 1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,dialogue,ACT IV,SCENE III,HOST,1707,come
 1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,directions,ACT IV,SCENE III,NA,NA,exeunt
-1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,reference,ACT IV,SCENE IV,NA,NA,scene
-1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,reference,ACT IV,SCENE IV,NA,NA,iv
-1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,reference,ACT IV,SCENE IV,NA,NA,a
-1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,reference,ACT IV,SCENE IV,NA,NA,room
-1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,reference,ACT IV,SCENE IV,NA,NA,in
-1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,reference,ACT IV,SCENE IV,NA,NA,ford’s
-1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,reference,ACT IV,SCENE IV,NA,NA,house
 1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,directions,ACT IV,SCENE IV,NA,NA,enter
 1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,directions,ACT IV,SCENE IV,NA,NA,page
 1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,directions,ACT IV,SCENE IV,NA,NA,ford
@@ -18476,14 +18071,6 @@ gutenberg_id,short_title,gutenberg_title,genre,year,author,section,class,act,sce
 1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,dialogue,ACT IV,SCENE IV,MISTRESS PAGE,1797,crave
 1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,dialogue,ACT IV,SCENE IV,MISTRESS PAGE,1797,her
 1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,directions,ACT IV,SCENE IV,NA,NA,exit
-1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,reference,ACT IV,SCENE V,NA,NA,scene
-1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,reference,ACT IV,SCENE V,NA,NA,v
-1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,reference,ACT IV,SCENE V,NA,NA,a
-1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,reference,ACT IV,SCENE V,NA,NA,room
-1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,reference,ACT IV,SCENE V,NA,NA,in
-1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,reference,ACT IV,SCENE V,NA,NA,the
-1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,reference,ACT IV,SCENE V,NA,NA,garter
-1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,reference,ACT IV,SCENE V,NA,NA,inn
 1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,directions,ACT IV,SCENE V,NA,NA,enter
 1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,directions,ACT IV,SCENE V,NA,NA,host
 1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,directions,ACT IV,SCENE V,NA,NA,and
@@ -19452,14 +19039,6 @@ gutenberg_id,short_title,gutenberg_title,genre,year,author,section,class,act,sce
 1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,dialogue,ACT IV,SCENE V,FALSTAFF,1892,my
 1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,dialogue,ACT IV,SCENE V,FALSTAFF,1892,chamber
 1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,directions,ACT IV,SCENE V,NA,NA,exeunt
-1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,reference,ACT IV,SCENE VI,NA,NA,scene
-1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,reference,ACT IV,SCENE VI,NA,NA,vi
-1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,reference,ACT IV,SCENE VI,NA,NA,another
-1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,reference,ACT IV,SCENE VI,NA,NA,room
-1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,reference,ACT IV,SCENE VI,NA,NA,in
-1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,reference,ACT IV,SCENE VI,NA,NA,the
-1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,reference,ACT IV,SCENE VI,NA,NA,garter
-1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,reference,ACT IV,SCENE VI,NA,NA,inn
 1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,directions,ACT IV,SCENE VI,NA,NA,enter
 1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,directions,ACT IV,SCENE VI,NA,NA,fenton
 1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,directions,ACT IV,SCENE VI,NA,NA,and
@@ -19906,16 +19485,6 @@ gutenberg_id,short_title,gutenberg_title,genre,year,author,section,class,act,sce
 1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,dialogue,ACT IV,SCENE VI,FENTON,1945,present
 1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,dialogue,ACT IV,SCENE VI,FENTON,1945,recompense
 1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,directions,ACT IV,SCENE VI,NA,NA,exeunt
-1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,reference,ACT V,SCENE VI,NA,NA,act
-1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,reference,ACT V,SCENE VI,NA,NA,v
-1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,reference,ACT V,SCENE I,NA,NA,scene
-1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,reference,ACT V,SCENE I,NA,NA,i
-1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,reference,ACT V,SCENE I,NA,NA,a
-1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,reference,ACT V,SCENE I,NA,NA,room
-1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,reference,ACT V,SCENE I,NA,NA,in
-1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,reference,ACT V,SCENE I,NA,NA,the
-1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,reference,ACT V,SCENE I,NA,NA,garter
-1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,reference,ACT V,SCENE I,NA,NA,inn
 1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,directions,ACT V,SCENE I,NA,NA,enter
 1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,directions,ACT V,SCENE I,NA,NA,falstaff
 1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,directions,ACT V,SCENE I,NA,NA,and
@@ -20189,10 +19758,6 @@ gutenberg_id,short_title,gutenberg_title,genre,year,author,section,class,act,sce
 1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,dialogue,ACT V,SCENE I,FALSTAFF,1967,brook
 1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,dialogue,ACT V,SCENE I,FALSTAFF,1967,follow
 1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,directions,ACT V,SCENE I,NA,NA,exeunt
-1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,reference,ACT V,SCENE II,NA,NA,scene
-1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,reference,ACT V,SCENE II,NA,NA,ii
-1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,reference,ACT V,SCENE II,NA,NA,windsor
-1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,reference,ACT V,SCENE II,NA,NA,park
 1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,directions,ACT V,SCENE II,NA,NA,enter
 1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,directions,ACT V,SCENE II,NA,NA,page
 1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,directions,ACT V,SCENE II,NA,NA,shallow
@@ -20315,12 +19880,6 @@ gutenberg_id,short_title,gutenberg_title,genre,year,author,section,class,act,sce
 1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,dialogue,ACT V,SCENE II,PAGE,1977,follow
 1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,dialogue,ACT V,SCENE II,PAGE,1977,me
 1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,directions,ACT V,SCENE II,NA,NA,exeunt
-1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,reference,ACT V,SCENE III,NA,NA,scene
-1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,reference,ACT V,SCENE III,NA,NA,iii
-1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,reference,ACT V,SCENE III,NA,NA,the
-1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,reference,ACT V,SCENE III,NA,NA,street
-1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,reference,ACT V,SCENE III,NA,NA,in
-1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,reference,ACT V,SCENE III,NA,NA,windsor
 1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,directions,ACT V,SCENE III,NA,NA,enter
 1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,directions,ACT V,SCENE III,NA,NA,mistress
 1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,directions,ACT V,SCENE III,NA,NA,page
@@ -20515,10 +20074,6 @@ gutenberg_id,short_title,gutenberg_title,genre,year,author,section,class,act,sce
 1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,dialogue,ACT V,SCENE III,MISTRESS FORD,1996,the
 1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,dialogue,ACT V,SCENE III,MISTRESS FORD,1996,oak
 1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,directions,ACT V,SCENE III,NA,NA,exeunt
-1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,reference,ACT V,SCENE IV,NA,NA,scene
-1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,reference,ACT V,SCENE IV,NA,NA,iv
-1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,reference,ACT V,SCENE IV,NA,NA,windsor
-1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,reference,ACT V,SCENE IV,NA,NA,park
 1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,directions,ACT V,SCENE IV,NA,NA,enter
 1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,directions,ACT V,SCENE IV,NA,NA,sir
 1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,directions,ACT V,SCENE IV,NA,NA,hugh
@@ -20563,13 +20118,6 @@ gutenberg_id,short_title,gutenberg_title,genre,year,author,section,class,act,sce
 1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,dialogue,ACT V,SCENE IV,EVANS,1999,trib
 1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,dialogue,ACT V,SCENE IV,EVANS,1999,trib
 1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,directions,ACT V,SCENE IV,NA,NA,exeunt
-1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,reference,ACT V,SCENE V,NA,NA,scene
-1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,reference,ACT V,SCENE V,NA,NA,v
-1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,reference,ACT V,SCENE V,NA,NA,another
-1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,reference,ACT V,SCENE V,NA,NA,part
-1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,reference,ACT V,SCENE V,NA,NA,of
-1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,reference,ACT V,SCENE V,NA,NA,the
-1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,reference,ACT V,SCENE V,NA,NA,park
 1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,directions,ACT V,SCENE V,NA,NA,enter
 1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,directions,ACT V,SCENE V,NA,NA,falstaff
 1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,directions,ACT V,SCENE V,NA,NA,wearing

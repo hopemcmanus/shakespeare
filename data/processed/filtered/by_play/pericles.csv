@@ -1,319 +1,4 @@
 gutenberg_id,short_title,gutenberg_title,genre,year,author,section,class,act,scene,character,line_number,word
-1537,Pericles,"PERICLES, PRINCE OF TYRE",History,1608,William Shakespeare,front_matter,title,NA,NA,NA,NA,pericles
-1537,Pericles,"PERICLES, PRINCE OF TYRE",History,1608,William Shakespeare,front_matter,title,NA,NA,NA,NA,prince
-1537,Pericles,"PERICLES, PRINCE OF TYRE",History,1608,William Shakespeare,front_matter,title,NA,NA,NA,NA,of
-1537,Pericles,"PERICLES, PRINCE OF TYRE",History,1608,William Shakespeare,front_matter,title,NA,NA,NA,NA,tyre
-1537,Pericles,"PERICLES, PRINCE OF TYRE",History,1608,William Shakespeare,front_matter,author,NA,NA,NA,NA,by
-1537,Pericles,"PERICLES, PRINCE OF TYRE",History,1608,William Shakespeare,front_matter,author,NA,NA,NA,NA,william
-1537,Pericles,"PERICLES, PRINCE OF TYRE",History,1608,William Shakespeare,front_matter,author,NA,NA,NA,NA,shakespeare
-1537,Pericles,"PERICLES, PRINCE OF TYRE",History,1608,William Shakespeare,front_matter,contents_header,NA,NA,NA,NA,contents
-1537,Pericles,"PERICLES, PRINCE OF TYRE",History,1608,William Shakespeare,front_matter,contents,ACT I,NA,NA,NA,act
-1537,Pericles,"PERICLES, PRINCE OF TYRE",History,1608,William Shakespeare,front_matter,contents,ACT I,NA,NA,NA,i
-1537,Pericles,"PERICLES, PRINCE OF TYRE",History,1608,William Shakespeare,front_matter,contents,ACT I,NA,NA,NA,chorus
-1537,Pericles,"PERICLES, PRINCE OF TYRE",History,1608,William Shakespeare,front_matter,contents,ACT I,NA,NA,NA,before
-1537,Pericles,"PERICLES, PRINCE OF TYRE",History,1608,William Shakespeare,front_matter,contents,ACT I,NA,NA,NA,the
-1537,Pericles,"PERICLES, PRINCE OF TYRE",History,1608,William Shakespeare,front_matter,contents,ACT I,NA,NA,NA,palace
-1537,Pericles,"PERICLES, PRINCE OF TYRE",History,1608,William Shakespeare,front_matter,contents,ACT I,NA,NA,NA,of
-1537,Pericles,"PERICLES, PRINCE OF TYRE",History,1608,William Shakespeare,front_matter,contents,ACT I,NA,NA,NA,antioch
-1537,Pericles,"PERICLES, PRINCE OF TYRE",History,1608,William Shakespeare,front_matter,contents,ACT I,Scene I,NA,NA,scene
-1537,Pericles,"PERICLES, PRINCE OF TYRE",History,1608,William Shakespeare,front_matter,contents,ACT I,Scene I,NA,NA,i
-1537,Pericles,"PERICLES, PRINCE OF TYRE",History,1608,William Shakespeare,front_matter,contents,ACT I,Scene I,NA,NA,antioch
-1537,Pericles,"PERICLES, PRINCE OF TYRE",History,1608,William Shakespeare,front_matter,contents,ACT I,Scene I,NA,NA,a
-1537,Pericles,"PERICLES, PRINCE OF TYRE",History,1608,William Shakespeare,front_matter,contents,ACT I,Scene I,NA,NA,room
-1537,Pericles,"PERICLES, PRINCE OF TYRE",History,1608,William Shakespeare,front_matter,contents,ACT I,Scene I,NA,NA,in
-1537,Pericles,"PERICLES, PRINCE OF TYRE",History,1608,William Shakespeare,front_matter,contents,ACT I,Scene I,NA,NA,the
-1537,Pericles,"PERICLES, PRINCE OF TYRE",History,1608,William Shakespeare,front_matter,contents,ACT I,Scene I,NA,NA,palace
-1537,Pericles,"PERICLES, PRINCE OF TYRE",History,1608,William Shakespeare,front_matter,contents,ACT I,Scene II,NA,NA,scene
-1537,Pericles,"PERICLES, PRINCE OF TYRE",History,1608,William Shakespeare,front_matter,contents,ACT I,Scene II,NA,NA,ii
-1537,Pericles,"PERICLES, PRINCE OF TYRE",History,1608,William Shakespeare,front_matter,contents,ACT I,Scene II,NA,NA,tyre
-1537,Pericles,"PERICLES, PRINCE OF TYRE",History,1608,William Shakespeare,front_matter,contents,ACT I,Scene II,NA,NA,a
-1537,Pericles,"PERICLES, PRINCE OF TYRE",History,1608,William Shakespeare,front_matter,contents,ACT I,Scene II,NA,NA,room
-1537,Pericles,"PERICLES, PRINCE OF TYRE",History,1608,William Shakespeare,front_matter,contents,ACT I,Scene II,NA,NA,in
-1537,Pericles,"PERICLES, PRINCE OF TYRE",History,1608,William Shakespeare,front_matter,contents,ACT I,Scene II,NA,NA,the
-1537,Pericles,"PERICLES, PRINCE OF TYRE",History,1608,William Shakespeare,front_matter,contents,ACT I,Scene II,NA,NA,palace
-1537,Pericles,"PERICLES, PRINCE OF TYRE",History,1608,William Shakespeare,front_matter,contents,ACT I,Scene III,NA,NA,scene
-1537,Pericles,"PERICLES, PRINCE OF TYRE",History,1608,William Shakespeare,front_matter,contents,ACT I,Scene III,NA,NA,iii
-1537,Pericles,"PERICLES, PRINCE OF TYRE",History,1608,William Shakespeare,front_matter,contents,ACT I,Scene III,NA,NA,tyre
-1537,Pericles,"PERICLES, PRINCE OF TYRE",History,1608,William Shakespeare,front_matter,contents,ACT I,Scene III,NA,NA,an
-1537,Pericles,"PERICLES, PRINCE OF TYRE",History,1608,William Shakespeare,front_matter,contents,ACT I,Scene III,NA,NA,ante
-1537,Pericles,"PERICLES, PRINCE OF TYRE",History,1608,William Shakespeare,front_matter,contents,ACT I,Scene III,NA,NA,chamber
-1537,Pericles,"PERICLES, PRINCE OF TYRE",History,1608,William Shakespeare,front_matter,contents,ACT I,Scene III,NA,NA,in
-1537,Pericles,"PERICLES, PRINCE OF TYRE",History,1608,William Shakespeare,front_matter,contents,ACT I,Scene III,NA,NA,the
-1537,Pericles,"PERICLES, PRINCE OF TYRE",History,1608,William Shakespeare,front_matter,contents,ACT I,Scene III,NA,NA,palace
-1537,Pericles,"PERICLES, PRINCE OF TYRE",History,1608,William Shakespeare,front_matter,contents,ACT I,Scene IV,NA,NA,scene
-1537,Pericles,"PERICLES, PRINCE OF TYRE",History,1608,William Shakespeare,front_matter,contents,ACT I,Scene IV,NA,NA,iv
-1537,Pericles,"PERICLES, PRINCE OF TYRE",History,1608,William Shakespeare,front_matter,contents,ACT I,Scene IV,NA,NA,tarsus
-1537,Pericles,"PERICLES, PRINCE OF TYRE",History,1608,William Shakespeare,front_matter,contents,ACT I,Scene IV,NA,NA,a
-1537,Pericles,"PERICLES, PRINCE OF TYRE",History,1608,William Shakespeare,front_matter,contents,ACT I,Scene IV,NA,NA,room
-1537,Pericles,"PERICLES, PRINCE OF TYRE",History,1608,William Shakespeare,front_matter,contents,ACT I,Scene IV,NA,NA,in
-1537,Pericles,"PERICLES, PRINCE OF TYRE",History,1608,William Shakespeare,front_matter,contents,ACT I,Scene IV,NA,NA,the
-1537,Pericles,"PERICLES, PRINCE OF TYRE",History,1608,William Shakespeare,front_matter,contents,ACT I,Scene IV,NA,NA,governor’s
-1537,Pericles,"PERICLES, PRINCE OF TYRE",History,1608,William Shakespeare,front_matter,contents,ACT I,Scene IV,NA,NA,house
-1537,Pericles,"PERICLES, PRINCE OF TYRE",History,1608,William Shakespeare,front_matter,contents,ACT II,NA,NA,NA,act
-1537,Pericles,"PERICLES, PRINCE OF TYRE",History,1608,William Shakespeare,front_matter,contents,ACT II,NA,NA,NA,ii
-1537,Pericles,"PERICLES, PRINCE OF TYRE",History,1608,William Shakespeare,front_matter,contents,ACT II,NA,NA,NA,chorus
-1537,Pericles,"PERICLES, PRINCE OF TYRE",History,1608,William Shakespeare,front_matter,contents,ACT II,NA,NA,NA,chorus
-1537,Pericles,"PERICLES, PRINCE OF TYRE",History,1608,William Shakespeare,front_matter,contents,ACT II,Scene I,NA,NA,scene
-1537,Pericles,"PERICLES, PRINCE OF TYRE",History,1608,William Shakespeare,front_matter,contents,ACT II,Scene I,NA,NA,i
-1537,Pericles,"PERICLES, PRINCE OF TYRE",History,1608,William Shakespeare,front_matter,contents,ACT II,Scene I,NA,NA,pentapolis
-1537,Pericles,"PERICLES, PRINCE OF TYRE",History,1608,William Shakespeare,front_matter,contents,ACT II,Scene I,NA,NA,an
-1537,Pericles,"PERICLES, PRINCE OF TYRE",History,1608,William Shakespeare,front_matter,contents,ACT II,Scene I,NA,NA,open
-1537,Pericles,"PERICLES, PRINCE OF TYRE",History,1608,William Shakespeare,front_matter,contents,ACT II,Scene I,NA,NA,place
-1537,Pericles,"PERICLES, PRINCE OF TYRE",History,1608,William Shakespeare,front_matter,contents,ACT II,Scene I,NA,NA,by
-1537,Pericles,"PERICLES, PRINCE OF TYRE",History,1608,William Shakespeare,front_matter,contents,ACT II,Scene I,NA,NA,the
-1537,Pericles,"PERICLES, PRINCE OF TYRE",History,1608,William Shakespeare,front_matter,contents,ACT II,Scene I,NA,NA,seaside
-1537,Pericles,"PERICLES, PRINCE OF TYRE",History,1608,William Shakespeare,front_matter,contents,ACT II,Scene II,NA,NA,scene
-1537,Pericles,"PERICLES, PRINCE OF TYRE",History,1608,William Shakespeare,front_matter,contents,ACT II,Scene II,NA,NA,ii
-1537,Pericles,"PERICLES, PRINCE OF TYRE",History,1608,William Shakespeare,front_matter,contents,ACT II,Scene II,NA,NA,the
-1537,Pericles,"PERICLES, PRINCE OF TYRE",History,1608,William Shakespeare,front_matter,contents,ACT II,Scene II,NA,NA,same
-1537,Pericles,"PERICLES, PRINCE OF TYRE",History,1608,William Shakespeare,front_matter,contents,ACT II,Scene II,NA,NA,a
-1537,Pericles,"PERICLES, PRINCE OF TYRE",History,1608,William Shakespeare,front_matter,contents,ACT II,Scene II,NA,NA,public
-1537,Pericles,"PERICLES, PRINCE OF TYRE",History,1608,William Shakespeare,front_matter,contents,ACT II,Scene II,NA,NA,way
-1537,Pericles,"PERICLES, PRINCE OF TYRE",History,1608,William Shakespeare,front_matter,contents,ACT II,Scene II,NA,NA,or
-1537,Pericles,"PERICLES, PRINCE OF TYRE",History,1608,William Shakespeare,front_matter,contents,ACT II,Scene II,NA,NA,platform
-1537,Pericles,"PERICLES, PRINCE OF TYRE",History,1608,William Shakespeare,front_matter,contents,ACT II,Scene II,NA,NA,leading
-1537,Pericles,"PERICLES, PRINCE OF TYRE",History,1608,William Shakespeare,front_matter,contents,ACT II,Scene II,NA,NA,to
-1537,Pericles,"PERICLES, PRINCE OF TYRE",History,1608,William Shakespeare,front_matter,contents,ACT II,Scene II,NA,NA,the
-1537,Pericles,"PERICLES, PRINCE OF TYRE",History,1608,William Shakespeare,front_matter,contents,ACT II,Scene II,NA,NA,lists
-1537,Pericles,"PERICLES, PRINCE OF TYRE",History,1608,William Shakespeare,front_matter,contents,ACT II,Scene III,NA,NA,scene
-1537,Pericles,"PERICLES, PRINCE OF TYRE",History,1608,William Shakespeare,front_matter,contents,ACT II,Scene III,NA,NA,iii
-1537,Pericles,"PERICLES, PRINCE OF TYRE",History,1608,William Shakespeare,front_matter,contents,ACT II,Scene III,NA,NA,the
-1537,Pericles,"PERICLES, PRINCE OF TYRE",History,1608,William Shakespeare,front_matter,contents,ACT II,Scene III,NA,NA,same
-1537,Pericles,"PERICLES, PRINCE OF TYRE",History,1608,William Shakespeare,front_matter,contents,ACT II,Scene III,NA,NA,a
-1537,Pericles,"PERICLES, PRINCE OF TYRE",History,1608,William Shakespeare,front_matter,contents,ACT II,Scene III,NA,NA,hall
-1537,Pericles,"PERICLES, PRINCE OF TYRE",History,1608,William Shakespeare,front_matter,contents,ACT II,Scene III,NA,NA,of
-1537,Pericles,"PERICLES, PRINCE OF TYRE",History,1608,William Shakespeare,front_matter,contents,ACT II,Scene III,NA,NA,state
-1537,Pericles,"PERICLES, PRINCE OF TYRE",History,1608,William Shakespeare,front_matter,contents,ACT II,Scene III,NA,NA,a
-1537,Pericles,"PERICLES, PRINCE OF TYRE",History,1608,William Shakespeare,front_matter,contents,ACT II,Scene III,NA,NA,banquet
-1537,Pericles,"PERICLES, PRINCE OF TYRE",History,1608,William Shakespeare,front_matter,contents,ACT II,Scene III,NA,NA,prepared
-1537,Pericles,"PERICLES, PRINCE OF TYRE",History,1608,William Shakespeare,front_matter,contents,ACT II,Scene IV,NA,NA,scene
-1537,Pericles,"PERICLES, PRINCE OF TYRE",History,1608,William Shakespeare,front_matter,contents,ACT II,Scene IV,NA,NA,iv
-1537,Pericles,"PERICLES, PRINCE OF TYRE",History,1608,William Shakespeare,front_matter,contents,ACT II,Scene IV,NA,NA,tyre
-1537,Pericles,"PERICLES, PRINCE OF TYRE",History,1608,William Shakespeare,front_matter,contents,ACT II,Scene IV,NA,NA,a
-1537,Pericles,"PERICLES, PRINCE OF TYRE",History,1608,William Shakespeare,front_matter,contents,ACT II,Scene IV,NA,NA,room
-1537,Pericles,"PERICLES, PRINCE OF TYRE",History,1608,William Shakespeare,front_matter,contents,ACT II,Scene IV,NA,NA,in
-1537,Pericles,"PERICLES, PRINCE OF TYRE",History,1608,William Shakespeare,front_matter,contents,ACT II,Scene IV,NA,NA,the
-1537,Pericles,"PERICLES, PRINCE OF TYRE",History,1608,William Shakespeare,front_matter,contents,ACT II,Scene IV,NA,NA,governor’s
-1537,Pericles,"PERICLES, PRINCE OF TYRE",History,1608,William Shakespeare,front_matter,contents,ACT II,Scene IV,NA,NA,house
-1537,Pericles,"PERICLES, PRINCE OF TYRE",History,1608,William Shakespeare,front_matter,contents,ACT II,Scene V,NA,NA,scene
-1537,Pericles,"PERICLES, PRINCE OF TYRE",History,1608,William Shakespeare,front_matter,contents,ACT II,Scene V,NA,NA,v
-1537,Pericles,"PERICLES, PRINCE OF TYRE",History,1608,William Shakespeare,front_matter,contents,ACT II,Scene V,NA,NA,pentapolis
-1537,Pericles,"PERICLES, PRINCE OF TYRE",History,1608,William Shakespeare,front_matter,contents,ACT II,Scene V,NA,NA,a
-1537,Pericles,"PERICLES, PRINCE OF TYRE",History,1608,William Shakespeare,front_matter,contents,ACT II,Scene V,NA,NA,room
-1537,Pericles,"PERICLES, PRINCE OF TYRE",History,1608,William Shakespeare,front_matter,contents,ACT II,Scene V,NA,NA,in
-1537,Pericles,"PERICLES, PRINCE OF TYRE",History,1608,William Shakespeare,front_matter,contents,ACT II,Scene V,NA,NA,the
-1537,Pericles,"PERICLES, PRINCE OF TYRE",History,1608,William Shakespeare,front_matter,contents,ACT II,Scene V,NA,NA,palace
-1537,Pericles,"PERICLES, PRINCE OF TYRE",History,1608,William Shakespeare,front_matter,contents,ACT III,NA,NA,NA,act
-1537,Pericles,"PERICLES, PRINCE OF TYRE",History,1608,William Shakespeare,front_matter,contents,ACT III,NA,NA,NA,iii
-1537,Pericles,"PERICLES, PRINCE OF TYRE",History,1608,William Shakespeare,front_matter,contents,ACT III,NA,NA,NA,chorus
-1537,Pericles,"PERICLES, PRINCE OF TYRE",History,1608,William Shakespeare,front_matter,contents,ACT III,NA,NA,NA,chorus
-1537,Pericles,"PERICLES, PRINCE OF TYRE",History,1608,William Shakespeare,front_matter,contents,ACT III,Scene I,NA,NA,scene
-1537,Pericles,"PERICLES, PRINCE OF TYRE",History,1608,William Shakespeare,front_matter,contents,ACT III,Scene I,NA,NA,i
-1537,Pericles,"PERICLES, PRINCE OF TYRE",History,1608,William Shakespeare,front_matter,contents,ACT III,Scene I,NA,NA,on
-1537,Pericles,"PERICLES, PRINCE OF TYRE",History,1608,William Shakespeare,front_matter,contents,ACT III,Scene I,NA,NA,shipboard
-1537,Pericles,"PERICLES, PRINCE OF TYRE",History,1608,William Shakespeare,front_matter,contents,ACT III,Scene II,NA,NA,scene
-1537,Pericles,"PERICLES, PRINCE OF TYRE",History,1608,William Shakespeare,front_matter,contents,ACT III,Scene II,NA,NA,ii
-1537,Pericles,"PERICLES, PRINCE OF TYRE",History,1608,William Shakespeare,front_matter,contents,ACT III,Scene II,NA,NA,ephesus
-1537,Pericles,"PERICLES, PRINCE OF TYRE",History,1608,William Shakespeare,front_matter,contents,ACT III,Scene II,NA,NA,a
-1537,Pericles,"PERICLES, PRINCE OF TYRE",History,1608,William Shakespeare,front_matter,contents,ACT III,Scene II,NA,NA,room
-1537,Pericles,"PERICLES, PRINCE OF TYRE",History,1608,William Shakespeare,front_matter,contents,ACT III,Scene II,NA,NA,in
-1537,Pericles,"PERICLES, PRINCE OF TYRE",History,1608,William Shakespeare,front_matter,contents,ACT III,Scene II,NA,NA,cerimon’s
-1537,Pericles,"PERICLES, PRINCE OF TYRE",History,1608,William Shakespeare,front_matter,contents,ACT III,Scene II,NA,NA,house
-1537,Pericles,"PERICLES, PRINCE OF TYRE",History,1608,William Shakespeare,front_matter,contents,ACT III,Scene III,NA,NA,scene
-1537,Pericles,"PERICLES, PRINCE OF TYRE",History,1608,William Shakespeare,front_matter,contents,ACT III,Scene III,NA,NA,iii
-1537,Pericles,"PERICLES, PRINCE OF TYRE",History,1608,William Shakespeare,front_matter,contents,ACT III,Scene III,NA,NA,tarsus
-1537,Pericles,"PERICLES, PRINCE OF TYRE",History,1608,William Shakespeare,front_matter,contents,ACT III,Scene III,NA,NA,a
-1537,Pericles,"PERICLES, PRINCE OF TYRE",History,1608,William Shakespeare,front_matter,contents,ACT III,Scene III,NA,NA,room
-1537,Pericles,"PERICLES, PRINCE OF TYRE",History,1608,William Shakespeare,front_matter,contents,ACT III,Scene III,NA,NA,in
-1537,Pericles,"PERICLES, PRINCE OF TYRE",History,1608,William Shakespeare,front_matter,contents,ACT III,Scene III,NA,NA,cleon’s
-1537,Pericles,"PERICLES, PRINCE OF TYRE",History,1608,William Shakespeare,front_matter,contents,ACT III,Scene III,NA,NA,house
-1537,Pericles,"PERICLES, PRINCE OF TYRE",History,1608,William Shakespeare,front_matter,contents,ACT III,Scene IV,NA,NA,scene
-1537,Pericles,"PERICLES, PRINCE OF TYRE",History,1608,William Shakespeare,front_matter,contents,ACT III,Scene IV,NA,NA,iv
-1537,Pericles,"PERICLES, PRINCE OF TYRE",History,1608,William Shakespeare,front_matter,contents,ACT III,Scene IV,NA,NA,ephesus
-1537,Pericles,"PERICLES, PRINCE OF TYRE",History,1608,William Shakespeare,front_matter,contents,ACT III,Scene IV,NA,NA,a
-1537,Pericles,"PERICLES, PRINCE OF TYRE",History,1608,William Shakespeare,front_matter,contents,ACT III,Scene IV,NA,NA,room
-1537,Pericles,"PERICLES, PRINCE OF TYRE",History,1608,William Shakespeare,front_matter,contents,ACT III,Scene IV,NA,NA,in
-1537,Pericles,"PERICLES, PRINCE OF TYRE",History,1608,William Shakespeare,front_matter,contents,ACT III,Scene IV,NA,NA,cerimon’s
-1537,Pericles,"PERICLES, PRINCE OF TYRE",History,1608,William Shakespeare,front_matter,contents,ACT III,Scene IV,NA,NA,house
-1537,Pericles,"PERICLES, PRINCE OF TYRE",History,1608,William Shakespeare,front_matter,contents,ACT IV,NA,NA,NA,act
-1537,Pericles,"PERICLES, PRINCE OF TYRE",History,1608,William Shakespeare,front_matter,contents,ACT IV,NA,NA,NA,iv
-1537,Pericles,"PERICLES, PRINCE OF TYRE",History,1608,William Shakespeare,front_matter,contents,ACT IV,NA,NA,NA,chorus
-1537,Pericles,"PERICLES, PRINCE OF TYRE",History,1608,William Shakespeare,front_matter,contents,ACT IV,NA,NA,NA,chorus
-1537,Pericles,"PERICLES, PRINCE OF TYRE",History,1608,William Shakespeare,front_matter,contents,ACT IV,Scene I,NA,NA,scene
-1537,Pericles,"PERICLES, PRINCE OF TYRE",History,1608,William Shakespeare,front_matter,contents,ACT IV,Scene I,NA,NA,i
-1537,Pericles,"PERICLES, PRINCE OF TYRE",History,1608,William Shakespeare,front_matter,contents,ACT IV,Scene I,NA,NA,tarsus
-1537,Pericles,"PERICLES, PRINCE OF TYRE",History,1608,William Shakespeare,front_matter,contents,ACT IV,Scene I,NA,NA,an
-1537,Pericles,"PERICLES, PRINCE OF TYRE",History,1608,William Shakespeare,front_matter,contents,ACT IV,Scene I,NA,NA,open
-1537,Pericles,"PERICLES, PRINCE OF TYRE",History,1608,William Shakespeare,front_matter,contents,ACT IV,Scene I,NA,NA,place
-1537,Pericles,"PERICLES, PRINCE OF TYRE",History,1608,William Shakespeare,front_matter,contents,ACT IV,Scene I,NA,NA,near
-1537,Pericles,"PERICLES, PRINCE OF TYRE",History,1608,William Shakespeare,front_matter,contents,ACT IV,Scene I,NA,NA,the
-1537,Pericles,"PERICLES, PRINCE OF TYRE",History,1608,William Shakespeare,front_matter,contents,ACT IV,Scene I,NA,NA,seashore
-1537,Pericles,"PERICLES, PRINCE OF TYRE",History,1608,William Shakespeare,front_matter,contents,ACT IV,Scene II,NA,NA,scene
-1537,Pericles,"PERICLES, PRINCE OF TYRE",History,1608,William Shakespeare,front_matter,contents,ACT IV,Scene II,NA,NA,ii
-1537,Pericles,"PERICLES, PRINCE OF TYRE",History,1608,William Shakespeare,front_matter,contents,ACT IV,Scene II,NA,NA,mytilene
-1537,Pericles,"PERICLES, PRINCE OF TYRE",History,1608,William Shakespeare,front_matter,contents,ACT IV,Scene II,NA,NA,a
-1537,Pericles,"PERICLES, PRINCE OF TYRE",History,1608,William Shakespeare,front_matter,contents,ACT IV,Scene II,NA,NA,room
-1537,Pericles,"PERICLES, PRINCE OF TYRE",History,1608,William Shakespeare,front_matter,contents,ACT IV,Scene II,NA,NA,in
-1537,Pericles,"PERICLES, PRINCE OF TYRE",History,1608,William Shakespeare,front_matter,contents,ACT IV,Scene II,NA,NA,a
-1537,Pericles,"PERICLES, PRINCE OF TYRE",History,1608,William Shakespeare,front_matter,contents,ACT IV,Scene II,NA,NA,brothel
-1537,Pericles,"PERICLES, PRINCE OF TYRE",History,1608,William Shakespeare,front_matter,contents,ACT IV,Scene III,NA,NA,scene
-1537,Pericles,"PERICLES, PRINCE OF TYRE",History,1608,William Shakespeare,front_matter,contents,ACT IV,Scene III,NA,NA,iii
-1537,Pericles,"PERICLES, PRINCE OF TYRE",History,1608,William Shakespeare,front_matter,contents,ACT IV,Scene III,NA,NA,tarsus
-1537,Pericles,"PERICLES, PRINCE OF TYRE",History,1608,William Shakespeare,front_matter,contents,ACT IV,Scene III,NA,NA,a
-1537,Pericles,"PERICLES, PRINCE OF TYRE",History,1608,William Shakespeare,front_matter,contents,ACT IV,Scene III,NA,NA,room
-1537,Pericles,"PERICLES, PRINCE OF TYRE",History,1608,William Shakespeare,front_matter,contents,ACT IV,Scene III,NA,NA,in
-1537,Pericles,"PERICLES, PRINCE OF TYRE",History,1608,William Shakespeare,front_matter,contents,ACT IV,Scene III,NA,NA,cleon’s
-1537,Pericles,"PERICLES, PRINCE OF TYRE",History,1608,William Shakespeare,front_matter,contents,ACT IV,Scene III,NA,NA,house
-1537,Pericles,"PERICLES, PRINCE OF TYRE",History,1608,William Shakespeare,front_matter,contents,ACT IV,Scene IV,NA,NA,scene
-1537,Pericles,"PERICLES, PRINCE OF TYRE",History,1608,William Shakespeare,front_matter,contents,ACT IV,Scene IV,NA,NA,iv
-1537,Pericles,"PERICLES, PRINCE OF TYRE",History,1608,William Shakespeare,front_matter,contents,ACT IV,Scene IV,NA,NA,before
-1537,Pericles,"PERICLES, PRINCE OF TYRE",History,1608,William Shakespeare,front_matter,contents,ACT IV,Scene IV,NA,NA,the
-1537,Pericles,"PERICLES, PRINCE OF TYRE",History,1608,William Shakespeare,front_matter,contents,ACT IV,Scene IV,NA,NA,monument
-1537,Pericles,"PERICLES, PRINCE OF TYRE",History,1608,William Shakespeare,front_matter,contents,ACT IV,Scene IV,NA,NA,of
-1537,Pericles,"PERICLES, PRINCE OF TYRE",History,1608,William Shakespeare,front_matter,contents,ACT IV,Scene IV,NA,NA,marina
-1537,Pericles,"PERICLES, PRINCE OF TYRE",History,1608,William Shakespeare,front_matter,contents,ACT IV,Scene IV,NA,NA,at
-1537,Pericles,"PERICLES, PRINCE OF TYRE",History,1608,William Shakespeare,front_matter,contents,ACT IV,Scene IV,NA,NA,tarsus
-1537,Pericles,"PERICLES, PRINCE OF TYRE",History,1608,William Shakespeare,front_matter,contents,ACT IV,Scene V,NA,NA,scene
-1537,Pericles,"PERICLES, PRINCE OF TYRE",History,1608,William Shakespeare,front_matter,contents,ACT IV,Scene V,NA,NA,v
-1537,Pericles,"PERICLES, PRINCE OF TYRE",History,1608,William Shakespeare,front_matter,contents,ACT IV,Scene V,NA,NA,mytilene
-1537,Pericles,"PERICLES, PRINCE OF TYRE",History,1608,William Shakespeare,front_matter,contents,ACT IV,Scene V,NA,NA,a
-1537,Pericles,"PERICLES, PRINCE OF TYRE",History,1608,William Shakespeare,front_matter,contents,ACT IV,Scene V,NA,NA,street
-1537,Pericles,"PERICLES, PRINCE OF TYRE",History,1608,William Shakespeare,front_matter,contents,ACT IV,Scene V,NA,NA,before
-1537,Pericles,"PERICLES, PRINCE OF TYRE",History,1608,William Shakespeare,front_matter,contents,ACT IV,Scene V,NA,NA,the
-1537,Pericles,"PERICLES, PRINCE OF TYRE",History,1608,William Shakespeare,front_matter,contents,ACT IV,Scene V,NA,NA,brothel
-1537,Pericles,"PERICLES, PRINCE OF TYRE",History,1608,William Shakespeare,front_matter,contents,ACT IV,Scene VI,NA,NA,scene
-1537,Pericles,"PERICLES, PRINCE OF TYRE",History,1608,William Shakespeare,front_matter,contents,ACT IV,Scene VI,NA,NA,vi
-1537,Pericles,"PERICLES, PRINCE OF TYRE",History,1608,William Shakespeare,front_matter,contents,ACT IV,Scene VI,NA,NA,the
-1537,Pericles,"PERICLES, PRINCE OF TYRE",History,1608,William Shakespeare,front_matter,contents,ACT IV,Scene VI,NA,NA,same
-1537,Pericles,"PERICLES, PRINCE OF TYRE",History,1608,William Shakespeare,front_matter,contents,ACT IV,Scene VI,NA,NA,a
-1537,Pericles,"PERICLES, PRINCE OF TYRE",History,1608,William Shakespeare,front_matter,contents,ACT IV,Scene VI,NA,NA,room
-1537,Pericles,"PERICLES, PRINCE OF TYRE",History,1608,William Shakespeare,front_matter,contents,ACT IV,Scene VI,NA,NA,in
-1537,Pericles,"PERICLES, PRINCE OF TYRE",History,1608,William Shakespeare,front_matter,contents,ACT IV,Scene VI,NA,NA,the
-1537,Pericles,"PERICLES, PRINCE OF TYRE",History,1608,William Shakespeare,front_matter,contents,ACT IV,Scene VI,NA,NA,brothel
-1537,Pericles,"PERICLES, PRINCE OF TYRE",History,1608,William Shakespeare,front_matter,contents,ACT V,NA,NA,NA,act
-1537,Pericles,"PERICLES, PRINCE OF TYRE",History,1608,William Shakespeare,front_matter,contents,ACT V,NA,NA,NA,v
-1537,Pericles,"PERICLES, PRINCE OF TYRE",History,1608,William Shakespeare,front_matter,contents,ACT V,NA,NA,NA,chorus
-1537,Pericles,"PERICLES, PRINCE OF TYRE",History,1608,William Shakespeare,front_matter,contents,ACT V,NA,NA,NA,chorus
-1537,Pericles,"PERICLES, PRINCE OF TYRE",History,1608,William Shakespeare,front_matter,contents,ACT V,Scene I,NA,NA,scene
-1537,Pericles,"PERICLES, PRINCE OF TYRE",History,1608,William Shakespeare,front_matter,contents,ACT V,Scene I,NA,NA,i
-1537,Pericles,"PERICLES, PRINCE OF TYRE",History,1608,William Shakespeare,front_matter,contents,ACT V,Scene I,NA,NA,on
-1537,Pericles,"PERICLES, PRINCE OF TYRE",History,1608,William Shakespeare,front_matter,contents,ACT V,Scene I,NA,NA,board
-1537,Pericles,"PERICLES, PRINCE OF TYRE",History,1608,William Shakespeare,front_matter,contents,ACT V,Scene I,NA,NA,pericles
-1537,Pericles,"PERICLES, PRINCE OF TYRE",History,1608,William Shakespeare,front_matter,contents,ACT V,Scene I,NA,NA,ship
-1537,Pericles,"PERICLES, PRINCE OF TYRE",History,1608,William Shakespeare,front_matter,contents,ACT V,Scene I,NA,NA,off
-1537,Pericles,"PERICLES, PRINCE OF TYRE",History,1608,William Shakespeare,front_matter,contents,ACT V,Scene I,NA,NA,mytilene
-1537,Pericles,"PERICLES, PRINCE OF TYRE",History,1608,William Shakespeare,front_matter,contents,ACT V,Scene II,NA,NA,scene
-1537,Pericles,"PERICLES, PRINCE OF TYRE",History,1608,William Shakespeare,front_matter,contents,ACT V,Scene II,NA,NA,ii
-1537,Pericles,"PERICLES, PRINCE OF TYRE",History,1608,William Shakespeare,front_matter,contents,ACT V,Scene II,NA,NA,before
-1537,Pericles,"PERICLES, PRINCE OF TYRE",History,1608,William Shakespeare,front_matter,contents,ACT V,Scene II,NA,NA,the
-1537,Pericles,"PERICLES, PRINCE OF TYRE",History,1608,William Shakespeare,front_matter,contents,ACT V,Scene II,NA,NA,temple
-1537,Pericles,"PERICLES, PRINCE OF TYRE",History,1608,William Shakespeare,front_matter,contents,ACT V,Scene II,NA,NA,of
-1537,Pericles,"PERICLES, PRINCE OF TYRE",History,1608,William Shakespeare,front_matter,contents,ACT V,Scene II,NA,NA,diana
-1537,Pericles,"PERICLES, PRINCE OF TYRE",History,1608,William Shakespeare,front_matter,contents,ACT V,Scene II,NA,NA,at
-1537,Pericles,"PERICLES, PRINCE OF TYRE",History,1608,William Shakespeare,front_matter,contents,ACT V,Scene II,NA,NA,ephesus
-1537,Pericles,"PERICLES, PRINCE OF TYRE",History,1608,William Shakespeare,front_matter,contents,ACT V,Scene III,NA,NA,scene
-1537,Pericles,"PERICLES, PRINCE OF TYRE",History,1608,William Shakespeare,front_matter,contents,ACT V,Scene III,NA,NA,iii
-1537,Pericles,"PERICLES, PRINCE OF TYRE",History,1608,William Shakespeare,front_matter,contents,ACT V,Scene III,NA,NA,the
-1537,Pericles,"PERICLES, PRINCE OF TYRE",History,1608,William Shakespeare,front_matter,contents,ACT V,Scene III,NA,NA,temple
-1537,Pericles,"PERICLES, PRINCE OF TYRE",History,1608,William Shakespeare,front_matter,contents,ACT V,Scene III,NA,NA,of
-1537,Pericles,"PERICLES, PRINCE OF TYRE",History,1608,William Shakespeare,front_matter,contents,ACT V,Scene III,NA,NA,diana
-1537,Pericles,"PERICLES, PRINCE OF TYRE",History,1608,William Shakespeare,front_matter,contents,ACT V,Scene III,NA,NA,at
-1537,Pericles,"PERICLES, PRINCE OF TYRE",History,1608,William Shakespeare,front_matter,contents,ACT V,Scene III,NA,NA,ephesus
-1537,Pericles,"PERICLES, PRINCE OF TYRE",History,1608,William Shakespeare,front_matter,dramatis_header,NA,NA,NA,NA,dramatis
-1537,Pericles,"PERICLES, PRINCE OF TYRE",History,1608,William Shakespeare,front_matter,dramatis_header,NA,NA,NA,NA,personæ
-1537,Pericles,"PERICLES, PRINCE OF TYRE",History,1608,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,antiochus
-1537,Pericles,"PERICLES, PRINCE OF TYRE",History,1608,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,king
-1537,Pericles,"PERICLES, PRINCE OF TYRE",History,1608,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,of
-1537,Pericles,"PERICLES, PRINCE OF TYRE",History,1608,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,antioch
-1537,Pericles,"PERICLES, PRINCE OF TYRE",History,1608,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,pericles
-1537,Pericles,"PERICLES, PRINCE OF TYRE",History,1608,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,prince
-1537,Pericles,"PERICLES, PRINCE OF TYRE",History,1608,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,of
-1537,Pericles,"PERICLES, PRINCE OF TYRE",History,1608,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,tyre
-1537,Pericles,"PERICLES, PRINCE OF TYRE",History,1608,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,helicanus
-1537,Pericles,"PERICLES, PRINCE OF TYRE",History,1608,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,escanes
-1537,Pericles,"PERICLES, PRINCE OF TYRE",History,1608,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,two
-1537,Pericles,"PERICLES, PRINCE OF TYRE",History,1608,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,lords
-1537,Pericles,"PERICLES, PRINCE OF TYRE",History,1608,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,of
-1537,Pericles,"PERICLES, PRINCE OF TYRE",History,1608,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,tyre
-1537,Pericles,"PERICLES, PRINCE OF TYRE",History,1608,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,simonides
-1537,Pericles,"PERICLES, PRINCE OF TYRE",History,1608,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,king
-1537,Pericles,"PERICLES, PRINCE OF TYRE",History,1608,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,of
-1537,Pericles,"PERICLES, PRINCE OF TYRE",History,1608,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,pentapolis
-1537,Pericles,"PERICLES, PRINCE OF TYRE",History,1608,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,cleon
-1537,Pericles,"PERICLES, PRINCE OF TYRE",History,1608,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,governor
-1537,Pericles,"PERICLES, PRINCE OF TYRE",History,1608,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,of
-1537,Pericles,"PERICLES, PRINCE OF TYRE",History,1608,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,tarsus
-1537,Pericles,"PERICLES, PRINCE OF TYRE",History,1608,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,lysimachus
-1537,Pericles,"PERICLES, PRINCE OF TYRE",History,1608,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,governor
-1537,Pericles,"PERICLES, PRINCE OF TYRE",History,1608,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,of
-1537,Pericles,"PERICLES, PRINCE OF TYRE",History,1608,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,mytilene
-1537,Pericles,"PERICLES, PRINCE OF TYRE",History,1608,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,cerimon
-1537,Pericles,"PERICLES, PRINCE OF TYRE",History,1608,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,a
-1537,Pericles,"PERICLES, PRINCE OF TYRE",History,1608,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,lord
-1537,Pericles,"PERICLES, PRINCE OF TYRE",History,1608,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,of
-1537,Pericles,"PERICLES, PRINCE OF TYRE",History,1608,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,ephesus
-1537,Pericles,"PERICLES, PRINCE OF TYRE",History,1608,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,thaliard
-1537,Pericles,"PERICLES, PRINCE OF TYRE",History,1608,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,a
-1537,Pericles,"PERICLES, PRINCE OF TYRE",History,1608,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,lord
-1537,Pericles,"PERICLES, PRINCE OF TYRE",History,1608,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,of
-1537,Pericles,"PERICLES, PRINCE OF TYRE",History,1608,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,antioch
-1537,Pericles,"PERICLES, PRINCE OF TYRE",History,1608,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,philemon
-1537,Pericles,"PERICLES, PRINCE OF TYRE",History,1608,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,servant
-1537,Pericles,"PERICLES, PRINCE OF TYRE",History,1608,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,to
-1537,Pericles,"PERICLES, PRINCE OF TYRE",History,1608,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,cerimon
-1537,Pericles,"PERICLES, PRINCE OF TYRE",History,1608,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,leonine
-1537,Pericles,"PERICLES, PRINCE OF TYRE",History,1608,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,servant
-1537,Pericles,"PERICLES, PRINCE OF TYRE",History,1608,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,to
-1537,Pericles,"PERICLES, PRINCE OF TYRE",History,1608,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,dionyza
-1537,Pericles,"PERICLES, PRINCE OF TYRE",History,1608,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,marshal
-1537,Pericles,"PERICLES, PRINCE OF TYRE",History,1608,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,a
-1537,Pericles,"PERICLES, PRINCE OF TYRE",History,1608,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,pandar
-1537,Pericles,"PERICLES, PRINCE OF TYRE",History,1608,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,boult
-1537,Pericles,"PERICLES, PRINCE OF TYRE",History,1608,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,his
-1537,Pericles,"PERICLES, PRINCE OF TYRE",History,1608,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,servant
-1537,Pericles,"PERICLES, PRINCE OF TYRE",History,1608,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,the
-1537,Pericles,"PERICLES, PRINCE OF TYRE",History,1608,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,daughter
-1537,Pericles,"PERICLES, PRINCE OF TYRE",History,1608,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,of
-1537,Pericles,"PERICLES, PRINCE OF TYRE",History,1608,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,antiochus
-1537,Pericles,"PERICLES, PRINCE OF TYRE",History,1608,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,dionyza
-1537,Pericles,"PERICLES, PRINCE OF TYRE",History,1608,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,wife
-1537,Pericles,"PERICLES, PRINCE OF TYRE",History,1608,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,to
-1537,Pericles,"PERICLES, PRINCE OF TYRE",History,1608,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,cleon
-1537,Pericles,"PERICLES, PRINCE OF TYRE",History,1608,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,thaisa
-1537,Pericles,"PERICLES, PRINCE OF TYRE",History,1608,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,daughter
-1537,Pericles,"PERICLES, PRINCE OF TYRE",History,1608,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,to
-1537,Pericles,"PERICLES, PRINCE OF TYRE",History,1608,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,simonides
-1537,Pericles,"PERICLES, PRINCE OF TYRE",History,1608,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,marina
-1537,Pericles,"PERICLES, PRINCE OF TYRE",History,1608,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,daughter
-1537,Pericles,"PERICLES, PRINCE OF TYRE",History,1608,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,to
-1537,Pericles,"PERICLES, PRINCE OF TYRE",History,1608,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,pericles
-1537,Pericles,"PERICLES, PRINCE OF TYRE",History,1608,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,and
-1537,Pericles,"PERICLES, PRINCE OF TYRE",History,1608,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,thaisa
-1537,Pericles,"PERICLES, PRINCE OF TYRE",History,1608,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,lychorida
-1537,Pericles,"PERICLES, PRINCE OF TYRE",History,1608,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,nurse
-1537,Pericles,"PERICLES, PRINCE OF TYRE",History,1608,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,to
-1537,Pericles,"PERICLES, PRINCE OF TYRE",History,1608,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,marina
-1537,Pericles,"PERICLES, PRINCE OF TYRE",History,1608,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,a
-1537,Pericles,"PERICLES, PRINCE OF TYRE",History,1608,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,bawd
-1537,Pericles,"PERICLES, PRINCE OF TYRE",History,1608,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,lords
-1537,Pericles,"PERICLES, PRINCE OF TYRE",History,1608,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,knights
-1537,Pericles,"PERICLES, PRINCE OF TYRE",History,1608,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,gentlemen
-1537,Pericles,"PERICLES, PRINCE OF TYRE",History,1608,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,sailors
-1537,Pericles,"PERICLES, PRINCE OF TYRE",History,1608,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,pirates
-1537,Pericles,"PERICLES, PRINCE OF TYRE",History,1608,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,fishermen
-1537,Pericles,"PERICLES, PRINCE OF TYRE",History,1608,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,and
-1537,Pericles,"PERICLES, PRINCE OF TYRE",History,1608,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,messengers
-1537,Pericles,"PERICLES, PRINCE OF TYRE",History,1608,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,diana
-1537,Pericles,"PERICLES, PRINCE OF TYRE",History,1608,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,gower
-1537,Pericles,"PERICLES, PRINCE OF TYRE",History,1608,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,as
-1537,Pericles,"PERICLES, PRINCE OF TYRE",History,1608,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,chorus
-1537,Pericles,"PERICLES, PRINCE OF TYRE",History,1608,William Shakespeare,front_matter,scene_description,NA,NA,NA,NA,scene
-1537,Pericles,"PERICLES, PRINCE OF TYRE",History,1608,William Shakespeare,front_matter,scene_description,NA,NA,NA,NA,dispersedly
-1537,Pericles,"PERICLES, PRINCE OF TYRE",History,1608,William Shakespeare,front_matter,scene_description,NA,NA,NA,NA,in
-1537,Pericles,"PERICLES, PRINCE OF TYRE",History,1608,William Shakespeare,front_matter,scene_description,NA,NA,NA,NA,various
-1537,Pericles,"PERICLES, PRINCE OF TYRE",History,1608,William Shakespeare,front_matter,scene_description,NA,NA,NA,NA,countries
-1537,Pericles,"PERICLES, PRINCE OF TYRE",History,1608,William Shakespeare,contents,reference,ACT I,NA,NA,NA,act
-1537,Pericles,"PERICLES, PRINCE OF TYRE",History,1608,William Shakespeare,contents,reference,ACT I,NA,NA,NA,i
 1537,Pericles,"PERICLES, PRINCE OF TYRE",History,1608,William Shakespeare,contents,directions,ACT I,NA,NA,NA,enter
 1537,Pericles,"PERICLES, PRINCE OF TYRE",History,1608,William Shakespeare,contents,directions,ACT I,NA,NA,NA,gower
 1537,Pericles,"PERICLES, PRINCE OF TYRE",History,1608,William Shakespeare,contents,directions,ACT I,NA,NA,NA,before
@@ -602,14 +287,6 @@ gutenberg_id,short_title,gutenberg_title,genre,year,author,section,class,act,sce
 1537,Pericles,"PERICLES, PRINCE OF TYRE",History,1608,William Shakespeare,contents,directions,ACT I,NA,NA,NA,can
 1537,Pericles,"PERICLES, PRINCE OF TYRE",History,1608,William Shakespeare,contents,directions,ACT I,NA,NA,NA,justify
 1537,Pericles,"PERICLES, PRINCE OF TYRE",History,1608,William Shakespeare,contents,directions,ACT I,NA,NA,NA,exit
-1537,Pericles,"PERICLES, PRINCE OF TYRE",History,1608,William Shakespeare,contents,reference,ACT I,SCENE I,NA,NA,scene
-1537,Pericles,"PERICLES, PRINCE OF TYRE",History,1608,William Shakespeare,contents,reference,ACT I,SCENE I,NA,NA,i
-1537,Pericles,"PERICLES, PRINCE OF TYRE",History,1608,William Shakespeare,contents,reference,ACT I,SCENE I,NA,NA,antioch
-1537,Pericles,"PERICLES, PRINCE OF TYRE",History,1608,William Shakespeare,contents,reference,ACT I,SCENE I,NA,NA,a
-1537,Pericles,"PERICLES, PRINCE OF TYRE",History,1608,William Shakespeare,contents,reference,ACT I,SCENE I,NA,NA,room
-1537,Pericles,"PERICLES, PRINCE OF TYRE",History,1608,William Shakespeare,contents,reference,ACT I,SCENE I,NA,NA,in
-1537,Pericles,"PERICLES, PRINCE OF TYRE",History,1608,William Shakespeare,contents,reference,ACT I,SCENE I,NA,NA,the
-1537,Pericles,"PERICLES, PRINCE OF TYRE",History,1608,William Shakespeare,contents,reference,ACT I,SCENE I,NA,NA,palace
 1537,Pericles,"PERICLES, PRINCE OF TYRE",History,1608,William Shakespeare,contents,directions,ACT I,SCENE I,NA,NA,enter
 1537,Pericles,"PERICLES, PRINCE OF TYRE",History,1608,William Shakespeare,contents,directions,ACT I,SCENE I,NA,NA,antiochus
 1537,Pericles,"PERICLES, PRINCE OF TYRE",History,1608,William Shakespeare,contents,directions,ACT I,SCENE I,NA,NA,prince
@@ -1994,14 +1671,6 @@ gutenberg_id,short_title,gutenberg_title,genre,year,author,section,class,act,sce
 1537,Pericles,"PERICLES, PRINCE OF TYRE",History,1608,William Shakespeare,contents,dialogue,ACT I,SCENE I,ANTIOCHUS,171,my
 1537,Pericles,"PERICLES, PRINCE OF TYRE",History,1608,William Shakespeare,contents,dialogue,ACT I,SCENE I,ANTIOCHUS,171,head
 1537,Pericles,"PERICLES, PRINCE OF TYRE",History,1608,William Shakespeare,contents,directions,ACT I,SCENE I,NA,NA,exit
-1537,Pericles,"PERICLES, PRINCE OF TYRE",History,1608,William Shakespeare,contents,reference,ACT I,SCENE II,NA,NA,scene
-1537,Pericles,"PERICLES, PRINCE OF TYRE",History,1608,William Shakespeare,contents,reference,ACT I,SCENE II,NA,NA,ii
-1537,Pericles,"PERICLES, PRINCE OF TYRE",History,1608,William Shakespeare,contents,reference,ACT I,SCENE II,NA,NA,tyre
-1537,Pericles,"PERICLES, PRINCE OF TYRE",History,1608,William Shakespeare,contents,reference,ACT I,SCENE II,NA,NA,a
-1537,Pericles,"PERICLES, PRINCE OF TYRE",History,1608,William Shakespeare,contents,reference,ACT I,SCENE II,NA,NA,room
-1537,Pericles,"PERICLES, PRINCE OF TYRE",History,1608,William Shakespeare,contents,reference,ACT I,SCENE II,NA,NA,in
-1537,Pericles,"PERICLES, PRINCE OF TYRE",History,1608,William Shakespeare,contents,reference,ACT I,SCENE II,NA,NA,the
-1537,Pericles,"PERICLES, PRINCE OF TYRE",History,1608,William Shakespeare,contents,reference,ACT I,SCENE II,NA,NA,palace
 1537,Pericles,"PERICLES, PRINCE OF TYRE",History,1608,William Shakespeare,contents,directions,ACT I,SCENE II,NA,NA,enter
 1537,Pericles,"PERICLES, PRINCE OF TYRE",History,1608,William Shakespeare,contents,directions,ACT I,SCENE II,NA,NA,pericles
 1537,Pericles,"PERICLES, PRINCE OF TYRE",History,1608,William Shakespeare,contents,directions,ACT I,SCENE II,NA,NA,with
@@ -3051,15 +2720,6 @@ gutenberg_id,short_title,gutenberg_title,genre,year,author,section,class,act,sce
 1537,Pericles,"PERICLES, PRINCE OF TYRE",History,1608,William Shakespeare,contents,dialogue,ACT I,SCENE II,PERICLES,301,true
 1537,Pericles,"PERICLES, PRINCE OF TYRE",History,1608,William Shakespeare,contents,dialogue,ACT I,SCENE II,PERICLES,301,prince
 1537,Pericles,"PERICLES, PRINCE OF TYRE",History,1608,William Shakespeare,contents,directions,ACT I,SCENE II,NA,NA,exeunt
-1537,Pericles,"PERICLES, PRINCE OF TYRE",History,1608,William Shakespeare,contents,reference,ACT I,SCENE III,NA,NA,scene
-1537,Pericles,"PERICLES, PRINCE OF TYRE",History,1608,William Shakespeare,contents,reference,ACT I,SCENE III,NA,NA,iii
-1537,Pericles,"PERICLES, PRINCE OF TYRE",History,1608,William Shakespeare,contents,reference,ACT I,SCENE III,NA,NA,tyre
-1537,Pericles,"PERICLES, PRINCE OF TYRE",History,1608,William Shakespeare,contents,reference,ACT I,SCENE III,NA,NA,an
-1537,Pericles,"PERICLES, PRINCE OF TYRE",History,1608,William Shakespeare,contents,reference,ACT I,SCENE III,NA,NA,ante
-1537,Pericles,"PERICLES, PRINCE OF TYRE",History,1608,William Shakespeare,contents,reference,ACT I,SCENE III,NA,NA,chamber
-1537,Pericles,"PERICLES, PRINCE OF TYRE",History,1608,William Shakespeare,contents,reference,ACT I,SCENE III,NA,NA,in
-1537,Pericles,"PERICLES, PRINCE OF TYRE",History,1608,William Shakespeare,contents,reference,ACT I,SCENE III,NA,NA,the
-1537,Pericles,"PERICLES, PRINCE OF TYRE",History,1608,William Shakespeare,contents,reference,ACT I,SCENE III,NA,NA,palace
 1537,Pericles,"PERICLES, PRINCE OF TYRE",History,1608,William Shakespeare,contents,directions,ACT I,SCENE III,NA,NA,enter
 1537,Pericles,"PERICLES, PRINCE OF TYRE",History,1608,William Shakespeare,contents,directions,ACT I,SCENE III,NA,NA,thaliard
 1537,Pericles,"PERICLES, PRINCE OF TYRE",History,1608,William Shakespeare,contents,dialogue,ACT I,SCENE III,THALIARD,302,so
@@ -3396,15 +3056,6 @@ gutenberg_id,short_title,gutenberg_title,genre,year,author,section,class,act,sce
 1537,Pericles,"PERICLES, PRINCE OF TYRE",History,1608,William Shakespeare,contents,dialogue,ACT I,SCENE III,HELICANUS,339,in
 1537,Pericles,"PERICLES, PRINCE OF TYRE",History,1608,William Shakespeare,contents,dialogue,ACT I,SCENE III,HELICANUS,339,tyre
 1537,Pericles,"PERICLES, PRINCE OF TYRE",History,1608,William Shakespeare,contents,directions,ACT I,SCENE III,NA,NA,exeunt
-1537,Pericles,"PERICLES, PRINCE OF TYRE",History,1608,William Shakespeare,contents,reference,ACT I,SCENE IV,NA,NA,scene
-1537,Pericles,"PERICLES, PRINCE OF TYRE",History,1608,William Shakespeare,contents,reference,ACT I,SCENE IV,NA,NA,iv
-1537,Pericles,"PERICLES, PRINCE OF TYRE",History,1608,William Shakespeare,contents,reference,ACT I,SCENE IV,NA,NA,tarsus
-1537,Pericles,"PERICLES, PRINCE OF TYRE",History,1608,William Shakespeare,contents,reference,ACT I,SCENE IV,NA,NA,a
-1537,Pericles,"PERICLES, PRINCE OF TYRE",History,1608,William Shakespeare,contents,reference,ACT I,SCENE IV,NA,NA,room
-1537,Pericles,"PERICLES, PRINCE OF TYRE",History,1608,William Shakespeare,contents,reference,ACT I,SCENE IV,NA,NA,in
-1537,Pericles,"PERICLES, PRINCE OF TYRE",History,1608,William Shakespeare,contents,reference,ACT I,SCENE IV,NA,NA,the
-1537,Pericles,"PERICLES, PRINCE OF TYRE",History,1608,William Shakespeare,contents,reference,ACT I,SCENE IV,NA,NA,governor’s
-1537,Pericles,"PERICLES, PRINCE OF TYRE",History,1608,William Shakespeare,contents,reference,ACT I,SCENE IV,NA,NA,house
 1537,Pericles,"PERICLES, PRINCE OF TYRE",History,1608,William Shakespeare,contents,directions,ACT I,SCENE IV,NA,NA,enter
 1537,Pericles,"PERICLES, PRINCE OF TYRE",History,1608,William Shakespeare,contents,directions,ACT I,SCENE IV,NA,NA,cleon
 1537,Pericles,"PERICLES, PRINCE OF TYRE",History,1608,William Shakespeare,contents,directions,ACT I,SCENE IV,NA,NA,the
@@ -4263,8 +3914,6 @@ gutenberg_id,short_title,gutenberg_title,genre,year,author,section,class,act,sce
 1537,Pericles,"PERICLES, PRINCE OF TYRE",History,1608,William Shakespeare,contents,dialogue,ACT I,SCENE IV,PERICLES,448,a
 1537,Pericles,"PERICLES, PRINCE OF TYRE",History,1608,William Shakespeare,contents,dialogue,ACT I,SCENE IV,PERICLES,448,smile
 1537,Pericles,"PERICLES, PRINCE OF TYRE",History,1608,William Shakespeare,contents,directions,ACT I,SCENE IV,NA,NA,exeunt
-1537,Pericles,"PERICLES, PRINCE OF TYRE",History,1608,William Shakespeare,contents,reference,ACT II,SCENE IV,NA,NA,act
-1537,Pericles,"PERICLES, PRINCE OF TYRE",History,1608,William Shakespeare,contents,reference,ACT II,SCENE IV,NA,NA,ii
 1537,Pericles,"PERICLES, PRINCE OF TYRE",History,1608,William Shakespeare,contents,directions,ACT II,SCENE IV,NA,NA,enter
 1537,Pericles,"PERICLES, PRINCE OF TYRE",History,1608,William Shakespeare,contents,directions,ACT II,SCENE IV,NA,NA,gower
 1537,Pericles,"PERICLES, PRINCE OF TYRE",History,1608,William Shakespeare,contents,dialogue,ACT II,SCENE IV,GOWER,449,here
@@ -4581,15 +4230,6 @@ gutenberg_id,short_title,gutenberg_title,genre,year,author,section,class,act,sce
 1537,Pericles,"PERICLES, PRINCE OF TYRE",History,1608,William Shakespeare,contents,dialogue,ACT II,SCENE IV,GOWER,493,the
 1537,Pericles,"PERICLES, PRINCE OF TYRE",History,1608,William Shakespeare,contents,dialogue,ACT II,SCENE IV,GOWER,493,text
 1537,Pericles,"PERICLES, PRINCE OF TYRE",History,1608,William Shakespeare,contents,directions,ACT II,SCENE IV,NA,NA,exit
-1537,Pericles,"PERICLES, PRINCE OF TYRE",History,1608,William Shakespeare,contents,reference,ACT II,SCENE I,NA,NA,scene
-1537,Pericles,"PERICLES, PRINCE OF TYRE",History,1608,William Shakespeare,contents,reference,ACT II,SCENE I,NA,NA,i
-1537,Pericles,"PERICLES, PRINCE OF TYRE",History,1608,William Shakespeare,contents,reference,ACT II,SCENE I,NA,NA,pentapolis
-1537,Pericles,"PERICLES, PRINCE OF TYRE",History,1608,William Shakespeare,contents,reference,ACT II,SCENE I,NA,NA,an
-1537,Pericles,"PERICLES, PRINCE OF TYRE",History,1608,William Shakespeare,contents,reference,ACT II,SCENE I,NA,NA,open
-1537,Pericles,"PERICLES, PRINCE OF TYRE",History,1608,William Shakespeare,contents,reference,ACT II,SCENE I,NA,NA,place
-1537,Pericles,"PERICLES, PRINCE OF TYRE",History,1608,William Shakespeare,contents,reference,ACT II,SCENE I,NA,NA,by
-1537,Pericles,"PERICLES, PRINCE OF TYRE",History,1608,William Shakespeare,contents,reference,ACT II,SCENE I,NA,NA,the
-1537,Pericles,"PERICLES, PRINCE OF TYRE",History,1608,William Shakespeare,contents,reference,ACT II,SCENE I,NA,NA,seaside
 1537,Pericles,"PERICLES, PRINCE OF TYRE",History,1608,William Shakespeare,contents,directions,ACT II,SCENE I,NA,NA,enter
 1537,Pericles,"PERICLES, PRINCE OF TYRE",History,1608,William Shakespeare,contents,directions,ACT II,SCENE I,NA,NA,pericles
 1537,Pericles,"PERICLES, PRINCE OF TYRE",History,1608,William Shakespeare,contents,directions,ACT II,SCENE I,NA,NA,wet
@@ -5927,20 +5567,6 @@ gutenberg_id,short_title,gutenberg_title,genre,year,author,section,class,act,sce
 1537,Pericles,"PERICLES, PRINCE OF TYRE",History,1608,William Shakespeare,contents,dialogue,ACT II,SCENE I,PERICLES,637,to
 1537,Pericles,"PERICLES, PRINCE OF TYRE",History,1608,William Shakespeare,contents,dialogue,ACT II,SCENE I,PERICLES,637,ill
 1537,Pericles,"PERICLES, PRINCE OF TYRE",History,1608,William Shakespeare,contents,directions,ACT II,SCENE I,NA,NA,exeunt
-1537,Pericles,"PERICLES, PRINCE OF TYRE",History,1608,William Shakespeare,contents,reference,ACT II,SCENE II,NA,NA,scene
-1537,Pericles,"PERICLES, PRINCE OF TYRE",History,1608,William Shakespeare,contents,reference,ACT II,SCENE II,NA,NA,ii
-1537,Pericles,"PERICLES, PRINCE OF TYRE",History,1608,William Shakespeare,contents,reference,ACT II,SCENE II,NA,NA,the
-1537,Pericles,"PERICLES, PRINCE OF TYRE",History,1608,William Shakespeare,contents,reference,ACT II,SCENE II,NA,NA,same
-1537,Pericles,"PERICLES, PRINCE OF TYRE",History,1608,William Shakespeare,contents,reference,ACT II,SCENE II,NA,NA,a
-1537,Pericles,"PERICLES, PRINCE OF TYRE",History,1608,William Shakespeare,contents,reference,ACT II,SCENE II,NA,NA,public
-1537,Pericles,"PERICLES, PRINCE OF TYRE",History,1608,William Shakespeare,contents,reference,ACT II,SCENE II,NA,NA,way
-1537,Pericles,"PERICLES, PRINCE OF TYRE",History,1608,William Shakespeare,contents,reference,ACT II,SCENE II,NA,NA,or
-1537,Pericles,"PERICLES, PRINCE OF TYRE",History,1608,William Shakespeare,contents,reference,ACT II,SCENE II,NA,NA,platform
-1537,Pericles,"PERICLES, PRINCE OF TYRE",History,1608,William Shakespeare,contents,reference,ACT II,SCENE II,NA,NA,leading
-1537,Pericles,"PERICLES, PRINCE OF TYRE",History,1608,William Shakespeare,contents,reference,ACT II,SCENE II,NA,NA,to
-1537,Pericles,"PERICLES, PRINCE OF TYRE",History,1608,William Shakespeare,contents,reference,ACT II,SCENE II,NA,NA,the
-1537,Pericles,"PERICLES, PRINCE OF TYRE",History,1608,William Shakespeare,contents,reference,ACT II,SCENE II,NA,NA,lists
-1537,Pericles,"PERICLES, PRINCE OF TYRE",History,1608,William Shakespeare,contents,reference,ACT II,SCENE II,NA,NA,a
 1537,Pericles,"PERICLES, PRINCE OF TYRE",History,1608,William Shakespeare,contents,directions,ACT II,SCENE II,NA,NA,pavilion
 1537,Pericles,"PERICLES, PRINCE OF TYRE",History,1608,William Shakespeare,contents,directions,ACT II,SCENE II,NA,NA,by
 1537,Pericles,"PERICLES, PRINCE OF TYRE",History,1608,William Shakespeare,contents,directions,ACT II,SCENE II,NA,NA,the
@@ -6496,17 +6122,6 @@ gutenberg_id,short_title,gutenberg_title,genre,year,author,section,class,act,sce
 1537,Pericles,"PERICLES, PRINCE OF TYRE",History,1608,William Shakespeare,contents,directions,ACT II,SCENE II,NA,NA,the
 1537,Pericles,"PERICLES, PRINCE OF TYRE",History,1608,William Shakespeare,contents,directions,ACT II,SCENE II,NA,NA,mean
 1537,Pericles,"PERICLES, PRINCE OF TYRE",History,1608,William Shakespeare,contents,directions,ACT II,SCENE II,NA,NA,knight
-1537,Pericles,"PERICLES, PRINCE OF TYRE",History,1608,William Shakespeare,contents,reference,ACT II,SCENE III,NA,NA,scene
-1537,Pericles,"PERICLES, PRINCE OF TYRE",History,1608,William Shakespeare,contents,reference,ACT II,SCENE III,NA,NA,iii
-1537,Pericles,"PERICLES, PRINCE OF TYRE",History,1608,William Shakespeare,contents,reference,ACT II,SCENE III,NA,NA,the
-1537,Pericles,"PERICLES, PRINCE OF TYRE",History,1608,William Shakespeare,contents,reference,ACT II,SCENE III,NA,NA,same
-1537,Pericles,"PERICLES, PRINCE OF TYRE",History,1608,William Shakespeare,contents,reference,ACT II,SCENE III,NA,NA,a
-1537,Pericles,"PERICLES, PRINCE OF TYRE",History,1608,William Shakespeare,contents,reference,ACT II,SCENE III,NA,NA,hall
-1537,Pericles,"PERICLES, PRINCE OF TYRE",History,1608,William Shakespeare,contents,reference,ACT II,SCENE III,NA,NA,of
-1537,Pericles,"PERICLES, PRINCE OF TYRE",History,1608,William Shakespeare,contents,reference,ACT II,SCENE III,NA,NA,state
-1537,Pericles,"PERICLES, PRINCE OF TYRE",History,1608,William Shakespeare,contents,reference,ACT II,SCENE III,NA,NA,a
-1537,Pericles,"PERICLES, PRINCE OF TYRE",History,1608,William Shakespeare,contents,reference,ACT II,SCENE III,NA,NA,banquet
-1537,Pericles,"PERICLES, PRINCE OF TYRE",History,1608,William Shakespeare,contents,reference,ACT II,SCENE III,NA,NA,prepared
 1537,Pericles,"PERICLES, PRINCE OF TYRE",History,1608,William Shakespeare,contents,directions,ACT II,SCENE III,NA,NA,enter
 1537,Pericles,"PERICLES, PRINCE OF TYRE",History,1608,William Shakespeare,contents,directions,ACT II,SCENE III,NA,NA,simonides
 1537,Pericles,"PERICLES, PRINCE OF TYRE",History,1608,William Shakespeare,contents,directions,ACT II,SCENE III,NA,NA,thaisa
@@ -7434,15 +7049,6 @@ gutenberg_id,short_title,gutenberg_title,genre,year,author,section,class,act,sce
 1537,Pericles,"PERICLES, PRINCE OF TYRE",History,1608,William Shakespeare,contents,dialogue,ACT II,SCENE III,SIMONIDES,825,their
 1537,Pericles,"PERICLES, PRINCE OF TYRE",History,1608,William Shakespeare,contents,dialogue,ACT II,SCENE III,SIMONIDES,825,best
 1537,Pericles,"PERICLES, PRINCE OF TYRE",History,1608,William Shakespeare,contents,directions,ACT II,SCENE III,NA,NA,exeunt
-1537,Pericles,"PERICLES, PRINCE OF TYRE",History,1608,William Shakespeare,contents,reference,ACT II,SCENE IV,NA,NA,scene
-1537,Pericles,"PERICLES, PRINCE OF TYRE",History,1608,William Shakespeare,contents,reference,ACT II,SCENE IV,NA,NA,iv
-1537,Pericles,"PERICLES, PRINCE OF TYRE",History,1608,William Shakespeare,contents,reference,ACT II,SCENE IV,NA,NA,tyre
-1537,Pericles,"PERICLES, PRINCE OF TYRE",History,1608,William Shakespeare,contents,reference,ACT II,SCENE IV,NA,NA,a
-1537,Pericles,"PERICLES, PRINCE OF TYRE",History,1608,William Shakespeare,contents,reference,ACT II,SCENE IV,NA,NA,room
-1537,Pericles,"PERICLES, PRINCE OF TYRE",History,1608,William Shakespeare,contents,reference,ACT II,SCENE IV,NA,NA,in
-1537,Pericles,"PERICLES, PRINCE OF TYRE",History,1608,William Shakespeare,contents,reference,ACT II,SCENE IV,NA,NA,the
-1537,Pericles,"PERICLES, PRINCE OF TYRE",History,1608,William Shakespeare,contents,reference,ACT II,SCENE IV,NA,NA,governor’s
-1537,Pericles,"PERICLES, PRINCE OF TYRE",History,1608,William Shakespeare,contents,reference,ACT II,SCENE IV,NA,NA,house
 1537,Pericles,"PERICLES, PRINCE OF TYRE",History,1608,William Shakespeare,contents,directions,ACT II,SCENE IV,NA,NA,enter
 1537,Pericles,"PERICLES, PRINCE OF TYRE",History,1608,William Shakespeare,contents,directions,ACT II,SCENE IV,NA,NA,helicanus
 1537,Pericles,"PERICLES, PRINCE OF TYRE",History,1608,William Shakespeare,contents,directions,ACT II,SCENE IV,NA,NA,and
@@ -7908,14 +7514,6 @@ gutenberg_id,short_title,gutenberg_title,genre,year,author,section,class,act,sce
 1537,Pericles,"PERICLES, PRINCE OF TYRE",History,1608,William Shakespeare,contents,dialogue,ACT II,SCENE IV,HELICANUS,884,ever
 1537,Pericles,"PERICLES, PRINCE OF TYRE",History,1608,William Shakespeare,contents,dialogue,ACT II,SCENE IV,HELICANUS,884,stands
 1537,Pericles,"PERICLES, PRINCE OF TYRE",History,1608,William Shakespeare,contents,directions,ACT II,SCENE IV,NA,NA,exeunt
-1537,Pericles,"PERICLES, PRINCE OF TYRE",History,1608,William Shakespeare,contents,reference,ACT II,SCENE V,NA,NA,scene
-1537,Pericles,"PERICLES, PRINCE OF TYRE",History,1608,William Shakespeare,contents,reference,ACT II,SCENE V,NA,NA,v
-1537,Pericles,"PERICLES, PRINCE OF TYRE",History,1608,William Shakespeare,contents,reference,ACT II,SCENE V,NA,NA,pentapolis
-1537,Pericles,"PERICLES, PRINCE OF TYRE",History,1608,William Shakespeare,contents,reference,ACT II,SCENE V,NA,NA,a
-1537,Pericles,"PERICLES, PRINCE OF TYRE",History,1608,William Shakespeare,contents,reference,ACT II,SCENE V,NA,NA,room
-1537,Pericles,"PERICLES, PRINCE OF TYRE",History,1608,William Shakespeare,contents,reference,ACT II,SCENE V,NA,NA,in
-1537,Pericles,"PERICLES, PRINCE OF TYRE",History,1608,William Shakespeare,contents,reference,ACT II,SCENE V,NA,NA,the
-1537,Pericles,"PERICLES, PRINCE OF TYRE",History,1608,William Shakespeare,contents,reference,ACT II,SCENE V,NA,NA,palace
 1537,Pericles,"PERICLES, PRINCE OF TYRE",History,1608,William Shakespeare,contents,directions,ACT II,SCENE V,NA,NA,enter
 1537,Pericles,"PERICLES, PRINCE OF TYRE",History,1608,William Shakespeare,contents,directions,ACT II,SCENE V,NA,NA,simonides
 1537,Pericles,"PERICLES, PRINCE OF TYRE",History,1608,William Shakespeare,contents,directions,ACT II,SCENE V,NA,NA,reading
@@ -8632,8 +8230,6 @@ gutenberg_id,short_title,gutenberg_title,genre,year,author,section,class,act,sce
 1537,Pericles,"PERICLES, PRINCE OF TYRE",History,1608,William Shakespeare,contents,dialogue,ACT II,SCENE V,SIMONIDES,978,to
 1537,Pericles,"PERICLES, PRINCE OF TYRE",History,1608,William Shakespeare,contents,dialogue,ACT II,SCENE V,SIMONIDES,978,bed
 1537,Pericles,"PERICLES, PRINCE OF TYRE",History,1608,William Shakespeare,contents,directions,ACT II,SCENE V,NA,NA,exeunt
-1537,Pericles,"PERICLES, PRINCE OF TYRE",History,1608,William Shakespeare,contents,reference,ACT III,SCENE V,NA,NA,act
-1537,Pericles,"PERICLES, PRINCE OF TYRE",History,1608,William Shakespeare,contents,reference,ACT III,SCENE V,NA,NA,iii
 1537,Pericles,"PERICLES, PRINCE OF TYRE",History,1608,William Shakespeare,contents,directions,ACT III,SCENE V,NA,NA,enter
 1537,Pericles,"PERICLES, PRINCE OF TYRE",History,1608,William Shakespeare,contents,directions,ACT III,SCENE V,NA,NA,gower
 1537,Pericles,"PERICLES, PRINCE OF TYRE",History,1608,William Shakespeare,contents,dialogue,ACT III,SCENE V,GOWER,979,now
@@ -9083,8 +8679,6 @@ gutenberg_id,short_title,gutenberg_title,genre,year,author,section,class,act,sce
 1537,Pericles,"PERICLES, PRINCE OF TYRE",History,1608,William Shakespeare,contents,dialogue,ACT III,SCENE V,GOWER,1044,to
 1537,Pericles,"PERICLES, PRINCE OF TYRE",History,1608,William Shakespeare,contents,dialogue,ACT III,SCENE V,GOWER,1044,speak
 1537,Pericles,"PERICLES, PRINCE OF TYRE",History,1608,William Shakespeare,contents,directions,ACT III,SCENE V,NA,NA,exit
-1537,Pericles,"PERICLES, PRINCE OF TYRE",History,1608,William Shakespeare,contents,reference,ACT III,SCENE I,NA,NA,scene
-1537,Pericles,"PERICLES, PRINCE OF TYRE",History,1608,William Shakespeare,contents,reference,ACT III,SCENE I,NA,NA,i
 1537,Pericles,"PERICLES, PRINCE OF TYRE",History,1608,William Shakespeare,contents,directions,ACT III,SCENE I,NA,NA,enter
 1537,Pericles,"PERICLES, PRINCE OF TYRE",History,1608,William Shakespeare,contents,directions,ACT III,SCENE I,NA,NA,pericles
 1537,Pericles,"PERICLES, PRINCE OF TYRE",History,1608,William Shakespeare,contents,directions,ACT III,SCENE I,NA,NA,on
@@ -9712,14 +9306,6 @@ gutenberg_id,short_title,gutenberg_title,genre,year,author,section,class,act,sce
 1537,Pericles,"PERICLES, PRINCE OF TYRE",History,1608,William Shakespeare,contents,dialogue,ACT III,SCENE I,PERICLES,1127,body
 1537,Pericles,"PERICLES, PRINCE OF TYRE",History,1608,William Shakespeare,contents,dialogue,ACT III,SCENE I,PERICLES,1127,presently
 1537,Pericles,"PERICLES, PRINCE OF TYRE",History,1608,William Shakespeare,contents,directions,ACT III,SCENE I,NA,NA,exeunt
-1537,Pericles,"PERICLES, PRINCE OF TYRE",History,1608,William Shakespeare,contents,reference,ACT III,SCENE II,NA,NA,scene
-1537,Pericles,"PERICLES, PRINCE OF TYRE",History,1608,William Shakespeare,contents,reference,ACT III,SCENE II,NA,NA,ii
-1537,Pericles,"PERICLES, PRINCE OF TYRE",History,1608,William Shakespeare,contents,reference,ACT III,SCENE II,NA,NA,ephesus
-1537,Pericles,"PERICLES, PRINCE OF TYRE",History,1608,William Shakespeare,contents,reference,ACT III,SCENE II,NA,NA,a
-1537,Pericles,"PERICLES, PRINCE OF TYRE",History,1608,William Shakespeare,contents,reference,ACT III,SCENE II,NA,NA,room
-1537,Pericles,"PERICLES, PRINCE OF TYRE",History,1608,William Shakespeare,contents,reference,ACT III,SCENE II,NA,NA,in
-1537,Pericles,"PERICLES, PRINCE OF TYRE",History,1608,William Shakespeare,contents,reference,ACT III,SCENE II,NA,NA,cerimon’s
-1537,Pericles,"PERICLES, PRINCE OF TYRE",History,1608,William Shakespeare,contents,reference,ACT III,SCENE II,NA,NA,house
 1537,Pericles,"PERICLES, PRINCE OF TYRE",History,1608,William Shakespeare,contents,directions,ACT III,SCENE II,NA,NA,enter
 1537,Pericles,"PERICLES, PRINCE OF TYRE",History,1608,William Shakespeare,contents,directions,ACT III,SCENE II,NA,NA,cerimon
 1537,Pericles,"PERICLES, PRINCE OF TYRE",History,1608,William Shakespeare,contents,directions,ACT III,SCENE II,NA,NA,with
@@ -10578,14 +10164,6 @@ gutenberg_id,short_title,gutenberg_title,genre,year,author,section,class,act,sce
 1537,Pericles,"PERICLES, PRINCE OF TYRE",History,1608,William Shakespeare,contents,directions,ACT III,SCENE II,NA,NA,carrying
 1537,Pericles,"PERICLES, PRINCE OF TYRE",History,1608,William Shakespeare,contents,directions,ACT III,SCENE II,NA,NA,her
 1537,Pericles,"PERICLES, PRINCE OF TYRE",History,1608,William Shakespeare,contents,directions,ACT III,SCENE II,NA,NA,away
-1537,Pericles,"PERICLES, PRINCE OF TYRE",History,1608,William Shakespeare,contents,reference,ACT III,SCENE III,NA,NA,scene
-1537,Pericles,"PERICLES, PRINCE OF TYRE",History,1608,William Shakespeare,contents,reference,ACT III,SCENE III,NA,NA,iii
-1537,Pericles,"PERICLES, PRINCE OF TYRE",History,1608,William Shakespeare,contents,reference,ACT III,SCENE III,NA,NA,tarsus
-1537,Pericles,"PERICLES, PRINCE OF TYRE",History,1608,William Shakespeare,contents,reference,ACT III,SCENE III,NA,NA,a
-1537,Pericles,"PERICLES, PRINCE OF TYRE",History,1608,William Shakespeare,contents,reference,ACT III,SCENE III,NA,NA,room
-1537,Pericles,"PERICLES, PRINCE OF TYRE",History,1608,William Shakespeare,contents,reference,ACT III,SCENE III,NA,NA,in
-1537,Pericles,"PERICLES, PRINCE OF TYRE",History,1608,William Shakespeare,contents,reference,ACT III,SCENE III,NA,NA,cleon’s
-1537,Pericles,"PERICLES, PRINCE OF TYRE",History,1608,William Shakespeare,contents,reference,ACT III,SCENE III,NA,NA,house
 1537,Pericles,"PERICLES, PRINCE OF TYRE",History,1608,William Shakespeare,contents,directions,ACT III,SCENE III,NA,NA,enter
 1537,Pericles,"PERICLES, PRINCE OF TYRE",History,1608,William Shakespeare,contents,directions,ACT III,SCENE III,NA,NA,pericles
 1537,Pericles,"PERICLES, PRINCE OF TYRE",History,1608,William Shakespeare,contents,directions,ACT III,SCENE III,NA,NA,cleon
@@ -10947,14 +10525,6 @@ gutenberg_id,short_title,gutenberg_title,genre,year,author,section,class,act,sce
 1537,Pericles,"PERICLES, PRINCE OF TYRE",History,1608,William Shakespeare,contents,dialogue,ACT III,SCENE III,PERICLES,1295,my
 1537,Pericles,"PERICLES, PRINCE OF TYRE",History,1608,William Shakespeare,contents,dialogue,ACT III,SCENE III,PERICLES,1295,lord
 1537,Pericles,"PERICLES, PRINCE OF TYRE",History,1608,William Shakespeare,contents,directions,ACT III,SCENE III,NA,NA,exeunt
-1537,Pericles,"PERICLES, PRINCE OF TYRE",History,1608,William Shakespeare,contents,reference,ACT III,SCENE IV,NA,NA,scene
-1537,Pericles,"PERICLES, PRINCE OF TYRE",History,1608,William Shakespeare,contents,reference,ACT III,SCENE IV,NA,NA,iv
-1537,Pericles,"PERICLES, PRINCE OF TYRE",History,1608,William Shakespeare,contents,reference,ACT III,SCENE IV,NA,NA,ephesus
-1537,Pericles,"PERICLES, PRINCE OF TYRE",History,1608,William Shakespeare,contents,reference,ACT III,SCENE IV,NA,NA,a
-1537,Pericles,"PERICLES, PRINCE OF TYRE",History,1608,William Shakespeare,contents,reference,ACT III,SCENE IV,NA,NA,room
-1537,Pericles,"PERICLES, PRINCE OF TYRE",History,1608,William Shakespeare,contents,reference,ACT III,SCENE IV,NA,NA,in
-1537,Pericles,"PERICLES, PRINCE OF TYRE",History,1608,William Shakespeare,contents,reference,ACT III,SCENE IV,NA,NA,cerimon’s
-1537,Pericles,"PERICLES, PRINCE OF TYRE",History,1608,William Shakespeare,contents,reference,ACT III,SCENE IV,NA,NA,house
 1537,Pericles,"PERICLES, PRINCE OF TYRE",History,1608,William Shakespeare,contents,directions,ACT III,SCENE IV,NA,NA,enter
 1537,Pericles,"PERICLES, PRINCE OF TYRE",History,1608,William Shakespeare,contents,directions,ACT III,SCENE IV,NA,NA,cerimon
 1537,Pericles,"PERICLES, PRINCE OF TYRE",History,1608,William Shakespeare,contents,directions,ACT III,SCENE IV,NA,NA,and
@@ -11087,8 +10657,6 @@ gutenberg_id,short_title,gutenberg_title,genre,year,author,section,class,act,sce
 1537,Pericles,"PERICLES, PRINCE OF TYRE",History,1608,William Shakespeare,contents,dialogue,ACT III,SCENE IV,THAISA,1313,gift
 1537,Pericles,"PERICLES, PRINCE OF TYRE",History,1608,William Shakespeare,contents,dialogue,ACT III,SCENE IV,THAISA,1313,small
 1537,Pericles,"PERICLES, PRINCE OF TYRE",History,1608,William Shakespeare,contents,directions,ACT III,SCENE IV,NA,NA,exeunt
-1537,Pericles,"PERICLES, PRINCE OF TYRE",History,1608,William Shakespeare,contents,reference,ACT IV,SCENE IV,NA,NA,act
-1537,Pericles,"PERICLES, PRINCE OF TYRE",History,1608,William Shakespeare,contents,reference,ACT IV,SCENE IV,NA,NA,iv
 1537,Pericles,"PERICLES, PRINCE OF TYRE",History,1608,William Shakespeare,contents,directions,ACT IV,SCENE IV,NA,NA,enter
 1537,Pericles,"PERICLES, PRINCE OF TYRE",History,1608,William Shakespeare,contents,directions,ACT IV,SCENE IV,NA,NA,gower
 1537,Pericles,"PERICLES, PRINCE OF TYRE",History,1608,William Shakespeare,contents,dialogue,ACT IV,SCENE IV,GOWER,1314,imagine
@@ -11411,15 +10979,6 @@ gutenberg_id,short_title,gutenberg_title,genre,year,author,section,class,act,sce
 1537,Pericles,"PERICLES, PRINCE OF TYRE",History,1608,William Shakespeare,contents,dialogue,ACT IV,SCENE IV,GOWER,1365,a
 1537,Pericles,"PERICLES, PRINCE OF TYRE",History,1608,William Shakespeare,contents,dialogue,ACT IV,SCENE IV,GOWER,1365,murderer
 1537,Pericles,"PERICLES, PRINCE OF TYRE",History,1608,William Shakespeare,contents,directions,ACT IV,SCENE IV,NA,NA,exit
-1537,Pericles,"PERICLES, PRINCE OF TYRE",History,1608,William Shakespeare,contents,reference,ACT IV,Scene I,NA,NA,scene
-1537,Pericles,"PERICLES, PRINCE OF TYRE",History,1608,William Shakespeare,contents,reference,ACT IV,Scene I,NA,NA,i
-1537,Pericles,"PERICLES, PRINCE OF TYRE",History,1608,William Shakespeare,contents,reference,ACT IV,Scene I,NA,NA,tarsus
-1537,Pericles,"PERICLES, PRINCE OF TYRE",History,1608,William Shakespeare,contents,reference,ACT IV,Scene I,NA,NA,an
-1537,Pericles,"PERICLES, PRINCE OF TYRE",History,1608,William Shakespeare,contents,reference,ACT IV,Scene I,NA,NA,open
-1537,Pericles,"PERICLES, PRINCE OF TYRE",History,1608,William Shakespeare,contents,reference,ACT IV,Scene I,NA,NA,place
-1537,Pericles,"PERICLES, PRINCE OF TYRE",History,1608,William Shakespeare,contents,reference,ACT IV,Scene I,NA,NA,near
-1537,Pericles,"PERICLES, PRINCE OF TYRE",History,1608,William Shakespeare,contents,reference,ACT IV,Scene I,NA,NA,the
-1537,Pericles,"PERICLES, PRINCE OF TYRE",History,1608,William Shakespeare,contents,reference,ACT IV,Scene I,NA,NA,seashore
 1537,Pericles,"PERICLES, PRINCE OF TYRE",History,1608,William Shakespeare,contents,directions,ACT IV,Scene I,NA,NA,enter
 1537,Pericles,"PERICLES, PRINCE OF TYRE",History,1608,William Shakespeare,contents,directions,ACT IV,Scene I,NA,NA,dionyza
 1537,Pericles,"PERICLES, PRINCE OF TYRE",History,1608,William Shakespeare,contents,directions,ACT IV,Scene I,NA,NA,with
@@ -12237,14 +11796,6 @@ gutenberg_id,short_title,gutenberg_title,genre,year,author,section,class,act,sce
 1537,Pericles,"PERICLES, PRINCE OF TYRE",History,1608,William Shakespeare,contents,dialogue,ACT IV,Scene I,LEONINE,1475,be
 1537,Pericles,"PERICLES, PRINCE OF TYRE",History,1608,William Shakespeare,contents,dialogue,ACT IV,Scene I,LEONINE,1475,slain
 1537,Pericles,"PERICLES, PRINCE OF TYRE",History,1608,William Shakespeare,contents,directions,ACT IV,Scene I,NA,NA,exit
-1537,Pericles,"PERICLES, PRINCE OF TYRE",History,1608,William Shakespeare,contents,reference,ACT IV,Scene II,NA,NA,scene
-1537,Pericles,"PERICLES, PRINCE OF TYRE",History,1608,William Shakespeare,contents,reference,ACT IV,Scene II,NA,NA,ii
-1537,Pericles,"PERICLES, PRINCE OF TYRE",History,1608,William Shakespeare,contents,reference,ACT IV,Scene II,NA,NA,mytilene
-1537,Pericles,"PERICLES, PRINCE OF TYRE",History,1608,William Shakespeare,contents,reference,ACT IV,Scene II,NA,NA,a
-1537,Pericles,"PERICLES, PRINCE OF TYRE",History,1608,William Shakespeare,contents,reference,ACT IV,Scene II,NA,NA,room
-1537,Pericles,"PERICLES, PRINCE OF TYRE",History,1608,William Shakespeare,contents,reference,ACT IV,Scene II,NA,NA,in
-1537,Pericles,"PERICLES, PRINCE OF TYRE",History,1608,William Shakespeare,contents,reference,ACT IV,Scene II,NA,NA,a
-1537,Pericles,"PERICLES, PRINCE OF TYRE",History,1608,William Shakespeare,contents,reference,ACT IV,Scene II,NA,NA,brothel
 1537,Pericles,"PERICLES, PRINCE OF TYRE",History,1608,William Shakespeare,contents,directions,ACT IV,Scene II,NA,NA,enter
 1537,Pericles,"PERICLES, PRINCE OF TYRE",History,1608,William Shakespeare,contents,directions,ACT IV,Scene II,NA,NA,pandar
 1537,Pericles,"PERICLES, PRINCE OF TYRE",History,1608,William Shakespeare,contents,directions,ACT IV,Scene II,NA,NA,bawd
@@ -13381,14 +12932,6 @@ gutenberg_id,short_title,gutenberg_title,genre,year,author,section,class,act,sce
 1537,Pericles,"PERICLES, PRINCE OF TYRE",History,1608,William Shakespeare,contents,dialogue,ACT IV,Scene II,BAWD,1595,with
 1537,Pericles,"PERICLES, PRINCE OF TYRE",History,1608,William Shakespeare,contents,dialogue,ACT IV,Scene II,BAWD,1595,us
 1537,Pericles,"PERICLES, PRINCE OF TYRE",History,1608,William Shakespeare,contents,directions,ACT IV,Scene II,NA,NA,exeunt
-1537,Pericles,"PERICLES, PRINCE OF TYRE",History,1608,William Shakespeare,contents,reference,ACT IV,SCENE III,NA,NA,scene
-1537,Pericles,"PERICLES, PRINCE OF TYRE",History,1608,William Shakespeare,contents,reference,ACT IV,SCENE III,NA,NA,iii
-1537,Pericles,"PERICLES, PRINCE OF TYRE",History,1608,William Shakespeare,contents,reference,ACT IV,SCENE III,NA,NA,tarsus
-1537,Pericles,"PERICLES, PRINCE OF TYRE",History,1608,William Shakespeare,contents,reference,ACT IV,SCENE III,NA,NA,a
-1537,Pericles,"PERICLES, PRINCE OF TYRE",History,1608,William Shakespeare,contents,reference,ACT IV,SCENE III,NA,NA,room
-1537,Pericles,"PERICLES, PRINCE OF TYRE",History,1608,William Shakespeare,contents,reference,ACT IV,SCENE III,NA,NA,in
-1537,Pericles,"PERICLES, PRINCE OF TYRE",History,1608,William Shakespeare,contents,reference,ACT IV,SCENE III,NA,NA,cleon’s
-1537,Pericles,"PERICLES, PRINCE OF TYRE",History,1608,William Shakespeare,contents,reference,ACT IV,SCENE III,NA,NA,house
 1537,Pericles,"PERICLES, PRINCE OF TYRE",History,1608,William Shakespeare,contents,directions,ACT IV,SCENE III,NA,NA,enter
 1537,Pericles,"PERICLES, PRINCE OF TYRE",History,1608,William Shakespeare,contents,directions,ACT IV,SCENE III,NA,NA,cleon
 1537,Pericles,"PERICLES, PRINCE OF TYRE",History,1608,William Shakespeare,contents,directions,ACT IV,SCENE III,NA,NA,and
@@ -13800,8 +13343,6 @@ gutenberg_id,short_title,gutenberg_title,genre,year,author,section,class,act,sce
 1537,Pericles,"PERICLES, PRINCE OF TYRE",History,1608,William Shakespeare,contents,dialogue,ACT IV,SCENE III,DIONYZA,1651,i
 1537,Pericles,"PERICLES, PRINCE OF TYRE",History,1608,William Shakespeare,contents,dialogue,ACT IV,SCENE III,DIONYZA,1651,advise
 1537,Pericles,"PERICLES, PRINCE OF TYRE",History,1608,William Shakespeare,contents,directions,ACT IV,SCENE III,NA,NA,exeunt
-1537,Pericles,"PERICLES, PRINCE OF TYRE",History,1608,William Shakespeare,contents,reference,ACT IV,SCENE IV,NA,NA,scene
-1537,Pericles,"PERICLES, PRINCE OF TYRE",History,1608,William Shakespeare,contents,reference,ACT IV,SCENE IV,NA,NA,iv
 1537,Pericles,"PERICLES, PRINCE OF TYRE",History,1608,William Shakespeare,contents,directions,ACT IV,SCENE IV,NA,NA,enter
 1537,Pericles,"PERICLES, PRINCE OF TYRE",History,1608,William Shakespeare,contents,directions,ACT IV,SCENE IV,NA,NA,gower
 1537,Pericles,"PERICLES, PRINCE OF TYRE",History,1608,William Shakespeare,contents,directions,ACT IV,SCENE IV,NA,NA,before
@@ -14243,14 +13784,6 @@ gutenberg_id,short_title,gutenberg_title,genre,year,author,section,class,act,sce
 1537,Pericles,"PERICLES, PRINCE OF TYRE",History,1608,William Shakespeare,contents,dialogue,ACT IV,SCENE IV,GOWER,1706,in
 1537,Pericles,"PERICLES, PRINCE OF TYRE",History,1608,William Shakespeare,contents,dialogue,ACT IV,SCENE IV,GOWER,1706,mytilene
 1537,Pericles,"PERICLES, PRINCE OF TYRE",History,1608,William Shakespeare,contents,directions,ACT IV,SCENE IV,NA,NA,exit
-1537,Pericles,"PERICLES, PRINCE OF TYRE",History,1608,William Shakespeare,contents,reference,ACT IV,SCENE V,NA,NA,scene
-1537,Pericles,"PERICLES, PRINCE OF TYRE",History,1608,William Shakespeare,contents,reference,ACT IV,SCENE V,NA,NA,v
-1537,Pericles,"PERICLES, PRINCE OF TYRE",History,1608,William Shakespeare,contents,reference,ACT IV,SCENE V,NA,NA,mytilene
-1537,Pericles,"PERICLES, PRINCE OF TYRE",History,1608,William Shakespeare,contents,reference,ACT IV,SCENE V,NA,NA,a
-1537,Pericles,"PERICLES, PRINCE OF TYRE",History,1608,William Shakespeare,contents,reference,ACT IV,SCENE V,NA,NA,street
-1537,Pericles,"PERICLES, PRINCE OF TYRE",History,1608,William Shakespeare,contents,reference,ACT IV,SCENE V,NA,NA,before
-1537,Pericles,"PERICLES, PRINCE OF TYRE",History,1608,William Shakespeare,contents,reference,ACT IV,SCENE V,NA,NA,the
-1537,Pericles,"PERICLES, PRINCE OF TYRE",History,1608,William Shakespeare,contents,reference,ACT IV,SCENE V,NA,NA,brothel
 1537,Pericles,"PERICLES, PRINCE OF TYRE",History,1608,William Shakespeare,contents,directions,ACT IV,SCENE V,NA,NA,enter
 1537,Pericles,"PERICLES, PRINCE OF TYRE",History,1608,William Shakespeare,contents,directions,ACT IV,SCENE V,NA,NA,from
 1537,Pericles,"PERICLES, PRINCE OF TYRE",History,1608,William Shakespeare,contents,directions,ACT IV,SCENE V,NA,NA,the
@@ -14327,15 +13860,6 @@ gutenberg_id,short_title,gutenberg_title,genre,year,author,section,class,act,sce
 1537,Pericles,"PERICLES, PRINCE OF TYRE",History,1608,William Shakespeare,contents,dialogue,ACT IV,SCENE V,FIRST GENTLEMAN,1714,for
 1537,Pericles,"PERICLES, PRINCE OF TYRE",History,1608,William Shakespeare,contents,dialogue,ACT IV,SCENE V,FIRST GENTLEMAN,1714,ever
 1537,Pericles,"PERICLES, PRINCE OF TYRE",History,1608,William Shakespeare,contents,directions,ACT IV,SCENE V,NA,NA,exeunt
-1537,Pericles,"PERICLES, PRINCE OF TYRE",History,1608,William Shakespeare,contents,reference,ACT IV,SCENE VI,NA,NA,scene
-1537,Pericles,"PERICLES, PRINCE OF TYRE",History,1608,William Shakespeare,contents,reference,ACT IV,SCENE VI,NA,NA,vi
-1537,Pericles,"PERICLES, PRINCE OF TYRE",History,1608,William Shakespeare,contents,reference,ACT IV,SCENE VI,NA,NA,the
-1537,Pericles,"PERICLES, PRINCE OF TYRE",History,1608,William Shakespeare,contents,reference,ACT IV,SCENE VI,NA,NA,same
-1537,Pericles,"PERICLES, PRINCE OF TYRE",History,1608,William Shakespeare,contents,reference,ACT IV,SCENE VI,NA,NA,a
-1537,Pericles,"PERICLES, PRINCE OF TYRE",History,1608,William Shakespeare,contents,reference,ACT IV,SCENE VI,NA,NA,room
-1537,Pericles,"PERICLES, PRINCE OF TYRE",History,1608,William Shakespeare,contents,reference,ACT IV,SCENE VI,NA,NA,in
-1537,Pericles,"PERICLES, PRINCE OF TYRE",History,1608,William Shakespeare,contents,reference,ACT IV,SCENE VI,NA,NA,the
-1537,Pericles,"PERICLES, PRINCE OF TYRE",History,1608,William Shakespeare,contents,reference,ACT IV,SCENE VI,NA,NA,brothel
 1537,Pericles,"PERICLES, PRINCE OF TYRE",History,1608,William Shakespeare,contents,directions,ACT IV,SCENE VI,NA,NA,enter
 1537,Pericles,"PERICLES, PRINCE OF TYRE",History,1608,William Shakespeare,contents,directions,ACT IV,SCENE VI,NA,NA,pandar
 1537,Pericles,"PERICLES, PRINCE OF TYRE",History,1608,William Shakespeare,contents,directions,ACT IV,SCENE VI,NA,NA,bawd
@@ -15860,8 +15384,6 @@ gutenberg_id,short_title,gutenberg_title,genre,year,author,section,class,act,sce
 1537,Pericles,"PERICLES, PRINCE OF TYRE",History,1608,William Shakespeare,contents,dialogue,ACT IV,SCENE VI,BOULT,1886,your
 1537,Pericles,"PERICLES, PRINCE OF TYRE",History,1608,William Shakespeare,contents,dialogue,ACT IV,SCENE VI,BOULT,1886,ways
 1537,Pericles,"PERICLES, PRINCE OF TYRE",History,1608,William Shakespeare,contents,directions,ACT IV,SCENE VI,NA,NA,exeunt
-1537,Pericles,"PERICLES, PRINCE OF TYRE",History,1608,William Shakespeare,contents,reference,ACT V,SCENE VI,NA,NA,act
-1537,Pericles,"PERICLES, PRINCE OF TYRE",History,1608,William Shakespeare,contents,reference,ACT V,SCENE VI,NA,NA,v
 1537,Pericles,"PERICLES, PRINCE OF TYRE",History,1608,William Shakespeare,contents,directions,ACT V,SCENE VI,NA,NA,enter
 1537,Pericles,"PERICLES, PRINCE OF TYRE",History,1608,William Shakespeare,contents,directions,ACT V,SCENE VI,NA,NA,gower
 1537,Pericles,"PERICLES, PRINCE OF TYRE",History,1608,William Shakespeare,contents,dialogue,ACT V,SCENE VI,GOWER,1887,marina
@@ -16059,18 +15581,6 @@ gutenberg_id,short_title,gutenberg_title,genre,year,author,section,class,act,sce
 1537,Pericles,"PERICLES, PRINCE OF TYRE",History,1608,William Shakespeare,contents,dialogue,ACT V,SCENE VI,GOWER,1910,and
 1537,Pericles,"PERICLES, PRINCE OF TYRE",History,1608,William Shakespeare,contents,dialogue,ACT V,SCENE VI,GOWER,1910,hark
 1537,Pericles,"PERICLES, PRINCE OF TYRE",History,1608,William Shakespeare,contents,directions,ACT V,SCENE VI,NA,NA,exit
-1537,Pericles,"PERICLES, PRINCE OF TYRE",History,1608,William Shakespeare,contents,reference,ACT V,SCENE I,NA,NA,scene
-1537,Pericles,"PERICLES, PRINCE OF TYRE",History,1608,William Shakespeare,contents,reference,ACT V,SCENE I,NA,NA,i
-1537,Pericles,"PERICLES, PRINCE OF TYRE",History,1608,William Shakespeare,contents,reference,ACT V,SCENE I,NA,NA,on
-1537,Pericles,"PERICLES, PRINCE OF TYRE",History,1608,William Shakespeare,contents,reference,ACT V,SCENE I,NA,NA,board
-1537,Pericles,"PERICLES, PRINCE OF TYRE",History,1608,William Shakespeare,contents,reference,ACT V,SCENE I,NA,NA,pericles
-1537,Pericles,"PERICLES, PRINCE OF TYRE",History,1608,William Shakespeare,contents,reference,ACT V,SCENE I,NA,NA,ship
-1537,Pericles,"PERICLES, PRINCE OF TYRE",History,1608,William Shakespeare,contents,reference,ACT V,SCENE I,NA,NA,off
-1537,Pericles,"PERICLES, PRINCE OF TYRE",History,1608,William Shakespeare,contents,reference,ACT V,SCENE I,NA,NA,mytilene
-1537,Pericles,"PERICLES, PRINCE OF TYRE",History,1608,William Shakespeare,contents,reference,ACT V,SCENE I,NA,NA,a
-1537,Pericles,"PERICLES, PRINCE OF TYRE",History,1608,William Shakespeare,contents,reference,ACT V,SCENE I,NA,NA,close
-1537,Pericles,"PERICLES, PRINCE OF TYRE",History,1608,William Shakespeare,contents,reference,ACT V,SCENE I,NA,NA,pavilion
-1537,Pericles,"PERICLES, PRINCE OF TYRE",History,1608,William Shakespeare,contents,reference,ACT V,SCENE I,NA,NA,on
 1537,Pericles,"PERICLES, PRINCE OF TYRE",History,1608,William Shakespeare,contents,directions,ACT V,SCENE I,NA,NA,deck
 1537,Pericles,"PERICLES, PRINCE OF TYRE",History,1608,William Shakespeare,contents,directions,ACT V,SCENE I,NA,NA,with
 1537,Pericles,"PERICLES, PRINCE OF TYRE",History,1608,William Shakespeare,contents,directions,ACT V,SCENE I,NA,NA,a
@@ -18178,8 +17688,6 @@ gutenberg_id,short_title,gutenberg_title,genre,year,author,section,class,act,sce
 1537,Pericles,"PERICLES, PRINCE OF TYRE",History,1608,William Shakespeare,contents,dialogue,ACT V,SCENE I,PERICLES,2205,my
 1537,Pericles,"PERICLES, PRINCE OF TYRE",History,1608,William Shakespeare,contents,dialogue,ACT V,SCENE I,PERICLES,2205,marina
 1537,Pericles,"PERICLES, PRINCE OF TYRE",History,1608,William Shakespeare,contents,directions,ACT V,SCENE I,NA,NA,exeunt
-1537,Pericles,"PERICLES, PRINCE OF TYRE",History,1608,William Shakespeare,contents,reference,ACT V,SCENE II,NA,NA,scene
-1537,Pericles,"PERICLES, PRINCE OF TYRE",History,1608,William Shakespeare,contents,reference,ACT V,SCENE II,NA,NA,ii
 1537,Pericles,"PERICLES, PRINCE OF TYRE",History,1608,William Shakespeare,contents,directions,ACT V,SCENE II,NA,NA,enter
 1537,Pericles,"PERICLES, PRINCE OF TYRE",History,1608,William Shakespeare,contents,directions,ACT V,SCENE II,NA,NA,gower
 1537,Pericles,"PERICLES, PRINCE OF TYRE",History,1608,William Shakespeare,contents,directions,ACT V,SCENE II,NA,NA,before
@@ -18311,18 +17819,6 @@ gutenberg_id,short_title,gutenberg_title,genre,year,author,section,class,act,sce
 1537,Pericles,"PERICLES, PRINCE OF TYRE",History,1608,William Shakespeare,contents,dialogue,ACT V,SCENE II,GOWER,2225,thankful
 1537,Pericles,"PERICLES, PRINCE OF TYRE",History,1608,William Shakespeare,contents,dialogue,ACT V,SCENE II,GOWER,2225,doom
 1537,Pericles,"PERICLES, PRINCE OF TYRE",History,1608,William Shakespeare,contents,directions,ACT V,SCENE II,NA,NA,exit
-1537,Pericles,"PERICLES, PRINCE OF TYRE",History,1608,William Shakespeare,contents,reference,ACT V,SCENE III,NA,NA,scene
-1537,Pericles,"PERICLES, PRINCE OF TYRE",History,1608,William Shakespeare,contents,reference,ACT V,SCENE III,NA,NA,iii
-1537,Pericles,"PERICLES, PRINCE OF TYRE",History,1608,William Shakespeare,contents,reference,ACT V,SCENE III,NA,NA,the
-1537,Pericles,"PERICLES, PRINCE OF TYRE",History,1608,William Shakespeare,contents,reference,ACT V,SCENE III,NA,NA,temple
-1537,Pericles,"PERICLES, PRINCE OF TYRE",History,1608,William Shakespeare,contents,reference,ACT V,SCENE III,NA,NA,of
-1537,Pericles,"PERICLES, PRINCE OF TYRE",History,1608,William Shakespeare,contents,reference,ACT V,SCENE III,NA,NA,diana
-1537,Pericles,"PERICLES, PRINCE OF TYRE",History,1608,William Shakespeare,contents,reference,ACT V,SCENE III,NA,NA,at
-1537,Pericles,"PERICLES, PRINCE OF TYRE",History,1608,William Shakespeare,contents,reference,ACT V,SCENE III,NA,NA,ephesus
-1537,Pericles,"PERICLES, PRINCE OF TYRE",History,1608,William Shakespeare,contents,reference,ACT V,SCENE III,NA,NA,thaisa
-1537,Pericles,"PERICLES, PRINCE OF TYRE",History,1608,William Shakespeare,contents,reference,ACT V,SCENE III,NA,NA,standing
-1537,Pericles,"PERICLES, PRINCE OF TYRE",History,1608,William Shakespeare,contents,reference,ACT V,SCENE III,NA,NA,near
-1537,Pericles,"PERICLES, PRINCE OF TYRE",History,1608,William Shakespeare,contents,reference,ACT V,SCENE III,NA,NA,the
 1537,Pericles,"PERICLES, PRINCE OF TYRE",History,1608,William Shakespeare,contents,directions,ACT V,SCENE III,NA,NA,altar
 1537,Pericles,"PERICLES, PRINCE OF TYRE",History,1608,William Shakespeare,contents,directions,ACT V,SCENE III,NA,NA,as
 1537,Pericles,"PERICLES, PRINCE OF TYRE",History,1608,William Shakespeare,contents,directions,ACT V,SCENE III,NA,NA,high

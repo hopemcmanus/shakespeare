@@ -1,295 +1,4 @@
 gutenberg_id,short_title,gutenberg_title,genre,year,author,section,class,act,scene,character,line_number,word
-1515,Merchant of Venice,THE MERCHANT OF VENICE,Comedy,1597,William Shakespeare,front_matter,title,NA,NA,NA,NA,the
-1515,Merchant of Venice,THE MERCHANT OF VENICE,Comedy,1597,William Shakespeare,front_matter,title,NA,NA,NA,NA,merchant
-1515,Merchant of Venice,THE MERCHANT OF VENICE,Comedy,1597,William Shakespeare,front_matter,title,NA,NA,NA,NA,of
-1515,Merchant of Venice,THE MERCHANT OF VENICE,Comedy,1597,William Shakespeare,front_matter,title,NA,NA,NA,NA,venice
-1515,Merchant of Venice,THE MERCHANT OF VENICE,Comedy,1597,William Shakespeare,front_matter,author,NA,NA,NA,NA,by
-1515,Merchant of Venice,THE MERCHANT OF VENICE,Comedy,1597,William Shakespeare,front_matter,author,NA,NA,NA,NA,william
-1515,Merchant of Venice,THE MERCHANT OF VENICE,Comedy,1597,William Shakespeare,front_matter,author,NA,NA,NA,NA,shakespeare
-1515,Merchant of Venice,THE MERCHANT OF VENICE,Comedy,1597,William Shakespeare,front_matter,contents_header,NA,NA,NA,NA,contents
-1515,Merchant of Venice,THE MERCHANT OF VENICE,Comedy,1597,William Shakespeare,front_matter,contents,ACT I,NA,NA,NA,act
-1515,Merchant of Venice,THE MERCHANT OF VENICE,Comedy,1597,William Shakespeare,front_matter,contents,ACT I,NA,NA,NA,i
-1515,Merchant of Venice,THE MERCHANT OF VENICE,Comedy,1597,William Shakespeare,front_matter,contents,ACT I,Scene I,NA,NA,scene
-1515,Merchant of Venice,THE MERCHANT OF VENICE,Comedy,1597,William Shakespeare,front_matter,contents,ACT I,Scene I,NA,NA,i
-1515,Merchant of Venice,THE MERCHANT OF VENICE,Comedy,1597,William Shakespeare,front_matter,contents,ACT I,Scene I,NA,NA,venice
-1515,Merchant of Venice,THE MERCHANT OF VENICE,Comedy,1597,William Shakespeare,front_matter,contents,ACT I,Scene I,NA,NA,a
-1515,Merchant of Venice,THE MERCHANT OF VENICE,Comedy,1597,William Shakespeare,front_matter,contents,ACT I,Scene I,NA,NA,street
-1515,Merchant of Venice,THE MERCHANT OF VENICE,Comedy,1597,William Shakespeare,front_matter,contents,ACT I,Scene II,NA,NA,scene
-1515,Merchant of Venice,THE MERCHANT OF VENICE,Comedy,1597,William Shakespeare,front_matter,contents,ACT I,Scene II,NA,NA,ii
-1515,Merchant of Venice,THE MERCHANT OF VENICE,Comedy,1597,William Shakespeare,front_matter,contents,ACT I,Scene II,NA,NA,belmont
-1515,Merchant of Venice,THE MERCHANT OF VENICE,Comedy,1597,William Shakespeare,front_matter,contents,ACT I,Scene II,NA,NA,a
-1515,Merchant of Venice,THE MERCHANT OF VENICE,Comedy,1597,William Shakespeare,front_matter,contents,ACT I,Scene II,NA,NA,room
-1515,Merchant of Venice,THE MERCHANT OF VENICE,Comedy,1597,William Shakespeare,front_matter,contents,ACT I,Scene II,NA,NA,in
-1515,Merchant of Venice,THE MERCHANT OF VENICE,Comedy,1597,William Shakespeare,front_matter,contents,ACT I,Scene II,NA,NA,portia’s
-1515,Merchant of Venice,THE MERCHANT OF VENICE,Comedy,1597,William Shakespeare,front_matter,contents,ACT I,Scene II,NA,NA,house
-1515,Merchant of Venice,THE MERCHANT OF VENICE,Comedy,1597,William Shakespeare,front_matter,contents,ACT I,Scene III,NA,NA,scene
-1515,Merchant of Venice,THE MERCHANT OF VENICE,Comedy,1597,William Shakespeare,front_matter,contents,ACT I,Scene III,NA,NA,iii
-1515,Merchant of Venice,THE MERCHANT OF VENICE,Comedy,1597,William Shakespeare,front_matter,contents,ACT I,Scene III,NA,NA,venice
-1515,Merchant of Venice,THE MERCHANT OF VENICE,Comedy,1597,William Shakespeare,front_matter,contents,ACT I,Scene III,NA,NA,a
-1515,Merchant of Venice,THE MERCHANT OF VENICE,Comedy,1597,William Shakespeare,front_matter,contents,ACT I,Scene III,NA,NA,public
-1515,Merchant of Venice,THE MERCHANT OF VENICE,Comedy,1597,William Shakespeare,front_matter,contents,ACT I,Scene III,NA,NA,place
-1515,Merchant of Venice,THE MERCHANT OF VENICE,Comedy,1597,William Shakespeare,front_matter,contents,ACT II,NA,NA,NA,act
-1515,Merchant of Venice,THE MERCHANT OF VENICE,Comedy,1597,William Shakespeare,front_matter,contents,ACT II,NA,NA,NA,ii
-1515,Merchant of Venice,THE MERCHANT OF VENICE,Comedy,1597,William Shakespeare,front_matter,contents,ACT II,Scene I,NA,NA,scene
-1515,Merchant of Venice,THE MERCHANT OF VENICE,Comedy,1597,William Shakespeare,front_matter,contents,ACT II,Scene I,NA,NA,i
-1515,Merchant of Venice,THE MERCHANT OF VENICE,Comedy,1597,William Shakespeare,front_matter,contents,ACT II,Scene I,NA,NA,belmont
-1515,Merchant of Venice,THE MERCHANT OF VENICE,Comedy,1597,William Shakespeare,front_matter,contents,ACT II,Scene I,NA,NA,a
-1515,Merchant of Venice,THE MERCHANT OF VENICE,Comedy,1597,William Shakespeare,front_matter,contents,ACT II,Scene I,NA,NA,room
-1515,Merchant of Venice,THE MERCHANT OF VENICE,Comedy,1597,William Shakespeare,front_matter,contents,ACT II,Scene I,NA,NA,in
-1515,Merchant of Venice,THE MERCHANT OF VENICE,Comedy,1597,William Shakespeare,front_matter,contents,ACT II,Scene I,NA,NA,portia’s
-1515,Merchant of Venice,THE MERCHANT OF VENICE,Comedy,1597,William Shakespeare,front_matter,contents,ACT II,Scene I,NA,NA,house
-1515,Merchant of Venice,THE MERCHANT OF VENICE,Comedy,1597,William Shakespeare,front_matter,contents,ACT II,Scene II,NA,NA,scene
-1515,Merchant of Venice,THE MERCHANT OF VENICE,Comedy,1597,William Shakespeare,front_matter,contents,ACT II,Scene II,NA,NA,ii
-1515,Merchant of Venice,THE MERCHANT OF VENICE,Comedy,1597,William Shakespeare,front_matter,contents,ACT II,Scene II,NA,NA,venice
-1515,Merchant of Venice,THE MERCHANT OF VENICE,Comedy,1597,William Shakespeare,front_matter,contents,ACT II,Scene II,NA,NA,a
-1515,Merchant of Venice,THE MERCHANT OF VENICE,Comedy,1597,William Shakespeare,front_matter,contents,ACT II,Scene II,NA,NA,street
-1515,Merchant of Venice,THE MERCHANT OF VENICE,Comedy,1597,William Shakespeare,front_matter,contents,ACT II,Scene III,NA,NA,scene
-1515,Merchant of Venice,THE MERCHANT OF VENICE,Comedy,1597,William Shakespeare,front_matter,contents,ACT II,Scene III,NA,NA,iii
-1515,Merchant of Venice,THE MERCHANT OF VENICE,Comedy,1597,William Shakespeare,front_matter,contents,ACT II,Scene III,NA,NA,the
-1515,Merchant of Venice,THE MERCHANT OF VENICE,Comedy,1597,William Shakespeare,front_matter,contents,ACT II,Scene III,NA,NA,same
-1515,Merchant of Venice,THE MERCHANT OF VENICE,Comedy,1597,William Shakespeare,front_matter,contents,ACT II,Scene III,NA,NA,a
-1515,Merchant of Venice,THE MERCHANT OF VENICE,Comedy,1597,William Shakespeare,front_matter,contents,ACT II,Scene III,NA,NA,room
-1515,Merchant of Venice,THE MERCHANT OF VENICE,Comedy,1597,William Shakespeare,front_matter,contents,ACT II,Scene III,NA,NA,in
-1515,Merchant of Venice,THE MERCHANT OF VENICE,Comedy,1597,William Shakespeare,front_matter,contents,ACT II,Scene III,NA,NA,shylock’s
-1515,Merchant of Venice,THE MERCHANT OF VENICE,Comedy,1597,William Shakespeare,front_matter,contents,ACT II,Scene III,NA,NA,house
-1515,Merchant of Venice,THE MERCHANT OF VENICE,Comedy,1597,William Shakespeare,front_matter,contents,ACT II,Scene IV,NA,NA,scene
-1515,Merchant of Venice,THE MERCHANT OF VENICE,Comedy,1597,William Shakespeare,front_matter,contents,ACT II,Scene IV,NA,NA,iv
-1515,Merchant of Venice,THE MERCHANT OF VENICE,Comedy,1597,William Shakespeare,front_matter,contents,ACT II,Scene IV,NA,NA,the
-1515,Merchant of Venice,THE MERCHANT OF VENICE,Comedy,1597,William Shakespeare,front_matter,contents,ACT II,Scene IV,NA,NA,same
-1515,Merchant of Venice,THE MERCHANT OF VENICE,Comedy,1597,William Shakespeare,front_matter,contents,ACT II,Scene IV,NA,NA,a
-1515,Merchant of Venice,THE MERCHANT OF VENICE,Comedy,1597,William Shakespeare,front_matter,contents,ACT II,Scene IV,NA,NA,street
-1515,Merchant of Venice,THE MERCHANT OF VENICE,Comedy,1597,William Shakespeare,front_matter,contents,ACT II,Scene V,NA,NA,scene
-1515,Merchant of Venice,THE MERCHANT OF VENICE,Comedy,1597,William Shakespeare,front_matter,contents,ACT II,Scene V,NA,NA,v
-1515,Merchant of Venice,THE MERCHANT OF VENICE,Comedy,1597,William Shakespeare,front_matter,contents,ACT II,Scene V,NA,NA,the
-1515,Merchant of Venice,THE MERCHANT OF VENICE,Comedy,1597,William Shakespeare,front_matter,contents,ACT II,Scene V,NA,NA,same
-1515,Merchant of Venice,THE MERCHANT OF VENICE,Comedy,1597,William Shakespeare,front_matter,contents,ACT II,Scene V,NA,NA,before
-1515,Merchant of Venice,THE MERCHANT OF VENICE,Comedy,1597,William Shakespeare,front_matter,contents,ACT II,Scene V,NA,NA,shylock’s
-1515,Merchant of Venice,THE MERCHANT OF VENICE,Comedy,1597,William Shakespeare,front_matter,contents,ACT II,Scene V,NA,NA,house
-1515,Merchant of Venice,THE MERCHANT OF VENICE,Comedy,1597,William Shakespeare,front_matter,contents,ACT II,Scene VI,NA,NA,scene
-1515,Merchant of Venice,THE MERCHANT OF VENICE,Comedy,1597,William Shakespeare,front_matter,contents,ACT II,Scene VI,NA,NA,vi
-1515,Merchant of Venice,THE MERCHANT OF VENICE,Comedy,1597,William Shakespeare,front_matter,contents,ACT II,Scene VI,NA,NA,the
-1515,Merchant of Venice,THE MERCHANT OF VENICE,Comedy,1597,William Shakespeare,front_matter,contents,ACT II,Scene VI,NA,NA,same
-1515,Merchant of Venice,THE MERCHANT OF VENICE,Comedy,1597,William Shakespeare,front_matter,contents,ACT II,Scene VII,NA,NA,scene
-1515,Merchant of Venice,THE MERCHANT OF VENICE,Comedy,1597,William Shakespeare,front_matter,contents,ACT II,Scene VII,NA,NA,vii
-1515,Merchant of Venice,THE MERCHANT OF VENICE,Comedy,1597,William Shakespeare,front_matter,contents,ACT II,Scene VII,NA,NA,belmont
-1515,Merchant of Venice,THE MERCHANT OF VENICE,Comedy,1597,William Shakespeare,front_matter,contents,ACT II,Scene VII,NA,NA,a
-1515,Merchant of Venice,THE MERCHANT OF VENICE,Comedy,1597,William Shakespeare,front_matter,contents,ACT II,Scene VII,NA,NA,room
-1515,Merchant of Venice,THE MERCHANT OF VENICE,Comedy,1597,William Shakespeare,front_matter,contents,ACT II,Scene VII,NA,NA,in
-1515,Merchant of Venice,THE MERCHANT OF VENICE,Comedy,1597,William Shakespeare,front_matter,contents,ACT II,Scene VII,NA,NA,portia’s
-1515,Merchant of Venice,THE MERCHANT OF VENICE,Comedy,1597,William Shakespeare,front_matter,contents,ACT II,Scene VII,NA,NA,house
-1515,Merchant of Venice,THE MERCHANT OF VENICE,Comedy,1597,William Shakespeare,front_matter,contents,ACT II,Scene VIII,NA,NA,scene
-1515,Merchant of Venice,THE MERCHANT OF VENICE,Comedy,1597,William Shakespeare,front_matter,contents,ACT II,Scene VIII,NA,NA,viii
-1515,Merchant of Venice,THE MERCHANT OF VENICE,Comedy,1597,William Shakespeare,front_matter,contents,ACT II,Scene VIII,NA,NA,venice
-1515,Merchant of Venice,THE MERCHANT OF VENICE,Comedy,1597,William Shakespeare,front_matter,contents,ACT II,Scene VIII,NA,NA,a
-1515,Merchant of Venice,THE MERCHANT OF VENICE,Comedy,1597,William Shakespeare,front_matter,contents,ACT II,Scene VIII,NA,NA,street
-1515,Merchant of Venice,THE MERCHANT OF VENICE,Comedy,1597,William Shakespeare,front_matter,contents,ACT II,Scene IX,NA,NA,scene
-1515,Merchant of Venice,THE MERCHANT OF VENICE,Comedy,1597,William Shakespeare,front_matter,contents,ACT II,Scene IX,NA,NA,ix
-1515,Merchant of Venice,THE MERCHANT OF VENICE,Comedy,1597,William Shakespeare,front_matter,contents,ACT II,Scene IX,NA,NA,belmont
-1515,Merchant of Venice,THE MERCHANT OF VENICE,Comedy,1597,William Shakespeare,front_matter,contents,ACT II,Scene IX,NA,NA,a
-1515,Merchant of Venice,THE MERCHANT OF VENICE,Comedy,1597,William Shakespeare,front_matter,contents,ACT II,Scene IX,NA,NA,room
-1515,Merchant of Venice,THE MERCHANT OF VENICE,Comedy,1597,William Shakespeare,front_matter,contents,ACT II,Scene IX,NA,NA,in
-1515,Merchant of Venice,THE MERCHANT OF VENICE,Comedy,1597,William Shakespeare,front_matter,contents,ACT II,Scene IX,NA,NA,portia’s
-1515,Merchant of Venice,THE MERCHANT OF VENICE,Comedy,1597,William Shakespeare,front_matter,contents,ACT II,Scene IX,NA,NA,house
-1515,Merchant of Venice,THE MERCHANT OF VENICE,Comedy,1597,William Shakespeare,front_matter,contents,ACT III,NA,NA,NA,act
-1515,Merchant of Venice,THE MERCHANT OF VENICE,Comedy,1597,William Shakespeare,front_matter,contents,ACT III,NA,NA,NA,iii
-1515,Merchant of Venice,THE MERCHANT OF VENICE,Comedy,1597,William Shakespeare,front_matter,contents,ACT III,Scene I,NA,NA,scene
-1515,Merchant of Venice,THE MERCHANT OF VENICE,Comedy,1597,William Shakespeare,front_matter,contents,ACT III,Scene I,NA,NA,i
-1515,Merchant of Venice,THE MERCHANT OF VENICE,Comedy,1597,William Shakespeare,front_matter,contents,ACT III,Scene I,NA,NA,venice
-1515,Merchant of Venice,THE MERCHANT OF VENICE,Comedy,1597,William Shakespeare,front_matter,contents,ACT III,Scene I,NA,NA,a
-1515,Merchant of Venice,THE MERCHANT OF VENICE,Comedy,1597,William Shakespeare,front_matter,contents,ACT III,Scene I,NA,NA,street
-1515,Merchant of Venice,THE MERCHANT OF VENICE,Comedy,1597,William Shakespeare,front_matter,contents,ACT III,Scene II,NA,NA,scene
-1515,Merchant of Venice,THE MERCHANT OF VENICE,Comedy,1597,William Shakespeare,front_matter,contents,ACT III,Scene II,NA,NA,ii
-1515,Merchant of Venice,THE MERCHANT OF VENICE,Comedy,1597,William Shakespeare,front_matter,contents,ACT III,Scene II,NA,NA,belmont
-1515,Merchant of Venice,THE MERCHANT OF VENICE,Comedy,1597,William Shakespeare,front_matter,contents,ACT III,Scene II,NA,NA,a
-1515,Merchant of Venice,THE MERCHANT OF VENICE,Comedy,1597,William Shakespeare,front_matter,contents,ACT III,Scene II,NA,NA,room
-1515,Merchant of Venice,THE MERCHANT OF VENICE,Comedy,1597,William Shakespeare,front_matter,contents,ACT III,Scene II,NA,NA,in
-1515,Merchant of Venice,THE MERCHANT OF VENICE,Comedy,1597,William Shakespeare,front_matter,contents,ACT III,Scene II,NA,NA,portia’s
-1515,Merchant of Venice,THE MERCHANT OF VENICE,Comedy,1597,William Shakespeare,front_matter,contents,ACT III,Scene II,NA,NA,house
-1515,Merchant of Venice,THE MERCHANT OF VENICE,Comedy,1597,William Shakespeare,front_matter,contents,ACT III,Scene III,NA,NA,scene
-1515,Merchant of Venice,THE MERCHANT OF VENICE,Comedy,1597,William Shakespeare,front_matter,contents,ACT III,Scene III,NA,NA,iii
-1515,Merchant of Venice,THE MERCHANT OF VENICE,Comedy,1597,William Shakespeare,front_matter,contents,ACT III,Scene III,NA,NA,venice
-1515,Merchant of Venice,THE MERCHANT OF VENICE,Comedy,1597,William Shakespeare,front_matter,contents,ACT III,Scene III,NA,NA,a
-1515,Merchant of Venice,THE MERCHANT OF VENICE,Comedy,1597,William Shakespeare,front_matter,contents,ACT III,Scene III,NA,NA,street
-1515,Merchant of Venice,THE MERCHANT OF VENICE,Comedy,1597,William Shakespeare,front_matter,contents,ACT III,Scene IV,NA,NA,scene
-1515,Merchant of Venice,THE MERCHANT OF VENICE,Comedy,1597,William Shakespeare,front_matter,contents,ACT III,Scene IV,NA,NA,iv
-1515,Merchant of Venice,THE MERCHANT OF VENICE,Comedy,1597,William Shakespeare,front_matter,contents,ACT III,Scene IV,NA,NA,belmont
-1515,Merchant of Venice,THE MERCHANT OF VENICE,Comedy,1597,William Shakespeare,front_matter,contents,ACT III,Scene IV,NA,NA,a
-1515,Merchant of Venice,THE MERCHANT OF VENICE,Comedy,1597,William Shakespeare,front_matter,contents,ACT III,Scene IV,NA,NA,room
-1515,Merchant of Venice,THE MERCHANT OF VENICE,Comedy,1597,William Shakespeare,front_matter,contents,ACT III,Scene IV,NA,NA,in
-1515,Merchant of Venice,THE MERCHANT OF VENICE,Comedy,1597,William Shakespeare,front_matter,contents,ACT III,Scene IV,NA,NA,portia’s
-1515,Merchant of Venice,THE MERCHANT OF VENICE,Comedy,1597,William Shakespeare,front_matter,contents,ACT III,Scene IV,NA,NA,house
-1515,Merchant of Venice,THE MERCHANT OF VENICE,Comedy,1597,William Shakespeare,front_matter,contents,ACT III,Scene V,NA,NA,scene
-1515,Merchant of Venice,THE MERCHANT OF VENICE,Comedy,1597,William Shakespeare,front_matter,contents,ACT III,Scene V,NA,NA,v
-1515,Merchant of Venice,THE MERCHANT OF VENICE,Comedy,1597,William Shakespeare,front_matter,contents,ACT III,Scene V,NA,NA,the
-1515,Merchant of Venice,THE MERCHANT OF VENICE,Comedy,1597,William Shakespeare,front_matter,contents,ACT III,Scene V,NA,NA,same
-1515,Merchant of Venice,THE MERCHANT OF VENICE,Comedy,1597,William Shakespeare,front_matter,contents,ACT III,Scene V,NA,NA,a
-1515,Merchant of Venice,THE MERCHANT OF VENICE,Comedy,1597,William Shakespeare,front_matter,contents,ACT III,Scene V,NA,NA,garden
-1515,Merchant of Venice,THE MERCHANT OF VENICE,Comedy,1597,William Shakespeare,front_matter,contents,ACT IV,NA,NA,NA,act
-1515,Merchant of Venice,THE MERCHANT OF VENICE,Comedy,1597,William Shakespeare,front_matter,contents,ACT IV,NA,NA,NA,iv
-1515,Merchant of Venice,THE MERCHANT OF VENICE,Comedy,1597,William Shakespeare,front_matter,contents,ACT IV,Scene I,NA,NA,scene
-1515,Merchant of Venice,THE MERCHANT OF VENICE,Comedy,1597,William Shakespeare,front_matter,contents,ACT IV,Scene I,NA,NA,i
-1515,Merchant of Venice,THE MERCHANT OF VENICE,Comedy,1597,William Shakespeare,front_matter,contents,ACT IV,Scene I,NA,NA,venice
-1515,Merchant of Venice,THE MERCHANT OF VENICE,Comedy,1597,William Shakespeare,front_matter,contents,ACT IV,Scene I,NA,NA,a
-1515,Merchant of Venice,THE MERCHANT OF VENICE,Comedy,1597,William Shakespeare,front_matter,contents,ACT IV,Scene I,NA,NA,court
-1515,Merchant of Venice,THE MERCHANT OF VENICE,Comedy,1597,William Shakespeare,front_matter,contents,ACT IV,Scene I,NA,NA,of
-1515,Merchant of Venice,THE MERCHANT OF VENICE,Comedy,1597,William Shakespeare,front_matter,contents,ACT IV,Scene I,NA,NA,justice
-1515,Merchant of Venice,THE MERCHANT OF VENICE,Comedy,1597,William Shakespeare,front_matter,contents,ACT IV,Scene II,NA,NA,scene
-1515,Merchant of Venice,THE MERCHANT OF VENICE,Comedy,1597,William Shakespeare,front_matter,contents,ACT IV,Scene II,NA,NA,ii
-1515,Merchant of Venice,THE MERCHANT OF VENICE,Comedy,1597,William Shakespeare,front_matter,contents,ACT IV,Scene II,NA,NA,the
-1515,Merchant of Venice,THE MERCHANT OF VENICE,Comedy,1597,William Shakespeare,front_matter,contents,ACT IV,Scene II,NA,NA,same
-1515,Merchant of Venice,THE MERCHANT OF VENICE,Comedy,1597,William Shakespeare,front_matter,contents,ACT IV,Scene II,NA,NA,a
-1515,Merchant of Venice,THE MERCHANT OF VENICE,Comedy,1597,William Shakespeare,front_matter,contents,ACT IV,Scene II,NA,NA,street
-1515,Merchant of Venice,THE MERCHANT OF VENICE,Comedy,1597,William Shakespeare,front_matter,contents,ACT V,NA,NA,NA,act
-1515,Merchant of Venice,THE MERCHANT OF VENICE,Comedy,1597,William Shakespeare,front_matter,contents,ACT V,NA,NA,NA,v
-1515,Merchant of Venice,THE MERCHANT OF VENICE,Comedy,1597,William Shakespeare,front_matter,contents,ACT V,Scene I,NA,NA,scene
-1515,Merchant of Venice,THE MERCHANT OF VENICE,Comedy,1597,William Shakespeare,front_matter,contents,ACT V,Scene I,NA,NA,i
-1515,Merchant of Venice,THE MERCHANT OF VENICE,Comedy,1597,William Shakespeare,front_matter,contents,ACT V,Scene I,NA,NA,belmont
-1515,Merchant of Venice,THE MERCHANT OF VENICE,Comedy,1597,William Shakespeare,front_matter,contents,ACT V,Scene I,NA,NA,the
-1515,Merchant of Venice,THE MERCHANT OF VENICE,Comedy,1597,William Shakespeare,front_matter,contents,ACT V,Scene I,NA,NA,avenue
-1515,Merchant of Venice,THE MERCHANT OF VENICE,Comedy,1597,William Shakespeare,front_matter,contents,ACT V,Scene I,NA,NA,to
-1515,Merchant of Venice,THE MERCHANT OF VENICE,Comedy,1597,William Shakespeare,front_matter,contents,ACT V,Scene I,NA,NA,portia’s
-1515,Merchant of Venice,THE MERCHANT OF VENICE,Comedy,1597,William Shakespeare,front_matter,contents,ACT V,Scene I,NA,NA,house
-1515,Merchant of Venice,THE MERCHANT OF VENICE,Comedy,1597,William Shakespeare,front_matter,dramatis_header,NA,NA,NA,NA,dramatis
-1515,Merchant of Venice,THE MERCHANT OF VENICE,Comedy,1597,William Shakespeare,front_matter,dramatis_header,NA,NA,NA,NA,personæ
-1515,Merchant of Venice,THE MERCHANT OF VENICE,Comedy,1597,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,the
-1515,Merchant of Venice,THE MERCHANT OF VENICE,Comedy,1597,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,duke
-1515,Merchant of Venice,THE MERCHANT OF VENICE,Comedy,1597,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,of
-1515,Merchant of Venice,THE MERCHANT OF VENICE,Comedy,1597,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,venice
-1515,Merchant of Venice,THE MERCHANT OF VENICE,Comedy,1597,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,the
-1515,Merchant of Venice,THE MERCHANT OF VENICE,Comedy,1597,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,prince
-1515,Merchant of Venice,THE MERCHANT OF VENICE,Comedy,1597,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,of
-1515,Merchant of Venice,THE MERCHANT OF VENICE,Comedy,1597,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,morocco
-1515,Merchant of Venice,THE MERCHANT OF VENICE,Comedy,1597,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,suitor
-1515,Merchant of Venice,THE MERCHANT OF VENICE,Comedy,1597,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,to
-1515,Merchant of Venice,THE MERCHANT OF VENICE,Comedy,1597,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,portia
-1515,Merchant of Venice,THE MERCHANT OF VENICE,Comedy,1597,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,the
-1515,Merchant of Venice,THE MERCHANT OF VENICE,Comedy,1597,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,prince
-1515,Merchant of Venice,THE MERCHANT OF VENICE,Comedy,1597,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,of
-1515,Merchant of Venice,THE MERCHANT OF VENICE,Comedy,1597,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,arragon
-1515,Merchant of Venice,THE MERCHANT OF VENICE,Comedy,1597,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,suitor
-1515,Merchant of Venice,THE MERCHANT OF VENICE,Comedy,1597,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,to
-1515,Merchant of Venice,THE MERCHANT OF VENICE,Comedy,1597,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,portia
-1515,Merchant of Venice,THE MERCHANT OF VENICE,Comedy,1597,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,antonio
-1515,Merchant of Venice,THE MERCHANT OF VENICE,Comedy,1597,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,a
-1515,Merchant of Venice,THE MERCHANT OF VENICE,Comedy,1597,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,merchant
-1515,Merchant of Venice,THE MERCHANT OF VENICE,Comedy,1597,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,of
-1515,Merchant of Venice,THE MERCHANT OF VENICE,Comedy,1597,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,venice
-1515,Merchant of Venice,THE MERCHANT OF VENICE,Comedy,1597,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,bassanio
-1515,Merchant of Venice,THE MERCHANT OF VENICE,Comedy,1597,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,his
-1515,Merchant of Venice,THE MERCHANT OF VENICE,Comedy,1597,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,friend
-1515,Merchant of Venice,THE MERCHANT OF VENICE,Comedy,1597,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,suitor
-1515,Merchant of Venice,THE MERCHANT OF VENICE,Comedy,1597,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,to
-1515,Merchant of Venice,THE MERCHANT OF VENICE,Comedy,1597,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,portia
-1515,Merchant of Venice,THE MERCHANT OF VENICE,Comedy,1597,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,gratiano
-1515,Merchant of Venice,THE MERCHANT OF VENICE,Comedy,1597,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,friend
-1515,Merchant of Venice,THE MERCHANT OF VENICE,Comedy,1597,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,to
-1515,Merchant of Venice,THE MERCHANT OF VENICE,Comedy,1597,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,antonio
-1515,Merchant of Venice,THE MERCHANT OF VENICE,Comedy,1597,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,and
-1515,Merchant of Venice,THE MERCHANT OF VENICE,Comedy,1597,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,bassanio
-1515,Merchant of Venice,THE MERCHANT OF VENICE,Comedy,1597,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,solanio
-1515,Merchant of Venice,THE MERCHANT OF VENICE,Comedy,1597,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,friend
-1515,Merchant of Venice,THE MERCHANT OF VENICE,Comedy,1597,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,to
-1515,Merchant of Venice,THE MERCHANT OF VENICE,Comedy,1597,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,antonio
-1515,Merchant of Venice,THE MERCHANT OF VENICE,Comedy,1597,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,and
-1515,Merchant of Venice,THE MERCHANT OF VENICE,Comedy,1597,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,bassanio
-1515,Merchant of Venice,THE MERCHANT OF VENICE,Comedy,1597,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,salarino
-1515,Merchant of Venice,THE MERCHANT OF VENICE,Comedy,1597,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,friend
-1515,Merchant of Venice,THE MERCHANT OF VENICE,Comedy,1597,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,to
-1515,Merchant of Venice,THE MERCHANT OF VENICE,Comedy,1597,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,antonio
-1515,Merchant of Venice,THE MERCHANT OF VENICE,Comedy,1597,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,and
-1515,Merchant of Venice,THE MERCHANT OF VENICE,Comedy,1597,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,bassanio
-1515,Merchant of Venice,THE MERCHANT OF VENICE,Comedy,1597,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,lorenzo
-1515,Merchant of Venice,THE MERCHANT OF VENICE,Comedy,1597,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,in
-1515,Merchant of Venice,THE MERCHANT OF VENICE,Comedy,1597,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,love
-1515,Merchant of Venice,THE MERCHANT OF VENICE,Comedy,1597,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,with
-1515,Merchant of Venice,THE MERCHANT OF VENICE,Comedy,1597,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,jessica
-1515,Merchant of Venice,THE MERCHANT OF VENICE,Comedy,1597,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,shylock
-1515,Merchant of Venice,THE MERCHANT OF VENICE,Comedy,1597,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,a
-1515,Merchant of Venice,THE MERCHANT OF VENICE,Comedy,1597,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,rich
-1515,Merchant of Venice,THE MERCHANT OF VENICE,Comedy,1597,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,jew
-1515,Merchant of Venice,THE MERCHANT OF VENICE,Comedy,1597,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,tubal
-1515,Merchant of Venice,THE MERCHANT OF VENICE,Comedy,1597,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,a
-1515,Merchant of Venice,THE MERCHANT OF VENICE,Comedy,1597,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,jew
-1515,Merchant of Venice,THE MERCHANT OF VENICE,Comedy,1597,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,his
-1515,Merchant of Venice,THE MERCHANT OF VENICE,Comedy,1597,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,friend
-1515,Merchant of Venice,THE MERCHANT OF VENICE,Comedy,1597,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,launcelet
-1515,Merchant of Venice,THE MERCHANT OF VENICE,Comedy,1597,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,gobbo
-1515,Merchant of Venice,THE MERCHANT OF VENICE,Comedy,1597,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,a
-1515,Merchant of Venice,THE MERCHANT OF VENICE,Comedy,1597,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,clown
-1515,Merchant of Venice,THE MERCHANT OF VENICE,Comedy,1597,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,servant
-1515,Merchant of Venice,THE MERCHANT OF VENICE,Comedy,1597,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,to
-1515,Merchant of Venice,THE MERCHANT OF VENICE,Comedy,1597,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,shylock
-1515,Merchant of Venice,THE MERCHANT OF VENICE,Comedy,1597,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,old
-1515,Merchant of Venice,THE MERCHANT OF VENICE,Comedy,1597,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,gobbo
-1515,Merchant of Venice,THE MERCHANT OF VENICE,Comedy,1597,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,father
-1515,Merchant of Venice,THE MERCHANT OF VENICE,Comedy,1597,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,to
-1515,Merchant of Venice,THE MERCHANT OF VENICE,Comedy,1597,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,launcelet
-1515,Merchant of Venice,THE MERCHANT OF VENICE,Comedy,1597,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,leonardo
-1515,Merchant of Venice,THE MERCHANT OF VENICE,Comedy,1597,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,servant
-1515,Merchant of Venice,THE MERCHANT OF VENICE,Comedy,1597,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,to
-1515,Merchant of Venice,THE MERCHANT OF VENICE,Comedy,1597,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,bassanio
-1515,Merchant of Venice,THE MERCHANT OF VENICE,Comedy,1597,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,balthazar
-1515,Merchant of Venice,THE MERCHANT OF VENICE,Comedy,1597,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,servant
-1515,Merchant of Venice,THE MERCHANT OF VENICE,Comedy,1597,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,to
-1515,Merchant of Venice,THE MERCHANT OF VENICE,Comedy,1597,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,portia
-1515,Merchant of Venice,THE MERCHANT OF VENICE,Comedy,1597,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,stephano
-1515,Merchant of Venice,THE MERCHANT OF VENICE,Comedy,1597,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,servant
-1515,Merchant of Venice,THE MERCHANT OF VENICE,Comedy,1597,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,to
-1515,Merchant of Venice,THE MERCHANT OF VENICE,Comedy,1597,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,portia
-1515,Merchant of Venice,THE MERCHANT OF VENICE,Comedy,1597,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,salerio
-1515,Merchant of Venice,THE MERCHANT OF VENICE,Comedy,1597,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,a
-1515,Merchant of Venice,THE MERCHANT OF VENICE,Comedy,1597,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,messenger
-1515,Merchant of Venice,THE MERCHANT OF VENICE,Comedy,1597,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,from
-1515,Merchant of Venice,THE MERCHANT OF VENICE,Comedy,1597,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,venice
-1515,Merchant of Venice,THE MERCHANT OF VENICE,Comedy,1597,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,portia
-1515,Merchant of Venice,THE MERCHANT OF VENICE,Comedy,1597,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,a
-1515,Merchant of Venice,THE MERCHANT OF VENICE,Comedy,1597,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,rich
-1515,Merchant of Venice,THE MERCHANT OF VENICE,Comedy,1597,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,heiress
-1515,Merchant of Venice,THE MERCHANT OF VENICE,Comedy,1597,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,nerissa
-1515,Merchant of Venice,THE MERCHANT OF VENICE,Comedy,1597,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,her
-1515,Merchant of Venice,THE MERCHANT OF VENICE,Comedy,1597,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,waiting
-1515,Merchant of Venice,THE MERCHANT OF VENICE,Comedy,1597,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,woman
-1515,Merchant of Venice,THE MERCHANT OF VENICE,Comedy,1597,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,jessica
-1515,Merchant of Venice,THE MERCHANT OF VENICE,Comedy,1597,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,daughter
-1515,Merchant of Venice,THE MERCHANT OF VENICE,Comedy,1597,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,to
-1515,Merchant of Venice,THE MERCHANT OF VENICE,Comedy,1597,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,shylock
-1515,Merchant of Venice,THE MERCHANT OF VENICE,Comedy,1597,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,magnificoes
-1515,Merchant of Venice,THE MERCHANT OF VENICE,Comedy,1597,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,of
-1515,Merchant of Venice,THE MERCHANT OF VENICE,Comedy,1597,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,venice
-1515,Merchant of Venice,THE MERCHANT OF VENICE,Comedy,1597,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,officers
-1515,Merchant of Venice,THE MERCHANT OF VENICE,Comedy,1597,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,of
-1515,Merchant of Venice,THE MERCHANT OF VENICE,Comedy,1597,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,the
-1515,Merchant of Venice,THE MERCHANT OF VENICE,Comedy,1597,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,court
-1515,Merchant of Venice,THE MERCHANT OF VENICE,Comedy,1597,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,of
-1515,Merchant of Venice,THE MERCHANT OF VENICE,Comedy,1597,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,justice
-1515,Merchant of Venice,THE MERCHANT OF VENICE,Comedy,1597,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,a
-1515,Merchant of Venice,THE MERCHANT OF VENICE,Comedy,1597,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,gaoler
-1515,Merchant of Venice,THE MERCHANT OF VENICE,Comedy,1597,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,servants
-1515,Merchant of Venice,THE MERCHANT OF VENICE,Comedy,1597,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,and
-1515,Merchant of Venice,THE MERCHANT OF VENICE,Comedy,1597,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,other
-1515,Merchant of Venice,THE MERCHANT OF VENICE,Comedy,1597,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,attendants
-1515,Merchant of Venice,THE MERCHANT OF VENICE,Comedy,1597,William Shakespeare,front_matter,scene_description,NA,NA,NA,NA,scene
-1515,Merchant of Venice,THE MERCHANT OF VENICE,Comedy,1597,William Shakespeare,front_matter,scene_description,NA,NA,NA,NA,partly
-1515,Merchant of Venice,THE MERCHANT OF VENICE,Comedy,1597,William Shakespeare,front_matter,scene_description,NA,NA,NA,NA,at
-1515,Merchant of Venice,THE MERCHANT OF VENICE,Comedy,1597,William Shakespeare,front_matter,scene_description,NA,NA,NA,NA,venice
-1515,Merchant of Venice,THE MERCHANT OF VENICE,Comedy,1597,William Shakespeare,front_matter,scene_description,NA,NA,NA,NA,and
-1515,Merchant of Venice,THE MERCHANT OF VENICE,Comedy,1597,William Shakespeare,front_matter,scene_description,NA,NA,NA,NA,partly
-1515,Merchant of Venice,THE MERCHANT OF VENICE,Comedy,1597,William Shakespeare,front_matter,scene_description,NA,NA,NA,NA,at
-1515,Merchant of Venice,THE MERCHANT OF VENICE,Comedy,1597,William Shakespeare,front_matter,scene_description,NA,NA,NA,NA,belmont
-1515,Merchant of Venice,THE MERCHANT OF VENICE,Comedy,1597,William Shakespeare,front_matter,scene_description,NA,NA,NA,NA,the
-1515,Merchant of Venice,THE MERCHANT OF VENICE,Comedy,1597,William Shakespeare,front_matter,scene_description,NA,NA,NA,NA,seat
-1515,Merchant of Venice,THE MERCHANT OF VENICE,Comedy,1597,William Shakespeare,front_matter,scene_description,NA,NA,NA,NA,of
-1515,Merchant of Venice,THE MERCHANT OF VENICE,Comedy,1597,William Shakespeare,front_matter,scene_description,NA,NA,NA,NA,portia
-1515,Merchant of Venice,THE MERCHANT OF VENICE,Comedy,1597,William Shakespeare,front_matter,scene_description,NA,NA,NA,NA,on
-1515,Merchant of Venice,THE MERCHANT OF VENICE,Comedy,1597,William Shakespeare,front_matter,scene_description,NA,NA,NA,NA,the
-1515,Merchant of Venice,THE MERCHANT OF VENICE,Comedy,1597,William Shakespeare,front_matter,scene_description,NA,NA,NA,NA,continent
-1515,Merchant of Venice,THE MERCHANT OF VENICE,Comedy,1597,William Shakespeare,contents,reference,ACT I,NA,NA,NA,act
-1515,Merchant of Venice,THE MERCHANT OF VENICE,Comedy,1597,William Shakespeare,contents,reference,ACT I,NA,NA,NA,i
-1515,Merchant of Venice,THE MERCHANT OF VENICE,Comedy,1597,William Shakespeare,contents,reference,ACT I,SCENE I,NA,NA,scene
-1515,Merchant of Venice,THE MERCHANT OF VENICE,Comedy,1597,William Shakespeare,contents,reference,ACT I,SCENE I,NA,NA,i
-1515,Merchant of Venice,THE MERCHANT OF VENICE,Comedy,1597,William Shakespeare,contents,reference,ACT I,SCENE I,NA,NA,venice
-1515,Merchant of Venice,THE MERCHANT OF VENICE,Comedy,1597,William Shakespeare,contents,reference,ACT I,SCENE I,NA,NA,a
-1515,Merchant of Venice,THE MERCHANT OF VENICE,Comedy,1597,William Shakespeare,contents,reference,ACT I,SCENE I,NA,NA,street
 1515,Merchant of Venice,THE MERCHANT OF VENICE,Comedy,1597,William Shakespeare,contents,directions,ACT I,SCENE I,NA,NA,enter
 1515,Merchant of Venice,THE MERCHANT OF VENICE,Comedy,1597,William Shakespeare,contents,directions,ACT I,SCENE I,NA,NA,antonio
 1515,Merchant of Venice,THE MERCHANT OF VENICE,Comedy,1597,William Shakespeare,contents,directions,ACT I,SCENE I,NA,NA,salarino
@@ -1801,14 +1510,6 @@ gutenberg_id,short_title,gutenberg_title,genre,year,author,section,class,act,sce
 1515,Merchant of Venice,THE MERCHANT OF VENICE,Comedy,1597,William Shakespeare,contents,dialogue,ACT I,SCENE I,ANTONIO,187,my
 1515,Merchant of Venice,THE MERCHANT OF VENICE,Comedy,1597,William Shakespeare,contents,dialogue,ACT I,SCENE I,ANTONIO,187,sake
 1515,Merchant of Venice,THE MERCHANT OF VENICE,Comedy,1597,William Shakespeare,contents,directions,ACT I,SCENE I,NA,NA,exeunt
-1515,Merchant of Venice,THE MERCHANT OF VENICE,Comedy,1597,William Shakespeare,contents,reference,ACT I,SCENE II,NA,NA,scene
-1515,Merchant of Venice,THE MERCHANT OF VENICE,Comedy,1597,William Shakespeare,contents,reference,ACT I,SCENE II,NA,NA,ii
-1515,Merchant of Venice,THE MERCHANT OF VENICE,Comedy,1597,William Shakespeare,contents,reference,ACT I,SCENE II,NA,NA,belmont
-1515,Merchant of Venice,THE MERCHANT OF VENICE,Comedy,1597,William Shakespeare,contents,reference,ACT I,SCENE II,NA,NA,a
-1515,Merchant of Venice,THE MERCHANT OF VENICE,Comedy,1597,William Shakespeare,contents,reference,ACT I,SCENE II,NA,NA,room
-1515,Merchant of Venice,THE MERCHANT OF VENICE,Comedy,1597,William Shakespeare,contents,reference,ACT I,SCENE II,NA,NA,in
-1515,Merchant of Venice,THE MERCHANT OF VENICE,Comedy,1597,William Shakespeare,contents,reference,ACT I,SCENE II,NA,NA,portia’s
-1515,Merchant of Venice,THE MERCHANT OF VENICE,Comedy,1597,William Shakespeare,contents,reference,ACT I,SCENE II,NA,NA,house
 1515,Merchant of Venice,THE MERCHANT OF VENICE,Comedy,1597,William Shakespeare,contents,directions,ACT I,SCENE II,NA,NA,enter
 1515,Merchant of Venice,THE MERCHANT OF VENICE,Comedy,1597,William Shakespeare,contents,directions,ACT I,SCENE II,NA,NA,portia
 1515,Merchant of Venice,THE MERCHANT OF VENICE,Comedy,1597,William Shakespeare,contents,directions,ACT I,SCENE II,NA,NA,with
@@ -2964,12 +2665,6 @@ gutenberg_id,short_title,gutenberg_title,genre,year,author,section,class,act,sce
 1515,Merchant of Venice,THE MERCHANT OF VENICE,Comedy,1597,William Shakespeare,contents,dialogue,ACT I,SCENE II,PORTIA,283,the
 1515,Merchant of Venice,THE MERCHANT OF VENICE,Comedy,1597,William Shakespeare,contents,dialogue,ACT I,SCENE II,PORTIA,283,door
 1515,Merchant of Venice,THE MERCHANT OF VENICE,Comedy,1597,William Shakespeare,contents,directions,ACT I,SCENE II,NA,NA,exeunt
-1515,Merchant of Venice,THE MERCHANT OF VENICE,Comedy,1597,William Shakespeare,contents,reference,ACT I,SCENE III,NA,NA,scene
-1515,Merchant of Venice,THE MERCHANT OF VENICE,Comedy,1597,William Shakespeare,contents,reference,ACT I,SCENE III,NA,NA,iii
-1515,Merchant of Venice,THE MERCHANT OF VENICE,Comedy,1597,William Shakespeare,contents,reference,ACT I,SCENE III,NA,NA,venice
-1515,Merchant of Venice,THE MERCHANT OF VENICE,Comedy,1597,William Shakespeare,contents,reference,ACT I,SCENE III,NA,NA,a
-1515,Merchant of Venice,THE MERCHANT OF VENICE,Comedy,1597,William Shakespeare,contents,reference,ACT I,SCENE III,NA,NA,public
-1515,Merchant of Venice,THE MERCHANT OF VENICE,Comedy,1597,William Shakespeare,contents,reference,ACT I,SCENE III,NA,NA,place
 1515,Merchant of Venice,THE MERCHANT OF VENICE,Comedy,1597,William Shakespeare,contents,directions,ACT I,SCENE III,NA,NA,enter
 1515,Merchant of Venice,THE MERCHANT OF VENICE,Comedy,1597,William Shakespeare,contents,directions,ACT I,SCENE III,NA,NA,bassanio
 1515,Merchant of Venice,THE MERCHANT OF VENICE,Comedy,1597,William Shakespeare,contents,directions,ACT I,SCENE III,NA,NA,with
@@ -4400,16 +4095,6 @@ gutenberg_id,short_title,gutenberg_title,genre,year,author,section,class,act,sce
 1515,Merchant of Venice,THE MERCHANT OF VENICE,Comedy,1597,William Shakespeare,contents,dialogue,ACT I,SCENE III,ANTONIO,461,the
 1515,Merchant of Venice,THE MERCHANT OF VENICE,Comedy,1597,William Shakespeare,contents,dialogue,ACT I,SCENE III,ANTONIO,461,day
 1515,Merchant of Venice,THE MERCHANT OF VENICE,Comedy,1597,William Shakespeare,contents,directions,ACT I,SCENE III,NA,NA,exeunt
-1515,Merchant of Venice,THE MERCHANT OF VENICE,Comedy,1597,William Shakespeare,contents,reference,ACT II,SCENE III,NA,NA,act
-1515,Merchant of Venice,THE MERCHANT OF VENICE,Comedy,1597,William Shakespeare,contents,reference,ACT II,SCENE III,NA,NA,ii
-1515,Merchant of Venice,THE MERCHANT OF VENICE,Comedy,1597,William Shakespeare,contents,reference,ACT II,SCENE I,NA,NA,scene
-1515,Merchant of Venice,THE MERCHANT OF VENICE,Comedy,1597,William Shakespeare,contents,reference,ACT II,SCENE I,NA,NA,i
-1515,Merchant of Venice,THE MERCHANT OF VENICE,Comedy,1597,William Shakespeare,contents,reference,ACT II,SCENE I,NA,NA,belmont
-1515,Merchant of Venice,THE MERCHANT OF VENICE,Comedy,1597,William Shakespeare,contents,reference,ACT II,SCENE I,NA,NA,a
-1515,Merchant of Venice,THE MERCHANT OF VENICE,Comedy,1597,William Shakespeare,contents,reference,ACT II,SCENE I,NA,NA,room
-1515,Merchant of Venice,THE MERCHANT OF VENICE,Comedy,1597,William Shakespeare,contents,reference,ACT II,SCENE I,NA,NA,in
-1515,Merchant of Venice,THE MERCHANT OF VENICE,Comedy,1597,William Shakespeare,contents,reference,ACT II,SCENE I,NA,NA,portia’s
-1515,Merchant of Venice,THE MERCHANT OF VENICE,Comedy,1597,William Shakespeare,contents,reference,ACT II,SCENE I,NA,NA,house
 1515,Merchant of Venice,THE MERCHANT OF VENICE,Comedy,1597,William Shakespeare,contents,directions,ACT II,SCENE I,NA,NA,flourish
 1515,Merchant of Venice,THE MERCHANT OF VENICE,Comedy,1597,William Shakespeare,contents,directions,ACT II,SCENE I,NA,NA,of
 1515,Merchant of Venice,THE MERCHANT OF VENICE,Comedy,1597,William Shakespeare,contents,directions,ACT II,SCENE I,NA,NA,cornets
@@ -4803,11 +4488,6 @@ gutenberg_id,short_title,gutenberg_title,genre,year,author,section,class,act,sce
 1515,Merchant of Venice,THE MERCHANT OF VENICE,Comedy,1597,William Shakespeare,contents,dialogue,ACT II,SCENE I,PRINCE OF MOROCCO,510,men
 1515,Merchant of Venice,THE MERCHANT OF VENICE,Comedy,1597,William Shakespeare,contents,directions,ACT II,SCENE I,NA,NA,cornets
 1515,Merchant of Venice,THE MERCHANT OF VENICE,Comedy,1597,William Shakespeare,contents,directions,ACT II,SCENE I,NA,NA,exeunt
-1515,Merchant of Venice,THE MERCHANT OF VENICE,Comedy,1597,William Shakespeare,contents,reference,ACT II,SCENE II,NA,NA,scene
-1515,Merchant of Venice,THE MERCHANT OF VENICE,Comedy,1597,William Shakespeare,contents,reference,ACT II,SCENE II,NA,NA,ii
-1515,Merchant of Venice,THE MERCHANT OF VENICE,Comedy,1597,William Shakespeare,contents,reference,ACT II,SCENE II,NA,NA,venice
-1515,Merchant of Venice,THE MERCHANT OF VENICE,Comedy,1597,William Shakespeare,contents,reference,ACT II,SCENE II,NA,NA,a
-1515,Merchant of Venice,THE MERCHANT OF VENICE,Comedy,1597,William Shakespeare,contents,reference,ACT II,SCENE II,NA,NA,street
 1515,Merchant of Venice,THE MERCHANT OF VENICE,Comedy,1597,William Shakespeare,contents,directions,ACT II,SCENE II,NA,NA,enter
 1515,Merchant of Venice,THE MERCHANT OF VENICE,Comedy,1597,William Shakespeare,contents,directions,ACT II,SCENE II,NA,NA,launcelet
 1515,Merchant of Venice,THE MERCHANT OF VENICE,Comedy,1597,William Shakespeare,contents,directions,ACT II,SCENE II,NA,NA,gobbo
@@ -6525,15 +6205,6 @@ gutenberg_id,short_title,gutenberg_title,genre,year,author,section,class,act,sce
 1515,Merchant of Venice,THE MERCHANT OF VENICE,Comedy,1597,William Shakespeare,contents,dialogue,ACT II,SCENE II,GRATIANO,678,supper
 1515,Merchant of Venice,THE MERCHANT OF VENICE,Comedy,1597,William Shakespeare,contents,dialogue,ACT II,SCENE II,GRATIANO,678,time
 1515,Merchant of Venice,THE MERCHANT OF VENICE,Comedy,1597,William Shakespeare,contents,directions,ACT II,SCENE II,NA,NA,exeunt
-1515,Merchant of Venice,THE MERCHANT OF VENICE,Comedy,1597,William Shakespeare,contents,reference,ACT II,SCENE III,NA,NA,scene
-1515,Merchant of Venice,THE MERCHANT OF VENICE,Comedy,1597,William Shakespeare,contents,reference,ACT II,SCENE III,NA,NA,iii
-1515,Merchant of Venice,THE MERCHANT OF VENICE,Comedy,1597,William Shakespeare,contents,reference,ACT II,SCENE III,NA,NA,the
-1515,Merchant of Venice,THE MERCHANT OF VENICE,Comedy,1597,William Shakespeare,contents,reference,ACT II,SCENE III,NA,NA,same
-1515,Merchant of Venice,THE MERCHANT OF VENICE,Comedy,1597,William Shakespeare,contents,reference,ACT II,SCENE III,NA,NA,a
-1515,Merchant of Venice,THE MERCHANT OF VENICE,Comedy,1597,William Shakespeare,contents,reference,ACT II,SCENE III,NA,NA,room
-1515,Merchant of Venice,THE MERCHANT OF VENICE,Comedy,1597,William Shakespeare,contents,reference,ACT II,SCENE III,NA,NA,in
-1515,Merchant of Venice,THE MERCHANT OF VENICE,Comedy,1597,William Shakespeare,contents,reference,ACT II,SCENE III,NA,NA,shylock’s
-1515,Merchant of Venice,THE MERCHANT OF VENICE,Comedy,1597,William Shakespeare,contents,reference,ACT II,SCENE III,NA,NA,house
 1515,Merchant of Venice,THE MERCHANT OF VENICE,Comedy,1597,William Shakespeare,contents,directions,ACT II,SCENE III,NA,NA,enter
 1515,Merchant of Venice,THE MERCHANT OF VENICE,Comedy,1597,William Shakespeare,contents,directions,ACT II,SCENE III,NA,NA,jessica
 1515,Merchant of Venice,THE MERCHANT OF VENICE,Comedy,1597,William Shakespeare,contents,directions,ACT II,SCENE III,NA,NA,and
@@ -6704,12 +6375,6 @@ gutenberg_id,short_title,gutenberg_title,genre,year,author,section,class,act,sce
 1515,Merchant of Venice,THE MERCHANT OF VENICE,Comedy,1597,William Shakespeare,contents,dialogue,ACT II,SCENE III,JESSICA,698,loving
 1515,Merchant of Venice,THE MERCHANT OF VENICE,Comedy,1597,William Shakespeare,contents,dialogue,ACT II,SCENE III,JESSICA,698,wife
 1515,Merchant of Venice,THE MERCHANT OF VENICE,Comedy,1597,William Shakespeare,contents,directions,ACT II,SCENE III,NA,NA,exit
-1515,Merchant of Venice,THE MERCHANT OF VENICE,Comedy,1597,William Shakespeare,contents,reference,ACT II,SCENE IV,NA,NA,scene
-1515,Merchant of Venice,THE MERCHANT OF VENICE,Comedy,1597,William Shakespeare,contents,reference,ACT II,SCENE IV,NA,NA,iv
-1515,Merchant of Venice,THE MERCHANT OF VENICE,Comedy,1597,William Shakespeare,contents,reference,ACT II,SCENE IV,NA,NA,the
-1515,Merchant of Venice,THE MERCHANT OF VENICE,Comedy,1597,William Shakespeare,contents,reference,ACT II,SCENE IV,NA,NA,same
-1515,Merchant of Venice,THE MERCHANT OF VENICE,Comedy,1597,William Shakespeare,contents,reference,ACT II,SCENE IV,NA,NA,a
-1515,Merchant of Venice,THE MERCHANT OF VENICE,Comedy,1597,William Shakespeare,contents,reference,ACT II,SCENE IV,NA,NA,street
 1515,Merchant of Venice,THE MERCHANT OF VENICE,Comedy,1597,William Shakespeare,contents,directions,ACT II,SCENE IV,NA,NA,enter
 1515,Merchant of Venice,THE MERCHANT OF VENICE,Comedy,1597,William Shakespeare,contents,directions,ACT II,SCENE IV,NA,NA,gratiano
 1515,Merchant of Venice,THE MERCHANT OF VENICE,Comedy,1597,William Shakespeare,contents,directions,ACT II,SCENE IV,NA,NA,lorenzo
@@ -7015,13 +6680,6 @@ gutenberg_id,short_title,gutenberg_title,genre,year,author,section,class,act,sce
 1515,Merchant of Venice,THE MERCHANT OF VENICE,Comedy,1597,William Shakespeare,contents,dialogue,ACT II,SCENE IV,LORENZO,739,torch
 1515,Merchant of Venice,THE MERCHANT OF VENICE,Comedy,1597,William Shakespeare,contents,dialogue,ACT II,SCENE IV,LORENZO,739,bearer
 1515,Merchant of Venice,THE MERCHANT OF VENICE,Comedy,1597,William Shakespeare,contents,directions,ACT II,SCENE IV,NA,NA,exeunt
-1515,Merchant of Venice,THE MERCHANT OF VENICE,Comedy,1597,William Shakespeare,contents,reference,ACT II,SCENE V,NA,NA,scene
-1515,Merchant of Venice,THE MERCHANT OF VENICE,Comedy,1597,William Shakespeare,contents,reference,ACT II,SCENE V,NA,NA,v
-1515,Merchant of Venice,THE MERCHANT OF VENICE,Comedy,1597,William Shakespeare,contents,reference,ACT II,SCENE V,NA,NA,the
-1515,Merchant of Venice,THE MERCHANT OF VENICE,Comedy,1597,William Shakespeare,contents,reference,ACT II,SCENE V,NA,NA,same
-1515,Merchant of Venice,THE MERCHANT OF VENICE,Comedy,1597,William Shakespeare,contents,reference,ACT II,SCENE V,NA,NA,before
-1515,Merchant of Venice,THE MERCHANT OF VENICE,Comedy,1597,William Shakespeare,contents,reference,ACT II,SCENE V,NA,NA,shylock’s
-1515,Merchant of Venice,THE MERCHANT OF VENICE,Comedy,1597,William Shakespeare,contents,reference,ACT II,SCENE V,NA,NA,house
 1515,Merchant of Venice,THE MERCHANT OF VENICE,Comedy,1597,William Shakespeare,contents,directions,ACT II,SCENE V,NA,NA,enter
 1515,Merchant of Venice,THE MERCHANT OF VENICE,Comedy,1597,William Shakespeare,contents,directions,ACT II,SCENE V,NA,NA,shylock
 1515,Merchant of Venice,THE MERCHANT OF VENICE,Comedy,1597,William Shakespeare,contents,directions,ACT II,SCENE V,NA,NA,the
@@ -7482,10 +7140,6 @@ gutenberg_id,short_title,gutenberg_title,genre,year,author,section,class,act,sce
 1515,Merchant of Venice,THE MERCHANT OF VENICE,Comedy,1597,William Shakespeare,contents,dialogue,ACT II,SCENE V,JESSICA,793,daughter
 1515,Merchant of Venice,THE MERCHANT OF VENICE,Comedy,1597,William Shakespeare,contents,dialogue,ACT II,SCENE V,JESSICA,793,lost
 1515,Merchant of Venice,THE MERCHANT OF VENICE,Comedy,1597,William Shakespeare,contents,directions,ACT II,SCENE V,NA,NA,exit
-1515,Merchant of Venice,THE MERCHANT OF VENICE,Comedy,1597,William Shakespeare,contents,reference,ACT II,SCENE VI,NA,NA,scene
-1515,Merchant of Venice,THE MERCHANT OF VENICE,Comedy,1597,William Shakespeare,contents,reference,ACT II,SCENE VI,NA,NA,vi
-1515,Merchant of Venice,THE MERCHANT OF VENICE,Comedy,1597,William Shakespeare,contents,reference,ACT II,SCENE VI,NA,NA,the
-1515,Merchant of Venice,THE MERCHANT OF VENICE,Comedy,1597,William Shakespeare,contents,reference,ACT II,SCENE VI,NA,NA,same
 1515,Merchant of Venice,THE MERCHANT OF VENICE,Comedy,1597,William Shakespeare,contents,directions,ACT II,SCENE VI,NA,NA,enter
 1515,Merchant of Venice,THE MERCHANT OF VENICE,Comedy,1597,William Shakespeare,contents,directions,ACT II,SCENE VI,NA,NA,the
 1515,Merchant of Venice,THE MERCHANT OF VENICE,Comedy,1597,William Shakespeare,contents,directions,ACT II,SCENE VI,NA,NA,masquers
@@ -8045,14 +7699,6 @@ gutenberg_id,short_title,gutenberg_title,genre,year,author,section,class,act,sce
 1515,Merchant of Venice,THE MERCHANT OF VENICE,Comedy,1597,William Shakespeare,contents,dialogue,ACT II,SCENE VI,GRATIANO,863,gone
 1515,Merchant of Venice,THE MERCHANT OF VENICE,Comedy,1597,William Shakespeare,contents,dialogue,ACT II,SCENE VI,GRATIANO,863,tonight
 1515,Merchant of Venice,THE MERCHANT OF VENICE,Comedy,1597,William Shakespeare,contents,directions,ACT II,SCENE VI,NA,NA,exeunt
-1515,Merchant of Venice,THE MERCHANT OF VENICE,Comedy,1597,William Shakespeare,contents,reference,ACT II,SCENE VII,NA,NA,scene
-1515,Merchant of Venice,THE MERCHANT OF VENICE,Comedy,1597,William Shakespeare,contents,reference,ACT II,SCENE VII,NA,NA,vii
-1515,Merchant of Venice,THE MERCHANT OF VENICE,Comedy,1597,William Shakespeare,contents,reference,ACT II,SCENE VII,NA,NA,belmont
-1515,Merchant of Venice,THE MERCHANT OF VENICE,Comedy,1597,William Shakespeare,contents,reference,ACT II,SCENE VII,NA,NA,a
-1515,Merchant of Venice,THE MERCHANT OF VENICE,Comedy,1597,William Shakespeare,contents,reference,ACT II,SCENE VII,NA,NA,room
-1515,Merchant of Venice,THE MERCHANT OF VENICE,Comedy,1597,William Shakespeare,contents,reference,ACT II,SCENE VII,NA,NA,in
-1515,Merchant of Venice,THE MERCHANT OF VENICE,Comedy,1597,William Shakespeare,contents,reference,ACT II,SCENE VII,NA,NA,portia’s
-1515,Merchant of Venice,THE MERCHANT OF VENICE,Comedy,1597,William Shakespeare,contents,reference,ACT II,SCENE VII,NA,NA,house
 1515,Merchant of Venice,THE MERCHANT OF VENICE,Comedy,1597,William Shakespeare,contents,directions,ACT II,SCENE VII,NA,NA,flourish
 1515,Merchant of Venice,THE MERCHANT OF VENICE,Comedy,1597,William Shakespeare,contents,directions,ACT II,SCENE VII,NA,NA,of
 1515,Merchant of Venice,THE MERCHANT OF VENICE,Comedy,1597,William Shakespeare,contents,directions,ACT II,SCENE VII,NA,NA,cornets
@@ -8701,11 +8347,6 @@ gutenberg_id,short_title,gutenberg_title,genre,year,author,section,class,act,sce
 1515,Merchant of Venice,THE MERCHANT OF VENICE,Comedy,1597,William Shakespeare,contents,dialogue,ACT II,SCENE VII,PORTIA,943,me
 1515,Merchant of Venice,THE MERCHANT OF VENICE,Comedy,1597,William Shakespeare,contents,dialogue,ACT II,SCENE VII,PORTIA,943,so
 1515,Merchant of Venice,THE MERCHANT OF VENICE,Comedy,1597,William Shakespeare,contents,directions,ACT II,SCENE VII,NA,NA,exeunt
-1515,Merchant of Venice,THE MERCHANT OF VENICE,Comedy,1597,William Shakespeare,contents,reference,ACT II,SCENE VIII,NA,NA,scene
-1515,Merchant of Venice,THE MERCHANT OF VENICE,Comedy,1597,William Shakespeare,contents,reference,ACT II,SCENE VIII,NA,NA,viii
-1515,Merchant of Venice,THE MERCHANT OF VENICE,Comedy,1597,William Shakespeare,contents,reference,ACT II,SCENE VIII,NA,NA,venice
-1515,Merchant of Venice,THE MERCHANT OF VENICE,Comedy,1597,William Shakespeare,contents,reference,ACT II,SCENE VIII,NA,NA,a
-1515,Merchant of Venice,THE MERCHANT OF VENICE,Comedy,1597,William Shakespeare,contents,reference,ACT II,SCENE VIII,NA,NA,street
 1515,Merchant of Venice,THE MERCHANT OF VENICE,Comedy,1597,William Shakespeare,contents,directions,ACT II,SCENE VIII,NA,NA,enter
 1515,Merchant of Venice,THE MERCHANT OF VENICE,Comedy,1597,William Shakespeare,contents,directions,ACT II,SCENE VIII,NA,NA,salarino
 1515,Merchant of Venice,THE MERCHANT OF VENICE,Comedy,1597,William Shakespeare,contents,directions,ACT II,SCENE VIII,NA,NA,and
@@ -9124,14 +8765,6 @@ gutenberg_id,short_title,gutenberg_title,genre,year,author,section,class,act,sce
 1515,Merchant of Venice,THE MERCHANT OF VENICE,Comedy,1597,William Shakespeare,contents,dialogue,ACT II,SCENE VIII,SALARINO,998,we
 1515,Merchant of Venice,THE MERCHANT OF VENICE,Comedy,1597,William Shakespeare,contents,dialogue,ACT II,SCENE VIII,SALARINO,998,so
 1515,Merchant of Venice,THE MERCHANT OF VENICE,Comedy,1597,William Shakespeare,contents,directions,ACT II,SCENE VIII,NA,NA,exeunt
-1515,Merchant of Venice,THE MERCHANT OF VENICE,Comedy,1597,William Shakespeare,contents,reference,ACT II,SCENE IX,NA,NA,scene
-1515,Merchant of Venice,THE MERCHANT OF VENICE,Comedy,1597,William Shakespeare,contents,reference,ACT II,SCENE IX,NA,NA,ix
-1515,Merchant of Venice,THE MERCHANT OF VENICE,Comedy,1597,William Shakespeare,contents,reference,ACT II,SCENE IX,NA,NA,belmont
-1515,Merchant of Venice,THE MERCHANT OF VENICE,Comedy,1597,William Shakespeare,contents,reference,ACT II,SCENE IX,NA,NA,a
-1515,Merchant of Venice,THE MERCHANT OF VENICE,Comedy,1597,William Shakespeare,contents,reference,ACT II,SCENE IX,NA,NA,room
-1515,Merchant of Venice,THE MERCHANT OF VENICE,Comedy,1597,William Shakespeare,contents,reference,ACT II,SCENE IX,NA,NA,in
-1515,Merchant of Venice,THE MERCHANT OF VENICE,Comedy,1597,William Shakespeare,contents,reference,ACT II,SCENE IX,NA,NA,portia’s
-1515,Merchant of Venice,THE MERCHANT OF VENICE,Comedy,1597,William Shakespeare,contents,reference,ACT II,SCENE IX,NA,NA,house
 1515,Merchant of Venice,THE MERCHANT OF VENICE,Comedy,1597,William Shakespeare,contents,directions,ACT II,SCENE IX,NA,NA,enter
 1515,Merchant of Venice,THE MERCHANT OF VENICE,Comedy,1597,William Shakespeare,contents,directions,ACT II,SCENE IX,NA,NA,nerissa
 1515,Merchant of Venice,THE MERCHANT OF VENICE,Comedy,1597,William Shakespeare,contents,directions,ACT II,SCENE IX,NA,NA,and
@@ -9931,13 +9564,6 @@ gutenberg_id,short_title,gutenberg_title,genre,year,author,section,class,act,sce
 1515,Merchant of Venice,THE MERCHANT OF VENICE,Comedy,1597,William Shakespeare,contents,dialogue,ACT II,SCENE IX,NERISSA,1103,it
 1515,Merchant of Venice,THE MERCHANT OF VENICE,Comedy,1597,William Shakespeare,contents,dialogue,ACT II,SCENE IX,NERISSA,1103,be
 1515,Merchant of Venice,THE MERCHANT OF VENICE,Comedy,1597,William Shakespeare,contents,directions,ACT II,SCENE IX,NA,NA,exeunt
-1515,Merchant of Venice,THE MERCHANT OF VENICE,Comedy,1597,William Shakespeare,contents,reference,ACT III,SCENE IX,NA,NA,act
-1515,Merchant of Venice,THE MERCHANT OF VENICE,Comedy,1597,William Shakespeare,contents,reference,ACT III,SCENE IX,NA,NA,iii
-1515,Merchant of Venice,THE MERCHANT OF VENICE,Comedy,1597,William Shakespeare,contents,reference,ACT III,SCENE I,NA,NA,scene
-1515,Merchant of Venice,THE MERCHANT OF VENICE,Comedy,1597,William Shakespeare,contents,reference,ACT III,SCENE I,NA,NA,i
-1515,Merchant of Venice,THE MERCHANT OF VENICE,Comedy,1597,William Shakespeare,contents,reference,ACT III,SCENE I,NA,NA,venice
-1515,Merchant of Venice,THE MERCHANT OF VENICE,Comedy,1597,William Shakespeare,contents,reference,ACT III,SCENE I,NA,NA,a
-1515,Merchant of Venice,THE MERCHANT OF VENICE,Comedy,1597,William Shakespeare,contents,reference,ACT III,SCENE I,NA,NA,street
 1515,Merchant of Venice,THE MERCHANT OF VENICE,Comedy,1597,William Shakespeare,contents,directions,ACT III,SCENE I,NA,NA,enter
 1515,Merchant of Venice,THE MERCHANT OF VENICE,Comedy,1597,William Shakespeare,contents,directions,ACT III,SCENE I,NA,NA,solanio
 1515,Merchant of Venice,THE MERCHANT OF VENICE,Comedy,1597,William Shakespeare,contents,directions,ACT III,SCENE I,NA,NA,and
@@ -10989,14 +10615,6 @@ gutenberg_id,short_title,gutenberg_title,genre,year,author,section,class,act,sce
 1515,Merchant of Venice,THE MERCHANT OF VENICE,Comedy,1597,William Shakespeare,contents,dialogue,ACT III,SCENE I,SHYLOCK,1196,synagogue
 1515,Merchant of Venice,THE MERCHANT OF VENICE,Comedy,1597,William Shakespeare,contents,dialogue,ACT III,SCENE I,SHYLOCK,1196,tubal
 1515,Merchant of Venice,THE MERCHANT OF VENICE,Comedy,1597,William Shakespeare,contents,directions,ACT III,SCENE I,NA,NA,exeunt
-1515,Merchant of Venice,THE MERCHANT OF VENICE,Comedy,1597,William Shakespeare,contents,reference,ACT III,SCENE II,NA,NA,scene
-1515,Merchant of Venice,THE MERCHANT OF VENICE,Comedy,1597,William Shakespeare,contents,reference,ACT III,SCENE II,NA,NA,ii
-1515,Merchant of Venice,THE MERCHANT OF VENICE,Comedy,1597,William Shakespeare,contents,reference,ACT III,SCENE II,NA,NA,belmont
-1515,Merchant of Venice,THE MERCHANT OF VENICE,Comedy,1597,William Shakespeare,contents,reference,ACT III,SCENE II,NA,NA,a
-1515,Merchant of Venice,THE MERCHANT OF VENICE,Comedy,1597,William Shakespeare,contents,reference,ACT III,SCENE II,NA,NA,room
-1515,Merchant of Venice,THE MERCHANT OF VENICE,Comedy,1597,William Shakespeare,contents,reference,ACT III,SCENE II,NA,NA,in
-1515,Merchant of Venice,THE MERCHANT OF VENICE,Comedy,1597,William Shakespeare,contents,reference,ACT III,SCENE II,NA,NA,portia’s
-1515,Merchant of Venice,THE MERCHANT OF VENICE,Comedy,1597,William Shakespeare,contents,reference,ACT III,SCENE II,NA,NA,house
 1515,Merchant of Venice,THE MERCHANT OF VENICE,Comedy,1597,William Shakespeare,contents,directions,ACT III,SCENE II,NA,NA,enter
 1515,Merchant of Venice,THE MERCHANT OF VENICE,Comedy,1597,William Shakespeare,contents,directions,ACT III,SCENE II,NA,NA,bassanio
 1515,Merchant of Venice,THE MERCHANT OF VENICE,Comedy,1597,William Shakespeare,contents,directions,ACT III,SCENE II,NA,NA,portia
@@ -13612,11 +13230,6 @@ gutenberg_id,short_title,gutenberg_title,genre,year,author,section,class,act,sce
 1515,Merchant of Venice,THE MERCHANT OF VENICE,Comedy,1597,William Shakespeare,contents,dialogue,ACT III,SCENE II,BASSANIO,1529,us
 1515,Merchant of Venice,THE MERCHANT OF VENICE,Comedy,1597,William Shakespeare,contents,dialogue,ACT III,SCENE II,BASSANIO,1529,twain
 1515,Merchant of Venice,THE MERCHANT OF VENICE,Comedy,1597,William Shakespeare,contents,directions,ACT III,SCENE II,NA,NA,exeunt
-1515,Merchant of Venice,THE MERCHANT OF VENICE,Comedy,1597,William Shakespeare,contents,reference,ACT III,SCENE III,NA,NA,scene
-1515,Merchant of Venice,THE MERCHANT OF VENICE,Comedy,1597,William Shakespeare,contents,reference,ACT III,SCENE III,NA,NA,iii
-1515,Merchant of Venice,THE MERCHANT OF VENICE,Comedy,1597,William Shakespeare,contents,reference,ACT III,SCENE III,NA,NA,venice
-1515,Merchant of Venice,THE MERCHANT OF VENICE,Comedy,1597,William Shakespeare,contents,reference,ACT III,SCENE III,NA,NA,a
-1515,Merchant of Venice,THE MERCHANT OF VENICE,Comedy,1597,William Shakespeare,contents,reference,ACT III,SCENE III,NA,NA,street
 1515,Merchant of Venice,THE MERCHANT OF VENICE,Comedy,1597,William Shakespeare,contents,directions,ACT III,SCENE III,NA,NA,enter
 1515,Merchant of Venice,THE MERCHANT OF VENICE,Comedy,1597,William Shakespeare,contents,directions,ACT III,SCENE III,NA,NA,shylock
 1515,Merchant of Venice,THE MERCHANT OF VENICE,Comedy,1597,William Shakespeare,contents,directions,ACT III,SCENE III,NA,NA,salarino
@@ -13920,14 +13533,6 @@ gutenberg_id,short_title,gutenberg_title,genre,year,author,section,class,act,sce
 1515,Merchant of Venice,THE MERCHANT OF VENICE,Comedy,1597,William Shakespeare,contents,dialogue,ACT III,SCENE III,ANTONIO,1568,care
 1515,Merchant of Venice,THE MERCHANT OF VENICE,Comedy,1597,William Shakespeare,contents,dialogue,ACT III,SCENE III,ANTONIO,1568,not
 1515,Merchant of Venice,THE MERCHANT OF VENICE,Comedy,1597,William Shakespeare,contents,directions,ACT III,SCENE III,NA,NA,exeunt
-1515,Merchant of Venice,THE MERCHANT OF VENICE,Comedy,1597,William Shakespeare,contents,reference,ACT III,SCENE IV,NA,NA,scene
-1515,Merchant of Venice,THE MERCHANT OF VENICE,Comedy,1597,William Shakespeare,contents,reference,ACT III,SCENE IV,NA,NA,iv
-1515,Merchant of Venice,THE MERCHANT OF VENICE,Comedy,1597,William Shakespeare,contents,reference,ACT III,SCENE IV,NA,NA,belmont
-1515,Merchant of Venice,THE MERCHANT OF VENICE,Comedy,1597,William Shakespeare,contents,reference,ACT III,SCENE IV,NA,NA,a
-1515,Merchant of Venice,THE MERCHANT OF VENICE,Comedy,1597,William Shakespeare,contents,reference,ACT III,SCENE IV,NA,NA,room
-1515,Merchant of Venice,THE MERCHANT OF VENICE,Comedy,1597,William Shakespeare,contents,reference,ACT III,SCENE IV,NA,NA,in
-1515,Merchant of Venice,THE MERCHANT OF VENICE,Comedy,1597,William Shakespeare,contents,reference,ACT III,SCENE IV,NA,NA,portia’s
-1515,Merchant of Venice,THE MERCHANT OF VENICE,Comedy,1597,William Shakespeare,contents,reference,ACT III,SCENE IV,NA,NA,house
 1515,Merchant of Venice,THE MERCHANT OF VENICE,Comedy,1597,William Shakespeare,contents,directions,ACT III,SCENE IV,NA,NA,enter
 1515,Merchant of Venice,THE MERCHANT OF VENICE,Comedy,1597,William Shakespeare,contents,directions,ACT III,SCENE IV,NA,NA,portia
 1515,Merchant of Venice,THE MERCHANT OF VENICE,Comedy,1597,William Shakespeare,contents,directions,ACT III,SCENE IV,NA,NA,nerissa
@@ -14601,12 +14206,6 @@ gutenberg_id,short_title,gutenberg_title,genre,year,author,section,class,act,sce
 1515,Merchant of Venice,THE MERCHANT OF VENICE,Comedy,1597,William Shakespeare,contents,dialogue,ACT III,SCENE IV,PORTIA,1655,miles
 1515,Merchant of Venice,THE MERCHANT OF VENICE,Comedy,1597,William Shakespeare,contents,dialogue,ACT III,SCENE IV,PORTIA,1655,today
 1515,Merchant of Venice,THE MERCHANT OF VENICE,Comedy,1597,William Shakespeare,contents,directions,ACT III,SCENE IV,NA,NA,exeunt
-1515,Merchant of Venice,THE MERCHANT OF VENICE,Comedy,1597,William Shakespeare,contents,reference,ACT III,SCENE V,NA,NA,scene
-1515,Merchant of Venice,THE MERCHANT OF VENICE,Comedy,1597,William Shakespeare,contents,reference,ACT III,SCENE V,NA,NA,v
-1515,Merchant of Venice,THE MERCHANT OF VENICE,Comedy,1597,William Shakespeare,contents,reference,ACT III,SCENE V,NA,NA,the
-1515,Merchant of Venice,THE MERCHANT OF VENICE,Comedy,1597,William Shakespeare,contents,reference,ACT III,SCENE V,NA,NA,same
-1515,Merchant of Venice,THE MERCHANT OF VENICE,Comedy,1597,William Shakespeare,contents,reference,ACT III,SCENE V,NA,NA,a
-1515,Merchant of Venice,THE MERCHANT OF VENICE,Comedy,1597,William Shakespeare,contents,reference,ACT III,SCENE V,NA,NA,garden
 1515,Merchant of Venice,THE MERCHANT OF VENICE,Comedy,1597,William Shakespeare,contents,directions,ACT III,SCENE V,NA,NA,enter
 1515,Merchant of Venice,THE MERCHANT OF VENICE,Comedy,1597,William Shakespeare,contents,directions,ACT III,SCENE V,NA,NA,launcelet
 1515,Merchant of Venice,THE MERCHANT OF VENICE,Comedy,1597,William Shakespeare,contents,directions,ACT III,SCENE V,NA,NA,and
@@ -15341,15 +14940,6 @@ gutenberg_id,short_title,gutenberg_title,genre,year,author,section,class,act,sce
 1515,Merchant of Venice,THE MERCHANT OF VENICE,Comedy,1597,William Shakespeare,contents,dialogue,ACT III,SCENE V,JESSICA,1728,you
 1515,Merchant of Venice,THE MERCHANT OF VENICE,Comedy,1597,William Shakespeare,contents,dialogue,ACT III,SCENE V,JESSICA,1728,forth
 1515,Merchant of Venice,THE MERCHANT OF VENICE,Comedy,1597,William Shakespeare,contents,directions,ACT III,SCENE V,NA,NA,exeunt
-1515,Merchant of Venice,THE MERCHANT OF VENICE,Comedy,1597,William Shakespeare,contents,reference,ACT IV,SCENE V,NA,NA,act
-1515,Merchant of Venice,THE MERCHANT OF VENICE,Comedy,1597,William Shakespeare,contents,reference,ACT IV,SCENE V,NA,NA,iv
-1515,Merchant of Venice,THE MERCHANT OF VENICE,Comedy,1597,William Shakespeare,contents,reference,ACT IV,SCENE I,NA,NA,scene
-1515,Merchant of Venice,THE MERCHANT OF VENICE,Comedy,1597,William Shakespeare,contents,reference,ACT IV,SCENE I,NA,NA,i
-1515,Merchant of Venice,THE MERCHANT OF VENICE,Comedy,1597,William Shakespeare,contents,reference,ACT IV,SCENE I,NA,NA,venice
-1515,Merchant of Venice,THE MERCHANT OF VENICE,Comedy,1597,William Shakespeare,contents,reference,ACT IV,SCENE I,NA,NA,a
-1515,Merchant of Venice,THE MERCHANT OF VENICE,Comedy,1597,William Shakespeare,contents,reference,ACT IV,SCENE I,NA,NA,court
-1515,Merchant of Venice,THE MERCHANT OF VENICE,Comedy,1597,William Shakespeare,contents,reference,ACT IV,SCENE I,NA,NA,of
-1515,Merchant of Venice,THE MERCHANT OF VENICE,Comedy,1597,William Shakespeare,contents,reference,ACT IV,SCENE I,NA,NA,justice
 1515,Merchant of Venice,THE MERCHANT OF VENICE,Comedy,1597,William Shakespeare,contents,directions,ACT IV,SCENE I,NA,NA,enter
 1515,Merchant of Venice,THE MERCHANT OF VENICE,Comedy,1597,William Shakespeare,contents,directions,ACT IV,SCENE I,NA,NA,the
 1515,Merchant of Venice,THE MERCHANT OF VENICE,Comedy,1597,William Shakespeare,contents,directions,ACT IV,SCENE I,NA,NA,duke
@@ -19094,12 +18684,6 @@ gutenberg_id,short_title,gutenberg_title,genre,year,author,section,class,act,sce
 1515,Merchant of Venice,THE MERCHANT OF VENICE,Comedy,1597,William Shakespeare,contents,dialogue,ACT IV,SCENE I,BASSANIO,2196,come
 1515,Merchant of Venice,THE MERCHANT OF VENICE,Comedy,1597,William Shakespeare,contents,dialogue,ACT IV,SCENE I,BASSANIO,2196,antonio
 1515,Merchant of Venice,THE MERCHANT OF VENICE,Comedy,1597,William Shakespeare,contents,directions,ACT IV,SCENE I,NA,NA,exeunt
-1515,Merchant of Venice,THE MERCHANT OF VENICE,Comedy,1597,William Shakespeare,contents,reference,ACT IV,SCENE II,NA,NA,scene
-1515,Merchant of Venice,THE MERCHANT OF VENICE,Comedy,1597,William Shakespeare,contents,reference,ACT IV,SCENE II,NA,NA,ii
-1515,Merchant of Venice,THE MERCHANT OF VENICE,Comedy,1597,William Shakespeare,contents,reference,ACT IV,SCENE II,NA,NA,the
-1515,Merchant of Venice,THE MERCHANT OF VENICE,Comedy,1597,William Shakespeare,contents,reference,ACT IV,SCENE II,NA,NA,same
-1515,Merchant of Venice,THE MERCHANT OF VENICE,Comedy,1597,William Shakespeare,contents,reference,ACT IV,SCENE II,NA,NA,a
-1515,Merchant of Venice,THE MERCHANT OF VENICE,Comedy,1597,William Shakespeare,contents,reference,ACT IV,SCENE II,NA,NA,street
 1515,Merchant of Venice,THE MERCHANT OF VENICE,Comedy,1597,William Shakespeare,contents,directions,ACT IV,SCENE II,NA,NA,enter
 1515,Merchant of Venice,THE MERCHANT OF VENICE,Comedy,1597,William Shakespeare,contents,directions,ACT IV,SCENE II,NA,NA,portia
 1515,Merchant of Venice,THE MERCHANT OF VENICE,Comedy,1597,William Shakespeare,contents,directions,ACT IV,SCENE II,NA,NA,and
@@ -19271,16 +18855,6 @@ gutenberg_id,short_title,gutenberg_title,genre,year,author,section,class,act,sce
 1515,Merchant of Venice,THE MERCHANT OF VENICE,Comedy,1597,William Shakespeare,contents,dialogue,ACT IV,SCENE II,NERISSA,2217,this
 1515,Merchant of Venice,THE MERCHANT OF VENICE,Comedy,1597,William Shakespeare,contents,dialogue,ACT IV,SCENE II,NERISSA,2217,house
 1515,Merchant of Venice,THE MERCHANT OF VENICE,Comedy,1597,William Shakespeare,contents,directions,ACT IV,SCENE II,NA,NA,exeunt
-1515,Merchant of Venice,THE MERCHANT OF VENICE,Comedy,1597,William Shakespeare,contents,reference,ACT V,SCENE II,NA,NA,act
-1515,Merchant of Venice,THE MERCHANT OF VENICE,Comedy,1597,William Shakespeare,contents,reference,ACT V,SCENE II,NA,NA,v
-1515,Merchant of Venice,THE MERCHANT OF VENICE,Comedy,1597,William Shakespeare,contents,reference,ACT V,SCENE I,NA,NA,scene
-1515,Merchant of Venice,THE MERCHANT OF VENICE,Comedy,1597,William Shakespeare,contents,reference,ACT V,SCENE I,NA,NA,i
-1515,Merchant of Venice,THE MERCHANT OF VENICE,Comedy,1597,William Shakespeare,contents,reference,ACT V,SCENE I,NA,NA,belmont
-1515,Merchant of Venice,THE MERCHANT OF VENICE,Comedy,1597,William Shakespeare,contents,reference,ACT V,SCENE I,NA,NA,the
-1515,Merchant of Venice,THE MERCHANT OF VENICE,Comedy,1597,William Shakespeare,contents,reference,ACT V,SCENE I,NA,NA,avenue
-1515,Merchant of Venice,THE MERCHANT OF VENICE,Comedy,1597,William Shakespeare,contents,reference,ACT V,SCENE I,NA,NA,to
-1515,Merchant of Venice,THE MERCHANT OF VENICE,Comedy,1597,William Shakespeare,contents,reference,ACT V,SCENE I,NA,NA,portia’s
-1515,Merchant of Venice,THE MERCHANT OF VENICE,Comedy,1597,William Shakespeare,contents,reference,ACT V,SCENE I,NA,NA,house
 1515,Merchant of Venice,THE MERCHANT OF VENICE,Comedy,1597,William Shakespeare,contents,directions,ACT V,SCENE I,NA,NA,enter
 1515,Merchant of Venice,THE MERCHANT OF VENICE,Comedy,1597,William Shakespeare,contents,directions,ACT V,SCENE I,NA,NA,lorenzo
 1515,Merchant of Venice,THE MERCHANT OF VENICE,Comedy,1597,William Shakespeare,contents,directions,ACT V,SCENE I,NA,NA,and

@@ -1,233 +1,4 @@
 gutenberg_id,short_title,gutenberg_title,genre,year,author,section,class,act,scene,character,line_number,word
-1526,Twelfth Night,"TWELFTH NIGHT: OR, WHAT YOU WILL",Comedy,1601,William Shakespeare,front_matter,title,NA,NA,NA,NA,twelfth
-1526,Twelfth Night,"TWELFTH NIGHT: OR, WHAT YOU WILL",Comedy,1601,William Shakespeare,front_matter,title,NA,NA,NA,NA,night
-1526,Twelfth Night,"TWELFTH NIGHT: OR, WHAT YOU WILL",Comedy,1601,William Shakespeare,front_matter,title,NA,NA,NA,NA,or
-1526,Twelfth Night,"TWELFTH NIGHT: OR, WHAT YOU WILL",Comedy,1601,William Shakespeare,front_matter,title,NA,NA,NA,NA,what
-1526,Twelfth Night,"TWELFTH NIGHT: OR, WHAT YOU WILL",Comedy,1601,William Shakespeare,front_matter,title,NA,NA,NA,NA,you
-1526,Twelfth Night,"TWELFTH NIGHT: OR, WHAT YOU WILL",Comedy,1601,William Shakespeare,front_matter,title,NA,NA,NA,NA,will
-1526,Twelfth Night,"TWELFTH NIGHT: OR, WHAT YOU WILL",Comedy,1601,William Shakespeare,front_matter,author,NA,NA,NA,NA,by
-1526,Twelfth Night,"TWELFTH NIGHT: OR, WHAT YOU WILL",Comedy,1601,William Shakespeare,front_matter,author,NA,NA,NA,NA,william
-1526,Twelfth Night,"TWELFTH NIGHT: OR, WHAT YOU WILL",Comedy,1601,William Shakespeare,front_matter,author,NA,NA,NA,NA,shakespeare
-1526,Twelfth Night,"TWELFTH NIGHT: OR, WHAT YOU WILL",Comedy,1601,William Shakespeare,front_matter,contents_header,NA,NA,NA,NA,contents
-1526,Twelfth Night,"TWELFTH NIGHT: OR, WHAT YOU WILL",Comedy,1601,William Shakespeare,front_matter,contents,ACT I,NA,NA,NA,act
-1526,Twelfth Night,"TWELFTH NIGHT: OR, WHAT YOU WILL",Comedy,1601,William Shakespeare,front_matter,contents,ACT I,NA,NA,NA,i
-1526,Twelfth Night,"TWELFTH NIGHT: OR, WHAT YOU WILL",Comedy,1601,William Shakespeare,front_matter,contents,ACT I,Scene I,NA,NA,scene
-1526,Twelfth Night,"TWELFTH NIGHT: OR, WHAT YOU WILL",Comedy,1601,William Shakespeare,front_matter,contents,ACT I,Scene I,NA,NA,i
-1526,Twelfth Night,"TWELFTH NIGHT: OR, WHAT YOU WILL",Comedy,1601,William Shakespeare,front_matter,contents,ACT I,Scene I,NA,NA,an
-1526,Twelfth Night,"TWELFTH NIGHT: OR, WHAT YOU WILL",Comedy,1601,William Shakespeare,front_matter,contents,ACT I,Scene I,NA,NA,apartment
-1526,Twelfth Night,"TWELFTH NIGHT: OR, WHAT YOU WILL",Comedy,1601,William Shakespeare,front_matter,contents,ACT I,Scene I,NA,NA,in
-1526,Twelfth Night,"TWELFTH NIGHT: OR, WHAT YOU WILL",Comedy,1601,William Shakespeare,front_matter,contents,ACT I,Scene I,NA,NA,the
-1526,Twelfth Night,"TWELFTH NIGHT: OR, WHAT YOU WILL",Comedy,1601,William Shakespeare,front_matter,contents,ACT I,Scene I,NA,NA,duke’s
-1526,Twelfth Night,"TWELFTH NIGHT: OR, WHAT YOU WILL",Comedy,1601,William Shakespeare,front_matter,contents,ACT I,Scene I,NA,NA,palace
-1526,Twelfth Night,"TWELFTH NIGHT: OR, WHAT YOU WILL",Comedy,1601,William Shakespeare,front_matter,contents,ACT I,Scene II,NA,NA,scene
-1526,Twelfth Night,"TWELFTH NIGHT: OR, WHAT YOU WILL",Comedy,1601,William Shakespeare,front_matter,contents,ACT I,Scene II,NA,NA,ii
-1526,Twelfth Night,"TWELFTH NIGHT: OR, WHAT YOU WILL",Comedy,1601,William Shakespeare,front_matter,contents,ACT I,Scene II,NA,NA,the
-1526,Twelfth Night,"TWELFTH NIGHT: OR, WHAT YOU WILL",Comedy,1601,William Shakespeare,front_matter,contents,ACT I,Scene II,NA,NA,sea
-1526,Twelfth Night,"TWELFTH NIGHT: OR, WHAT YOU WILL",Comedy,1601,William Shakespeare,front_matter,contents,ACT I,Scene II,NA,NA,coast
-1526,Twelfth Night,"TWELFTH NIGHT: OR, WHAT YOU WILL",Comedy,1601,William Shakespeare,front_matter,contents,ACT I,Scene III,NA,NA,scene
-1526,Twelfth Night,"TWELFTH NIGHT: OR, WHAT YOU WILL",Comedy,1601,William Shakespeare,front_matter,contents,ACT I,Scene III,NA,NA,iii
-1526,Twelfth Night,"TWELFTH NIGHT: OR, WHAT YOU WILL",Comedy,1601,William Shakespeare,front_matter,contents,ACT I,Scene III,NA,NA,a
-1526,Twelfth Night,"TWELFTH NIGHT: OR, WHAT YOU WILL",Comedy,1601,William Shakespeare,front_matter,contents,ACT I,Scene III,NA,NA,room
-1526,Twelfth Night,"TWELFTH NIGHT: OR, WHAT YOU WILL",Comedy,1601,William Shakespeare,front_matter,contents,ACT I,Scene III,NA,NA,in
-1526,Twelfth Night,"TWELFTH NIGHT: OR, WHAT YOU WILL",Comedy,1601,William Shakespeare,front_matter,contents,ACT I,Scene III,NA,NA,olivia’s
-1526,Twelfth Night,"TWELFTH NIGHT: OR, WHAT YOU WILL",Comedy,1601,William Shakespeare,front_matter,contents,ACT I,Scene III,NA,NA,house
-1526,Twelfth Night,"TWELFTH NIGHT: OR, WHAT YOU WILL",Comedy,1601,William Shakespeare,front_matter,contents,ACT I,Scene IV,NA,NA,scene
-1526,Twelfth Night,"TWELFTH NIGHT: OR, WHAT YOU WILL",Comedy,1601,William Shakespeare,front_matter,contents,ACT I,Scene IV,NA,NA,iv
-1526,Twelfth Night,"TWELFTH NIGHT: OR, WHAT YOU WILL",Comedy,1601,William Shakespeare,front_matter,contents,ACT I,Scene IV,NA,NA,a
-1526,Twelfth Night,"TWELFTH NIGHT: OR, WHAT YOU WILL",Comedy,1601,William Shakespeare,front_matter,contents,ACT I,Scene IV,NA,NA,room
-1526,Twelfth Night,"TWELFTH NIGHT: OR, WHAT YOU WILL",Comedy,1601,William Shakespeare,front_matter,contents,ACT I,Scene IV,NA,NA,in
-1526,Twelfth Night,"TWELFTH NIGHT: OR, WHAT YOU WILL",Comedy,1601,William Shakespeare,front_matter,contents,ACT I,Scene IV,NA,NA,the
-1526,Twelfth Night,"TWELFTH NIGHT: OR, WHAT YOU WILL",Comedy,1601,William Shakespeare,front_matter,contents,ACT I,Scene IV,NA,NA,duke’s
-1526,Twelfth Night,"TWELFTH NIGHT: OR, WHAT YOU WILL",Comedy,1601,William Shakespeare,front_matter,contents,ACT I,Scene IV,NA,NA,palace
-1526,Twelfth Night,"TWELFTH NIGHT: OR, WHAT YOU WILL",Comedy,1601,William Shakespeare,front_matter,contents,ACT I,Scene V,NA,NA,scene
-1526,Twelfth Night,"TWELFTH NIGHT: OR, WHAT YOU WILL",Comedy,1601,William Shakespeare,front_matter,contents,ACT I,Scene V,NA,NA,v
-1526,Twelfth Night,"TWELFTH NIGHT: OR, WHAT YOU WILL",Comedy,1601,William Shakespeare,front_matter,contents,ACT I,Scene V,NA,NA,a
-1526,Twelfth Night,"TWELFTH NIGHT: OR, WHAT YOU WILL",Comedy,1601,William Shakespeare,front_matter,contents,ACT I,Scene V,NA,NA,room
-1526,Twelfth Night,"TWELFTH NIGHT: OR, WHAT YOU WILL",Comedy,1601,William Shakespeare,front_matter,contents,ACT I,Scene V,NA,NA,in
-1526,Twelfth Night,"TWELFTH NIGHT: OR, WHAT YOU WILL",Comedy,1601,William Shakespeare,front_matter,contents,ACT I,Scene V,NA,NA,olivia’s
-1526,Twelfth Night,"TWELFTH NIGHT: OR, WHAT YOU WILL",Comedy,1601,William Shakespeare,front_matter,contents,ACT I,Scene V,NA,NA,house
-1526,Twelfth Night,"TWELFTH NIGHT: OR, WHAT YOU WILL",Comedy,1601,William Shakespeare,front_matter,contents,ACT II,NA,NA,NA,act
-1526,Twelfth Night,"TWELFTH NIGHT: OR, WHAT YOU WILL",Comedy,1601,William Shakespeare,front_matter,contents,ACT II,NA,NA,NA,ii
-1526,Twelfth Night,"TWELFTH NIGHT: OR, WHAT YOU WILL",Comedy,1601,William Shakespeare,front_matter,contents,ACT II,Scene I,NA,NA,scene
-1526,Twelfth Night,"TWELFTH NIGHT: OR, WHAT YOU WILL",Comedy,1601,William Shakespeare,front_matter,contents,ACT II,Scene I,NA,NA,i
-1526,Twelfth Night,"TWELFTH NIGHT: OR, WHAT YOU WILL",Comedy,1601,William Shakespeare,front_matter,contents,ACT II,Scene I,NA,NA,the
-1526,Twelfth Night,"TWELFTH NIGHT: OR, WHAT YOU WILL",Comedy,1601,William Shakespeare,front_matter,contents,ACT II,Scene I,NA,NA,sea
-1526,Twelfth Night,"TWELFTH NIGHT: OR, WHAT YOU WILL",Comedy,1601,William Shakespeare,front_matter,contents,ACT II,Scene I,NA,NA,coast
-1526,Twelfth Night,"TWELFTH NIGHT: OR, WHAT YOU WILL",Comedy,1601,William Shakespeare,front_matter,contents,ACT II,Scene II,NA,NA,scene
-1526,Twelfth Night,"TWELFTH NIGHT: OR, WHAT YOU WILL",Comedy,1601,William Shakespeare,front_matter,contents,ACT II,Scene II,NA,NA,ii
-1526,Twelfth Night,"TWELFTH NIGHT: OR, WHAT YOU WILL",Comedy,1601,William Shakespeare,front_matter,contents,ACT II,Scene II,NA,NA,a
-1526,Twelfth Night,"TWELFTH NIGHT: OR, WHAT YOU WILL",Comedy,1601,William Shakespeare,front_matter,contents,ACT II,Scene II,NA,NA,street
-1526,Twelfth Night,"TWELFTH NIGHT: OR, WHAT YOU WILL",Comedy,1601,William Shakespeare,front_matter,contents,ACT II,Scene III,NA,NA,scene
-1526,Twelfth Night,"TWELFTH NIGHT: OR, WHAT YOU WILL",Comedy,1601,William Shakespeare,front_matter,contents,ACT II,Scene III,NA,NA,iii
-1526,Twelfth Night,"TWELFTH NIGHT: OR, WHAT YOU WILL",Comedy,1601,William Shakespeare,front_matter,contents,ACT II,Scene III,NA,NA,a
-1526,Twelfth Night,"TWELFTH NIGHT: OR, WHAT YOU WILL",Comedy,1601,William Shakespeare,front_matter,contents,ACT II,Scene III,NA,NA,room
-1526,Twelfth Night,"TWELFTH NIGHT: OR, WHAT YOU WILL",Comedy,1601,William Shakespeare,front_matter,contents,ACT II,Scene III,NA,NA,in
-1526,Twelfth Night,"TWELFTH NIGHT: OR, WHAT YOU WILL",Comedy,1601,William Shakespeare,front_matter,contents,ACT II,Scene III,NA,NA,olivia’s
-1526,Twelfth Night,"TWELFTH NIGHT: OR, WHAT YOU WILL",Comedy,1601,William Shakespeare,front_matter,contents,ACT II,Scene III,NA,NA,house
-1526,Twelfth Night,"TWELFTH NIGHT: OR, WHAT YOU WILL",Comedy,1601,William Shakespeare,front_matter,contents,ACT II,Scene IV,NA,NA,scene
-1526,Twelfth Night,"TWELFTH NIGHT: OR, WHAT YOU WILL",Comedy,1601,William Shakespeare,front_matter,contents,ACT II,Scene IV,NA,NA,iv
-1526,Twelfth Night,"TWELFTH NIGHT: OR, WHAT YOU WILL",Comedy,1601,William Shakespeare,front_matter,contents,ACT II,Scene IV,NA,NA,a
-1526,Twelfth Night,"TWELFTH NIGHT: OR, WHAT YOU WILL",Comedy,1601,William Shakespeare,front_matter,contents,ACT II,Scene IV,NA,NA,room
-1526,Twelfth Night,"TWELFTH NIGHT: OR, WHAT YOU WILL",Comedy,1601,William Shakespeare,front_matter,contents,ACT II,Scene IV,NA,NA,in
-1526,Twelfth Night,"TWELFTH NIGHT: OR, WHAT YOU WILL",Comedy,1601,William Shakespeare,front_matter,contents,ACT II,Scene IV,NA,NA,the
-1526,Twelfth Night,"TWELFTH NIGHT: OR, WHAT YOU WILL",Comedy,1601,William Shakespeare,front_matter,contents,ACT II,Scene IV,NA,NA,duke’s
-1526,Twelfth Night,"TWELFTH NIGHT: OR, WHAT YOU WILL",Comedy,1601,William Shakespeare,front_matter,contents,ACT II,Scene IV,NA,NA,palace
-1526,Twelfth Night,"TWELFTH NIGHT: OR, WHAT YOU WILL",Comedy,1601,William Shakespeare,front_matter,contents,ACT II,Scene V,NA,NA,scene
-1526,Twelfth Night,"TWELFTH NIGHT: OR, WHAT YOU WILL",Comedy,1601,William Shakespeare,front_matter,contents,ACT II,Scene V,NA,NA,v
-1526,Twelfth Night,"TWELFTH NIGHT: OR, WHAT YOU WILL",Comedy,1601,William Shakespeare,front_matter,contents,ACT II,Scene V,NA,NA,olivia’s
-1526,Twelfth Night,"TWELFTH NIGHT: OR, WHAT YOU WILL",Comedy,1601,William Shakespeare,front_matter,contents,ACT II,Scene V,NA,NA,garden
-1526,Twelfth Night,"TWELFTH NIGHT: OR, WHAT YOU WILL",Comedy,1601,William Shakespeare,front_matter,contents,ACT III,NA,NA,NA,act
-1526,Twelfth Night,"TWELFTH NIGHT: OR, WHAT YOU WILL",Comedy,1601,William Shakespeare,front_matter,contents,ACT III,NA,NA,NA,iii
-1526,Twelfth Night,"TWELFTH NIGHT: OR, WHAT YOU WILL",Comedy,1601,William Shakespeare,front_matter,contents,ACT III,Scene I,NA,NA,scene
-1526,Twelfth Night,"TWELFTH NIGHT: OR, WHAT YOU WILL",Comedy,1601,William Shakespeare,front_matter,contents,ACT III,Scene I,NA,NA,i
-1526,Twelfth Night,"TWELFTH NIGHT: OR, WHAT YOU WILL",Comedy,1601,William Shakespeare,front_matter,contents,ACT III,Scene I,NA,NA,olivia’s
-1526,Twelfth Night,"TWELFTH NIGHT: OR, WHAT YOU WILL",Comedy,1601,William Shakespeare,front_matter,contents,ACT III,Scene I,NA,NA,garden
-1526,Twelfth Night,"TWELFTH NIGHT: OR, WHAT YOU WILL",Comedy,1601,William Shakespeare,front_matter,contents,ACT III,Scene II,NA,NA,scene
-1526,Twelfth Night,"TWELFTH NIGHT: OR, WHAT YOU WILL",Comedy,1601,William Shakespeare,front_matter,contents,ACT III,Scene II,NA,NA,ii
-1526,Twelfth Night,"TWELFTH NIGHT: OR, WHAT YOU WILL",Comedy,1601,William Shakespeare,front_matter,contents,ACT III,Scene II,NA,NA,a
-1526,Twelfth Night,"TWELFTH NIGHT: OR, WHAT YOU WILL",Comedy,1601,William Shakespeare,front_matter,contents,ACT III,Scene II,NA,NA,room
-1526,Twelfth Night,"TWELFTH NIGHT: OR, WHAT YOU WILL",Comedy,1601,William Shakespeare,front_matter,contents,ACT III,Scene II,NA,NA,in
-1526,Twelfth Night,"TWELFTH NIGHT: OR, WHAT YOU WILL",Comedy,1601,William Shakespeare,front_matter,contents,ACT III,Scene II,NA,NA,olivia’s
-1526,Twelfth Night,"TWELFTH NIGHT: OR, WHAT YOU WILL",Comedy,1601,William Shakespeare,front_matter,contents,ACT III,Scene II,NA,NA,house
-1526,Twelfth Night,"TWELFTH NIGHT: OR, WHAT YOU WILL",Comedy,1601,William Shakespeare,front_matter,contents,ACT III,Scene III,NA,NA,scene
-1526,Twelfth Night,"TWELFTH NIGHT: OR, WHAT YOU WILL",Comedy,1601,William Shakespeare,front_matter,contents,ACT III,Scene III,NA,NA,iii
-1526,Twelfth Night,"TWELFTH NIGHT: OR, WHAT YOU WILL",Comedy,1601,William Shakespeare,front_matter,contents,ACT III,Scene III,NA,NA,a
-1526,Twelfth Night,"TWELFTH NIGHT: OR, WHAT YOU WILL",Comedy,1601,William Shakespeare,front_matter,contents,ACT III,Scene III,NA,NA,street
-1526,Twelfth Night,"TWELFTH NIGHT: OR, WHAT YOU WILL",Comedy,1601,William Shakespeare,front_matter,contents,ACT III,Scene IV,NA,NA,scene
-1526,Twelfth Night,"TWELFTH NIGHT: OR, WHAT YOU WILL",Comedy,1601,William Shakespeare,front_matter,contents,ACT III,Scene IV,NA,NA,iv
-1526,Twelfth Night,"TWELFTH NIGHT: OR, WHAT YOU WILL",Comedy,1601,William Shakespeare,front_matter,contents,ACT III,Scene IV,NA,NA,olivia’s
-1526,Twelfth Night,"TWELFTH NIGHT: OR, WHAT YOU WILL",Comedy,1601,William Shakespeare,front_matter,contents,ACT III,Scene IV,NA,NA,garden
-1526,Twelfth Night,"TWELFTH NIGHT: OR, WHAT YOU WILL",Comedy,1601,William Shakespeare,front_matter,contents,ACT IV,NA,NA,NA,act
-1526,Twelfth Night,"TWELFTH NIGHT: OR, WHAT YOU WILL",Comedy,1601,William Shakespeare,front_matter,contents,ACT IV,NA,NA,NA,iv
-1526,Twelfth Night,"TWELFTH NIGHT: OR, WHAT YOU WILL",Comedy,1601,William Shakespeare,front_matter,contents,ACT IV,Scene I,NA,NA,scene
-1526,Twelfth Night,"TWELFTH NIGHT: OR, WHAT YOU WILL",Comedy,1601,William Shakespeare,front_matter,contents,ACT IV,Scene I,NA,NA,i
-1526,Twelfth Night,"TWELFTH NIGHT: OR, WHAT YOU WILL",Comedy,1601,William Shakespeare,front_matter,contents,ACT IV,Scene I,NA,NA,the
-1526,Twelfth Night,"TWELFTH NIGHT: OR, WHAT YOU WILL",Comedy,1601,William Shakespeare,front_matter,contents,ACT IV,Scene I,NA,NA,street
-1526,Twelfth Night,"TWELFTH NIGHT: OR, WHAT YOU WILL",Comedy,1601,William Shakespeare,front_matter,contents,ACT IV,Scene I,NA,NA,before
-1526,Twelfth Night,"TWELFTH NIGHT: OR, WHAT YOU WILL",Comedy,1601,William Shakespeare,front_matter,contents,ACT IV,Scene I,NA,NA,olivia’s
-1526,Twelfth Night,"TWELFTH NIGHT: OR, WHAT YOU WILL",Comedy,1601,William Shakespeare,front_matter,contents,ACT IV,Scene I,NA,NA,house
-1526,Twelfth Night,"TWELFTH NIGHT: OR, WHAT YOU WILL",Comedy,1601,William Shakespeare,front_matter,contents,ACT IV,Scene II,NA,NA,scene
-1526,Twelfth Night,"TWELFTH NIGHT: OR, WHAT YOU WILL",Comedy,1601,William Shakespeare,front_matter,contents,ACT IV,Scene II,NA,NA,ii
-1526,Twelfth Night,"TWELFTH NIGHT: OR, WHAT YOU WILL",Comedy,1601,William Shakespeare,front_matter,contents,ACT IV,Scene II,NA,NA,a
-1526,Twelfth Night,"TWELFTH NIGHT: OR, WHAT YOU WILL",Comedy,1601,William Shakespeare,front_matter,contents,ACT IV,Scene II,NA,NA,room
-1526,Twelfth Night,"TWELFTH NIGHT: OR, WHAT YOU WILL",Comedy,1601,William Shakespeare,front_matter,contents,ACT IV,Scene II,NA,NA,in
-1526,Twelfth Night,"TWELFTH NIGHT: OR, WHAT YOU WILL",Comedy,1601,William Shakespeare,front_matter,contents,ACT IV,Scene II,NA,NA,olivia’s
-1526,Twelfth Night,"TWELFTH NIGHT: OR, WHAT YOU WILL",Comedy,1601,William Shakespeare,front_matter,contents,ACT IV,Scene II,NA,NA,house
-1526,Twelfth Night,"TWELFTH NIGHT: OR, WHAT YOU WILL",Comedy,1601,William Shakespeare,front_matter,contents,ACT IV,Scene III,NA,NA,scene
-1526,Twelfth Night,"TWELFTH NIGHT: OR, WHAT YOU WILL",Comedy,1601,William Shakespeare,front_matter,contents,ACT IV,Scene III,NA,NA,iii
-1526,Twelfth Night,"TWELFTH NIGHT: OR, WHAT YOU WILL",Comedy,1601,William Shakespeare,front_matter,contents,ACT IV,Scene III,NA,NA,olivia’s
-1526,Twelfth Night,"TWELFTH NIGHT: OR, WHAT YOU WILL",Comedy,1601,William Shakespeare,front_matter,contents,ACT IV,Scene III,NA,NA,garden
-1526,Twelfth Night,"TWELFTH NIGHT: OR, WHAT YOU WILL",Comedy,1601,William Shakespeare,front_matter,contents,ACT V,NA,NA,NA,act
-1526,Twelfth Night,"TWELFTH NIGHT: OR, WHAT YOU WILL",Comedy,1601,William Shakespeare,front_matter,contents,ACT V,NA,NA,NA,v
-1526,Twelfth Night,"TWELFTH NIGHT: OR, WHAT YOU WILL",Comedy,1601,William Shakespeare,front_matter,contents,ACT V,Scene I,NA,NA,scene
-1526,Twelfth Night,"TWELFTH NIGHT: OR, WHAT YOU WILL",Comedy,1601,William Shakespeare,front_matter,contents,ACT V,Scene I,NA,NA,i
-1526,Twelfth Night,"TWELFTH NIGHT: OR, WHAT YOU WILL",Comedy,1601,William Shakespeare,front_matter,contents,ACT V,Scene I,NA,NA,the
-1526,Twelfth Night,"TWELFTH NIGHT: OR, WHAT YOU WILL",Comedy,1601,William Shakespeare,front_matter,contents,ACT V,Scene I,NA,NA,street
-1526,Twelfth Night,"TWELFTH NIGHT: OR, WHAT YOU WILL",Comedy,1601,William Shakespeare,front_matter,contents,ACT V,Scene I,NA,NA,before
-1526,Twelfth Night,"TWELFTH NIGHT: OR, WHAT YOU WILL",Comedy,1601,William Shakespeare,front_matter,contents,ACT V,Scene I,NA,NA,olivia’s
-1526,Twelfth Night,"TWELFTH NIGHT: OR, WHAT YOU WILL",Comedy,1601,William Shakespeare,front_matter,contents,ACT V,Scene I,NA,NA,house
-1526,Twelfth Night,"TWELFTH NIGHT: OR, WHAT YOU WILL",Comedy,1601,William Shakespeare,front_matter,dramatis_header,NA,NA,NA,NA,dramatis
-1526,Twelfth Night,"TWELFTH NIGHT: OR, WHAT YOU WILL",Comedy,1601,William Shakespeare,front_matter,dramatis_header,NA,NA,NA,NA,personæ
-1526,Twelfth Night,"TWELFTH NIGHT: OR, WHAT YOU WILL",Comedy,1601,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,orsino
-1526,Twelfth Night,"TWELFTH NIGHT: OR, WHAT YOU WILL",Comedy,1601,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,duke
-1526,Twelfth Night,"TWELFTH NIGHT: OR, WHAT YOU WILL",Comedy,1601,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,of
-1526,Twelfth Night,"TWELFTH NIGHT: OR, WHAT YOU WILL",Comedy,1601,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,illyria
-1526,Twelfth Night,"TWELFTH NIGHT: OR, WHAT YOU WILL",Comedy,1601,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,valentine
-1526,Twelfth Night,"TWELFTH NIGHT: OR, WHAT YOU WILL",Comedy,1601,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,gentleman
-1526,Twelfth Night,"TWELFTH NIGHT: OR, WHAT YOU WILL",Comedy,1601,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,attending
-1526,Twelfth Night,"TWELFTH NIGHT: OR, WHAT YOU WILL",Comedy,1601,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,on
-1526,Twelfth Night,"TWELFTH NIGHT: OR, WHAT YOU WILL",Comedy,1601,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,the
-1526,Twelfth Night,"TWELFTH NIGHT: OR, WHAT YOU WILL",Comedy,1601,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,duke
-1526,Twelfth Night,"TWELFTH NIGHT: OR, WHAT YOU WILL",Comedy,1601,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,curio
-1526,Twelfth Night,"TWELFTH NIGHT: OR, WHAT YOU WILL",Comedy,1601,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,gentleman
-1526,Twelfth Night,"TWELFTH NIGHT: OR, WHAT YOU WILL",Comedy,1601,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,attending
-1526,Twelfth Night,"TWELFTH NIGHT: OR, WHAT YOU WILL",Comedy,1601,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,on
-1526,Twelfth Night,"TWELFTH NIGHT: OR, WHAT YOU WILL",Comedy,1601,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,the
-1526,Twelfth Night,"TWELFTH NIGHT: OR, WHAT YOU WILL",Comedy,1601,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,duke
-1526,Twelfth Night,"TWELFTH NIGHT: OR, WHAT YOU WILL",Comedy,1601,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,viola
-1526,Twelfth Night,"TWELFTH NIGHT: OR, WHAT YOU WILL",Comedy,1601,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,in
-1526,Twelfth Night,"TWELFTH NIGHT: OR, WHAT YOU WILL",Comedy,1601,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,love
-1526,Twelfth Night,"TWELFTH NIGHT: OR, WHAT YOU WILL",Comedy,1601,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,with
-1526,Twelfth Night,"TWELFTH NIGHT: OR, WHAT YOU WILL",Comedy,1601,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,the
-1526,Twelfth Night,"TWELFTH NIGHT: OR, WHAT YOU WILL",Comedy,1601,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,duke
-1526,Twelfth Night,"TWELFTH NIGHT: OR, WHAT YOU WILL",Comedy,1601,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,sebastian
-1526,Twelfth Night,"TWELFTH NIGHT: OR, WHAT YOU WILL",Comedy,1601,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,a
-1526,Twelfth Night,"TWELFTH NIGHT: OR, WHAT YOU WILL",Comedy,1601,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,young
-1526,Twelfth Night,"TWELFTH NIGHT: OR, WHAT YOU WILL",Comedy,1601,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,gentleman
-1526,Twelfth Night,"TWELFTH NIGHT: OR, WHAT YOU WILL",Comedy,1601,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,twin
-1526,Twelfth Night,"TWELFTH NIGHT: OR, WHAT YOU WILL",Comedy,1601,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,brother
-1526,Twelfth Night,"TWELFTH NIGHT: OR, WHAT YOU WILL",Comedy,1601,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,to
-1526,Twelfth Night,"TWELFTH NIGHT: OR, WHAT YOU WILL",Comedy,1601,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,viola
-1526,Twelfth Night,"TWELFTH NIGHT: OR, WHAT YOU WILL",Comedy,1601,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,a
-1526,Twelfth Night,"TWELFTH NIGHT: OR, WHAT YOU WILL",Comedy,1601,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,sea
-1526,Twelfth Night,"TWELFTH NIGHT: OR, WHAT YOU WILL",Comedy,1601,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,captain
-1526,Twelfth Night,"TWELFTH NIGHT: OR, WHAT YOU WILL",Comedy,1601,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,friend
-1526,Twelfth Night,"TWELFTH NIGHT: OR, WHAT YOU WILL",Comedy,1601,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,to
-1526,Twelfth Night,"TWELFTH NIGHT: OR, WHAT YOU WILL",Comedy,1601,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,viola
-1526,Twelfth Night,"TWELFTH NIGHT: OR, WHAT YOU WILL",Comedy,1601,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,antonio
-1526,Twelfth Night,"TWELFTH NIGHT: OR, WHAT YOU WILL",Comedy,1601,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,a
-1526,Twelfth Night,"TWELFTH NIGHT: OR, WHAT YOU WILL",Comedy,1601,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,sea
-1526,Twelfth Night,"TWELFTH NIGHT: OR, WHAT YOU WILL",Comedy,1601,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,captain
-1526,Twelfth Night,"TWELFTH NIGHT: OR, WHAT YOU WILL",Comedy,1601,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,friend
-1526,Twelfth Night,"TWELFTH NIGHT: OR, WHAT YOU WILL",Comedy,1601,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,to
-1526,Twelfth Night,"TWELFTH NIGHT: OR, WHAT YOU WILL",Comedy,1601,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,sebastian
-1526,Twelfth Night,"TWELFTH NIGHT: OR, WHAT YOU WILL",Comedy,1601,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,olivia
-1526,Twelfth Night,"TWELFTH NIGHT: OR, WHAT YOU WILL",Comedy,1601,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,a
-1526,Twelfth Night,"TWELFTH NIGHT: OR, WHAT YOU WILL",Comedy,1601,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,rich
-1526,Twelfth Night,"TWELFTH NIGHT: OR, WHAT YOU WILL",Comedy,1601,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,countess
-1526,Twelfth Night,"TWELFTH NIGHT: OR, WHAT YOU WILL",Comedy,1601,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,maria
-1526,Twelfth Night,"TWELFTH NIGHT: OR, WHAT YOU WILL",Comedy,1601,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,olivia’s
-1526,Twelfth Night,"TWELFTH NIGHT: OR, WHAT YOU WILL",Comedy,1601,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,woman
-1526,Twelfth Night,"TWELFTH NIGHT: OR, WHAT YOU WILL",Comedy,1601,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,sir
-1526,Twelfth Night,"TWELFTH NIGHT: OR, WHAT YOU WILL",Comedy,1601,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,toby
-1526,Twelfth Night,"TWELFTH NIGHT: OR, WHAT YOU WILL",Comedy,1601,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,belch
-1526,Twelfth Night,"TWELFTH NIGHT: OR, WHAT YOU WILL",Comedy,1601,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,uncle
-1526,Twelfth Night,"TWELFTH NIGHT: OR, WHAT YOU WILL",Comedy,1601,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,of
-1526,Twelfth Night,"TWELFTH NIGHT: OR, WHAT YOU WILL",Comedy,1601,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,olivia
-1526,Twelfth Night,"TWELFTH NIGHT: OR, WHAT YOU WILL",Comedy,1601,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,sir
-1526,Twelfth Night,"TWELFTH NIGHT: OR, WHAT YOU WILL",Comedy,1601,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,andrew
-1526,Twelfth Night,"TWELFTH NIGHT: OR, WHAT YOU WILL",Comedy,1601,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,aguecheek
-1526,Twelfth Night,"TWELFTH NIGHT: OR, WHAT YOU WILL",Comedy,1601,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,malvolio
-1526,Twelfth Night,"TWELFTH NIGHT: OR, WHAT YOU WILL",Comedy,1601,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,steward
-1526,Twelfth Night,"TWELFTH NIGHT: OR, WHAT YOU WILL",Comedy,1601,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,to
-1526,Twelfth Night,"TWELFTH NIGHT: OR, WHAT YOU WILL",Comedy,1601,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,olivia
-1526,Twelfth Night,"TWELFTH NIGHT: OR, WHAT YOU WILL",Comedy,1601,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,fabian
-1526,Twelfth Night,"TWELFTH NIGHT: OR, WHAT YOU WILL",Comedy,1601,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,servant
-1526,Twelfth Night,"TWELFTH NIGHT: OR, WHAT YOU WILL",Comedy,1601,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,to
-1526,Twelfth Night,"TWELFTH NIGHT: OR, WHAT YOU WILL",Comedy,1601,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,olivia
-1526,Twelfth Night,"TWELFTH NIGHT: OR, WHAT YOU WILL",Comedy,1601,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,clown
-1526,Twelfth Night,"TWELFTH NIGHT: OR, WHAT YOU WILL",Comedy,1601,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,servant
-1526,Twelfth Night,"TWELFTH NIGHT: OR, WHAT YOU WILL",Comedy,1601,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,to
-1526,Twelfth Night,"TWELFTH NIGHT: OR, WHAT YOU WILL",Comedy,1601,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,olivia
-1526,Twelfth Night,"TWELFTH NIGHT: OR, WHAT YOU WILL",Comedy,1601,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,priest
-1526,Twelfth Night,"TWELFTH NIGHT: OR, WHAT YOU WILL",Comedy,1601,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,lords
-1526,Twelfth Night,"TWELFTH NIGHT: OR, WHAT YOU WILL",Comedy,1601,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,sailors
-1526,Twelfth Night,"TWELFTH NIGHT: OR, WHAT YOU WILL",Comedy,1601,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,officers
-1526,Twelfth Night,"TWELFTH NIGHT: OR, WHAT YOU WILL",Comedy,1601,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,musicians
-1526,Twelfth Night,"TWELFTH NIGHT: OR, WHAT YOU WILL",Comedy,1601,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,and
-1526,Twelfth Night,"TWELFTH NIGHT: OR, WHAT YOU WILL",Comedy,1601,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,other
-1526,Twelfth Night,"TWELFTH NIGHT: OR, WHAT YOU WILL",Comedy,1601,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,attendants
-1526,Twelfth Night,"TWELFTH NIGHT: OR, WHAT YOU WILL",Comedy,1601,William Shakespeare,front_matter,scene_description,NA,NA,NA,NA,scene
-1526,Twelfth Night,"TWELFTH NIGHT: OR, WHAT YOU WILL",Comedy,1601,William Shakespeare,front_matter,scene_description,NA,NA,NA,NA,a
-1526,Twelfth Night,"TWELFTH NIGHT: OR, WHAT YOU WILL",Comedy,1601,William Shakespeare,front_matter,scene_description,NA,NA,NA,NA,city
-1526,Twelfth Night,"TWELFTH NIGHT: OR, WHAT YOU WILL",Comedy,1601,William Shakespeare,front_matter,scene_description,NA,NA,NA,NA,in
-1526,Twelfth Night,"TWELFTH NIGHT: OR, WHAT YOU WILL",Comedy,1601,William Shakespeare,front_matter,scene_description,NA,NA,NA,NA,illyria
-1526,Twelfth Night,"TWELFTH NIGHT: OR, WHAT YOU WILL",Comedy,1601,William Shakespeare,front_matter,scene_description,NA,NA,NA,NA,and
-1526,Twelfth Night,"TWELFTH NIGHT: OR, WHAT YOU WILL",Comedy,1601,William Shakespeare,front_matter,scene_description,NA,NA,NA,NA,the
-1526,Twelfth Night,"TWELFTH NIGHT: OR, WHAT YOU WILL",Comedy,1601,William Shakespeare,front_matter,scene_description,NA,NA,NA,NA,sea
-1526,Twelfth Night,"TWELFTH NIGHT: OR, WHAT YOU WILL",Comedy,1601,William Shakespeare,front_matter,scene_description,NA,NA,NA,NA,coast
-1526,Twelfth Night,"TWELFTH NIGHT: OR, WHAT YOU WILL",Comedy,1601,William Shakespeare,front_matter,scene_description,NA,NA,NA,NA,near
-1526,Twelfth Night,"TWELFTH NIGHT: OR, WHAT YOU WILL",Comedy,1601,William Shakespeare,front_matter,scene_description,NA,NA,NA,NA,it
-1526,Twelfth Night,"TWELFTH NIGHT: OR, WHAT YOU WILL",Comedy,1601,William Shakespeare,contents,reference,ACT I.,NA,NA,NA,act
-1526,Twelfth Night,"TWELFTH NIGHT: OR, WHAT YOU WILL",Comedy,1601,William Shakespeare,contents,reference,ACT I.,NA,NA,NA,i
-1526,Twelfth Night,"TWELFTH NIGHT: OR, WHAT YOU WILL",Comedy,1601,William Shakespeare,contents,reference,ACT I.,SCENE I,NA,NA,scene
-1526,Twelfth Night,"TWELFTH NIGHT: OR, WHAT YOU WILL",Comedy,1601,William Shakespeare,contents,reference,ACT I.,SCENE I,NA,NA,i
-1526,Twelfth Night,"TWELFTH NIGHT: OR, WHAT YOU WILL",Comedy,1601,William Shakespeare,contents,reference,ACT I.,SCENE I,NA,NA,an
-1526,Twelfth Night,"TWELFTH NIGHT: OR, WHAT YOU WILL",Comedy,1601,William Shakespeare,contents,reference,ACT I.,SCENE I,NA,NA,apartment
-1526,Twelfth Night,"TWELFTH NIGHT: OR, WHAT YOU WILL",Comedy,1601,William Shakespeare,contents,reference,ACT I.,SCENE I,NA,NA,in
-1526,Twelfth Night,"TWELFTH NIGHT: OR, WHAT YOU WILL",Comedy,1601,William Shakespeare,contents,reference,ACT I.,SCENE I,NA,NA,the
-1526,Twelfth Night,"TWELFTH NIGHT: OR, WHAT YOU WILL",Comedy,1601,William Shakespeare,contents,reference,ACT I.,SCENE I,NA,NA,duke’s
-1526,Twelfth Night,"TWELFTH NIGHT: OR, WHAT YOU WILL",Comedy,1601,William Shakespeare,contents,reference,ACT I.,SCENE I,NA,NA,palace
 1526,Twelfth Night,"TWELFTH NIGHT: OR, WHAT YOU WILL",Comedy,1601,William Shakespeare,contents,directions,ACT I.,SCENE I,NA,NA,enter
 1526,Twelfth Night,"TWELFTH NIGHT: OR, WHAT YOU WILL",Comedy,1601,William Shakespeare,contents,directions,ACT I.,SCENE I,NA,NA,orsino
 1526,Twelfth Night,"TWELFTH NIGHT: OR, WHAT YOU WILL",Comedy,1601,William Shakespeare,contents,directions,ACT I.,SCENE I,NA,NA,duke
@@ -564,11 +335,6 @@ gutenberg_id,short_title,gutenberg_title,genre,year,author,section,class,act,sce
 1526,Twelfth Night,"TWELFTH NIGHT: OR, WHAT YOU WILL",Comedy,1601,William Shakespeare,contents,dialogue,ACT I.,SCENE I,DUKE,42,with
 1526,Twelfth Night,"TWELFTH NIGHT: OR, WHAT YOU WILL",Comedy,1601,William Shakespeare,contents,dialogue,ACT I.,SCENE I,DUKE,42,bowers
 1526,Twelfth Night,"TWELFTH NIGHT: OR, WHAT YOU WILL",Comedy,1601,William Shakespeare,contents,directions,ACT I.,SCENE I,NA,NA,exeunt
-1526,Twelfth Night,"TWELFTH NIGHT: OR, WHAT YOU WILL",Comedy,1601,William Shakespeare,contents,reference,ACT I.,SCENE II,NA,NA,scene
-1526,Twelfth Night,"TWELFTH NIGHT: OR, WHAT YOU WILL",Comedy,1601,William Shakespeare,contents,reference,ACT I.,SCENE II,NA,NA,ii
-1526,Twelfth Night,"TWELFTH NIGHT: OR, WHAT YOU WILL",Comedy,1601,William Shakespeare,contents,reference,ACT I.,SCENE II,NA,NA,the
-1526,Twelfth Night,"TWELFTH NIGHT: OR, WHAT YOU WILL",Comedy,1601,William Shakespeare,contents,reference,ACT I.,SCENE II,NA,NA,sea
-1526,Twelfth Night,"TWELFTH NIGHT: OR, WHAT YOU WILL",Comedy,1601,William Shakespeare,contents,reference,ACT I.,SCENE II,NA,NA,coast
 1526,Twelfth Night,"TWELFTH NIGHT: OR, WHAT YOU WILL",Comedy,1601,William Shakespeare,contents,directions,ACT I.,SCENE II,NA,NA,enter
 1526,Twelfth Night,"TWELFTH NIGHT: OR, WHAT YOU WILL",Comedy,1601,William Shakespeare,contents,directions,ACT I.,SCENE II,NA,NA,viola
 1526,Twelfth Night,"TWELFTH NIGHT: OR, WHAT YOU WILL",Comedy,1601,William Shakespeare,contents,directions,ACT I.,SCENE II,NA,NA,a
@@ -1058,13 +824,6 @@ gutenberg_id,short_title,gutenberg_title,genre,year,author,section,class,act,sce
 1526,Twelfth Night,"TWELFTH NIGHT: OR, WHAT YOU WILL",Comedy,1601,William Shakespeare,contents,dialogue,ACT I.,SCENE II,VIOLA,108,me
 1526,Twelfth Night,"TWELFTH NIGHT: OR, WHAT YOU WILL",Comedy,1601,William Shakespeare,contents,dialogue,ACT I.,SCENE II,VIOLA,108,on
 1526,Twelfth Night,"TWELFTH NIGHT: OR, WHAT YOU WILL",Comedy,1601,William Shakespeare,contents,directions,ACT I.,SCENE II,NA,NA,exeunt
-1526,Twelfth Night,"TWELFTH NIGHT: OR, WHAT YOU WILL",Comedy,1601,William Shakespeare,contents,reference,ACT I.,SCENE III,NA,NA,scene
-1526,Twelfth Night,"TWELFTH NIGHT: OR, WHAT YOU WILL",Comedy,1601,William Shakespeare,contents,reference,ACT I.,SCENE III,NA,NA,iii
-1526,Twelfth Night,"TWELFTH NIGHT: OR, WHAT YOU WILL",Comedy,1601,William Shakespeare,contents,reference,ACT I.,SCENE III,NA,NA,a
-1526,Twelfth Night,"TWELFTH NIGHT: OR, WHAT YOU WILL",Comedy,1601,William Shakespeare,contents,reference,ACT I.,SCENE III,NA,NA,room
-1526,Twelfth Night,"TWELFTH NIGHT: OR, WHAT YOU WILL",Comedy,1601,William Shakespeare,contents,reference,ACT I.,SCENE III,NA,NA,in
-1526,Twelfth Night,"TWELFTH NIGHT: OR, WHAT YOU WILL",Comedy,1601,William Shakespeare,contents,reference,ACT I.,SCENE III,NA,NA,olivia’s
-1526,Twelfth Night,"TWELFTH NIGHT: OR, WHAT YOU WILL",Comedy,1601,William Shakespeare,contents,reference,ACT I.,SCENE III,NA,NA,house
 1526,Twelfth Night,"TWELFTH NIGHT: OR, WHAT YOU WILL",Comedy,1601,William Shakespeare,contents,directions,ACT I.,SCENE III,NA,NA,enter
 1526,Twelfth Night,"TWELFTH NIGHT: OR, WHAT YOU WILL",Comedy,1601,William Shakespeare,contents,directions,ACT I.,SCENE III,NA,NA,sir
 1526,Twelfth Night,"TWELFTH NIGHT: OR, WHAT YOU WILL",Comedy,1601,William Shakespeare,contents,directions,ACT I.,SCENE III,NA,NA,toby
@@ -2089,14 +1848,6 @@ gutenberg_id,short_title,gutenberg_title,genre,year,author,section,class,act,sce
 1526,Twelfth Night,"TWELFTH NIGHT: OR, WHAT YOU WILL",Comedy,1601,William Shakespeare,contents,dialogue,ACT I.,SCENE III,SIR TOBY,220,ha
 1526,Twelfth Night,"TWELFTH NIGHT: OR, WHAT YOU WILL",Comedy,1601,William Shakespeare,contents,dialogue,ACT I.,SCENE III,SIR TOBY,220,excellent
 1526,Twelfth Night,"TWELFTH NIGHT: OR, WHAT YOU WILL",Comedy,1601,William Shakespeare,contents,directions,ACT I.,SCENE III,NA,NA,exeunt
-1526,Twelfth Night,"TWELFTH NIGHT: OR, WHAT YOU WILL",Comedy,1601,William Shakespeare,contents,reference,ACT I.,SCENE IV,NA,NA,scene
-1526,Twelfth Night,"TWELFTH NIGHT: OR, WHAT YOU WILL",Comedy,1601,William Shakespeare,contents,reference,ACT I.,SCENE IV,NA,NA,iv
-1526,Twelfth Night,"TWELFTH NIGHT: OR, WHAT YOU WILL",Comedy,1601,William Shakespeare,contents,reference,ACT I.,SCENE IV,NA,NA,a
-1526,Twelfth Night,"TWELFTH NIGHT: OR, WHAT YOU WILL",Comedy,1601,William Shakespeare,contents,reference,ACT I.,SCENE IV,NA,NA,room
-1526,Twelfth Night,"TWELFTH NIGHT: OR, WHAT YOU WILL",Comedy,1601,William Shakespeare,contents,reference,ACT I.,SCENE IV,NA,NA,in
-1526,Twelfth Night,"TWELFTH NIGHT: OR, WHAT YOU WILL",Comedy,1601,William Shakespeare,contents,reference,ACT I.,SCENE IV,NA,NA,the
-1526,Twelfth Night,"TWELFTH NIGHT: OR, WHAT YOU WILL",Comedy,1601,William Shakespeare,contents,reference,ACT I.,SCENE IV,NA,NA,duke’s
-1526,Twelfth Night,"TWELFTH NIGHT: OR, WHAT YOU WILL",Comedy,1601,William Shakespeare,contents,reference,ACT I.,SCENE IV,NA,NA,palace
 1526,Twelfth Night,"TWELFTH NIGHT: OR, WHAT YOU WILL",Comedy,1601,William Shakespeare,contents,directions,ACT I.,SCENE IV,NA,NA,enter
 1526,Twelfth Night,"TWELFTH NIGHT: OR, WHAT YOU WILL",Comedy,1601,William Shakespeare,contents,directions,ACT I.,SCENE IV,NA,NA,valentine
 1526,Twelfth Night,"TWELFTH NIGHT: OR, WHAT YOU WILL",Comedy,1601,William Shakespeare,contents,directions,ACT I.,SCENE IV,NA,NA,and
@@ -2438,13 +2189,6 @@ gutenberg_id,short_title,gutenberg_title,genre,year,author,section,class,act,sce
 1526,Twelfth Night,"TWELFTH NIGHT: OR, WHAT YOU WILL",Comedy,1601,William Shakespeare,contents,dialogue,ACT I.,SCENE IV,VIOLA,263,his
 1526,Twelfth Night,"TWELFTH NIGHT: OR, WHAT YOU WILL",Comedy,1601,William Shakespeare,contents,dialogue,ACT I.,SCENE IV,VIOLA,263,wife
 1526,Twelfth Night,"TWELFTH NIGHT: OR, WHAT YOU WILL",Comedy,1601,William Shakespeare,contents,directions,ACT I.,SCENE IV,NA,NA,exeunt
-1526,Twelfth Night,"TWELFTH NIGHT: OR, WHAT YOU WILL",Comedy,1601,William Shakespeare,contents,reference,ACT I.,SCENE V,NA,NA,scene
-1526,Twelfth Night,"TWELFTH NIGHT: OR, WHAT YOU WILL",Comedy,1601,William Shakespeare,contents,reference,ACT I.,SCENE V,NA,NA,v
-1526,Twelfth Night,"TWELFTH NIGHT: OR, WHAT YOU WILL",Comedy,1601,William Shakespeare,contents,reference,ACT I.,SCENE V,NA,NA,a
-1526,Twelfth Night,"TWELFTH NIGHT: OR, WHAT YOU WILL",Comedy,1601,William Shakespeare,contents,reference,ACT I.,SCENE V,NA,NA,room
-1526,Twelfth Night,"TWELFTH NIGHT: OR, WHAT YOU WILL",Comedy,1601,William Shakespeare,contents,reference,ACT I.,SCENE V,NA,NA,in
-1526,Twelfth Night,"TWELFTH NIGHT: OR, WHAT YOU WILL",Comedy,1601,William Shakespeare,contents,reference,ACT I.,SCENE V,NA,NA,olivia’s
-1526,Twelfth Night,"TWELFTH NIGHT: OR, WHAT YOU WILL",Comedy,1601,William Shakespeare,contents,reference,ACT I.,SCENE V,NA,NA,house
 1526,Twelfth Night,"TWELFTH NIGHT: OR, WHAT YOU WILL",Comedy,1601,William Shakespeare,contents,directions,ACT I.,SCENE V,NA,NA,enter
 1526,Twelfth Night,"TWELFTH NIGHT: OR, WHAT YOU WILL",Comedy,1601,William Shakespeare,contents,directions,ACT I.,SCENE V,NA,NA,maria
 1526,Twelfth Night,"TWELFTH NIGHT: OR, WHAT YOU WILL",Comedy,1601,William Shakespeare,contents,directions,ACT I.,SCENE V,NA,NA,and
@@ -4914,13 +4658,6 @@ gutenberg_id,short_title,gutenberg_title,genre,year,author,section,class,act,sce
 1526,Twelfth Night,"TWELFTH NIGHT: OR, WHAT YOU WILL",Comedy,1601,William Shakespeare,contents,dialogue,ACT I.,SCENE V,OLIVIA,522,this
 1526,Twelfth Night,"TWELFTH NIGHT: OR, WHAT YOU WILL",Comedy,1601,William Shakespeare,contents,dialogue,ACT I.,SCENE V,OLIVIA,522,so
 1526,Twelfth Night,"TWELFTH NIGHT: OR, WHAT YOU WILL",Comedy,1601,William Shakespeare,contents,directions,ACT I.,SCENE V,NA,NA,exit
-1526,Twelfth Night,"TWELFTH NIGHT: OR, WHAT YOU WILL",Comedy,1601,William Shakespeare,contents,reference,ACT II.,SCENE V,NA,NA,act
-1526,Twelfth Night,"TWELFTH NIGHT: OR, WHAT YOU WILL",Comedy,1601,William Shakespeare,contents,reference,ACT II.,SCENE V,NA,NA,ii
-1526,Twelfth Night,"TWELFTH NIGHT: OR, WHAT YOU WILL",Comedy,1601,William Shakespeare,contents,reference,ACT II.,SCENE I,NA,NA,scene
-1526,Twelfth Night,"TWELFTH NIGHT: OR, WHAT YOU WILL",Comedy,1601,William Shakespeare,contents,reference,ACT II.,SCENE I,NA,NA,i
-1526,Twelfth Night,"TWELFTH NIGHT: OR, WHAT YOU WILL",Comedy,1601,William Shakespeare,contents,reference,ACT II.,SCENE I,NA,NA,the
-1526,Twelfth Night,"TWELFTH NIGHT: OR, WHAT YOU WILL",Comedy,1601,William Shakespeare,contents,reference,ACT II.,SCENE I,NA,NA,sea
-1526,Twelfth Night,"TWELFTH NIGHT: OR, WHAT YOU WILL",Comedy,1601,William Shakespeare,contents,reference,ACT II.,SCENE I,NA,NA,coast
 1526,Twelfth Night,"TWELFTH NIGHT: OR, WHAT YOU WILL",Comedy,1601,William Shakespeare,contents,directions,ACT II.,SCENE I,NA,NA,enter
 1526,Twelfth Night,"TWELFTH NIGHT: OR, WHAT YOU WILL",Comedy,1601,William Shakespeare,contents,directions,ACT II.,SCENE I,NA,NA,antonio
 1526,Twelfth Night,"TWELFTH NIGHT: OR, WHAT YOU WILL",Comedy,1601,William Shakespeare,contents,directions,ACT II.,SCENE I,NA,NA,and
@@ -5321,10 +5058,6 @@ gutenberg_id,short_title,gutenberg_title,genre,year,author,section,class,act,sce
 1526,Twelfth Night,"TWELFTH NIGHT: OR, WHAT YOU WILL",Comedy,1601,William Shakespeare,contents,dialogue,ACT II.,SCENE I,ANTONIO,558,will
 1526,Twelfth Night,"TWELFTH NIGHT: OR, WHAT YOU WILL",Comedy,1601,William Shakespeare,contents,dialogue,ACT II.,SCENE I,ANTONIO,558,go
 1526,Twelfth Night,"TWELFTH NIGHT: OR, WHAT YOU WILL",Comedy,1601,William Shakespeare,contents,directions,ACT II.,SCENE I,NA,NA,exit
-1526,Twelfth Night,"TWELFTH NIGHT: OR, WHAT YOU WILL",Comedy,1601,William Shakespeare,contents,reference,ACT II.,SCENE II,NA,NA,scene
-1526,Twelfth Night,"TWELFTH NIGHT: OR, WHAT YOU WILL",Comedy,1601,William Shakespeare,contents,reference,ACT II.,SCENE II,NA,NA,ii
-1526,Twelfth Night,"TWELFTH NIGHT: OR, WHAT YOU WILL",Comedy,1601,William Shakespeare,contents,reference,ACT II.,SCENE II,NA,NA,a
-1526,Twelfth Night,"TWELFTH NIGHT: OR, WHAT YOU WILL",Comedy,1601,William Shakespeare,contents,reference,ACT II.,SCENE II,NA,NA,street
 1526,Twelfth Night,"TWELFTH NIGHT: OR, WHAT YOU WILL",Comedy,1601,William Shakespeare,contents,directions,ACT II.,SCENE II,NA,NA,enter
 1526,Twelfth Night,"TWELFTH NIGHT: OR, WHAT YOU WILL",Comedy,1601,William Shakespeare,contents,directions,ACT II.,SCENE II,NA,NA,viola
 1526,Twelfth Night,"TWELFTH NIGHT: OR, WHAT YOU WILL",Comedy,1601,William Shakespeare,contents,directions,ACT II.,SCENE II,NA,NA,malvolio
@@ -5676,13 +5409,6 @@ gutenberg_id,short_title,gutenberg_title,genre,year,author,section,class,act,sce
 1526,Twelfth Night,"TWELFTH NIGHT: OR, WHAT YOU WILL",Comedy,1601,William Shakespeare,contents,dialogue,ACT II.,SCENE II,VIOLA,594,me
 1526,Twelfth Night,"TWELFTH NIGHT: OR, WHAT YOU WILL",Comedy,1601,William Shakespeare,contents,dialogue,ACT II.,SCENE II,VIOLA,594,t’untie
 1526,Twelfth Night,"TWELFTH NIGHT: OR, WHAT YOU WILL",Comedy,1601,William Shakespeare,contents,directions,ACT II.,SCENE II,NA,NA,exit
-1526,Twelfth Night,"TWELFTH NIGHT: OR, WHAT YOU WILL",Comedy,1601,William Shakespeare,contents,reference,ACT II.,SCENE III,NA,NA,scene
-1526,Twelfth Night,"TWELFTH NIGHT: OR, WHAT YOU WILL",Comedy,1601,William Shakespeare,contents,reference,ACT II.,SCENE III,NA,NA,iii
-1526,Twelfth Night,"TWELFTH NIGHT: OR, WHAT YOU WILL",Comedy,1601,William Shakespeare,contents,reference,ACT II.,SCENE III,NA,NA,a
-1526,Twelfth Night,"TWELFTH NIGHT: OR, WHAT YOU WILL",Comedy,1601,William Shakespeare,contents,reference,ACT II.,SCENE III,NA,NA,room
-1526,Twelfth Night,"TWELFTH NIGHT: OR, WHAT YOU WILL",Comedy,1601,William Shakespeare,contents,reference,ACT II.,SCENE III,NA,NA,in
-1526,Twelfth Night,"TWELFTH NIGHT: OR, WHAT YOU WILL",Comedy,1601,William Shakespeare,contents,reference,ACT II.,SCENE III,NA,NA,olivia’s
-1526,Twelfth Night,"TWELFTH NIGHT: OR, WHAT YOU WILL",Comedy,1601,William Shakespeare,contents,reference,ACT II.,SCENE III,NA,NA,house
 1526,Twelfth Night,"TWELFTH NIGHT: OR, WHAT YOU WILL",Comedy,1601,William Shakespeare,contents,directions,ACT II.,SCENE III,NA,NA,enter
 1526,Twelfth Night,"TWELFTH NIGHT: OR, WHAT YOU WILL",Comedy,1601,William Shakespeare,contents,directions,ACT II.,SCENE III,NA,NA,sir
 1526,Twelfth Night,"TWELFTH NIGHT: OR, WHAT YOU WILL",Comedy,1601,William Shakespeare,contents,directions,ACT II.,SCENE III,NA,NA,toby
@@ -7133,14 +6859,6 @@ gutenberg_id,short_title,gutenberg_title,genre,year,author,section,class,act,sce
 1526,Twelfth Night,"TWELFTH NIGHT: OR, WHAT YOU WILL",Comedy,1601,William Shakespeare,contents,dialogue,ACT II.,SCENE III,SIR TOBY,744,come
 1526,Twelfth Night,"TWELFTH NIGHT: OR, WHAT YOU WILL",Comedy,1601,William Shakespeare,contents,dialogue,ACT II.,SCENE III,SIR TOBY,744,knight
 1526,Twelfth Night,"TWELFTH NIGHT: OR, WHAT YOU WILL",Comedy,1601,William Shakespeare,contents,directions,ACT II.,SCENE III,NA,NA,exeunt
-1526,Twelfth Night,"TWELFTH NIGHT: OR, WHAT YOU WILL",Comedy,1601,William Shakespeare,contents,reference,ACT II.,SCENE IV,NA,NA,scene
-1526,Twelfth Night,"TWELFTH NIGHT: OR, WHAT YOU WILL",Comedy,1601,William Shakespeare,contents,reference,ACT II.,SCENE IV,NA,NA,iv
-1526,Twelfth Night,"TWELFTH NIGHT: OR, WHAT YOU WILL",Comedy,1601,William Shakespeare,contents,reference,ACT II.,SCENE IV,NA,NA,a
-1526,Twelfth Night,"TWELFTH NIGHT: OR, WHAT YOU WILL",Comedy,1601,William Shakespeare,contents,reference,ACT II.,SCENE IV,NA,NA,room
-1526,Twelfth Night,"TWELFTH NIGHT: OR, WHAT YOU WILL",Comedy,1601,William Shakespeare,contents,reference,ACT II.,SCENE IV,NA,NA,in
-1526,Twelfth Night,"TWELFTH NIGHT: OR, WHAT YOU WILL",Comedy,1601,William Shakespeare,contents,reference,ACT II.,SCENE IV,NA,NA,the
-1526,Twelfth Night,"TWELFTH NIGHT: OR, WHAT YOU WILL",Comedy,1601,William Shakespeare,contents,reference,ACT II.,SCENE IV,NA,NA,duke’s
-1526,Twelfth Night,"TWELFTH NIGHT: OR, WHAT YOU WILL",Comedy,1601,William Shakespeare,contents,reference,ACT II.,SCENE IV,NA,NA,palace
 1526,Twelfth Night,"TWELFTH NIGHT: OR, WHAT YOU WILL",Comedy,1601,William Shakespeare,contents,directions,ACT II.,SCENE IV,NA,NA,enter
 1526,Twelfth Night,"TWELFTH NIGHT: OR, WHAT YOU WILL",Comedy,1601,William Shakespeare,contents,directions,ACT II.,SCENE IV,NA,NA,duke
 1526,Twelfth Night,"TWELFTH NIGHT: OR, WHAT YOU WILL",Comedy,1601,William Shakespeare,contents,directions,ACT II.,SCENE IV,NA,NA,viola
@@ -8115,10 +7833,6 @@ gutenberg_id,short_title,gutenberg_title,genre,year,author,section,class,act,sce
 1526,Twelfth Night,"TWELFTH NIGHT: OR, WHAT YOU WILL",Comedy,1601,William Shakespeare,contents,dialogue,ACT II.,SCENE IV,DUKE,874,no
 1526,Twelfth Night,"TWELFTH NIGHT: OR, WHAT YOU WILL",Comedy,1601,William Shakespeare,contents,dialogue,ACT II.,SCENE IV,DUKE,874,denay
 1526,Twelfth Night,"TWELFTH NIGHT: OR, WHAT YOU WILL",Comedy,1601,William Shakespeare,contents,directions,ACT II.,SCENE IV,NA,NA,exeunt
-1526,Twelfth Night,"TWELFTH NIGHT: OR, WHAT YOU WILL",Comedy,1601,William Shakespeare,contents,reference,ACT II.,SCENE V,NA,NA,scene
-1526,Twelfth Night,"TWELFTH NIGHT: OR, WHAT YOU WILL",Comedy,1601,William Shakespeare,contents,reference,ACT II.,SCENE V,NA,NA,v
-1526,Twelfth Night,"TWELFTH NIGHT: OR, WHAT YOU WILL",Comedy,1601,William Shakespeare,contents,reference,ACT II.,SCENE V,NA,NA,olivia’s
-1526,Twelfth Night,"TWELFTH NIGHT: OR, WHAT YOU WILL",Comedy,1601,William Shakespeare,contents,reference,ACT II.,SCENE V,NA,NA,garden
 1526,Twelfth Night,"TWELFTH NIGHT: OR, WHAT YOU WILL",Comedy,1601,William Shakespeare,contents,directions,ACT II.,SCENE V,NA,NA,enter
 1526,Twelfth Night,"TWELFTH NIGHT: OR, WHAT YOU WILL",Comedy,1601,William Shakespeare,contents,directions,ACT II.,SCENE V,NA,NA,sir
 1526,Twelfth Night,"TWELFTH NIGHT: OR, WHAT YOU WILL",Comedy,1601,William Shakespeare,contents,directions,ACT II.,SCENE V,NA,NA,toby
@@ -9643,12 +9357,6 @@ gutenberg_id,short_title,gutenberg_title,genre,year,author,section,class,act,sce
 1526,Twelfth Night,"TWELFTH NIGHT: OR, WHAT YOU WILL",Comedy,1601,William Shakespeare,contents,dialogue,ACT II.,SCENE V,SIR ANDREW,1036,one
 1526,Twelfth Night,"TWELFTH NIGHT: OR, WHAT YOU WILL",Comedy,1601,William Shakespeare,contents,dialogue,ACT II.,SCENE V,SIR ANDREW,1036,too
 1526,Twelfth Night,"TWELFTH NIGHT: OR, WHAT YOU WILL",Comedy,1601,William Shakespeare,contents,directions,ACT II.,SCENE V,NA,NA,exeunt
-1526,Twelfth Night,"TWELFTH NIGHT: OR, WHAT YOU WILL",Comedy,1601,William Shakespeare,contents,reference,ACT III.,SCENE V,NA,NA,act
-1526,Twelfth Night,"TWELFTH NIGHT: OR, WHAT YOU WILL",Comedy,1601,William Shakespeare,contents,reference,ACT III.,SCENE V,NA,NA,iii
-1526,Twelfth Night,"TWELFTH NIGHT: OR, WHAT YOU WILL",Comedy,1601,William Shakespeare,contents,reference,ACT III.,SCENE I,NA,NA,scene
-1526,Twelfth Night,"TWELFTH NIGHT: OR, WHAT YOU WILL",Comedy,1601,William Shakespeare,contents,reference,ACT III.,SCENE I,NA,NA,i
-1526,Twelfth Night,"TWELFTH NIGHT: OR, WHAT YOU WILL",Comedy,1601,William Shakespeare,contents,reference,ACT III.,SCENE I,NA,NA,olivia’s
-1526,Twelfth Night,"TWELFTH NIGHT: OR, WHAT YOU WILL",Comedy,1601,William Shakespeare,contents,reference,ACT III.,SCENE I,NA,NA,garden
 1526,Twelfth Night,"TWELFTH NIGHT: OR, WHAT YOU WILL",Comedy,1601,William Shakespeare,contents,directions,ACT III.,SCENE I,NA,NA,enter
 1526,Twelfth Night,"TWELFTH NIGHT: OR, WHAT YOU WILL",Comedy,1601,William Shakespeare,contents,directions,ACT III.,SCENE I,NA,NA,viola
 1526,Twelfth Night,"TWELFTH NIGHT: OR, WHAT YOU WILL",Comedy,1601,William Shakespeare,contents,directions,ACT III.,SCENE I,NA,NA,and
@@ -10966,13 +10674,6 @@ gutenberg_id,short_title,gutenberg_title,genre,year,author,section,class,act,sce
 1526,Twelfth Night,"TWELFTH NIGHT: OR, WHAT YOU WILL",Comedy,1601,William Shakespeare,contents,dialogue,ACT III.,SCENE I,OLIVIA,1185,his
 1526,Twelfth Night,"TWELFTH NIGHT: OR, WHAT YOU WILL",Comedy,1601,William Shakespeare,contents,dialogue,ACT III.,SCENE I,OLIVIA,1185,love
 1526,Twelfth Night,"TWELFTH NIGHT: OR, WHAT YOU WILL",Comedy,1601,William Shakespeare,contents,directions,ACT III.,SCENE I,NA,NA,exeunt
-1526,Twelfth Night,"TWELFTH NIGHT: OR, WHAT YOU WILL",Comedy,1601,William Shakespeare,contents,reference,ACT III.,SCENE II,NA,NA,scene
-1526,Twelfth Night,"TWELFTH NIGHT: OR, WHAT YOU WILL",Comedy,1601,William Shakespeare,contents,reference,ACT III.,SCENE II,NA,NA,ii
-1526,Twelfth Night,"TWELFTH NIGHT: OR, WHAT YOU WILL",Comedy,1601,William Shakespeare,contents,reference,ACT III.,SCENE II,NA,NA,a
-1526,Twelfth Night,"TWELFTH NIGHT: OR, WHAT YOU WILL",Comedy,1601,William Shakespeare,contents,reference,ACT III.,SCENE II,NA,NA,room
-1526,Twelfth Night,"TWELFTH NIGHT: OR, WHAT YOU WILL",Comedy,1601,William Shakespeare,contents,reference,ACT III.,SCENE II,NA,NA,in
-1526,Twelfth Night,"TWELFTH NIGHT: OR, WHAT YOU WILL",Comedy,1601,William Shakespeare,contents,reference,ACT III.,SCENE II,NA,NA,olivia’s
-1526,Twelfth Night,"TWELFTH NIGHT: OR, WHAT YOU WILL",Comedy,1601,William Shakespeare,contents,reference,ACT III.,SCENE II,NA,NA,house
 1526,Twelfth Night,"TWELFTH NIGHT: OR, WHAT YOU WILL",Comedy,1601,William Shakespeare,contents,directions,ACT III.,SCENE II,NA,NA,enter
 1526,Twelfth Night,"TWELFTH NIGHT: OR, WHAT YOU WILL",Comedy,1601,William Shakespeare,contents,directions,ACT III.,SCENE II,NA,NA,sir
 1526,Twelfth Night,"TWELFTH NIGHT: OR, WHAT YOU WILL",Comedy,1601,William Shakespeare,contents,directions,ACT III.,SCENE II,NA,NA,toby
@@ -11664,10 +11365,6 @@ gutenberg_id,short_title,gutenberg_title,genre,year,author,section,class,act,sce
 1526,Twelfth Night,"TWELFTH NIGHT: OR, WHAT YOU WILL",Comedy,1601,William Shakespeare,contents,dialogue,ACT III.,SCENE II,SIR TOBY,1247,he
 1526,Twelfth Night,"TWELFTH NIGHT: OR, WHAT YOU WILL",Comedy,1601,William Shakespeare,contents,dialogue,ACT III.,SCENE II,SIR TOBY,1247,is
 1526,Twelfth Night,"TWELFTH NIGHT: OR, WHAT YOU WILL",Comedy,1601,William Shakespeare,contents,directions,ACT III.,SCENE II,NA,NA,exeunt
-1526,Twelfth Night,"TWELFTH NIGHT: OR, WHAT YOU WILL",Comedy,1601,William Shakespeare,contents,reference,ACT III.,SCENE III,NA,NA,scene
-1526,Twelfth Night,"TWELFTH NIGHT: OR, WHAT YOU WILL",Comedy,1601,William Shakespeare,contents,reference,ACT III.,SCENE III,NA,NA,iii
-1526,Twelfth Night,"TWELFTH NIGHT: OR, WHAT YOU WILL",Comedy,1601,William Shakespeare,contents,reference,ACT III.,SCENE III,NA,NA,a
-1526,Twelfth Night,"TWELFTH NIGHT: OR, WHAT YOU WILL",Comedy,1601,William Shakespeare,contents,reference,ACT III.,SCENE III,NA,NA,street
 1526,Twelfth Night,"TWELFTH NIGHT: OR, WHAT YOU WILL",Comedy,1601,William Shakespeare,contents,directions,ACT III.,SCENE III,NA,NA,enter
 1526,Twelfth Night,"TWELFTH NIGHT: OR, WHAT YOU WILL",Comedy,1601,William Shakespeare,contents,directions,ACT III.,SCENE III,NA,NA,sebastian
 1526,Twelfth Night,"TWELFTH NIGHT: OR, WHAT YOU WILL",Comedy,1601,William Shakespeare,contents,directions,ACT III.,SCENE III,NA,NA,and
@@ -12070,10 +11767,6 @@ gutenberg_id,short_title,gutenberg_title,genre,year,author,section,class,act,sce
 1526,Twelfth Night,"TWELFTH NIGHT: OR, WHAT YOU WILL",Comedy,1601,William Shakespeare,contents,dialogue,ACT III.,SCENE III,SEBASTIAN,1299,do
 1526,Twelfth Night,"TWELFTH NIGHT: OR, WHAT YOU WILL",Comedy,1601,William Shakespeare,contents,dialogue,ACT III.,SCENE III,SEBASTIAN,1299,remember
 1526,Twelfth Night,"TWELFTH NIGHT: OR, WHAT YOU WILL",Comedy,1601,William Shakespeare,contents,directions,ACT III.,SCENE III,NA,NA,exeunt
-1526,Twelfth Night,"TWELFTH NIGHT: OR, WHAT YOU WILL",Comedy,1601,William Shakespeare,contents,reference,ACT III.,SCENE IV,NA,NA,scene
-1526,Twelfth Night,"TWELFTH NIGHT: OR, WHAT YOU WILL",Comedy,1601,William Shakespeare,contents,reference,ACT III.,SCENE IV,NA,NA,iv
-1526,Twelfth Night,"TWELFTH NIGHT: OR, WHAT YOU WILL",Comedy,1601,William Shakespeare,contents,reference,ACT III.,SCENE IV,NA,NA,olivia’s
-1526,Twelfth Night,"TWELFTH NIGHT: OR, WHAT YOU WILL",Comedy,1601,William Shakespeare,contents,reference,ACT III.,SCENE IV,NA,NA,garden
 1526,Twelfth Night,"TWELFTH NIGHT: OR, WHAT YOU WILL",Comedy,1601,William Shakespeare,contents,directions,ACT III.,SCENE IV,NA,NA,enter
 1526,Twelfth Night,"TWELFTH NIGHT: OR, WHAT YOU WILL",Comedy,1601,William Shakespeare,contents,directions,ACT III.,SCENE IV,NA,NA,olivia
 1526,Twelfth Night,"TWELFTH NIGHT: OR, WHAT YOU WILL",Comedy,1601,William Shakespeare,contents,directions,ACT III.,SCENE IV,NA,NA,and
@@ -15193,15 +14886,6 @@ gutenberg_id,short_title,gutenberg_title,genre,year,author,section,class,act,sce
 1526,Twelfth Night,"TWELFTH NIGHT: OR, WHAT YOU WILL",Comedy,1601,William Shakespeare,contents,dialogue,ACT III.,SCENE IV,SIR TOBY,1634,nothing
 1526,Twelfth Night,"TWELFTH NIGHT: OR, WHAT YOU WILL",Comedy,1601,William Shakespeare,contents,dialogue,ACT III.,SCENE IV,SIR TOBY,1634,yet
 1526,Twelfth Night,"TWELFTH NIGHT: OR, WHAT YOU WILL",Comedy,1601,William Shakespeare,contents,directions,ACT III.,SCENE IV,NA,NA,exeunt
-1526,Twelfth Night,"TWELFTH NIGHT: OR, WHAT YOU WILL",Comedy,1601,William Shakespeare,contents,reference,ACT IV.,SCENE IV,NA,NA,act
-1526,Twelfth Night,"TWELFTH NIGHT: OR, WHAT YOU WILL",Comedy,1601,William Shakespeare,contents,reference,ACT IV.,SCENE IV,NA,NA,iv
-1526,Twelfth Night,"TWELFTH NIGHT: OR, WHAT YOU WILL",Comedy,1601,William Shakespeare,contents,reference,ACT IV.,SCENE I,NA,NA,scene
-1526,Twelfth Night,"TWELFTH NIGHT: OR, WHAT YOU WILL",Comedy,1601,William Shakespeare,contents,reference,ACT IV.,SCENE I,NA,NA,i
-1526,Twelfth Night,"TWELFTH NIGHT: OR, WHAT YOU WILL",Comedy,1601,William Shakespeare,contents,reference,ACT IV.,SCENE I,NA,NA,the
-1526,Twelfth Night,"TWELFTH NIGHT: OR, WHAT YOU WILL",Comedy,1601,William Shakespeare,contents,reference,ACT IV.,SCENE I,NA,NA,street
-1526,Twelfth Night,"TWELFTH NIGHT: OR, WHAT YOU WILL",Comedy,1601,William Shakespeare,contents,reference,ACT IV.,SCENE I,NA,NA,before
-1526,Twelfth Night,"TWELFTH NIGHT: OR, WHAT YOU WILL",Comedy,1601,William Shakespeare,contents,reference,ACT IV.,SCENE I,NA,NA,olivia’s
-1526,Twelfth Night,"TWELFTH NIGHT: OR, WHAT YOU WILL",Comedy,1601,William Shakespeare,contents,reference,ACT IV.,SCENE I,NA,NA,house
 1526,Twelfth Night,"TWELFTH NIGHT: OR, WHAT YOU WILL",Comedy,1601,William Shakespeare,contents,directions,ACT IV.,SCENE I,NA,NA,enter
 1526,Twelfth Night,"TWELFTH NIGHT: OR, WHAT YOU WILL",Comedy,1601,William Shakespeare,contents,directions,ACT IV.,SCENE I,NA,NA,sebastian
 1526,Twelfth Night,"TWELFTH NIGHT: OR, WHAT YOU WILL",Comedy,1601,William Shakespeare,contents,directions,ACT IV.,SCENE I,NA,NA,and
@@ -15744,13 +15428,6 @@ gutenberg_id,short_title,gutenberg_title,genre,year,author,section,class,act,sce
 1526,Twelfth Night,"TWELFTH NIGHT: OR, WHAT YOU WILL",Comedy,1601,William Shakespeare,contents,dialogue,ACT IV.,SCENE I,OLIVIA,1693,so
 1526,Twelfth Night,"TWELFTH NIGHT: OR, WHAT YOU WILL",Comedy,1601,William Shakespeare,contents,dialogue,ACT IV.,SCENE I,OLIVIA,1693,be
 1526,Twelfth Night,"TWELFTH NIGHT: OR, WHAT YOU WILL",Comedy,1601,William Shakespeare,contents,directions,ACT IV.,SCENE I,NA,NA,exeunt
-1526,Twelfth Night,"TWELFTH NIGHT: OR, WHAT YOU WILL",Comedy,1601,William Shakespeare,contents,reference,ACT IV.,SCENE II,NA,NA,scene
-1526,Twelfth Night,"TWELFTH NIGHT: OR, WHAT YOU WILL",Comedy,1601,William Shakespeare,contents,reference,ACT IV.,SCENE II,NA,NA,ii
-1526,Twelfth Night,"TWELFTH NIGHT: OR, WHAT YOU WILL",Comedy,1601,William Shakespeare,contents,reference,ACT IV.,SCENE II,NA,NA,a
-1526,Twelfth Night,"TWELFTH NIGHT: OR, WHAT YOU WILL",Comedy,1601,William Shakespeare,contents,reference,ACT IV.,SCENE II,NA,NA,room
-1526,Twelfth Night,"TWELFTH NIGHT: OR, WHAT YOU WILL",Comedy,1601,William Shakespeare,contents,reference,ACT IV.,SCENE II,NA,NA,in
-1526,Twelfth Night,"TWELFTH NIGHT: OR, WHAT YOU WILL",Comedy,1601,William Shakespeare,contents,reference,ACT IV.,SCENE II,NA,NA,olivia’s
-1526,Twelfth Night,"TWELFTH NIGHT: OR, WHAT YOU WILL",Comedy,1601,William Shakespeare,contents,reference,ACT IV.,SCENE II,NA,NA,house
 1526,Twelfth Night,"TWELFTH NIGHT: OR, WHAT YOU WILL",Comedy,1601,William Shakespeare,contents,directions,ACT IV.,SCENE II,NA,NA,enter
 1526,Twelfth Night,"TWELFTH NIGHT: OR, WHAT YOU WILL",Comedy,1601,William Shakespeare,contents,directions,ACT IV.,SCENE II,NA,NA,maria
 1526,Twelfth Night,"TWELFTH NIGHT: OR, WHAT YOU WILL",Comedy,1601,William Shakespeare,contents,directions,ACT IV.,SCENE II,NA,NA,and
@@ -16730,10 +16407,6 @@ gutenberg_id,short_title,gutenberg_title,genre,year,author,section,class,act,sce
 1526,Twelfth Night,"TWELFTH NIGHT: OR, WHAT YOU WILL",Comedy,1601,William Shakespeare,contents,dialogue,ACT IV.,SCENE II,CLOWN,1796,goodman
 1526,Twelfth Night,"TWELFTH NIGHT: OR, WHAT YOU WILL",Comedy,1601,William Shakespeare,contents,dialogue,ACT IV.,SCENE II,CLOWN,1796,devil
 1526,Twelfth Night,"TWELFTH NIGHT: OR, WHAT YOU WILL",Comedy,1601,William Shakespeare,contents,directions,ACT IV.,SCENE II,NA,NA,exit
-1526,Twelfth Night,"TWELFTH NIGHT: OR, WHAT YOU WILL",Comedy,1601,William Shakespeare,contents,reference,ACT IV.,SCENE III,NA,NA,scene
-1526,Twelfth Night,"TWELFTH NIGHT: OR, WHAT YOU WILL",Comedy,1601,William Shakespeare,contents,reference,ACT IV.,SCENE III,NA,NA,iii
-1526,Twelfth Night,"TWELFTH NIGHT: OR, WHAT YOU WILL",Comedy,1601,William Shakespeare,contents,reference,ACT IV.,SCENE III,NA,NA,olivia’s
-1526,Twelfth Night,"TWELFTH NIGHT: OR, WHAT YOU WILL",Comedy,1601,William Shakespeare,contents,reference,ACT IV.,SCENE III,NA,NA,garden
 1526,Twelfth Night,"TWELFTH NIGHT: OR, WHAT YOU WILL",Comedy,1601,William Shakespeare,contents,directions,ACT IV.,SCENE III,NA,NA,enter
 1526,Twelfth Night,"TWELFTH NIGHT: OR, WHAT YOU WILL",Comedy,1601,William Shakespeare,contents,directions,ACT IV.,SCENE III,NA,NA,sebastian
 1526,Twelfth Night,"TWELFTH NIGHT: OR, WHAT YOU WILL",Comedy,1601,William Shakespeare,contents,dialogue,ACT IV.,SCENE III,SEBASTIAN,1797,this
@@ -17035,15 +16708,6 @@ gutenberg_id,short_title,gutenberg_title,genre,year,author,section,class,act,sce
 1526,Twelfth Night,"TWELFTH NIGHT: OR, WHAT YOU WILL",Comedy,1601,William Shakespeare,contents,dialogue,ACT IV.,SCENE III,OLIVIA,1831,of
 1526,Twelfth Night,"TWELFTH NIGHT: OR, WHAT YOU WILL",Comedy,1601,William Shakespeare,contents,dialogue,ACT IV.,SCENE III,OLIVIA,1831,mine
 1526,Twelfth Night,"TWELFTH NIGHT: OR, WHAT YOU WILL",Comedy,1601,William Shakespeare,contents,directions,ACT IV.,SCENE III,NA,NA,exeunt
-1526,Twelfth Night,"TWELFTH NIGHT: OR, WHAT YOU WILL",Comedy,1601,William Shakespeare,contents,reference,ACT V.,SCENE III,NA,NA,act
-1526,Twelfth Night,"TWELFTH NIGHT: OR, WHAT YOU WILL",Comedy,1601,William Shakespeare,contents,reference,ACT V.,SCENE III,NA,NA,v
-1526,Twelfth Night,"TWELFTH NIGHT: OR, WHAT YOU WILL",Comedy,1601,William Shakespeare,contents,reference,ACT V.,SCENE I,NA,NA,scene
-1526,Twelfth Night,"TWELFTH NIGHT: OR, WHAT YOU WILL",Comedy,1601,William Shakespeare,contents,reference,ACT V.,SCENE I,NA,NA,i
-1526,Twelfth Night,"TWELFTH NIGHT: OR, WHAT YOU WILL",Comedy,1601,William Shakespeare,contents,reference,ACT V.,SCENE I,NA,NA,the
-1526,Twelfth Night,"TWELFTH NIGHT: OR, WHAT YOU WILL",Comedy,1601,William Shakespeare,contents,reference,ACT V.,SCENE I,NA,NA,street
-1526,Twelfth Night,"TWELFTH NIGHT: OR, WHAT YOU WILL",Comedy,1601,William Shakespeare,contents,reference,ACT V.,SCENE I,NA,NA,before
-1526,Twelfth Night,"TWELFTH NIGHT: OR, WHAT YOU WILL",Comedy,1601,William Shakespeare,contents,reference,ACT V.,SCENE I,NA,NA,olivia’s
-1526,Twelfth Night,"TWELFTH NIGHT: OR, WHAT YOU WILL",Comedy,1601,William Shakespeare,contents,reference,ACT V.,SCENE I,NA,NA,house
 1526,Twelfth Night,"TWELFTH NIGHT: OR, WHAT YOU WILL",Comedy,1601,William Shakespeare,contents,directions,ACT V.,SCENE I,NA,NA,enter
 1526,Twelfth Night,"TWELFTH NIGHT: OR, WHAT YOU WILL",Comedy,1601,William Shakespeare,contents,directions,ACT V.,SCENE I,NA,NA,clown
 1526,Twelfth Night,"TWELFTH NIGHT: OR, WHAT YOU WILL",Comedy,1601,William Shakespeare,contents,directions,ACT V.,SCENE I,NA,NA,and

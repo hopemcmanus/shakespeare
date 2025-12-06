@@ -1,423 +1,4 @@
 gutenberg_id,short_title,gutenberg_title,genre,year,author,section,class,act,scene,character,line_number,word
-1503,Richard III,THE TRAGEDY OF KING RICHARD III,History,1592,William Shakespeare,front_matter,title,NA,NA,NA,NA,the
-1503,Richard III,THE TRAGEDY OF KING RICHARD III,History,1592,William Shakespeare,front_matter,title,NA,NA,NA,NA,tragedy
-1503,Richard III,THE TRAGEDY OF KING RICHARD III,History,1592,William Shakespeare,front_matter,title,NA,NA,NA,NA,of
-1503,Richard III,THE TRAGEDY OF KING RICHARD III,History,1592,William Shakespeare,front_matter,title,NA,NA,NA,NA,king
-1503,Richard III,THE TRAGEDY OF KING RICHARD III,History,1592,William Shakespeare,front_matter,title,NA,NA,NA,NA,richard
-1503,Richard III,THE TRAGEDY OF KING RICHARD III,History,1592,William Shakespeare,front_matter,title,NA,NA,NA,NA,iii
-1503,Richard III,THE TRAGEDY OF KING RICHARD III,History,1592,William Shakespeare,front_matter,author,NA,NA,NA,NA,by
-1503,Richard III,THE TRAGEDY OF KING RICHARD III,History,1592,William Shakespeare,front_matter,author,NA,NA,NA,NA,william
-1503,Richard III,THE TRAGEDY OF KING RICHARD III,History,1592,William Shakespeare,front_matter,author,NA,NA,NA,NA,shakespeare
-1503,Richard III,THE TRAGEDY OF KING RICHARD III,History,1592,William Shakespeare,front_matter,contents_header,NA,NA,NA,NA,contents
-1503,Richard III,THE TRAGEDY OF KING RICHARD III,History,1592,William Shakespeare,front_matter,contents,ACT I,NA,NA,NA,act
-1503,Richard III,THE TRAGEDY OF KING RICHARD III,History,1592,William Shakespeare,front_matter,contents,ACT I,NA,NA,NA,i
-1503,Richard III,THE TRAGEDY OF KING RICHARD III,History,1592,William Shakespeare,front_matter,contents,ACT I,Scene I,NA,NA,scene
-1503,Richard III,THE TRAGEDY OF KING RICHARD III,History,1592,William Shakespeare,front_matter,contents,ACT I,Scene I,NA,NA,i
-1503,Richard III,THE TRAGEDY OF KING RICHARD III,History,1592,William Shakespeare,front_matter,contents,ACT I,Scene I,NA,NA,london
-1503,Richard III,THE TRAGEDY OF KING RICHARD III,History,1592,William Shakespeare,front_matter,contents,ACT I,Scene I,NA,NA,a
-1503,Richard III,THE TRAGEDY OF KING RICHARD III,History,1592,William Shakespeare,front_matter,contents,ACT I,Scene I,NA,NA,street
-1503,Richard III,THE TRAGEDY OF KING RICHARD III,History,1592,William Shakespeare,front_matter,contents,ACT I,Scene II,NA,NA,scene
-1503,Richard III,THE TRAGEDY OF KING RICHARD III,History,1592,William Shakespeare,front_matter,contents,ACT I,Scene II,NA,NA,ii
-1503,Richard III,THE TRAGEDY OF KING RICHARD III,History,1592,William Shakespeare,front_matter,contents,ACT I,Scene II,NA,NA,london
-1503,Richard III,THE TRAGEDY OF KING RICHARD III,History,1592,William Shakespeare,front_matter,contents,ACT I,Scene II,NA,NA,another
-1503,Richard III,THE TRAGEDY OF KING RICHARD III,History,1592,William Shakespeare,front_matter,contents,ACT I,Scene II,NA,NA,street
-1503,Richard III,THE TRAGEDY OF KING RICHARD III,History,1592,William Shakespeare,front_matter,contents,ACT I,Scene III,NA,NA,scene
-1503,Richard III,THE TRAGEDY OF KING RICHARD III,History,1592,William Shakespeare,front_matter,contents,ACT I,Scene III,NA,NA,iii
-1503,Richard III,THE TRAGEDY OF KING RICHARD III,History,1592,William Shakespeare,front_matter,contents,ACT I,Scene III,NA,NA,london
-1503,Richard III,THE TRAGEDY OF KING RICHARD III,History,1592,William Shakespeare,front_matter,contents,ACT I,Scene III,NA,NA,a
-1503,Richard III,THE TRAGEDY OF KING RICHARD III,History,1592,William Shakespeare,front_matter,contents,ACT I,Scene III,NA,NA,room
-1503,Richard III,THE TRAGEDY OF KING RICHARD III,History,1592,William Shakespeare,front_matter,contents,ACT I,Scene III,NA,NA,in
-1503,Richard III,THE TRAGEDY OF KING RICHARD III,History,1592,William Shakespeare,front_matter,contents,ACT I,Scene III,NA,NA,the
-1503,Richard III,THE TRAGEDY OF KING RICHARD III,History,1592,William Shakespeare,front_matter,contents,ACT I,Scene III,NA,NA,palace
-1503,Richard III,THE TRAGEDY OF KING RICHARD III,History,1592,William Shakespeare,front_matter,contents,ACT I,Scene IV,NA,NA,scene
-1503,Richard III,THE TRAGEDY OF KING RICHARD III,History,1592,William Shakespeare,front_matter,contents,ACT I,Scene IV,NA,NA,iv
-1503,Richard III,THE TRAGEDY OF KING RICHARD III,History,1592,William Shakespeare,front_matter,contents,ACT I,Scene IV,NA,NA,london
-1503,Richard III,THE TRAGEDY OF KING RICHARD III,History,1592,William Shakespeare,front_matter,contents,ACT I,Scene IV,NA,NA,a
-1503,Richard III,THE TRAGEDY OF KING RICHARD III,History,1592,William Shakespeare,front_matter,contents,ACT I,Scene IV,NA,NA,room
-1503,Richard III,THE TRAGEDY OF KING RICHARD III,History,1592,William Shakespeare,front_matter,contents,ACT I,Scene IV,NA,NA,in
-1503,Richard III,THE TRAGEDY OF KING RICHARD III,History,1592,William Shakespeare,front_matter,contents,ACT I,Scene IV,NA,NA,the
-1503,Richard III,THE TRAGEDY OF KING RICHARD III,History,1592,William Shakespeare,front_matter,contents,ACT I,Scene IV,NA,NA,tower
-1503,Richard III,THE TRAGEDY OF KING RICHARD III,History,1592,William Shakespeare,front_matter,contents,ACT II,NA,NA,NA,act
-1503,Richard III,THE TRAGEDY OF KING RICHARD III,History,1592,William Shakespeare,front_matter,contents,ACT II,NA,NA,NA,ii
-1503,Richard III,THE TRAGEDY OF KING RICHARD III,History,1592,William Shakespeare,front_matter,contents,ACT II,Scene I,NA,NA,scene
-1503,Richard III,THE TRAGEDY OF KING RICHARD III,History,1592,William Shakespeare,front_matter,contents,ACT II,Scene I,NA,NA,i
-1503,Richard III,THE TRAGEDY OF KING RICHARD III,History,1592,William Shakespeare,front_matter,contents,ACT II,Scene I,NA,NA,london
-1503,Richard III,THE TRAGEDY OF KING RICHARD III,History,1592,William Shakespeare,front_matter,contents,ACT II,Scene I,NA,NA,a
-1503,Richard III,THE TRAGEDY OF KING RICHARD III,History,1592,William Shakespeare,front_matter,contents,ACT II,Scene I,NA,NA,room
-1503,Richard III,THE TRAGEDY OF KING RICHARD III,History,1592,William Shakespeare,front_matter,contents,ACT II,Scene I,NA,NA,in
-1503,Richard III,THE TRAGEDY OF KING RICHARD III,History,1592,William Shakespeare,front_matter,contents,ACT II,Scene I,NA,NA,the
-1503,Richard III,THE TRAGEDY OF KING RICHARD III,History,1592,William Shakespeare,front_matter,contents,ACT II,Scene I,NA,NA,palace
-1503,Richard III,THE TRAGEDY OF KING RICHARD III,History,1592,William Shakespeare,front_matter,contents,ACT II,Scene II,NA,NA,scene
-1503,Richard III,THE TRAGEDY OF KING RICHARD III,History,1592,William Shakespeare,front_matter,contents,ACT II,Scene II,NA,NA,ii
-1503,Richard III,THE TRAGEDY OF KING RICHARD III,History,1592,William Shakespeare,front_matter,contents,ACT II,Scene II,NA,NA,another
-1503,Richard III,THE TRAGEDY OF KING RICHARD III,History,1592,William Shakespeare,front_matter,contents,ACT II,Scene II,NA,NA,room
-1503,Richard III,THE TRAGEDY OF KING RICHARD III,History,1592,William Shakespeare,front_matter,contents,ACT II,Scene II,NA,NA,in
-1503,Richard III,THE TRAGEDY OF KING RICHARD III,History,1592,William Shakespeare,front_matter,contents,ACT II,Scene II,NA,NA,the
-1503,Richard III,THE TRAGEDY OF KING RICHARD III,History,1592,William Shakespeare,front_matter,contents,ACT II,Scene II,NA,NA,palace
-1503,Richard III,THE TRAGEDY OF KING RICHARD III,History,1592,William Shakespeare,front_matter,contents,ACT II,Scene III,NA,NA,scene
-1503,Richard III,THE TRAGEDY OF KING RICHARD III,History,1592,William Shakespeare,front_matter,contents,ACT II,Scene III,NA,NA,iii
-1503,Richard III,THE TRAGEDY OF KING RICHARD III,History,1592,William Shakespeare,front_matter,contents,ACT II,Scene III,NA,NA,london
-1503,Richard III,THE TRAGEDY OF KING RICHARD III,History,1592,William Shakespeare,front_matter,contents,ACT II,Scene III,NA,NA,a
-1503,Richard III,THE TRAGEDY OF KING RICHARD III,History,1592,William Shakespeare,front_matter,contents,ACT II,Scene III,NA,NA,street
-1503,Richard III,THE TRAGEDY OF KING RICHARD III,History,1592,William Shakespeare,front_matter,contents,ACT II,Scene IV,NA,NA,scene
-1503,Richard III,THE TRAGEDY OF KING RICHARD III,History,1592,William Shakespeare,front_matter,contents,ACT II,Scene IV,NA,NA,iv
-1503,Richard III,THE TRAGEDY OF KING RICHARD III,History,1592,William Shakespeare,front_matter,contents,ACT II,Scene IV,NA,NA,london
-1503,Richard III,THE TRAGEDY OF KING RICHARD III,History,1592,William Shakespeare,front_matter,contents,ACT II,Scene IV,NA,NA,a
-1503,Richard III,THE TRAGEDY OF KING RICHARD III,History,1592,William Shakespeare,front_matter,contents,ACT II,Scene IV,NA,NA,room
-1503,Richard III,THE TRAGEDY OF KING RICHARD III,History,1592,William Shakespeare,front_matter,contents,ACT II,Scene IV,NA,NA,in
-1503,Richard III,THE TRAGEDY OF KING RICHARD III,History,1592,William Shakespeare,front_matter,contents,ACT II,Scene IV,NA,NA,the
-1503,Richard III,THE TRAGEDY OF KING RICHARD III,History,1592,William Shakespeare,front_matter,contents,ACT II,Scene IV,NA,NA,palace
-1503,Richard III,THE TRAGEDY OF KING RICHARD III,History,1592,William Shakespeare,front_matter,contents,ACT III,NA,NA,NA,act
-1503,Richard III,THE TRAGEDY OF KING RICHARD III,History,1592,William Shakespeare,front_matter,contents,ACT III,NA,NA,NA,iii
-1503,Richard III,THE TRAGEDY OF KING RICHARD III,History,1592,William Shakespeare,front_matter,contents,ACT III,Scene I,NA,NA,scene
-1503,Richard III,THE TRAGEDY OF KING RICHARD III,History,1592,William Shakespeare,front_matter,contents,ACT III,Scene I,NA,NA,i
-1503,Richard III,THE TRAGEDY OF KING RICHARD III,History,1592,William Shakespeare,front_matter,contents,ACT III,Scene I,NA,NA,london
-1503,Richard III,THE TRAGEDY OF KING RICHARD III,History,1592,William Shakespeare,front_matter,contents,ACT III,Scene I,NA,NA,a
-1503,Richard III,THE TRAGEDY OF KING RICHARD III,History,1592,William Shakespeare,front_matter,contents,ACT III,Scene I,NA,NA,street
-1503,Richard III,THE TRAGEDY OF KING RICHARD III,History,1592,William Shakespeare,front_matter,contents,ACT III,Scene II,NA,NA,scene
-1503,Richard III,THE TRAGEDY OF KING RICHARD III,History,1592,William Shakespeare,front_matter,contents,ACT III,Scene II,NA,NA,ii
-1503,Richard III,THE TRAGEDY OF KING RICHARD III,History,1592,William Shakespeare,front_matter,contents,ACT III,Scene II,NA,NA,before
-1503,Richard III,THE TRAGEDY OF KING RICHARD III,History,1592,William Shakespeare,front_matter,contents,ACT III,Scene II,NA,NA,lord
-1503,Richard III,THE TRAGEDY OF KING RICHARD III,History,1592,William Shakespeare,front_matter,contents,ACT III,Scene II,NA,NA,hastings
-1503,Richard III,THE TRAGEDY OF KING RICHARD III,History,1592,William Shakespeare,front_matter,contents,ACT III,Scene II,NA,NA,house
-1503,Richard III,THE TRAGEDY OF KING RICHARD III,History,1592,William Shakespeare,front_matter,contents,ACT III,Scene III,NA,NA,scene
-1503,Richard III,THE TRAGEDY OF KING RICHARD III,History,1592,William Shakespeare,front_matter,contents,ACT III,Scene III,NA,NA,iii
-1503,Richard III,THE TRAGEDY OF KING RICHARD III,History,1592,William Shakespeare,front_matter,contents,ACT III,Scene III,NA,NA,pomfret
-1503,Richard III,THE TRAGEDY OF KING RICHARD III,History,1592,William Shakespeare,front_matter,contents,ACT III,Scene III,NA,NA,before
-1503,Richard III,THE TRAGEDY OF KING RICHARD III,History,1592,William Shakespeare,front_matter,contents,ACT III,Scene III,NA,NA,the
-1503,Richard III,THE TRAGEDY OF KING RICHARD III,History,1592,William Shakespeare,front_matter,contents,ACT III,Scene III,NA,NA,castle
-1503,Richard III,THE TRAGEDY OF KING RICHARD III,History,1592,William Shakespeare,front_matter,contents,ACT III,Scene IV,NA,NA,scene
-1503,Richard III,THE TRAGEDY OF KING RICHARD III,History,1592,William Shakespeare,front_matter,contents,ACT III,Scene IV,NA,NA,iv
-1503,Richard III,THE TRAGEDY OF KING RICHARD III,History,1592,William Shakespeare,front_matter,contents,ACT III,Scene IV,NA,NA,london
-1503,Richard III,THE TRAGEDY OF KING RICHARD III,History,1592,William Shakespeare,front_matter,contents,ACT III,Scene IV,NA,NA,a
-1503,Richard III,THE TRAGEDY OF KING RICHARD III,History,1592,William Shakespeare,front_matter,contents,ACT III,Scene IV,NA,NA,room
-1503,Richard III,THE TRAGEDY OF KING RICHARD III,History,1592,William Shakespeare,front_matter,contents,ACT III,Scene IV,NA,NA,in
-1503,Richard III,THE TRAGEDY OF KING RICHARD III,History,1592,William Shakespeare,front_matter,contents,ACT III,Scene IV,NA,NA,the
-1503,Richard III,THE TRAGEDY OF KING RICHARD III,History,1592,William Shakespeare,front_matter,contents,ACT III,Scene IV,NA,NA,tower
-1503,Richard III,THE TRAGEDY OF KING RICHARD III,History,1592,William Shakespeare,front_matter,contents,ACT III,Scene V,NA,NA,scene
-1503,Richard III,THE TRAGEDY OF KING RICHARD III,History,1592,William Shakespeare,front_matter,contents,ACT III,Scene V,NA,NA,v
-1503,Richard III,THE TRAGEDY OF KING RICHARD III,History,1592,William Shakespeare,front_matter,contents,ACT III,Scene V,NA,NA,london
-1503,Richard III,THE TRAGEDY OF KING RICHARD III,History,1592,William Shakespeare,front_matter,contents,ACT III,Scene V,NA,NA,the
-1503,Richard III,THE TRAGEDY OF KING RICHARD III,History,1592,William Shakespeare,front_matter,contents,ACT III,Scene V,NA,NA,tower
-1503,Richard III,THE TRAGEDY OF KING RICHARD III,History,1592,William Shakespeare,front_matter,contents,ACT III,Scene V,NA,NA,walls
-1503,Richard III,THE TRAGEDY OF KING RICHARD III,History,1592,William Shakespeare,front_matter,contents,ACT III,Scene VI,NA,NA,scene
-1503,Richard III,THE TRAGEDY OF KING RICHARD III,History,1592,William Shakespeare,front_matter,contents,ACT III,Scene VI,NA,NA,vi
-1503,Richard III,THE TRAGEDY OF KING RICHARD III,History,1592,William Shakespeare,front_matter,contents,ACT III,Scene VI,NA,NA,london
-1503,Richard III,THE TRAGEDY OF KING RICHARD III,History,1592,William Shakespeare,front_matter,contents,ACT III,Scene VI,NA,NA,a
-1503,Richard III,THE TRAGEDY OF KING RICHARD III,History,1592,William Shakespeare,front_matter,contents,ACT III,Scene VI,NA,NA,street
-1503,Richard III,THE TRAGEDY OF KING RICHARD III,History,1592,William Shakespeare,front_matter,contents,ACT III,Scene VII,NA,NA,scene
-1503,Richard III,THE TRAGEDY OF KING RICHARD III,History,1592,William Shakespeare,front_matter,contents,ACT III,Scene VII,NA,NA,vii
-1503,Richard III,THE TRAGEDY OF KING RICHARD III,History,1592,William Shakespeare,front_matter,contents,ACT III,Scene VII,NA,NA,london
-1503,Richard III,THE TRAGEDY OF KING RICHARD III,History,1592,William Shakespeare,front_matter,contents,ACT III,Scene VII,NA,NA,court
-1503,Richard III,THE TRAGEDY OF KING RICHARD III,History,1592,William Shakespeare,front_matter,contents,ACT III,Scene VII,NA,NA,of
-1503,Richard III,THE TRAGEDY OF KING RICHARD III,History,1592,William Shakespeare,front_matter,contents,ACT III,Scene VII,NA,NA,baynard’s
-1503,Richard III,THE TRAGEDY OF KING RICHARD III,History,1592,William Shakespeare,front_matter,contents,ACT III,Scene VII,NA,NA,castle
-1503,Richard III,THE TRAGEDY OF KING RICHARD III,History,1592,William Shakespeare,front_matter,contents,ACT IV,NA,NA,NA,act
-1503,Richard III,THE TRAGEDY OF KING RICHARD III,History,1592,William Shakespeare,front_matter,contents,ACT IV,NA,NA,NA,iv
-1503,Richard III,THE TRAGEDY OF KING RICHARD III,History,1592,William Shakespeare,front_matter,contents,ACT IV,Scene I,NA,NA,scene
-1503,Richard III,THE TRAGEDY OF KING RICHARD III,History,1592,William Shakespeare,front_matter,contents,ACT IV,Scene I,NA,NA,i
-1503,Richard III,THE TRAGEDY OF KING RICHARD III,History,1592,William Shakespeare,front_matter,contents,ACT IV,Scene I,NA,NA,london
-1503,Richard III,THE TRAGEDY OF KING RICHARD III,History,1592,William Shakespeare,front_matter,contents,ACT IV,Scene I,NA,NA,before
-1503,Richard III,THE TRAGEDY OF KING RICHARD III,History,1592,William Shakespeare,front_matter,contents,ACT IV,Scene I,NA,NA,the
-1503,Richard III,THE TRAGEDY OF KING RICHARD III,History,1592,William Shakespeare,front_matter,contents,ACT IV,Scene I,NA,NA,tower
-1503,Richard III,THE TRAGEDY OF KING RICHARD III,History,1592,William Shakespeare,front_matter,contents,ACT IV,Scene II,NA,NA,scene
-1503,Richard III,THE TRAGEDY OF KING RICHARD III,History,1592,William Shakespeare,front_matter,contents,ACT IV,Scene II,NA,NA,ii
-1503,Richard III,THE TRAGEDY OF KING RICHARD III,History,1592,William Shakespeare,front_matter,contents,ACT IV,Scene II,NA,NA,london
-1503,Richard III,THE TRAGEDY OF KING RICHARD III,History,1592,William Shakespeare,front_matter,contents,ACT IV,Scene II,NA,NA,a
-1503,Richard III,THE TRAGEDY OF KING RICHARD III,History,1592,William Shakespeare,front_matter,contents,ACT IV,Scene II,NA,NA,room
-1503,Richard III,THE TRAGEDY OF KING RICHARD III,History,1592,William Shakespeare,front_matter,contents,ACT IV,Scene II,NA,NA,of
-1503,Richard III,THE TRAGEDY OF KING RICHARD III,History,1592,William Shakespeare,front_matter,contents,ACT IV,Scene II,NA,NA,state
-1503,Richard III,THE TRAGEDY OF KING RICHARD III,History,1592,William Shakespeare,front_matter,contents,ACT IV,Scene II,NA,NA,in
-1503,Richard III,THE TRAGEDY OF KING RICHARD III,History,1592,William Shakespeare,front_matter,contents,ACT IV,Scene II,NA,NA,the
-1503,Richard III,THE TRAGEDY OF KING RICHARD III,History,1592,William Shakespeare,front_matter,contents,ACT IV,Scene II,NA,NA,palace
-1503,Richard III,THE TRAGEDY OF KING RICHARD III,History,1592,William Shakespeare,front_matter,contents,ACT IV,Scene III,NA,NA,scene
-1503,Richard III,THE TRAGEDY OF KING RICHARD III,History,1592,William Shakespeare,front_matter,contents,ACT IV,Scene III,NA,NA,iii
-1503,Richard III,THE TRAGEDY OF KING RICHARD III,History,1592,William Shakespeare,front_matter,contents,ACT IV,Scene III,NA,NA,london
-1503,Richard III,THE TRAGEDY OF KING RICHARD III,History,1592,William Shakespeare,front_matter,contents,ACT IV,Scene III,NA,NA,another
-1503,Richard III,THE TRAGEDY OF KING RICHARD III,History,1592,William Shakespeare,front_matter,contents,ACT IV,Scene III,NA,NA,room
-1503,Richard III,THE TRAGEDY OF KING RICHARD III,History,1592,William Shakespeare,front_matter,contents,ACT IV,Scene III,NA,NA,in
-1503,Richard III,THE TRAGEDY OF KING RICHARD III,History,1592,William Shakespeare,front_matter,contents,ACT IV,Scene III,NA,NA,the
-1503,Richard III,THE TRAGEDY OF KING RICHARD III,History,1592,William Shakespeare,front_matter,contents,ACT IV,Scene III,NA,NA,palace
-1503,Richard III,THE TRAGEDY OF KING RICHARD III,History,1592,William Shakespeare,front_matter,contents,ACT IV,Scene IV,NA,NA,scene
-1503,Richard III,THE TRAGEDY OF KING RICHARD III,History,1592,William Shakespeare,front_matter,contents,ACT IV,Scene IV,NA,NA,iv
-1503,Richard III,THE TRAGEDY OF KING RICHARD III,History,1592,William Shakespeare,front_matter,contents,ACT IV,Scene IV,NA,NA,london
-1503,Richard III,THE TRAGEDY OF KING RICHARD III,History,1592,William Shakespeare,front_matter,contents,ACT IV,Scene IV,NA,NA,before
-1503,Richard III,THE TRAGEDY OF KING RICHARD III,History,1592,William Shakespeare,front_matter,contents,ACT IV,Scene IV,NA,NA,the
-1503,Richard III,THE TRAGEDY OF KING RICHARD III,History,1592,William Shakespeare,front_matter,contents,ACT IV,Scene IV,NA,NA,palace
-1503,Richard III,THE TRAGEDY OF KING RICHARD III,History,1592,William Shakespeare,front_matter,contents,ACT IV,Scene V,NA,NA,scene
-1503,Richard III,THE TRAGEDY OF KING RICHARD III,History,1592,William Shakespeare,front_matter,contents,ACT IV,Scene V,NA,NA,v
-1503,Richard III,THE TRAGEDY OF KING RICHARD III,History,1592,William Shakespeare,front_matter,contents,ACT IV,Scene V,NA,NA,a
-1503,Richard III,THE TRAGEDY OF KING RICHARD III,History,1592,William Shakespeare,front_matter,contents,ACT IV,Scene V,NA,NA,room
-1503,Richard III,THE TRAGEDY OF KING RICHARD III,History,1592,William Shakespeare,front_matter,contents,ACT IV,Scene V,NA,NA,in
-1503,Richard III,THE TRAGEDY OF KING RICHARD III,History,1592,William Shakespeare,front_matter,contents,ACT IV,Scene V,NA,NA,lord
-1503,Richard III,THE TRAGEDY OF KING RICHARD III,History,1592,William Shakespeare,front_matter,contents,ACT IV,Scene V,NA,NA,stanley’s
-1503,Richard III,THE TRAGEDY OF KING RICHARD III,History,1592,William Shakespeare,front_matter,contents,ACT IV,Scene V,NA,NA,house
-1503,Richard III,THE TRAGEDY OF KING RICHARD III,History,1592,William Shakespeare,front_matter,contents,ACT V,NA,NA,NA,act
-1503,Richard III,THE TRAGEDY OF KING RICHARD III,History,1592,William Shakespeare,front_matter,contents,ACT V,NA,NA,NA,v
-1503,Richard III,THE TRAGEDY OF KING RICHARD III,History,1592,William Shakespeare,front_matter,contents,ACT V,Scene I,NA,NA,scene
-1503,Richard III,THE TRAGEDY OF KING RICHARD III,History,1592,William Shakespeare,front_matter,contents,ACT V,Scene I,NA,NA,i
-1503,Richard III,THE TRAGEDY OF KING RICHARD III,History,1592,William Shakespeare,front_matter,contents,ACT V,Scene I,NA,NA,salisbury
-1503,Richard III,THE TRAGEDY OF KING RICHARD III,History,1592,William Shakespeare,front_matter,contents,ACT V,Scene I,NA,NA,an
-1503,Richard III,THE TRAGEDY OF KING RICHARD III,History,1592,William Shakespeare,front_matter,contents,ACT V,Scene I,NA,NA,open
-1503,Richard III,THE TRAGEDY OF KING RICHARD III,History,1592,William Shakespeare,front_matter,contents,ACT V,Scene I,NA,NA,place
-1503,Richard III,THE TRAGEDY OF KING RICHARD III,History,1592,William Shakespeare,front_matter,contents,ACT V,Scene II,NA,NA,scene
-1503,Richard III,THE TRAGEDY OF KING RICHARD III,History,1592,William Shakespeare,front_matter,contents,ACT V,Scene II,NA,NA,ii
-1503,Richard III,THE TRAGEDY OF KING RICHARD III,History,1592,William Shakespeare,front_matter,contents,ACT V,Scene II,NA,NA,plain
-1503,Richard III,THE TRAGEDY OF KING RICHARD III,History,1592,William Shakespeare,front_matter,contents,ACT V,Scene II,NA,NA,near
-1503,Richard III,THE TRAGEDY OF KING RICHARD III,History,1592,William Shakespeare,front_matter,contents,ACT V,Scene II,NA,NA,tamworth
-1503,Richard III,THE TRAGEDY OF KING RICHARD III,History,1592,William Shakespeare,front_matter,contents,ACT V,Scene III,NA,NA,scene
-1503,Richard III,THE TRAGEDY OF KING RICHARD III,History,1592,William Shakespeare,front_matter,contents,ACT V,Scene III,NA,NA,iii
-1503,Richard III,THE TRAGEDY OF KING RICHARD III,History,1592,William Shakespeare,front_matter,contents,ACT V,Scene III,NA,NA,bosworth
-1503,Richard III,THE TRAGEDY OF KING RICHARD III,History,1592,William Shakespeare,front_matter,contents,ACT V,Scene III,NA,NA,field
-1503,Richard III,THE TRAGEDY OF KING RICHARD III,History,1592,William Shakespeare,front_matter,contents,ACT V,Scene IV,NA,NA,scene
-1503,Richard III,THE TRAGEDY OF KING RICHARD III,History,1592,William Shakespeare,front_matter,contents,ACT V,Scene IV,NA,NA,iv
-1503,Richard III,THE TRAGEDY OF KING RICHARD III,History,1592,William Shakespeare,front_matter,contents,ACT V,Scene IV,NA,NA,another
-1503,Richard III,THE TRAGEDY OF KING RICHARD III,History,1592,William Shakespeare,front_matter,contents,ACT V,Scene IV,NA,NA,part
-1503,Richard III,THE TRAGEDY OF KING RICHARD III,History,1592,William Shakespeare,front_matter,contents,ACT V,Scene IV,NA,NA,of
-1503,Richard III,THE TRAGEDY OF KING RICHARD III,History,1592,William Shakespeare,front_matter,contents,ACT V,Scene IV,NA,NA,the
-1503,Richard III,THE TRAGEDY OF KING RICHARD III,History,1592,William Shakespeare,front_matter,contents,ACT V,Scene IV,NA,NA,field
-1503,Richard III,THE TRAGEDY OF KING RICHARD III,History,1592,William Shakespeare,front_matter,contents,ACT V,Scene V,NA,NA,scene
-1503,Richard III,THE TRAGEDY OF KING RICHARD III,History,1592,William Shakespeare,front_matter,contents,ACT V,Scene V,NA,NA,v
-1503,Richard III,THE TRAGEDY OF KING RICHARD III,History,1592,William Shakespeare,front_matter,contents,ACT V,Scene V,NA,NA,another
-1503,Richard III,THE TRAGEDY OF KING RICHARD III,History,1592,William Shakespeare,front_matter,contents,ACT V,Scene V,NA,NA,part
-1503,Richard III,THE TRAGEDY OF KING RICHARD III,History,1592,William Shakespeare,front_matter,contents,ACT V,Scene V,NA,NA,of
-1503,Richard III,THE TRAGEDY OF KING RICHARD III,History,1592,William Shakespeare,front_matter,contents,ACT V,Scene V,NA,NA,the
-1503,Richard III,THE TRAGEDY OF KING RICHARD III,History,1592,William Shakespeare,front_matter,contents,ACT V,Scene V,NA,NA,field
-1503,Richard III,THE TRAGEDY OF KING RICHARD III,History,1592,William Shakespeare,front_matter,dramatis_header,NA,NA,NA,NA,dramatis
-1503,Richard III,THE TRAGEDY OF KING RICHARD III,History,1592,William Shakespeare,front_matter,dramatis_header,NA,NA,NA,NA,personæ
-1503,Richard III,THE TRAGEDY OF KING RICHARD III,History,1592,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,richard
-1503,Richard III,THE TRAGEDY OF KING RICHARD III,History,1592,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,duke
-1503,Richard III,THE TRAGEDY OF KING RICHARD III,History,1592,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,of
-1503,Richard III,THE TRAGEDY OF KING RICHARD III,History,1592,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,gloucester
-1503,Richard III,THE TRAGEDY OF KING RICHARD III,History,1592,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,afterwards
-1503,Richard III,THE TRAGEDY OF KING RICHARD III,History,1592,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,king
-1503,Richard III,THE TRAGEDY OF KING RICHARD III,History,1592,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,richard
-1503,Richard III,THE TRAGEDY OF KING RICHARD III,History,1592,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,iii
-1503,Richard III,THE TRAGEDY OF KING RICHARD III,History,1592,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,lady
-1503,Richard III,THE TRAGEDY OF KING RICHARD III,History,1592,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,anne
-1503,Richard III,THE TRAGEDY OF KING RICHARD III,History,1592,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,widow
-1503,Richard III,THE TRAGEDY OF KING RICHARD III,History,1592,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,to
-1503,Richard III,THE TRAGEDY OF KING RICHARD III,History,1592,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,edward
-1503,Richard III,THE TRAGEDY OF KING RICHARD III,History,1592,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,prince
-1503,Richard III,THE TRAGEDY OF KING RICHARD III,History,1592,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,of
-1503,Richard III,THE TRAGEDY OF KING RICHARD III,History,1592,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,wales
-1503,Richard III,THE TRAGEDY OF KING RICHARD III,History,1592,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,son
-1503,Richard III,THE TRAGEDY OF KING RICHARD III,History,1592,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,to
-1503,Richard III,THE TRAGEDY OF KING RICHARD III,History,1592,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,king
-1503,Richard III,THE TRAGEDY OF KING RICHARD III,History,1592,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,henry
-1503,Richard III,THE TRAGEDY OF KING RICHARD III,History,1592,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,vi
-1503,Richard III,THE TRAGEDY OF KING RICHARD III,History,1592,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,afterwards
-1503,Richard III,THE TRAGEDY OF KING RICHARD III,History,1592,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,married
-1503,Richard III,THE TRAGEDY OF KING RICHARD III,History,1592,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,to
-1503,Richard III,THE TRAGEDY OF KING RICHARD III,History,1592,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,the
-1503,Richard III,THE TRAGEDY OF KING RICHARD III,History,1592,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,duke
-1503,Richard III,THE TRAGEDY OF KING RICHARD III,History,1592,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,of
-1503,Richard III,THE TRAGEDY OF KING RICHARD III,History,1592,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,gloucester
-1503,Richard III,THE TRAGEDY OF KING RICHARD III,History,1592,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,king
-1503,Richard III,THE TRAGEDY OF KING RICHARD III,History,1592,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,edward
-1503,Richard III,THE TRAGEDY OF KING RICHARD III,History,1592,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,the
-1503,Richard III,THE TRAGEDY OF KING RICHARD III,History,1592,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,fourth
-1503,Richard III,THE TRAGEDY OF KING RICHARD III,History,1592,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,brother
-1503,Richard III,THE TRAGEDY OF KING RICHARD III,History,1592,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,to
-1503,Richard III,THE TRAGEDY OF KING RICHARD III,History,1592,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,richard
-1503,Richard III,THE TRAGEDY OF KING RICHARD III,History,1592,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,queen
-1503,Richard III,THE TRAGEDY OF KING RICHARD III,History,1592,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,elizabeth
-1503,Richard III,THE TRAGEDY OF KING RICHARD III,History,1592,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,queen
-1503,Richard III,THE TRAGEDY OF KING RICHARD III,History,1592,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,to
-1503,Richard III,THE TRAGEDY OF KING RICHARD III,History,1592,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,king
-1503,Richard III,THE TRAGEDY OF KING RICHARD III,History,1592,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,edward
-1503,Richard III,THE TRAGEDY OF KING RICHARD III,History,1592,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,iv
-1503,Richard III,THE TRAGEDY OF KING RICHARD III,History,1592,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,sons
-1503,Richard III,THE TRAGEDY OF KING RICHARD III,History,1592,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,to
-1503,Richard III,THE TRAGEDY OF KING RICHARD III,History,1592,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,the
-1503,Richard III,THE TRAGEDY OF KING RICHARD III,History,1592,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,king
-1503,Richard III,THE TRAGEDY OF KING RICHARD III,History,1592,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,edward
-1503,Richard III,THE TRAGEDY OF KING RICHARD III,History,1592,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,prince
-1503,Richard III,THE TRAGEDY OF KING RICHARD III,History,1592,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,of
-1503,Richard III,THE TRAGEDY OF KING RICHARD III,History,1592,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,wales
-1503,Richard III,THE TRAGEDY OF KING RICHARD III,History,1592,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,afterwards
-1503,Richard III,THE TRAGEDY OF KING RICHARD III,History,1592,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,king
-1503,Richard III,THE TRAGEDY OF KING RICHARD III,History,1592,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,edward
-1503,Richard III,THE TRAGEDY OF KING RICHARD III,History,1592,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,v
-1503,Richard III,THE TRAGEDY OF KING RICHARD III,History,1592,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,richard
-1503,Richard III,THE TRAGEDY OF KING RICHARD III,History,1592,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,duke
-1503,Richard III,THE TRAGEDY OF KING RICHARD III,History,1592,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,of
-1503,Richard III,THE TRAGEDY OF KING RICHARD III,History,1592,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,york
-1503,Richard III,THE TRAGEDY OF KING RICHARD III,History,1592,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,george
-1503,Richard III,THE TRAGEDY OF KING RICHARD III,History,1592,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,duke
-1503,Richard III,THE TRAGEDY OF KING RICHARD III,History,1592,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,of
-1503,Richard III,THE TRAGEDY OF KING RICHARD III,History,1592,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,clarence
-1503,Richard III,THE TRAGEDY OF KING RICHARD III,History,1592,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,brother
-1503,Richard III,THE TRAGEDY OF KING RICHARD III,History,1592,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,to
-1503,Richard III,THE TRAGEDY OF KING RICHARD III,History,1592,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,edward
-1503,Richard III,THE TRAGEDY OF KING RICHARD III,History,1592,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,and
-1503,Richard III,THE TRAGEDY OF KING RICHARD III,History,1592,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,richard
-1503,Richard III,THE TRAGEDY OF KING RICHARD III,History,1592,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,boy
-1503,Richard III,THE TRAGEDY OF KING RICHARD III,History,1592,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,son
-1503,Richard III,THE TRAGEDY OF KING RICHARD III,History,1592,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,to
-1503,Richard III,THE TRAGEDY OF KING RICHARD III,History,1592,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,clarence
-1503,Richard III,THE TRAGEDY OF KING RICHARD III,History,1592,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,girl
-1503,Richard III,THE TRAGEDY OF KING RICHARD III,History,1592,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,daughter
-1503,Richard III,THE TRAGEDY OF KING RICHARD III,History,1592,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,to
-1503,Richard III,THE TRAGEDY OF KING RICHARD III,History,1592,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,clarence
-1503,Richard III,THE TRAGEDY OF KING RICHARD III,History,1592,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,duchess
-1503,Richard III,THE TRAGEDY OF KING RICHARD III,History,1592,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,of
-1503,Richard III,THE TRAGEDY OF KING RICHARD III,History,1592,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,york
-1503,Richard III,THE TRAGEDY OF KING RICHARD III,History,1592,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,mother
-1503,Richard III,THE TRAGEDY OF KING RICHARD III,History,1592,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,to
-1503,Richard III,THE TRAGEDY OF KING RICHARD III,History,1592,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,king
-1503,Richard III,THE TRAGEDY OF KING RICHARD III,History,1592,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,edward
-1503,Richard III,THE TRAGEDY OF KING RICHARD III,History,1592,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,iv
-1503,Richard III,THE TRAGEDY OF KING RICHARD III,History,1592,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,clarence
-1503,Richard III,THE TRAGEDY OF KING RICHARD III,History,1592,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,and
-1503,Richard III,THE TRAGEDY OF KING RICHARD III,History,1592,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,gloucester
-1503,Richard III,THE TRAGEDY OF KING RICHARD III,History,1592,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,queen
-1503,Richard III,THE TRAGEDY OF KING RICHARD III,History,1592,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,margaret
-1503,Richard III,THE TRAGEDY OF KING RICHARD III,History,1592,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,widow
-1503,Richard III,THE TRAGEDY OF KING RICHARD III,History,1592,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,to
-1503,Richard III,THE TRAGEDY OF KING RICHARD III,History,1592,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,king
-1503,Richard III,THE TRAGEDY OF KING RICHARD III,History,1592,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,henry
-1503,Richard III,THE TRAGEDY OF KING RICHARD III,History,1592,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,vi
-1503,Richard III,THE TRAGEDY OF KING RICHARD III,History,1592,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,duke
-1503,Richard III,THE TRAGEDY OF KING RICHARD III,History,1592,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,of
-1503,Richard III,THE TRAGEDY OF KING RICHARD III,History,1592,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,buckingham
-1503,Richard III,THE TRAGEDY OF KING RICHARD III,History,1592,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,lord
-1503,Richard III,THE TRAGEDY OF KING RICHARD III,History,1592,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,hastings
-1503,Richard III,THE TRAGEDY OF KING RICHARD III,History,1592,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,the
-1503,Richard III,THE TRAGEDY OF KING RICHARD III,History,1592,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,lord
-1503,Richard III,THE TRAGEDY OF KING RICHARD III,History,1592,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,chamberlain
-1503,Richard III,THE TRAGEDY OF KING RICHARD III,History,1592,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,lord
-1503,Richard III,THE TRAGEDY OF KING RICHARD III,History,1592,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,stanley
-1503,Richard III,THE TRAGEDY OF KING RICHARD III,History,1592,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,the
-1503,Richard III,THE TRAGEDY OF KING RICHARD III,History,1592,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,earl
-1503,Richard III,THE TRAGEDY OF KING RICHARD III,History,1592,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,of
-1503,Richard III,THE TRAGEDY OF KING RICHARD III,History,1592,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,derby
-1503,Richard III,THE TRAGEDY OF KING RICHARD III,History,1592,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,earl
-1503,Richard III,THE TRAGEDY OF KING RICHARD III,History,1592,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,rivers
-1503,Richard III,THE TRAGEDY OF KING RICHARD III,History,1592,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,brother
-1503,Richard III,THE TRAGEDY OF KING RICHARD III,History,1592,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,to
-1503,Richard III,THE TRAGEDY OF KING RICHARD III,History,1592,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,queen
-1503,Richard III,THE TRAGEDY OF KING RICHARD III,History,1592,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,elizabeth
-1503,Richard III,THE TRAGEDY OF KING RICHARD III,History,1592,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,lord
-1503,Richard III,THE TRAGEDY OF KING RICHARD III,History,1592,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,grey
-1503,Richard III,THE TRAGEDY OF KING RICHARD III,History,1592,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,son
-1503,Richard III,THE TRAGEDY OF KING RICHARD III,History,1592,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,of
-1503,Richard III,THE TRAGEDY OF KING RICHARD III,History,1592,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,queen
-1503,Richard III,THE TRAGEDY OF KING RICHARD III,History,1592,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,elizabeth
-1503,Richard III,THE TRAGEDY OF KING RICHARD III,History,1592,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,by
-1503,Richard III,THE TRAGEDY OF KING RICHARD III,History,1592,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,her
-1503,Richard III,THE TRAGEDY OF KING RICHARD III,History,1592,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,former
-1503,Richard III,THE TRAGEDY OF KING RICHARD III,History,1592,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,marriage
-1503,Richard III,THE TRAGEDY OF KING RICHARD III,History,1592,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,marquess
-1503,Richard III,THE TRAGEDY OF KING RICHARD III,History,1592,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,of
-1503,Richard III,THE TRAGEDY OF KING RICHARD III,History,1592,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,dorset
-1503,Richard III,THE TRAGEDY OF KING RICHARD III,History,1592,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,son
-1503,Richard III,THE TRAGEDY OF KING RICHARD III,History,1592,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,of
-1503,Richard III,THE TRAGEDY OF KING RICHARD III,History,1592,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,queen
-1503,Richard III,THE TRAGEDY OF KING RICHARD III,History,1592,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,elizabeth
-1503,Richard III,THE TRAGEDY OF KING RICHARD III,History,1592,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,by
-1503,Richard III,THE TRAGEDY OF KING RICHARD III,History,1592,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,her
-1503,Richard III,THE TRAGEDY OF KING RICHARD III,History,1592,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,former
-1503,Richard III,THE TRAGEDY OF KING RICHARD III,History,1592,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,marriage
-1503,Richard III,THE TRAGEDY OF KING RICHARD III,History,1592,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,sir
-1503,Richard III,THE TRAGEDY OF KING RICHARD III,History,1592,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,thomas
-1503,Richard III,THE TRAGEDY OF KING RICHARD III,History,1592,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,vaughan
-1503,Richard III,THE TRAGEDY OF KING RICHARD III,History,1592,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,sir
-1503,Richard III,THE TRAGEDY OF KING RICHARD III,History,1592,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,william
-1503,Richard III,THE TRAGEDY OF KING RICHARD III,History,1592,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,catesby
-1503,Richard III,THE TRAGEDY OF KING RICHARD III,History,1592,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,sir
-1503,Richard III,THE TRAGEDY OF KING RICHARD III,History,1592,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,richard
-1503,Richard III,THE TRAGEDY OF KING RICHARD III,History,1592,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,ratcliffe
-1503,Richard III,THE TRAGEDY OF KING RICHARD III,History,1592,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,lord
-1503,Richard III,THE TRAGEDY OF KING RICHARD III,History,1592,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,lovell
-1503,Richard III,THE TRAGEDY OF KING RICHARD III,History,1592,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,duke
-1503,Richard III,THE TRAGEDY OF KING RICHARD III,History,1592,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,of
-1503,Richard III,THE TRAGEDY OF KING RICHARD III,History,1592,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,norfolk
-1503,Richard III,THE TRAGEDY OF KING RICHARD III,History,1592,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,earl
-1503,Richard III,THE TRAGEDY OF KING RICHARD III,History,1592,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,of
-1503,Richard III,THE TRAGEDY OF KING RICHARD III,History,1592,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,surrey
-1503,Richard III,THE TRAGEDY OF KING RICHARD III,History,1592,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,henry
-1503,Richard III,THE TRAGEDY OF KING RICHARD III,History,1592,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,earl
-1503,Richard III,THE TRAGEDY OF KING RICHARD III,History,1592,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,of
-1503,Richard III,THE TRAGEDY OF KING RICHARD III,History,1592,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,richmond
-1503,Richard III,THE TRAGEDY OF KING RICHARD III,History,1592,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,afterwards
-1503,Richard III,THE TRAGEDY OF KING RICHARD III,History,1592,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,king
-1503,Richard III,THE TRAGEDY OF KING RICHARD III,History,1592,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,henry
-1503,Richard III,THE TRAGEDY OF KING RICHARD III,History,1592,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,vii
-1503,Richard III,THE TRAGEDY OF KING RICHARD III,History,1592,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,earl
-1503,Richard III,THE TRAGEDY OF KING RICHARD III,History,1592,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,of
-1503,Richard III,THE TRAGEDY OF KING RICHARD III,History,1592,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,oxford
-1503,Richard III,THE TRAGEDY OF KING RICHARD III,History,1592,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,sir
-1503,Richard III,THE TRAGEDY OF KING RICHARD III,History,1592,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,james
-1503,Richard III,THE TRAGEDY OF KING RICHARD III,History,1592,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,blunt
-1503,Richard III,THE TRAGEDY OF KING RICHARD III,History,1592,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,sir
-1503,Richard III,THE TRAGEDY OF KING RICHARD III,History,1592,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,walter
-1503,Richard III,THE TRAGEDY OF KING RICHARD III,History,1592,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,herbert
-1503,Richard III,THE TRAGEDY OF KING RICHARD III,History,1592,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,sir
-1503,Richard III,THE TRAGEDY OF KING RICHARD III,History,1592,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,william
-1503,Richard III,THE TRAGEDY OF KING RICHARD III,History,1592,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,brandon
-1503,Richard III,THE TRAGEDY OF KING RICHARD III,History,1592,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,christopher
-1503,Richard III,THE TRAGEDY OF KING RICHARD III,History,1592,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,urswick
-1503,Richard III,THE TRAGEDY OF KING RICHARD III,History,1592,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,a
-1503,Richard III,THE TRAGEDY OF KING RICHARD III,History,1592,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,priest
-1503,Richard III,THE TRAGEDY OF KING RICHARD III,History,1592,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,thomas
-1503,Richard III,THE TRAGEDY OF KING RICHARD III,History,1592,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,rotherham
-1503,Richard III,THE TRAGEDY OF KING RICHARD III,History,1592,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,archbishop
-1503,Richard III,THE TRAGEDY OF KING RICHARD III,History,1592,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,of
-1503,Richard III,THE TRAGEDY OF KING RICHARD III,History,1592,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,york
-1503,Richard III,THE TRAGEDY OF KING RICHARD III,History,1592,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,cardinal
-1503,Richard III,THE TRAGEDY OF KING RICHARD III,History,1592,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,bourchier
-1503,Richard III,THE TRAGEDY OF KING RICHARD III,History,1592,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,archbishop
-1503,Richard III,THE TRAGEDY OF KING RICHARD III,History,1592,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,of
-1503,Richard III,THE TRAGEDY OF KING RICHARD III,History,1592,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,canterbury
-1503,Richard III,THE TRAGEDY OF KING RICHARD III,History,1592,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,john
-1503,Richard III,THE TRAGEDY OF KING RICHARD III,History,1592,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,morton
-1503,Richard III,THE TRAGEDY OF KING RICHARD III,History,1592,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,bishop
-1503,Richard III,THE TRAGEDY OF KING RICHARD III,History,1592,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,of
-1503,Richard III,THE TRAGEDY OF KING RICHARD III,History,1592,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,ely
-1503,Richard III,THE TRAGEDY OF KING RICHARD III,History,1592,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,sir
-1503,Richard III,THE TRAGEDY OF KING RICHARD III,History,1592,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,robert
-1503,Richard III,THE TRAGEDY OF KING RICHARD III,History,1592,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,brakenbury
-1503,Richard III,THE TRAGEDY OF KING RICHARD III,History,1592,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,lieutenant
-1503,Richard III,THE TRAGEDY OF KING RICHARD III,History,1592,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,of
-1503,Richard III,THE TRAGEDY OF KING RICHARD III,History,1592,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,the
-1503,Richard III,THE TRAGEDY OF KING RICHARD III,History,1592,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,tower
-1503,Richard III,THE TRAGEDY OF KING RICHARD III,History,1592,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,sir
-1503,Richard III,THE TRAGEDY OF KING RICHARD III,History,1592,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,james
-1503,Richard III,THE TRAGEDY OF KING RICHARD III,History,1592,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,tyrrel
-1503,Richard III,THE TRAGEDY OF KING RICHARD III,History,1592,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,another
-1503,Richard III,THE TRAGEDY OF KING RICHARD III,History,1592,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,priest
-1503,Richard III,THE TRAGEDY OF KING RICHARD III,History,1592,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,lord
-1503,Richard III,THE TRAGEDY OF KING RICHARD III,History,1592,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,mayor
-1503,Richard III,THE TRAGEDY OF KING RICHARD III,History,1592,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,of
-1503,Richard III,THE TRAGEDY OF KING RICHARD III,History,1592,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,london
-1503,Richard III,THE TRAGEDY OF KING RICHARD III,History,1592,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,sheriff
-1503,Richard III,THE TRAGEDY OF KING RICHARD III,History,1592,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,of
-1503,Richard III,THE TRAGEDY OF KING RICHARD III,History,1592,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,wiltshire
-1503,Richard III,THE TRAGEDY OF KING RICHARD III,History,1592,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,lords
-1503,Richard III,THE TRAGEDY OF KING RICHARD III,History,1592,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,and
-1503,Richard III,THE TRAGEDY OF KING RICHARD III,History,1592,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,other
-1503,Richard III,THE TRAGEDY OF KING RICHARD III,History,1592,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,attendants
-1503,Richard III,THE TRAGEDY OF KING RICHARD III,History,1592,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,two
-1503,Richard III,THE TRAGEDY OF KING RICHARD III,History,1592,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,gentlemen
-1503,Richard III,THE TRAGEDY OF KING RICHARD III,History,1592,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,a
-1503,Richard III,THE TRAGEDY OF KING RICHARD III,History,1592,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,pursuivant
-1503,Richard III,THE TRAGEDY OF KING RICHARD III,History,1592,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,scrivener
-1503,Richard III,THE TRAGEDY OF KING RICHARD III,History,1592,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,citizens
-1503,Richard III,THE TRAGEDY OF KING RICHARD III,History,1592,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,murderers
-1503,Richard III,THE TRAGEDY OF KING RICHARD III,History,1592,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,messengers
-1503,Richard III,THE TRAGEDY OF KING RICHARD III,History,1592,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,ghosts
-1503,Richard III,THE TRAGEDY OF KING RICHARD III,History,1592,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,soldiers
-1503,Richard III,THE TRAGEDY OF KING RICHARD III,History,1592,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,c
-1503,Richard III,THE TRAGEDY OF KING RICHARD III,History,1592,William Shakespeare,front_matter,scene_description,NA,NA,NA,NA,scene
-1503,Richard III,THE TRAGEDY OF KING RICHARD III,History,1592,William Shakespeare,front_matter,scene_description,NA,NA,NA,NA,england
-1503,Richard III,THE TRAGEDY OF KING RICHARD III,History,1592,William Shakespeare,contents,reference,ACT I,NA,NA,NA,act
-1503,Richard III,THE TRAGEDY OF KING RICHARD III,History,1592,William Shakespeare,contents,reference,ACT I,NA,NA,NA,i
-1503,Richard III,THE TRAGEDY OF KING RICHARD III,History,1592,William Shakespeare,contents,reference,ACT I,SCENE I,NA,NA,scene
-1503,Richard III,THE TRAGEDY OF KING RICHARD III,History,1592,William Shakespeare,contents,reference,ACT I,SCENE I,NA,NA,i
-1503,Richard III,THE TRAGEDY OF KING RICHARD III,History,1592,William Shakespeare,contents,reference,ACT I,SCENE I,NA,NA,london
-1503,Richard III,THE TRAGEDY OF KING RICHARD III,History,1592,William Shakespeare,contents,reference,ACT I,SCENE I,NA,NA,a
-1503,Richard III,THE TRAGEDY OF KING RICHARD III,History,1592,William Shakespeare,contents,reference,ACT I,SCENE I,NA,NA,street
 1503,Richard III,THE TRAGEDY OF KING RICHARD III,History,1592,William Shakespeare,contents,directions,ACT I,SCENE I,NA,NA,enter
 1503,Richard III,THE TRAGEDY OF KING RICHARD III,History,1592,William Shakespeare,contents,directions,ACT I,SCENE I,NA,NA,richard
 1503,Richard III,THE TRAGEDY OF KING RICHARD III,History,1592,William Shakespeare,contents,directions,ACT I,SCENE I,NA,NA,duke
@@ -1696,11 +1277,6 @@ gutenberg_id,short_title,gutenberg_title,genre,year,author,section,class,act,sce
 1503,Richard III,THE TRAGEDY OF KING RICHARD III,History,1592,William Shakespeare,contents,dialogue,ACT I,SCENE I,RICHARD,163,my
 1503,Richard III,THE TRAGEDY OF KING RICHARD III,History,1592,William Shakespeare,contents,dialogue,ACT I,SCENE I,RICHARD,163,gains
 1503,Richard III,THE TRAGEDY OF KING RICHARD III,History,1592,William Shakespeare,contents,directions,ACT I,SCENE I,NA,NA,exit
-1503,Richard III,THE TRAGEDY OF KING RICHARD III,History,1592,William Shakespeare,contents,reference,ACT I,SCENE II,NA,NA,scene
-1503,Richard III,THE TRAGEDY OF KING RICHARD III,History,1592,William Shakespeare,contents,reference,ACT I,SCENE II,NA,NA,ii
-1503,Richard III,THE TRAGEDY OF KING RICHARD III,History,1592,William Shakespeare,contents,reference,ACT I,SCENE II,NA,NA,london
-1503,Richard III,THE TRAGEDY OF KING RICHARD III,History,1592,William Shakespeare,contents,reference,ACT I,SCENE II,NA,NA,another
-1503,Richard III,THE TRAGEDY OF KING RICHARD III,History,1592,William Shakespeare,contents,reference,ACT I,SCENE II,NA,NA,street
 1503,Richard III,THE TRAGEDY OF KING RICHARD III,History,1592,William Shakespeare,contents,directions,ACT I,SCENE II,NA,NA,enter
 1503,Richard III,THE TRAGEDY OF KING RICHARD III,History,1592,William Shakespeare,contents,directions,ACT I,SCENE II,NA,NA,the
 1503,Richard III,THE TRAGEDY OF KING RICHARD III,History,1592,William Shakespeare,contents,directions,ACT I,SCENE II,NA,NA,corse
@@ -3857,14 +3433,6 @@ gutenberg_id,short_title,gutenberg_title,genre,year,author,section,class,act,sce
 1503,Richard III,THE TRAGEDY OF KING RICHARD III,History,1592,William Shakespeare,contents,dialogue,ACT I,SCENE II,RICHARD,438,i
 1503,Richard III,THE TRAGEDY OF KING RICHARD III,History,1592,William Shakespeare,contents,dialogue,ACT I,SCENE II,RICHARD,438,pass
 1503,Richard III,THE TRAGEDY OF KING RICHARD III,History,1592,William Shakespeare,contents,directions,ACT I,SCENE II,NA,NA,exit
-1503,Richard III,THE TRAGEDY OF KING RICHARD III,History,1592,William Shakespeare,contents,reference,ACT I,SCENE III,NA,NA,scene
-1503,Richard III,THE TRAGEDY OF KING RICHARD III,History,1592,William Shakespeare,contents,reference,ACT I,SCENE III,NA,NA,iii
-1503,Richard III,THE TRAGEDY OF KING RICHARD III,History,1592,William Shakespeare,contents,reference,ACT I,SCENE III,NA,NA,london
-1503,Richard III,THE TRAGEDY OF KING RICHARD III,History,1592,William Shakespeare,contents,reference,ACT I,SCENE III,NA,NA,a
-1503,Richard III,THE TRAGEDY OF KING RICHARD III,History,1592,William Shakespeare,contents,reference,ACT I,SCENE III,NA,NA,room
-1503,Richard III,THE TRAGEDY OF KING RICHARD III,History,1592,William Shakespeare,contents,reference,ACT I,SCENE III,NA,NA,in
-1503,Richard III,THE TRAGEDY OF KING RICHARD III,History,1592,William Shakespeare,contents,reference,ACT I,SCENE III,NA,NA,the
-1503,Richard III,THE TRAGEDY OF KING RICHARD III,History,1592,William Shakespeare,contents,reference,ACT I,SCENE III,NA,NA,palace
 1503,Richard III,THE TRAGEDY OF KING RICHARD III,History,1592,William Shakespeare,contents,directions,ACT I,SCENE III,NA,NA,enter
 1503,Richard III,THE TRAGEDY OF KING RICHARD III,History,1592,William Shakespeare,contents,directions,ACT I,SCENE III,NA,NA,queen
 1503,Richard III,THE TRAGEDY OF KING RICHARD III,History,1592,William Shakespeare,contents,directions,ACT I,SCENE III,NA,NA,elizabeth
@@ -6792,14 +6360,6 @@ gutenberg_id,short_title,gutenberg_title,genre,year,author,section,class,act,sce
 1503,Richard III,THE TRAGEDY OF KING RICHARD III,History,1592,William Shakespeare,contents,dialogue,ACT I,SCENE III,BOTH MURDERERS,797,noble
 1503,Richard III,THE TRAGEDY OF KING RICHARD III,History,1592,William Shakespeare,contents,dialogue,ACT I,SCENE III,BOTH MURDERERS,797,lord
 1503,Richard III,THE TRAGEDY OF KING RICHARD III,History,1592,William Shakespeare,contents,directions,ACT I,SCENE III,NA,NA,exeunt
-1503,Richard III,THE TRAGEDY OF KING RICHARD III,History,1592,William Shakespeare,contents,reference,ACT I,SCENE IV,NA,NA,scene
-1503,Richard III,THE TRAGEDY OF KING RICHARD III,History,1592,William Shakespeare,contents,reference,ACT I,SCENE IV,NA,NA,iv
-1503,Richard III,THE TRAGEDY OF KING RICHARD III,History,1592,William Shakespeare,contents,reference,ACT I,SCENE IV,NA,NA,london
-1503,Richard III,THE TRAGEDY OF KING RICHARD III,History,1592,William Shakespeare,contents,reference,ACT I,SCENE IV,NA,NA,a
-1503,Richard III,THE TRAGEDY OF KING RICHARD III,History,1592,William Shakespeare,contents,reference,ACT I,SCENE IV,NA,NA,room
-1503,Richard III,THE TRAGEDY OF KING RICHARD III,History,1592,William Shakespeare,contents,reference,ACT I,SCENE IV,NA,NA,in
-1503,Richard III,THE TRAGEDY OF KING RICHARD III,History,1592,William Shakespeare,contents,reference,ACT I,SCENE IV,NA,NA,the
-1503,Richard III,THE TRAGEDY OF KING RICHARD III,History,1592,William Shakespeare,contents,reference,ACT I,SCENE IV,NA,NA,tower
 1503,Richard III,THE TRAGEDY OF KING RICHARD III,History,1592,William Shakespeare,contents,directions,ACT I,SCENE IV,NA,NA,enter
 1503,Richard III,THE TRAGEDY OF KING RICHARD III,History,1592,William Shakespeare,contents,directions,ACT I,SCENE IV,NA,NA,clarence
 1503,Richard III,THE TRAGEDY OF KING RICHARD III,History,1592,William Shakespeare,contents,directions,ACT I,SCENE IV,NA,NA,and
@@ -8998,16 +8558,6 @@ gutenberg_id,short_title,gutenberg_title,genre,year,author,section,class,act,sce
 1503,Richard III,THE TRAGEDY OF KING RICHARD III,History,1592,William Shakespeare,contents,dialogue,ACT I,SCENE IV,FIRST MURDERER,1062,not
 1503,Richard III,THE TRAGEDY OF KING RICHARD III,History,1592,William Shakespeare,contents,dialogue,ACT I,SCENE IV,FIRST MURDERER,1062,stay
 1503,Richard III,THE TRAGEDY OF KING RICHARD III,History,1592,William Shakespeare,contents,directions,ACT I,SCENE IV,NA,NA,exit
-1503,Richard III,THE TRAGEDY OF KING RICHARD III,History,1592,William Shakespeare,contents,reference,ACT II,SCENE IV,NA,NA,act
-1503,Richard III,THE TRAGEDY OF KING RICHARD III,History,1592,William Shakespeare,contents,reference,ACT II,SCENE IV,NA,NA,ii
-1503,Richard III,THE TRAGEDY OF KING RICHARD III,History,1592,William Shakespeare,contents,reference,ACT II,SCENE I,NA,NA,scene
-1503,Richard III,THE TRAGEDY OF KING RICHARD III,History,1592,William Shakespeare,contents,reference,ACT II,SCENE I,NA,NA,i
-1503,Richard III,THE TRAGEDY OF KING RICHARD III,History,1592,William Shakespeare,contents,reference,ACT II,SCENE I,NA,NA,london
-1503,Richard III,THE TRAGEDY OF KING RICHARD III,History,1592,William Shakespeare,contents,reference,ACT II,SCENE I,NA,NA,a
-1503,Richard III,THE TRAGEDY OF KING RICHARD III,History,1592,William Shakespeare,contents,reference,ACT II,SCENE I,NA,NA,room
-1503,Richard III,THE TRAGEDY OF KING RICHARD III,History,1592,William Shakespeare,contents,reference,ACT II,SCENE I,NA,NA,in
-1503,Richard III,THE TRAGEDY OF KING RICHARD III,History,1592,William Shakespeare,contents,reference,ACT II,SCENE I,NA,NA,the
-1503,Richard III,THE TRAGEDY OF KING RICHARD III,History,1592,William Shakespeare,contents,reference,ACT II,SCENE I,NA,NA,palace
 1503,Richard III,THE TRAGEDY OF KING RICHARD III,History,1592,William Shakespeare,contents,directions,ACT II,SCENE I,NA,NA,enter
 1503,Richard III,THE TRAGEDY OF KING RICHARD III,History,1592,William Shakespeare,contents,directions,ACT II,SCENE I,NA,NA,king
 1503,Richard III,THE TRAGEDY OF KING RICHARD III,History,1592,William Shakespeare,contents,directions,ACT II,SCENE I,NA,NA,edward
@@ -10164,13 +9714,6 @@ gutenberg_id,short_title,gutenberg_title,genre,year,author,section,class,act,sce
 1503,Richard III,THE TRAGEDY OF KING RICHARD III,History,1592,William Shakespeare,contents,dialogue,ACT II,SCENE I,BUCKINGHAM,1205,your
 1503,Richard III,THE TRAGEDY OF KING RICHARD III,History,1592,William Shakespeare,contents,dialogue,ACT II,SCENE I,BUCKINGHAM,1205,grace
 1503,Richard III,THE TRAGEDY OF KING RICHARD III,History,1592,William Shakespeare,contents,directions,ACT II,SCENE I,NA,NA,exeunt
-1503,Richard III,THE TRAGEDY OF KING RICHARD III,History,1592,William Shakespeare,contents,reference,ACT II,SCENE II,NA,NA,scene
-1503,Richard III,THE TRAGEDY OF KING RICHARD III,History,1592,William Shakespeare,contents,reference,ACT II,SCENE II,NA,NA,ii
-1503,Richard III,THE TRAGEDY OF KING RICHARD III,History,1592,William Shakespeare,contents,reference,ACT II,SCENE II,NA,NA,another
-1503,Richard III,THE TRAGEDY OF KING RICHARD III,History,1592,William Shakespeare,contents,reference,ACT II,SCENE II,NA,NA,room
-1503,Richard III,THE TRAGEDY OF KING RICHARD III,History,1592,William Shakespeare,contents,reference,ACT II,SCENE II,NA,NA,in
-1503,Richard III,THE TRAGEDY OF KING RICHARD III,History,1592,William Shakespeare,contents,reference,ACT II,SCENE II,NA,NA,the
-1503,Richard III,THE TRAGEDY OF KING RICHARD III,History,1592,William Shakespeare,contents,reference,ACT II,SCENE II,NA,NA,palace
 1503,Richard III,THE TRAGEDY OF KING RICHARD III,History,1592,William Shakespeare,contents,directions,ACT II,SCENE II,NA,NA,enter
 1503,Richard III,THE TRAGEDY OF KING RICHARD III,History,1592,William Shakespeare,contents,directions,ACT II,SCENE II,NA,NA,the
 1503,Richard III,THE TRAGEDY OF KING RICHARD III,History,1592,William Shakespeare,contents,directions,ACT II,SCENE II,NA,NA,old
@@ -11436,11 +10979,6 @@ gutenberg_id,short_title,gutenberg_title,genre,year,author,section,class,act,sce
 1503,Richard III,THE TRAGEDY OF KING RICHARD III,History,1592,William Shakespeare,contents,dialogue,ACT II,SCENE II,RICHARD,1360,stay
 1503,Richard III,THE TRAGEDY OF KING RICHARD III,History,1592,William Shakespeare,contents,dialogue,ACT II,SCENE II,RICHARD,1360,behind
 1503,Richard III,THE TRAGEDY OF KING RICHARD III,History,1592,William Shakespeare,contents,directions,ACT II,SCENE II,NA,NA,exeunt
-1503,Richard III,THE TRAGEDY OF KING RICHARD III,History,1592,William Shakespeare,contents,reference,ACT II,SCENE III,NA,NA,scene
-1503,Richard III,THE TRAGEDY OF KING RICHARD III,History,1592,William Shakespeare,contents,reference,ACT II,SCENE III,NA,NA,iii
-1503,Richard III,THE TRAGEDY OF KING RICHARD III,History,1592,William Shakespeare,contents,reference,ACT II,SCENE III,NA,NA,london
-1503,Richard III,THE TRAGEDY OF KING RICHARD III,History,1592,William Shakespeare,contents,reference,ACT II,SCENE III,NA,NA,a
-1503,Richard III,THE TRAGEDY OF KING RICHARD III,History,1592,William Shakespeare,contents,reference,ACT II,SCENE III,NA,NA,street
 1503,Richard III,THE TRAGEDY OF KING RICHARD III,History,1592,William Shakespeare,contents,directions,ACT II,SCENE III,NA,NA,enter
 1503,Richard III,THE TRAGEDY OF KING RICHARD III,History,1592,William Shakespeare,contents,directions,ACT II,SCENE III,NA,NA,one
 1503,Richard III,THE TRAGEDY OF KING RICHARD III,History,1592,William Shakespeare,contents,directions,ACT II,SCENE III,NA,NA,citizen
@@ -11854,14 +11392,6 @@ gutenberg_id,short_title,gutenberg_title,genre,year,author,section,class,act,sce
 1503,Richard III,THE TRAGEDY OF KING RICHARD III,History,1592,William Shakespeare,contents,dialogue,ACT II,SCENE III,THIRD CITIZEN,1409,you
 1503,Richard III,THE TRAGEDY OF KING RICHARD III,History,1592,William Shakespeare,contents,dialogue,ACT II,SCENE III,THIRD CITIZEN,1409,company
 1503,Richard III,THE TRAGEDY OF KING RICHARD III,History,1592,William Shakespeare,contents,directions,ACT II,SCENE III,NA,NA,exeunt
-1503,Richard III,THE TRAGEDY OF KING RICHARD III,History,1592,William Shakespeare,contents,reference,ACT II,SCENE IV,NA,NA,scene
-1503,Richard III,THE TRAGEDY OF KING RICHARD III,History,1592,William Shakespeare,contents,reference,ACT II,SCENE IV,NA,NA,iv
-1503,Richard III,THE TRAGEDY OF KING RICHARD III,History,1592,William Shakespeare,contents,reference,ACT II,SCENE IV,NA,NA,london
-1503,Richard III,THE TRAGEDY OF KING RICHARD III,History,1592,William Shakespeare,contents,reference,ACT II,SCENE IV,NA,NA,a
-1503,Richard III,THE TRAGEDY OF KING RICHARD III,History,1592,William Shakespeare,contents,reference,ACT II,SCENE IV,NA,NA,room
-1503,Richard III,THE TRAGEDY OF KING RICHARD III,History,1592,William Shakespeare,contents,reference,ACT II,SCENE IV,NA,NA,in
-1503,Richard III,THE TRAGEDY OF KING RICHARD III,History,1592,William Shakespeare,contents,reference,ACT II,SCENE IV,NA,NA,the
-1503,Richard III,THE TRAGEDY OF KING RICHARD III,History,1592,William Shakespeare,contents,reference,ACT II,SCENE IV,NA,NA,palace
 1503,Richard III,THE TRAGEDY OF KING RICHARD III,History,1592,William Shakespeare,contents,directions,ACT II,SCENE IV,NA,NA,enter
 1503,Richard III,THE TRAGEDY OF KING RICHARD III,History,1592,William Shakespeare,contents,directions,ACT II,SCENE IV,NA,NA,the
 1503,Richard III,THE TRAGEDY OF KING RICHARD III,History,1592,William Shakespeare,contents,directions,ACT II,SCENE IV,NA,NA,archbishop
@@ -12480,13 +12010,6 @@ gutenberg_id,short_title,gutenberg_title,genre,year,author,section,class,act,sce
 1503,Richard III,THE TRAGEDY OF KING RICHARD III,History,1592,William Shakespeare,contents,dialogue,ACT II,SCENE IV,ARCHBISHOP,1486,the
 1503,Richard III,THE TRAGEDY OF KING RICHARD III,History,1592,William Shakespeare,contents,dialogue,ACT II,SCENE IV,ARCHBISHOP,1486,sanctuary
 1503,Richard III,THE TRAGEDY OF KING RICHARD III,History,1592,William Shakespeare,contents,directions,ACT II,SCENE IV,NA,NA,exeunt
-1503,Richard III,THE TRAGEDY OF KING RICHARD III,History,1592,William Shakespeare,contents,reference,ACT III,SCENE IV,NA,NA,act
-1503,Richard III,THE TRAGEDY OF KING RICHARD III,History,1592,William Shakespeare,contents,reference,ACT III,SCENE IV,NA,NA,iii
-1503,Richard III,THE TRAGEDY OF KING RICHARD III,History,1592,William Shakespeare,contents,reference,ACT III,SCENE I,NA,NA,scene
-1503,Richard III,THE TRAGEDY OF KING RICHARD III,History,1592,William Shakespeare,contents,reference,ACT III,SCENE I,NA,NA,i
-1503,Richard III,THE TRAGEDY OF KING RICHARD III,History,1592,William Shakespeare,contents,reference,ACT III,SCENE I,NA,NA,london
-1503,Richard III,THE TRAGEDY OF KING RICHARD III,History,1592,William Shakespeare,contents,reference,ACT III,SCENE I,NA,NA,a
-1503,Richard III,THE TRAGEDY OF KING RICHARD III,History,1592,William Shakespeare,contents,reference,ACT III,SCENE I,NA,NA,street
 1503,Richard III,THE TRAGEDY OF KING RICHARD III,History,1592,William Shakespeare,contents,directions,ACT III,SCENE I,NA,NA,the
 1503,Richard III,THE TRAGEDY OF KING RICHARD III,History,1592,William Shakespeare,contents,directions,ACT III,SCENE I,NA,NA,trumpets
 1503,Richard III,THE TRAGEDY OF KING RICHARD III,History,1592,William Shakespeare,contents,directions,ACT III,SCENE I,NA,NA,sound
@@ -14126,12 +13649,6 @@ gutenberg_id,short_title,gutenberg_title,genre,year,author,section,class,act,sce
 1503,Richard III,THE TRAGEDY OF KING RICHARD III,History,1592,William Shakespeare,contents,dialogue,ACT III,SCENE I,RICHARD,1687,some
 1503,Richard III,THE TRAGEDY OF KING RICHARD III,History,1592,William Shakespeare,contents,dialogue,ACT III,SCENE I,RICHARD,1687,form
 1503,Richard III,THE TRAGEDY OF KING RICHARD III,History,1592,William Shakespeare,contents,directions,ACT III,SCENE I,NA,NA,exeunt
-1503,Richard III,THE TRAGEDY OF KING RICHARD III,History,1592,William Shakespeare,contents,reference,ACT III,SCENE II,NA,NA,scene
-1503,Richard III,THE TRAGEDY OF KING RICHARD III,History,1592,William Shakespeare,contents,reference,ACT III,SCENE II,NA,NA,ii
-1503,Richard III,THE TRAGEDY OF KING RICHARD III,History,1592,William Shakespeare,contents,reference,ACT III,SCENE II,NA,NA,before
-1503,Richard III,THE TRAGEDY OF KING RICHARD III,History,1592,William Shakespeare,contents,reference,ACT III,SCENE II,NA,NA,lord
-1503,Richard III,THE TRAGEDY OF KING RICHARD III,History,1592,William Shakespeare,contents,reference,ACT III,SCENE II,NA,NA,hastings
-1503,Richard III,THE TRAGEDY OF KING RICHARD III,History,1592,William Shakespeare,contents,reference,ACT III,SCENE II,NA,NA,house
 1503,Richard III,THE TRAGEDY OF KING RICHARD III,History,1592,William Shakespeare,contents,directions,ACT III,SCENE II,NA,NA,enter
 1503,Richard III,THE TRAGEDY OF KING RICHARD III,History,1592,William Shakespeare,contents,directions,ACT III,SCENE II,NA,NA,a
 1503,Richard III,THE TRAGEDY OF KING RICHARD III,History,1592,William Shakespeare,contents,directions,ACT III,SCENE II,NA,NA,messenger
@@ -15163,12 +14680,6 @@ gutenberg_id,short_title,gutenberg_title,genre,year,author,section,class,act,sce
 1503,Richard III,THE TRAGEDY OF KING RICHARD III,History,1592,William Shakespeare,contents,dialogue,ACT III,SCENE II,HASTINGS,1810,your
 1503,Richard III,THE TRAGEDY OF KING RICHARD III,History,1592,William Shakespeare,contents,dialogue,ACT III,SCENE II,HASTINGS,1810,lordship
 1503,Richard III,THE TRAGEDY OF KING RICHARD III,History,1592,William Shakespeare,contents,directions,ACT III,SCENE II,NA,NA,exeunt
-1503,Richard III,THE TRAGEDY OF KING RICHARD III,History,1592,William Shakespeare,contents,reference,ACT III,SCENE III,NA,NA,scene
-1503,Richard III,THE TRAGEDY OF KING RICHARD III,History,1592,William Shakespeare,contents,reference,ACT III,SCENE III,NA,NA,iii
-1503,Richard III,THE TRAGEDY OF KING RICHARD III,History,1592,William Shakespeare,contents,reference,ACT III,SCENE III,NA,NA,pomfret
-1503,Richard III,THE TRAGEDY OF KING RICHARD III,History,1592,William Shakespeare,contents,reference,ACT III,SCENE III,NA,NA,before
-1503,Richard III,THE TRAGEDY OF KING RICHARD III,History,1592,William Shakespeare,contents,reference,ACT III,SCENE III,NA,NA,the
-1503,Richard III,THE TRAGEDY OF KING RICHARD III,History,1592,William Shakespeare,contents,reference,ACT III,SCENE III,NA,NA,castle
 1503,Richard III,THE TRAGEDY OF KING RICHARD III,History,1592,William Shakespeare,contents,directions,ACT III,SCENE III,NA,NA,enter
 1503,Richard III,THE TRAGEDY OF KING RICHARD III,History,1592,William Shakespeare,contents,directions,ACT III,SCENE III,NA,NA,sir
 1503,Richard III,THE TRAGEDY OF KING RICHARD III,History,1592,William Shakespeare,contents,directions,ACT III,SCENE III,NA,NA,richard
@@ -15384,14 +14895,6 @@ gutenberg_id,short_title,gutenberg_title,genre,year,author,section,class,act,sce
 1503,Richard III,THE TRAGEDY OF KING RICHARD III,History,1592,William Shakespeare,contents,dialogue,ACT III,SCENE III,RIVERS,1835,in
 1503,Richard III,THE TRAGEDY OF KING RICHARD III,History,1592,William Shakespeare,contents,dialogue,ACT III,SCENE III,RIVERS,1835,heaven
 1503,Richard III,THE TRAGEDY OF KING RICHARD III,History,1592,William Shakespeare,contents,directions,ACT III,SCENE III,NA,NA,exeunt
-1503,Richard III,THE TRAGEDY OF KING RICHARD III,History,1592,William Shakespeare,contents,reference,ACT III,SCENE IV,NA,NA,scene
-1503,Richard III,THE TRAGEDY OF KING RICHARD III,History,1592,William Shakespeare,contents,reference,ACT III,SCENE IV,NA,NA,iv
-1503,Richard III,THE TRAGEDY OF KING RICHARD III,History,1592,William Shakespeare,contents,reference,ACT III,SCENE IV,NA,NA,london
-1503,Richard III,THE TRAGEDY OF KING RICHARD III,History,1592,William Shakespeare,contents,reference,ACT III,SCENE IV,NA,NA,a
-1503,Richard III,THE TRAGEDY OF KING RICHARD III,History,1592,William Shakespeare,contents,reference,ACT III,SCENE IV,NA,NA,room
-1503,Richard III,THE TRAGEDY OF KING RICHARD III,History,1592,William Shakespeare,contents,reference,ACT III,SCENE IV,NA,NA,in
-1503,Richard III,THE TRAGEDY OF KING RICHARD III,History,1592,William Shakespeare,contents,reference,ACT III,SCENE IV,NA,NA,the
-1503,Richard III,THE TRAGEDY OF KING RICHARD III,History,1592,William Shakespeare,contents,reference,ACT III,SCENE IV,NA,NA,tower
 1503,Richard III,THE TRAGEDY OF KING RICHARD III,History,1592,William Shakespeare,contents,directions,ACT III,SCENE IV,NA,NA,enter
 1503,Richard III,THE TRAGEDY OF KING RICHARD III,History,1592,William Shakespeare,contents,directions,ACT III,SCENE IV,NA,NA,buckingham
 1503,Richard III,THE TRAGEDY OF KING RICHARD III,History,1592,William Shakespeare,contents,directions,ACT III,SCENE IV,NA,NA,stanley
@@ -16303,12 +15806,6 @@ gutenberg_id,short_title,gutenberg_title,genre,year,author,section,class,act,sce
 1503,Richard III,THE TRAGEDY OF KING RICHARD III,History,1592,William Shakespeare,contents,dialogue,ACT III,SCENE IV,HASTINGS,1941,be
 1503,Richard III,THE TRAGEDY OF KING RICHARD III,History,1592,William Shakespeare,contents,dialogue,ACT III,SCENE IV,HASTINGS,1941,dead
 1503,Richard III,THE TRAGEDY OF KING RICHARD III,History,1592,William Shakespeare,contents,directions,ACT III,SCENE IV,NA,NA,exeunt
-1503,Richard III,THE TRAGEDY OF KING RICHARD III,History,1592,William Shakespeare,contents,reference,ACT III,SCENE V,NA,NA,scene
-1503,Richard III,THE TRAGEDY OF KING RICHARD III,History,1592,William Shakespeare,contents,reference,ACT III,SCENE V,NA,NA,v
-1503,Richard III,THE TRAGEDY OF KING RICHARD III,History,1592,William Shakespeare,contents,reference,ACT III,SCENE V,NA,NA,london
-1503,Richard III,THE TRAGEDY OF KING RICHARD III,History,1592,William Shakespeare,contents,reference,ACT III,SCENE V,NA,NA,the
-1503,Richard III,THE TRAGEDY OF KING RICHARD III,History,1592,William Shakespeare,contents,reference,ACT III,SCENE V,NA,NA,tower
-1503,Richard III,THE TRAGEDY OF KING RICHARD III,History,1592,William Shakespeare,contents,reference,ACT III,SCENE V,NA,NA,walls
 1503,Richard III,THE TRAGEDY OF KING RICHARD III,History,1592,William Shakespeare,contents,directions,ACT III,SCENE V,NA,NA,enter
 1503,Richard III,THE TRAGEDY OF KING RICHARD III,History,1592,William Shakespeare,contents,directions,ACT III,SCENE V,NA,NA,richard
 1503,Richard III,THE TRAGEDY OF KING RICHARD III,History,1592,William Shakespeare,contents,directions,ACT III,SCENE V,NA,NA,and
@@ -17158,11 +16655,6 @@ gutenberg_id,short_title,gutenberg_title,genre,year,author,section,class,act,sce
 1503,Richard III,THE TRAGEDY OF KING RICHARD III,History,1592,William Shakespeare,contents,dialogue,ACT III,SCENE V,RICHARD,2050,the
 1503,Richard III,THE TRAGEDY OF KING RICHARD III,History,1592,William Shakespeare,contents,dialogue,ACT III,SCENE V,RICHARD,2050,princes
 1503,Richard III,THE TRAGEDY OF KING RICHARD III,History,1592,William Shakespeare,contents,directions,ACT III,SCENE V,NA,NA,exit
-1503,Richard III,THE TRAGEDY OF KING RICHARD III,History,1592,William Shakespeare,contents,reference,ACT III,SCENE VI,NA,NA,scene
-1503,Richard III,THE TRAGEDY OF KING RICHARD III,History,1592,William Shakespeare,contents,reference,ACT III,SCENE VI,NA,NA,vi
-1503,Richard III,THE TRAGEDY OF KING RICHARD III,History,1592,William Shakespeare,contents,reference,ACT III,SCENE VI,NA,NA,london
-1503,Richard III,THE TRAGEDY OF KING RICHARD III,History,1592,William Shakespeare,contents,reference,ACT III,SCENE VI,NA,NA,a
-1503,Richard III,THE TRAGEDY OF KING RICHARD III,History,1592,William Shakespeare,contents,reference,ACT III,SCENE VI,NA,NA,street
 1503,Richard III,THE TRAGEDY OF KING RICHARD III,History,1592,William Shakespeare,contents,directions,ACT III,SCENE VI,NA,NA,enter
 1503,Richard III,THE TRAGEDY OF KING RICHARD III,History,1592,William Shakespeare,contents,directions,ACT III,SCENE VI,NA,NA,a
 1503,Richard III,THE TRAGEDY OF KING RICHARD III,History,1592,William Shakespeare,contents,directions,ACT III,SCENE VI,NA,NA,scrivener
@@ -17284,13 +16776,6 @@ gutenberg_id,short_title,gutenberg_title,genre,year,author,section,class,act,sce
 1503,Richard III,THE TRAGEDY OF KING RICHARD III,History,1592,William Shakespeare,contents,dialogue,ACT III,SCENE VI,SCRIVENER,2064,in
 1503,Richard III,THE TRAGEDY OF KING RICHARD III,History,1592,William Shakespeare,contents,dialogue,ACT III,SCENE VI,SCRIVENER,2064,thought
 1503,Richard III,THE TRAGEDY OF KING RICHARD III,History,1592,William Shakespeare,contents,directions,ACT III,SCENE VI,NA,NA,exit
-1503,Richard III,THE TRAGEDY OF KING RICHARD III,History,1592,William Shakespeare,contents,reference,ACT III,SCENE VII,NA,NA,scene
-1503,Richard III,THE TRAGEDY OF KING RICHARD III,History,1592,William Shakespeare,contents,reference,ACT III,SCENE VII,NA,NA,vii
-1503,Richard III,THE TRAGEDY OF KING RICHARD III,History,1592,William Shakespeare,contents,reference,ACT III,SCENE VII,NA,NA,london
-1503,Richard III,THE TRAGEDY OF KING RICHARD III,History,1592,William Shakespeare,contents,reference,ACT III,SCENE VII,NA,NA,court
-1503,Richard III,THE TRAGEDY OF KING RICHARD III,History,1592,William Shakespeare,contents,reference,ACT III,SCENE VII,NA,NA,of
-1503,Richard III,THE TRAGEDY OF KING RICHARD III,History,1592,William Shakespeare,contents,reference,ACT III,SCENE VII,NA,NA,baynard’s
-1503,Richard III,THE TRAGEDY OF KING RICHARD III,History,1592,William Shakespeare,contents,reference,ACT III,SCENE VII,NA,NA,castle
 1503,Richard III,THE TRAGEDY OF KING RICHARD III,History,1592,William Shakespeare,contents,directions,ACT III,SCENE VII,NA,NA,enter
 1503,Richard III,THE TRAGEDY OF KING RICHARD III,History,1592,William Shakespeare,contents,directions,ACT III,SCENE VII,NA,NA,richard
 1503,Richard III,THE TRAGEDY OF KING RICHARD III,History,1592,William Shakespeare,contents,directions,ACT III,SCENE VII,NA,NA,and
@@ -19218,14 +18703,6 @@ gutenberg_id,short_title,gutenberg_title,genre,year,author,section,class,act,sce
 1503,Richard III,THE TRAGEDY OF KING RICHARD III,History,1592,William Shakespeare,contents,dialogue,ACT III,SCENE VII,RICHARD,2309,gentle
 1503,Richard III,THE TRAGEDY OF KING RICHARD III,History,1592,William Shakespeare,contents,dialogue,ACT III,SCENE VII,RICHARD,2309,friends
 1503,Richard III,THE TRAGEDY OF KING RICHARD III,History,1592,William Shakespeare,contents,directions,ACT III,SCENE VII,NA,NA,exeunt
-1503,Richard III,THE TRAGEDY OF KING RICHARD III,History,1592,William Shakespeare,contents,reference,ACT IV,SCENE VII,NA,NA,act
-1503,Richard III,THE TRAGEDY OF KING RICHARD III,History,1592,William Shakespeare,contents,reference,ACT IV,SCENE VII,NA,NA,iv
-1503,Richard III,THE TRAGEDY OF KING RICHARD III,History,1592,William Shakespeare,contents,reference,ACT IV,SCENE I,NA,NA,scene
-1503,Richard III,THE TRAGEDY OF KING RICHARD III,History,1592,William Shakespeare,contents,reference,ACT IV,SCENE I,NA,NA,i
-1503,Richard III,THE TRAGEDY OF KING RICHARD III,History,1592,William Shakespeare,contents,reference,ACT IV,SCENE I,NA,NA,london
-1503,Richard III,THE TRAGEDY OF KING RICHARD III,History,1592,William Shakespeare,contents,reference,ACT IV,SCENE I,NA,NA,before
-1503,Richard III,THE TRAGEDY OF KING RICHARD III,History,1592,William Shakespeare,contents,reference,ACT IV,SCENE I,NA,NA,the
-1503,Richard III,THE TRAGEDY OF KING RICHARD III,History,1592,William Shakespeare,contents,reference,ACT IV,SCENE I,NA,NA,tower
 1503,Richard III,THE TRAGEDY OF KING RICHARD III,History,1592,William Shakespeare,contents,directions,ACT IV,SCENE I,NA,NA,enter
 1503,Richard III,THE TRAGEDY OF KING RICHARD III,History,1592,William Shakespeare,contents,directions,ACT IV,SCENE I,NA,NA,queen
 1503,Richard III,THE TRAGEDY OF KING RICHARD III,History,1592,William Shakespeare,contents,directions,ACT IV,SCENE I,NA,NA,elizabeth
@@ -20114,16 +19591,6 @@ gutenberg_id,short_title,gutenberg_title,genre,year,author,section,class,act,sce
 1503,Richard III,THE TRAGEDY OF KING RICHARD III,History,1592,William Shakespeare,contents,dialogue,ACT IV,SCENE I,QUEEN ELIZABETH,2415,stones
 1503,Richard III,THE TRAGEDY OF KING RICHARD III,History,1592,William Shakespeare,contents,dialogue,ACT IV,SCENE I,QUEEN ELIZABETH,2415,farewell
 1503,Richard III,THE TRAGEDY OF KING RICHARD III,History,1592,William Shakespeare,contents,directions,ACT IV,SCENE I,NA,NA,exeunt
-1503,Richard III,THE TRAGEDY OF KING RICHARD III,History,1592,William Shakespeare,contents,reference,ACT IV,SCENE II,NA,NA,scene
-1503,Richard III,THE TRAGEDY OF KING RICHARD III,History,1592,William Shakespeare,contents,reference,ACT IV,SCENE II,NA,NA,ii
-1503,Richard III,THE TRAGEDY OF KING RICHARD III,History,1592,William Shakespeare,contents,reference,ACT IV,SCENE II,NA,NA,london
-1503,Richard III,THE TRAGEDY OF KING RICHARD III,History,1592,William Shakespeare,contents,reference,ACT IV,SCENE II,NA,NA,a
-1503,Richard III,THE TRAGEDY OF KING RICHARD III,History,1592,William Shakespeare,contents,reference,ACT IV,SCENE II,NA,NA,room
-1503,Richard III,THE TRAGEDY OF KING RICHARD III,History,1592,William Shakespeare,contents,reference,ACT IV,SCENE II,NA,NA,of
-1503,Richard III,THE TRAGEDY OF KING RICHARD III,History,1592,William Shakespeare,contents,reference,ACT IV,SCENE II,NA,NA,state
-1503,Richard III,THE TRAGEDY OF KING RICHARD III,History,1592,William Shakespeare,contents,reference,ACT IV,SCENE II,NA,NA,in
-1503,Richard III,THE TRAGEDY OF KING RICHARD III,History,1592,William Shakespeare,contents,reference,ACT IV,SCENE II,NA,NA,the
-1503,Richard III,THE TRAGEDY OF KING RICHARD III,History,1592,William Shakespeare,contents,reference,ACT IV,SCENE II,NA,NA,palace
 1503,Richard III,THE TRAGEDY OF KING RICHARD III,History,1592,William Shakespeare,contents,directions,ACT IV,SCENE II,NA,NA,the
 1503,Richard III,THE TRAGEDY OF KING RICHARD III,History,1592,William Shakespeare,contents,directions,ACT IV,SCENE II,NA,NA,trumpets
 1503,Richard III,THE TRAGEDY OF KING RICHARD III,History,1592,William Shakespeare,contents,directions,ACT IV,SCENE II,NA,NA,sound
@@ -21099,14 +20566,6 @@ gutenberg_id,short_title,gutenberg_title,genre,year,author,section,class,act,sce
 1503,Richard III,THE TRAGEDY OF KING RICHARD III,History,1592,William Shakespeare,contents,dialogue,ACT IV,SCENE II,BUCKINGHAM,2542,is
 1503,Richard III,THE TRAGEDY OF KING RICHARD III,History,1592,William Shakespeare,contents,dialogue,ACT IV,SCENE II,BUCKINGHAM,2542,on
 1503,Richard III,THE TRAGEDY OF KING RICHARD III,History,1592,William Shakespeare,contents,directions,ACT IV,SCENE II,NA,NA,exit
-1503,Richard III,THE TRAGEDY OF KING RICHARD III,History,1592,William Shakespeare,contents,reference,ACT IV,SCENE III,NA,NA,scene
-1503,Richard III,THE TRAGEDY OF KING RICHARD III,History,1592,William Shakespeare,contents,reference,ACT IV,SCENE III,NA,NA,iii
-1503,Richard III,THE TRAGEDY OF KING RICHARD III,History,1592,William Shakespeare,contents,reference,ACT IV,SCENE III,NA,NA,london
-1503,Richard III,THE TRAGEDY OF KING RICHARD III,History,1592,William Shakespeare,contents,reference,ACT IV,SCENE III,NA,NA,another
-1503,Richard III,THE TRAGEDY OF KING RICHARD III,History,1592,William Shakespeare,contents,reference,ACT IV,SCENE III,NA,NA,room
-1503,Richard III,THE TRAGEDY OF KING RICHARD III,History,1592,William Shakespeare,contents,reference,ACT IV,SCENE III,NA,NA,in
-1503,Richard III,THE TRAGEDY OF KING RICHARD III,History,1592,William Shakespeare,contents,reference,ACT IV,SCENE III,NA,NA,the
-1503,Richard III,THE TRAGEDY OF KING RICHARD III,History,1592,William Shakespeare,contents,reference,ACT IV,SCENE III,NA,NA,palace
 1503,Richard III,THE TRAGEDY OF KING RICHARD III,History,1592,William Shakespeare,contents,directions,ACT IV,SCENE III,NA,NA,enter
 1503,Richard III,THE TRAGEDY OF KING RICHARD III,History,1592,William Shakespeare,contents,directions,ACT IV,SCENE III,NA,NA,tyrrel
 1503,Richard III,THE TRAGEDY OF KING RICHARD III,History,1592,William Shakespeare,contents,dialogue,ACT IV,SCENE III,TYRREL,2543,the
@@ -21559,12 +21018,6 @@ gutenberg_id,short_title,gutenberg_title,genre,year,author,section,class,act,sce
 1503,Richard III,THE TRAGEDY OF KING RICHARD III,History,1592,William Shakespeare,contents,dialogue,ACT IV,SCENE III,KING RICHARD,2602,the
 1503,Richard III,THE TRAGEDY OF KING RICHARD III,History,1592,William Shakespeare,contents,dialogue,ACT IV,SCENE III,KING RICHARD,2602,field
 1503,Richard III,THE TRAGEDY OF KING RICHARD III,History,1592,William Shakespeare,contents,directions,ACT IV,SCENE III,NA,NA,exeunt
-1503,Richard III,THE TRAGEDY OF KING RICHARD III,History,1592,William Shakespeare,contents,reference,ACT IV,SCENE IV,NA,NA,scene
-1503,Richard III,THE TRAGEDY OF KING RICHARD III,History,1592,William Shakespeare,contents,reference,ACT IV,SCENE IV,NA,NA,iv
-1503,Richard III,THE TRAGEDY OF KING RICHARD III,History,1592,William Shakespeare,contents,reference,ACT IV,SCENE IV,NA,NA,london
-1503,Richard III,THE TRAGEDY OF KING RICHARD III,History,1592,William Shakespeare,contents,reference,ACT IV,SCENE IV,NA,NA,before
-1503,Richard III,THE TRAGEDY OF KING RICHARD III,History,1592,William Shakespeare,contents,reference,ACT IV,SCENE IV,NA,NA,the
-1503,Richard III,THE TRAGEDY OF KING RICHARD III,History,1592,William Shakespeare,contents,reference,ACT IV,SCENE IV,NA,NA,palace
 1503,Richard III,THE TRAGEDY OF KING RICHARD III,History,1592,William Shakespeare,contents,directions,ACT IV,SCENE IV,NA,NA,enter
 1503,Richard III,THE TRAGEDY OF KING RICHARD III,History,1592,William Shakespeare,contents,directions,ACT IV,SCENE IV,NA,NA,old
 1503,Richard III,THE TRAGEDY OF KING RICHARD III,History,1592,William Shakespeare,contents,directions,ACT IV,SCENE IV,NA,NA,queen
@@ -25928,14 +25381,6 @@ gutenberg_id,short_title,gutenberg_title,genre,year,author,section,class,act,sce
 1503,Richard III,THE TRAGEDY OF KING RICHARD III,History,1592,William Shakespeare,contents,dialogue,ACT IV,SCENE IV,KING RICHARD,3159,me
 1503,Richard III,THE TRAGEDY OF KING RICHARD III,History,1592,William Shakespeare,contents,directions,ACT IV,SCENE IV,NA,NA,flourish
 1503,Richard III,THE TRAGEDY OF KING RICHARD III,History,1592,William Shakespeare,contents,directions,ACT IV,SCENE IV,NA,NA,exeunt
-1503,Richard III,THE TRAGEDY OF KING RICHARD III,History,1592,William Shakespeare,contents,reference,ACT IV,SCENE V,NA,NA,scene
-1503,Richard III,THE TRAGEDY OF KING RICHARD III,History,1592,William Shakespeare,contents,reference,ACT IV,SCENE V,NA,NA,v
-1503,Richard III,THE TRAGEDY OF KING RICHARD III,History,1592,William Shakespeare,contents,reference,ACT IV,SCENE V,NA,NA,a
-1503,Richard III,THE TRAGEDY OF KING RICHARD III,History,1592,William Shakespeare,contents,reference,ACT IV,SCENE V,NA,NA,room
-1503,Richard III,THE TRAGEDY OF KING RICHARD III,History,1592,William Shakespeare,contents,reference,ACT IV,SCENE V,NA,NA,in
-1503,Richard III,THE TRAGEDY OF KING RICHARD III,History,1592,William Shakespeare,contents,reference,ACT IV,SCENE V,NA,NA,lord
-1503,Richard III,THE TRAGEDY OF KING RICHARD III,History,1592,William Shakespeare,contents,reference,ACT IV,SCENE V,NA,NA,stanley’s
-1503,Richard III,THE TRAGEDY OF KING RICHARD III,History,1592,William Shakespeare,contents,reference,ACT IV,SCENE V,NA,NA,house
 1503,Richard III,THE TRAGEDY OF KING RICHARD III,History,1592,William Shakespeare,contents,directions,ACT IV,SCENE V,NA,NA,enter
 1503,Richard III,THE TRAGEDY OF KING RICHARD III,History,1592,William Shakespeare,contents,directions,ACT IV,SCENE V,NA,NA,stanley
 1503,Richard III,THE TRAGEDY OF KING RICHARD III,History,1592,William Shakespeare,contents,directions,ACT IV,SCENE V,NA,NA,earl
@@ -26103,14 +25548,6 @@ gutenberg_id,short_title,gutenberg_title,genre,year,author,section,class,act,sce
 1503,Richard III,THE TRAGEDY OF KING RICHARD III,History,1592,William Shakespeare,contents,dialogue,ACT IV,SCENE V,STANLEY,3179,mind
 1503,Richard III,THE TRAGEDY OF KING RICHARD III,History,1592,William Shakespeare,contents,dialogue,ACT IV,SCENE V,STANLEY,3180,farewell
 1503,Richard III,THE TRAGEDY OF KING RICHARD III,History,1592,William Shakespeare,contents,directions,ACT IV,SCENE V,NA,NA,exeunt
-1503,Richard III,THE TRAGEDY OF KING RICHARD III,History,1592,William Shakespeare,contents,reference,ACT V,SCENE V,NA,NA,act
-1503,Richard III,THE TRAGEDY OF KING RICHARD III,History,1592,William Shakespeare,contents,reference,ACT V,SCENE V,NA,NA,v
-1503,Richard III,THE TRAGEDY OF KING RICHARD III,History,1592,William Shakespeare,contents,reference,ACT V,SCENE I,NA,NA,scene
-1503,Richard III,THE TRAGEDY OF KING RICHARD III,History,1592,William Shakespeare,contents,reference,ACT V,SCENE I,NA,NA,i
-1503,Richard III,THE TRAGEDY OF KING RICHARD III,History,1592,William Shakespeare,contents,reference,ACT V,SCENE I,NA,NA,salisbury
-1503,Richard III,THE TRAGEDY OF KING RICHARD III,History,1592,William Shakespeare,contents,reference,ACT V,SCENE I,NA,NA,an
-1503,Richard III,THE TRAGEDY OF KING RICHARD III,History,1592,William Shakespeare,contents,reference,ACT V,SCENE I,NA,NA,open
-1503,Richard III,THE TRAGEDY OF KING RICHARD III,History,1592,William Shakespeare,contents,reference,ACT V,SCENE I,NA,NA,place
 1503,Richard III,THE TRAGEDY OF KING RICHARD III,History,1592,William Shakespeare,contents,directions,ACT V,SCENE I,NA,NA,enter
 1503,Richard III,THE TRAGEDY OF KING RICHARD III,History,1592,William Shakespeare,contents,directions,ACT V,SCENE I,NA,NA,sheriff
 1503,Richard III,THE TRAGEDY OF KING RICHARD III,History,1592,William Shakespeare,contents,directions,ACT V,SCENE I,NA,NA,and
@@ -26352,11 +25789,6 @@ gutenberg_id,short_title,gutenberg_title,genre,year,author,section,class,act,sce
 1503,Richard III,THE TRAGEDY OF KING RICHARD III,History,1592,William Shakespeare,contents,directions,ACT V,SCENE I,NA,NA,exit
 1503,Richard III,THE TRAGEDY OF KING RICHARD III,History,1592,William Shakespeare,contents,directions,ACT V,SCENE I,NA,NA,with
 1503,Richard III,THE TRAGEDY OF KING RICHARD III,History,1592,William Shakespeare,contents,directions,ACT V,SCENE I,NA,NA,officers
-1503,Richard III,THE TRAGEDY OF KING RICHARD III,History,1592,William Shakespeare,contents,reference,ACT V,SCENE II,NA,NA,scene
-1503,Richard III,THE TRAGEDY OF KING RICHARD III,History,1592,William Shakespeare,contents,reference,ACT V,SCENE II,NA,NA,ii
-1503,Richard III,THE TRAGEDY OF KING RICHARD III,History,1592,William Shakespeare,contents,reference,ACT V,SCENE II,NA,NA,plain
-1503,Richard III,THE TRAGEDY OF KING RICHARD III,History,1592,William Shakespeare,contents,reference,ACT V,SCENE II,NA,NA,near
-1503,Richard III,THE TRAGEDY OF KING RICHARD III,History,1592,William Shakespeare,contents,reference,ACT V,SCENE II,NA,NA,tamworth
 1503,Richard III,THE TRAGEDY OF KING RICHARD III,History,1592,William Shakespeare,contents,directions,ACT V,SCENE II,NA,NA,enter
 1503,Richard III,THE TRAGEDY OF KING RICHARD III,History,1592,William Shakespeare,contents,directions,ACT V,SCENE II,NA,NA,richmond
 1503,Richard III,THE TRAGEDY OF KING RICHARD III,History,1592,William Shakespeare,contents,directions,ACT V,SCENE II,NA,NA,oxford
@@ -26558,10 +25990,6 @@ gutenberg_id,short_title,gutenberg_title,genre,year,author,section,class,act,sce
 1503,Richard III,THE TRAGEDY OF KING RICHARD III,History,1592,William Shakespeare,contents,dialogue,ACT V,SCENE II,RICHMOND,3233,creatures
 1503,Richard III,THE TRAGEDY OF KING RICHARD III,History,1592,William Shakespeare,contents,dialogue,ACT V,SCENE II,RICHMOND,3233,kings
 1503,Richard III,THE TRAGEDY OF KING RICHARD III,History,1592,William Shakespeare,contents,directions,ACT V,SCENE II,NA,NA,exeunt
-1503,Richard III,THE TRAGEDY OF KING RICHARD III,History,1592,William Shakespeare,contents,reference,ACT V,SCENE III,NA,NA,scene
-1503,Richard III,THE TRAGEDY OF KING RICHARD III,History,1592,William Shakespeare,contents,reference,ACT V,SCENE III,NA,NA,iii
-1503,Richard III,THE TRAGEDY OF KING RICHARD III,History,1592,William Shakespeare,contents,reference,ACT V,SCENE III,NA,NA,bosworth
-1503,Richard III,THE TRAGEDY OF KING RICHARD III,History,1592,William Shakespeare,contents,reference,ACT V,SCENE III,NA,NA,field
 1503,Richard III,THE TRAGEDY OF KING RICHARD III,History,1592,William Shakespeare,contents,directions,ACT V,SCENE III,NA,NA,enter
 1503,Richard III,THE TRAGEDY OF KING RICHARD III,History,1592,William Shakespeare,contents,directions,ACT V,SCENE III,NA,NA,king
 1503,Richard III,THE TRAGEDY OF KING RICHARD III,History,1592,William Shakespeare,contents,directions,ACT V,SCENE III,NA,NA,richard
@@ -29561,13 +28989,6 @@ gutenberg_id,short_title,gutenberg_title,genre,year,author,section,class,act,sce
 1503,Richard III,THE TRAGEDY OF KING RICHARD III,History,1592,William Shakespeare,contents,dialogue,ACT V,SCENE III,KING RICHARD,3596,our
 1503,Richard III,THE TRAGEDY OF KING RICHARD III,History,1592,William Shakespeare,contents,dialogue,ACT V,SCENE III,KING RICHARD,3596,helms
 1503,Richard III,THE TRAGEDY OF KING RICHARD III,History,1592,William Shakespeare,contents,directions,ACT V,SCENE III,NA,NA,exeunt
-1503,Richard III,THE TRAGEDY OF KING RICHARD III,History,1592,William Shakespeare,contents,reference,ACT V,SCENE IV,NA,NA,scene
-1503,Richard III,THE TRAGEDY OF KING RICHARD III,History,1592,William Shakespeare,contents,reference,ACT V,SCENE IV,NA,NA,iv
-1503,Richard III,THE TRAGEDY OF KING RICHARD III,History,1592,William Shakespeare,contents,reference,ACT V,SCENE IV,NA,NA,another
-1503,Richard III,THE TRAGEDY OF KING RICHARD III,History,1592,William Shakespeare,contents,reference,ACT V,SCENE IV,NA,NA,part
-1503,Richard III,THE TRAGEDY OF KING RICHARD III,History,1592,William Shakespeare,contents,reference,ACT V,SCENE IV,NA,NA,of
-1503,Richard III,THE TRAGEDY OF KING RICHARD III,History,1592,William Shakespeare,contents,reference,ACT V,SCENE IV,NA,NA,the
-1503,Richard III,THE TRAGEDY OF KING RICHARD III,History,1592,William Shakespeare,contents,reference,ACT V,SCENE IV,NA,NA,field
 1503,Richard III,THE TRAGEDY OF KING RICHARD III,History,1592,William Shakespeare,contents,directions,ACT V,SCENE IV,NA,NA,alarum
 1503,Richard III,THE TRAGEDY OF KING RICHARD III,History,1592,William Shakespeare,contents,directions,ACT V,SCENE IV,NA,NA,excursions
 1503,Richard III,THE TRAGEDY OF KING RICHARD III,History,1592,William Shakespeare,contents,directions,ACT V,SCENE IV,NA,NA,enter
@@ -29696,13 +29117,6 @@ gutenberg_id,short_title,gutenberg_title,genre,year,author,section,class,act,sce
 1503,Richard III,THE TRAGEDY OF KING RICHARD III,History,1592,William Shakespeare,contents,dialogue,ACT V,SCENE IV,KING RICHARD,3610,a
 1503,Richard III,THE TRAGEDY OF KING RICHARD III,History,1592,William Shakespeare,contents,dialogue,ACT V,SCENE IV,KING RICHARD,3610,horse
 1503,Richard III,THE TRAGEDY OF KING RICHARD III,History,1592,William Shakespeare,contents,directions,ACT V,SCENE IV,NA,NA,exeunt
-1503,Richard III,THE TRAGEDY OF KING RICHARD III,History,1592,William Shakespeare,contents,reference,ACT V,SCENE V,NA,NA,scene
-1503,Richard III,THE TRAGEDY OF KING RICHARD III,History,1592,William Shakespeare,contents,reference,ACT V,SCENE V,NA,NA,v
-1503,Richard III,THE TRAGEDY OF KING RICHARD III,History,1592,William Shakespeare,contents,reference,ACT V,SCENE V,NA,NA,another
-1503,Richard III,THE TRAGEDY OF KING RICHARD III,History,1592,William Shakespeare,contents,reference,ACT V,SCENE V,NA,NA,part
-1503,Richard III,THE TRAGEDY OF KING RICHARD III,History,1592,William Shakespeare,contents,reference,ACT V,SCENE V,NA,NA,of
-1503,Richard III,THE TRAGEDY OF KING RICHARD III,History,1592,William Shakespeare,contents,reference,ACT V,SCENE V,NA,NA,the
-1503,Richard III,THE TRAGEDY OF KING RICHARD III,History,1592,William Shakespeare,contents,reference,ACT V,SCENE V,NA,NA,field
 1503,Richard III,THE TRAGEDY OF KING RICHARD III,History,1592,William Shakespeare,contents,directions,ACT V,SCENE V,NA,NA,alarum
 1503,Richard III,THE TRAGEDY OF KING RICHARD III,History,1592,William Shakespeare,contents,directions,ACT V,SCENE V,NA,NA,enter
 1503,Richard III,THE TRAGEDY OF KING RICHARD III,History,1592,William Shakespeare,contents,directions,ACT V,SCENE V,NA,NA,king

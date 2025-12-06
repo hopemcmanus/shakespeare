@@ -1,213 +1,4 @@
 gutenberg_id,short_title,gutenberg_title,genre,year,author,section,class,act,scene,character,line_number,word
-1519,Much Ado about Nothing,MUCH ADO ABOUT NOTHING,Comedy,1598,William Shakespeare,front_matter,title,NA,NA,NA,NA,much
-1519,Much Ado about Nothing,MUCH ADO ABOUT NOTHING,Comedy,1598,William Shakespeare,front_matter,title,NA,NA,NA,NA,ado
-1519,Much Ado about Nothing,MUCH ADO ABOUT NOTHING,Comedy,1598,William Shakespeare,front_matter,title,NA,NA,NA,NA,about
-1519,Much Ado about Nothing,MUCH ADO ABOUT NOTHING,Comedy,1598,William Shakespeare,front_matter,title,NA,NA,NA,NA,nothing
-1519,Much Ado about Nothing,MUCH ADO ABOUT NOTHING,Comedy,1598,William Shakespeare,front_matter,author,NA,NA,NA,NA,by
-1519,Much Ado about Nothing,MUCH ADO ABOUT NOTHING,Comedy,1598,William Shakespeare,front_matter,author,NA,NA,NA,NA,william
-1519,Much Ado about Nothing,MUCH ADO ABOUT NOTHING,Comedy,1598,William Shakespeare,front_matter,author,NA,NA,NA,NA,shakespeare
-1519,Much Ado about Nothing,MUCH ADO ABOUT NOTHING,Comedy,1598,William Shakespeare,front_matter,contents_header,NA,NA,NA,NA,contents
-1519,Much Ado about Nothing,MUCH ADO ABOUT NOTHING,Comedy,1598,William Shakespeare,front_matter,contents,ACT I,NA,NA,NA,act
-1519,Much Ado about Nothing,MUCH ADO ABOUT NOTHING,Comedy,1598,William Shakespeare,front_matter,contents,ACT I,NA,NA,NA,i
-1519,Much Ado about Nothing,MUCH ADO ABOUT NOTHING,Comedy,1598,William Shakespeare,front_matter,contents,ACT I,Scene I,NA,NA,scene
-1519,Much Ado about Nothing,MUCH ADO ABOUT NOTHING,Comedy,1598,William Shakespeare,front_matter,contents,ACT I,Scene I,NA,NA,i
-1519,Much Ado about Nothing,MUCH ADO ABOUT NOTHING,Comedy,1598,William Shakespeare,front_matter,contents,ACT I,NA,NA,NA,before
-1519,Much Ado about Nothing,MUCH ADO ABOUT NOTHING,Comedy,1598,William Shakespeare,front_matter,contents,ACT I,NA,NA,NA,leonato’s
-1519,Much Ado about Nothing,MUCH ADO ABOUT NOTHING,Comedy,1598,William Shakespeare,front_matter,contents,ACT I,NA,NA,NA,house
-1519,Much Ado about Nothing,MUCH ADO ABOUT NOTHING,Comedy,1598,William Shakespeare,front_matter,contents,ACT I,Scene II,NA,NA,scene
-1519,Much Ado about Nothing,MUCH ADO ABOUT NOTHING,Comedy,1598,William Shakespeare,front_matter,contents,ACT I,Scene II,NA,NA,ii
-1519,Much Ado about Nothing,MUCH ADO ABOUT NOTHING,Comedy,1598,William Shakespeare,front_matter,contents,ACT I,NA,NA,NA,a
-1519,Much Ado about Nothing,MUCH ADO ABOUT NOTHING,Comedy,1598,William Shakespeare,front_matter,contents,ACT I,NA,NA,NA,room
-1519,Much Ado about Nothing,MUCH ADO ABOUT NOTHING,Comedy,1598,William Shakespeare,front_matter,contents,ACT I,NA,NA,NA,in
-1519,Much Ado about Nothing,MUCH ADO ABOUT NOTHING,Comedy,1598,William Shakespeare,front_matter,contents,ACT I,NA,NA,NA,leonato’s
-1519,Much Ado about Nothing,MUCH ADO ABOUT NOTHING,Comedy,1598,William Shakespeare,front_matter,contents,ACT I,NA,NA,NA,house
-1519,Much Ado about Nothing,MUCH ADO ABOUT NOTHING,Comedy,1598,William Shakespeare,front_matter,contents,ACT I,Scene III,NA,NA,scene
-1519,Much Ado about Nothing,MUCH ADO ABOUT NOTHING,Comedy,1598,William Shakespeare,front_matter,contents,ACT I,Scene III,NA,NA,iii
-1519,Much Ado about Nothing,MUCH ADO ABOUT NOTHING,Comedy,1598,William Shakespeare,front_matter,contents,ACT I,NA,NA,NA,another
-1519,Much Ado about Nothing,MUCH ADO ABOUT NOTHING,Comedy,1598,William Shakespeare,front_matter,contents,ACT I,NA,NA,NA,room
-1519,Much Ado about Nothing,MUCH ADO ABOUT NOTHING,Comedy,1598,William Shakespeare,front_matter,contents,ACT I,NA,NA,NA,in
-1519,Much Ado about Nothing,MUCH ADO ABOUT NOTHING,Comedy,1598,William Shakespeare,front_matter,contents,ACT I,NA,NA,NA,leonato’s
-1519,Much Ado about Nothing,MUCH ADO ABOUT NOTHING,Comedy,1598,William Shakespeare,front_matter,contents,ACT I,NA,NA,NA,house
-1519,Much Ado about Nothing,MUCH ADO ABOUT NOTHING,Comedy,1598,William Shakespeare,front_matter,contents,ACT II,NA,NA,NA,act
-1519,Much Ado about Nothing,MUCH ADO ABOUT NOTHING,Comedy,1598,William Shakespeare,front_matter,contents,ACT II,NA,NA,NA,ii
-1519,Much Ado about Nothing,MUCH ADO ABOUT NOTHING,Comedy,1598,William Shakespeare,front_matter,contents,ACT II,Scene I,NA,NA,scene
-1519,Much Ado about Nothing,MUCH ADO ABOUT NOTHING,Comedy,1598,William Shakespeare,front_matter,contents,ACT II,Scene I,NA,NA,i
-1519,Much Ado about Nothing,MUCH ADO ABOUT NOTHING,Comedy,1598,William Shakespeare,front_matter,contents,ACT II,NA,NA,NA,a
-1519,Much Ado about Nothing,MUCH ADO ABOUT NOTHING,Comedy,1598,William Shakespeare,front_matter,contents,ACT II,NA,NA,NA,hall
-1519,Much Ado about Nothing,MUCH ADO ABOUT NOTHING,Comedy,1598,William Shakespeare,front_matter,contents,ACT II,NA,NA,NA,in
-1519,Much Ado about Nothing,MUCH ADO ABOUT NOTHING,Comedy,1598,William Shakespeare,front_matter,contents,ACT II,NA,NA,NA,leonato’s
-1519,Much Ado about Nothing,MUCH ADO ABOUT NOTHING,Comedy,1598,William Shakespeare,front_matter,contents,ACT II,NA,NA,NA,house
-1519,Much Ado about Nothing,MUCH ADO ABOUT NOTHING,Comedy,1598,William Shakespeare,front_matter,contents,ACT II,Scene II,NA,NA,scene
-1519,Much Ado about Nothing,MUCH ADO ABOUT NOTHING,Comedy,1598,William Shakespeare,front_matter,contents,ACT II,Scene II,NA,NA,ii
-1519,Much Ado about Nothing,MUCH ADO ABOUT NOTHING,Comedy,1598,William Shakespeare,front_matter,contents,ACT II,NA,NA,NA,another
-1519,Much Ado about Nothing,MUCH ADO ABOUT NOTHING,Comedy,1598,William Shakespeare,front_matter,contents,ACT II,NA,NA,NA,room
-1519,Much Ado about Nothing,MUCH ADO ABOUT NOTHING,Comedy,1598,William Shakespeare,front_matter,contents,ACT II,NA,NA,NA,in
-1519,Much Ado about Nothing,MUCH ADO ABOUT NOTHING,Comedy,1598,William Shakespeare,front_matter,contents,ACT II,NA,NA,NA,leonato’s
-1519,Much Ado about Nothing,MUCH ADO ABOUT NOTHING,Comedy,1598,William Shakespeare,front_matter,contents,ACT II,NA,NA,NA,house
-1519,Much Ado about Nothing,MUCH ADO ABOUT NOTHING,Comedy,1598,William Shakespeare,front_matter,contents,ACT II,Scene III,NA,NA,scene
-1519,Much Ado about Nothing,MUCH ADO ABOUT NOTHING,Comedy,1598,William Shakespeare,front_matter,contents,ACT II,Scene III,NA,NA,iii
-1519,Much Ado about Nothing,MUCH ADO ABOUT NOTHING,Comedy,1598,William Shakespeare,front_matter,contents,ACT II,NA,NA,NA,leonato’s
-1519,Much Ado about Nothing,MUCH ADO ABOUT NOTHING,Comedy,1598,William Shakespeare,front_matter,contents,ACT II,NA,NA,NA,garden
-1519,Much Ado about Nothing,MUCH ADO ABOUT NOTHING,Comedy,1598,William Shakespeare,front_matter,contents,ACT III,NA,NA,NA,act
-1519,Much Ado about Nothing,MUCH ADO ABOUT NOTHING,Comedy,1598,William Shakespeare,front_matter,contents,ACT III,NA,NA,NA,iii
-1519,Much Ado about Nothing,MUCH ADO ABOUT NOTHING,Comedy,1598,William Shakespeare,front_matter,contents,ACT III,Scene I,NA,NA,scene
-1519,Much Ado about Nothing,MUCH ADO ABOUT NOTHING,Comedy,1598,William Shakespeare,front_matter,contents,ACT III,Scene I,NA,NA,i
-1519,Much Ado about Nothing,MUCH ADO ABOUT NOTHING,Comedy,1598,William Shakespeare,front_matter,contents,ACT III,NA,NA,NA,leonato’s
-1519,Much Ado about Nothing,MUCH ADO ABOUT NOTHING,Comedy,1598,William Shakespeare,front_matter,contents,ACT III,NA,NA,NA,garden
-1519,Much Ado about Nothing,MUCH ADO ABOUT NOTHING,Comedy,1598,William Shakespeare,front_matter,contents,ACT III,Scene II,NA,NA,scene
-1519,Much Ado about Nothing,MUCH ADO ABOUT NOTHING,Comedy,1598,William Shakespeare,front_matter,contents,ACT III,Scene II,NA,NA,ii
-1519,Much Ado about Nothing,MUCH ADO ABOUT NOTHING,Comedy,1598,William Shakespeare,front_matter,contents,ACT III,NA,NA,NA,a
-1519,Much Ado about Nothing,MUCH ADO ABOUT NOTHING,Comedy,1598,William Shakespeare,front_matter,contents,ACT III,NA,NA,NA,room
-1519,Much Ado about Nothing,MUCH ADO ABOUT NOTHING,Comedy,1598,William Shakespeare,front_matter,contents,ACT III,NA,NA,NA,in
-1519,Much Ado about Nothing,MUCH ADO ABOUT NOTHING,Comedy,1598,William Shakespeare,front_matter,contents,ACT III,NA,NA,NA,leonato’s
-1519,Much Ado about Nothing,MUCH ADO ABOUT NOTHING,Comedy,1598,William Shakespeare,front_matter,contents,ACT III,NA,NA,NA,house
-1519,Much Ado about Nothing,MUCH ADO ABOUT NOTHING,Comedy,1598,William Shakespeare,front_matter,contents,ACT III,Scene III,NA,NA,scene
-1519,Much Ado about Nothing,MUCH ADO ABOUT NOTHING,Comedy,1598,William Shakespeare,front_matter,contents,ACT III,Scene III,NA,NA,iii
-1519,Much Ado about Nothing,MUCH ADO ABOUT NOTHING,Comedy,1598,William Shakespeare,front_matter,contents,ACT III,NA,NA,NA,a
-1519,Much Ado about Nothing,MUCH ADO ABOUT NOTHING,Comedy,1598,William Shakespeare,front_matter,contents,ACT III,NA,NA,NA,street
-1519,Much Ado about Nothing,MUCH ADO ABOUT NOTHING,Comedy,1598,William Shakespeare,front_matter,contents,ACT III,Scene IV,NA,NA,scene
-1519,Much Ado about Nothing,MUCH ADO ABOUT NOTHING,Comedy,1598,William Shakespeare,front_matter,contents,ACT III,Scene IV,NA,NA,iv
-1519,Much Ado about Nothing,MUCH ADO ABOUT NOTHING,Comedy,1598,William Shakespeare,front_matter,contents,ACT III,NA,NA,NA,a
-1519,Much Ado about Nothing,MUCH ADO ABOUT NOTHING,Comedy,1598,William Shakespeare,front_matter,contents,ACT III,NA,NA,NA,room
-1519,Much Ado about Nothing,MUCH ADO ABOUT NOTHING,Comedy,1598,William Shakespeare,front_matter,contents,ACT III,NA,NA,NA,in
-1519,Much Ado about Nothing,MUCH ADO ABOUT NOTHING,Comedy,1598,William Shakespeare,front_matter,contents,ACT III,NA,NA,NA,leonato’s
-1519,Much Ado about Nothing,MUCH ADO ABOUT NOTHING,Comedy,1598,William Shakespeare,front_matter,contents,ACT III,NA,NA,NA,house
-1519,Much Ado about Nothing,MUCH ADO ABOUT NOTHING,Comedy,1598,William Shakespeare,front_matter,contents,ACT III,Scene V,NA,NA,scene
-1519,Much Ado about Nothing,MUCH ADO ABOUT NOTHING,Comedy,1598,William Shakespeare,front_matter,contents,ACT III,Scene V,NA,NA,v
-1519,Much Ado about Nothing,MUCH ADO ABOUT NOTHING,Comedy,1598,William Shakespeare,front_matter,contents,ACT III,NA,NA,NA,another
-1519,Much Ado about Nothing,MUCH ADO ABOUT NOTHING,Comedy,1598,William Shakespeare,front_matter,contents,ACT III,NA,NA,NA,room
-1519,Much Ado about Nothing,MUCH ADO ABOUT NOTHING,Comedy,1598,William Shakespeare,front_matter,contents,ACT III,NA,NA,NA,in
-1519,Much Ado about Nothing,MUCH ADO ABOUT NOTHING,Comedy,1598,William Shakespeare,front_matter,contents,ACT III,NA,NA,NA,leonato’s
-1519,Much Ado about Nothing,MUCH ADO ABOUT NOTHING,Comedy,1598,William Shakespeare,front_matter,contents,ACT III,NA,NA,NA,house
-1519,Much Ado about Nothing,MUCH ADO ABOUT NOTHING,Comedy,1598,William Shakespeare,front_matter,contents,ACT IV,NA,NA,NA,act
-1519,Much Ado about Nothing,MUCH ADO ABOUT NOTHING,Comedy,1598,William Shakespeare,front_matter,contents,ACT IV,NA,NA,NA,iv
-1519,Much Ado about Nothing,MUCH ADO ABOUT NOTHING,Comedy,1598,William Shakespeare,front_matter,contents,ACT IV,Scene I,NA,NA,scene
-1519,Much Ado about Nothing,MUCH ADO ABOUT NOTHING,Comedy,1598,William Shakespeare,front_matter,contents,ACT IV,Scene I,NA,NA,i
-1519,Much Ado about Nothing,MUCH ADO ABOUT NOTHING,Comedy,1598,William Shakespeare,front_matter,contents,ACT IV,NA,NA,NA,the
-1519,Much Ado about Nothing,MUCH ADO ABOUT NOTHING,Comedy,1598,William Shakespeare,front_matter,contents,ACT IV,NA,NA,NA,inside
-1519,Much Ado about Nothing,MUCH ADO ABOUT NOTHING,Comedy,1598,William Shakespeare,front_matter,contents,ACT IV,NA,NA,NA,of
-1519,Much Ado about Nothing,MUCH ADO ABOUT NOTHING,Comedy,1598,William Shakespeare,front_matter,contents,ACT IV,NA,NA,NA,a
-1519,Much Ado about Nothing,MUCH ADO ABOUT NOTHING,Comedy,1598,William Shakespeare,front_matter,contents,ACT IV,NA,NA,NA,church
-1519,Much Ado about Nothing,MUCH ADO ABOUT NOTHING,Comedy,1598,William Shakespeare,front_matter,contents,ACT IV,Scene II,NA,NA,scene
-1519,Much Ado about Nothing,MUCH ADO ABOUT NOTHING,Comedy,1598,William Shakespeare,front_matter,contents,ACT IV,Scene II,NA,NA,ii
-1519,Much Ado about Nothing,MUCH ADO ABOUT NOTHING,Comedy,1598,William Shakespeare,front_matter,contents,ACT IV,NA,NA,NA,a
-1519,Much Ado about Nothing,MUCH ADO ABOUT NOTHING,Comedy,1598,William Shakespeare,front_matter,contents,ACT IV,NA,NA,NA,prison
-1519,Much Ado about Nothing,MUCH ADO ABOUT NOTHING,Comedy,1598,William Shakespeare,front_matter,contents,ACT V,NA,NA,NA,act
-1519,Much Ado about Nothing,MUCH ADO ABOUT NOTHING,Comedy,1598,William Shakespeare,front_matter,contents,ACT V,NA,NA,NA,v
-1519,Much Ado about Nothing,MUCH ADO ABOUT NOTHING,Comedy,1598,William Shakespeare,front_matter,contents,ACT V,Scene I,NA,NA,scene
-1519,Much Ado about Nothing,MUCH ADO ABOUT NOTHING,Comedy,1598,William Shakespeare,front_matter,contents,ACT V,Scene I,NA,NA,i
-1519,Much Ado about Nothing,MUCH ADO ABOUT NOTHING,Comedy,1598,William Shakespeare,front_matter,contents,ACT V,NA,NA,NA,before
-1519,Much Ado about Nothing,MUCH ADO ABOUT NOTHING,Comedy,1598,William Shakespeare,front_matter,contents,ACT V,NA,NA,NA,leonato’s
-1519,Much Ado about Nothing,MUCH ADO ABOUT NOTHING,Comedy,1598,William Shakespeare,front_matter,contents,ACT V,NA,NA,NA,house
-1519,Much Ado about Nothing,MUCH ADO ABOUT NOTHING,Comedy,1598,William Shakespeare,front_matter,contents,ACT V,Scene II,NA,NA,scene
-1519,Much Ado about Nothing,MUCH ADO ABOUT NOTHING,Comedy,1598,William Shakespeare,front_matter,contents,ACT V,Scene II,NA,NA,ii
-1519,Much Ado about Nothing,MUCH ADO ABOUT NOTHING,Comedy,1598,William Shakespeare,front_matter,contents,ACT V,NA,NA,NA,leonato’s
-1519,Much Ado about Nothing,MUCH ADO ABOUT NOTHING,Comedy,1598,William Shakespeare,front_matter,contents,ACT V,NA,NA,NA,garden
-1519,Much Ado about Nothing,MUCH ADO ABOUT NOTHING,Comedy,1598,William Shakespeare,front_matter,contents,ACT V,Scene III,NA,NA,scene
-1519,Much Ado about Nothing,MUCH ADO ABOUT NOTHING,Comedy,1598,William Shakespeare,front_matter,contents,ACT V,Scene III,NA,NA,iii
-1519,Much Ado about Nothing,MUCH ADO ABOUT NOTHING,Comedy,1598,William Shakespeare,front_matter,contents,ACT V,NA,NA,NA,the
-1519,Much Ado about Nothing,MUCH ADO ABOUT NOTHING,Comedy,1598,William Shakespeare,front_matter,contents,ACT V,NA,NA,NA,inside
-1519,Much Ado about Nothing,MUCH ADO ABOUT NOTHING,Comedy,1598,William Shakespeare,front_matter,contents,ACT V,NA,NA,NA,of
-1519,Much Ado about Nothing,MUCH ADO ABOUT NOTHING,Comedy,1598,William Shakespeare,front_matter,contents,ACT V,NA,NA,NA,a
-1519,Much Ado about Nothing,MUCH ADO ABOUT NOTHING,Comedy,1598,William Shakespeare,front_matter,contents,ACT V,NA,NA,NA,church
-1519,Much Ado about Nothing,MUCH ADO ABOUT NOTHING,Comedy,1598,William Shakespeare,front_matter,contents,ACT V,Scene IV,NA,NA,scene
-1519,Much Ado about Nothing,MUCH ADO ABOUT NOTHING,Comedy,1598,William Shakespeare,front_matter,contents,ACT V,Scene IV,NA,NA,iv
-1519,Much Ado about Nothing,MUCH ADO ABOUT NOTHING,Comedy,1598,William Shakespeare,front_matter,contents,ACT V,NA,NA,NA,a
-1519,Much Ado about Nothing,MUCH ADO ABOUT NOTHING,Comedy,1598,William Shakespeare,front_matter,contents,ACT V,NA,NA,NA,room
-1519,Much Ado about Nothing,MUCH ADO ABOUT NOTHING,Comedy,1598,William Shakespeare,front_matter,contents,ACT V,NA,NA,NA,in
-1519,Much Ado about Nothing,MUCH ADO ABOUT NOTHING,Comedy,1598,William Shakespeare,front_matter,contents,ACT V,NA,NA,NA,leonato’s
-1519,Much Ado about Nothing,MUCH ADO ABOUT NOTHING,Comedy,1598,William Shakespeare,front_matter,contents,ACT V,NA,NA,NA,house
-1519,Much Ado about Nothing,MUCH ADO ABOUT NOTHING,Comedy,1598,William Shakespeare,front_matter,dramatis_header,NA,NA,NA,NA,dramatis
-1519,Much Ado about Nothing,MUCH ADO ABOUT NOTHING,Comedy,1598,William Shakespeare,front_matter,dramatis_header,NA,NA,NA,NA,personæ
-1519,Much Ado about Nothing,MUCH ADO ABOUT NOTHING,Comedy,1598,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,don
-1519,Much Ado about Nothing,MUCH ADO ABOUT NOTHING,Comedy,1598,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,pedro
-1519,Much Ado about Nothing,MUCH ADO ABOUT NOTHING,Comedy,1598,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,prince
-1519,Much Ado about Nothing,MUCH ADO ABOUT NOTHING,Comedy,1598,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,of
-1519,Much Ado about Nothing,MUCH ADO ABOUT NOTHING,Comedy,1598,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,arragon
-1519,Much Ado about Nothing,MUCH ADO ABOUT NOTHING,Comedy,1598,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,don
-1519,Much Ado about Nothing,MUCH ADO ABOUT NOTHING,Comedy,1598,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,john
-1519,Much Ado about Nothing,MUCH ADO ABOUT NOTHING,Comedy,1598,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,his
-1519,Much Ado about Nothing,MUCH ADO ABOUT NOTHING,Comedy,1598,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,bastard
-1519,Much Ado about Nothing,MUCH ADO ABOUT NOTHING,Comedy,1598,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,brother
-1519,Much Ado about Nothing,MUCH ADO ABOUT NOTHING,Comedy,1598,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,claudio
-1519,Much Ado about Nothing,MUCH ADO ABOUT NOTHING,Comedy,1598,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,a
-1519,Much Ado about Nothing,MUCH ADO ABOUT NOTHING,Comedy,1598,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,young
-1519,Much Ado about Nothing,MUCH ADO ABOUT NOTHING,Comedy,1598,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,lord
-1519,Much Ado about Nothing,MUCH ADO ABOUT NOTHING,Comedy,1598,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,of
-1519,Much Ado about Nothing,MUCH ADO ABOUT NOTHING,Comedy,1598,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,florence
-1519,Much Ado about Nothing,MUCH ADO ABOUT NOTHING,Comedy,1598,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,benedick
-1519,Much Ado about Nothing,MUCH ADO ABOUT NOTHING,Comedy,1598,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,a
-1519,Much Ado about Nothing,MUCH ADO ABOUT NOTHING,Comedy,1598,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,young
-1519,Much Ado about Nothing,MUCH ADO ABOUT NOTHING,Comedy,1598,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,lord
-1519,Much Ado about Nothing,MUCH ADO ABOUT NOTHING,Comedy,1598,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,of
-1519,Much Ado about Nothing,MUCH ADO ABOUT NOTHING,Comedy,1598,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,padua
-1519,Much Ado about Nothing,MUCH ADO ABOUT NOTHING,Comedy,1598,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,leonato
-1519,Much Ado about Nothing,MUCH ADO ABOUT NOTHING,Comedy,1598,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,governor
-1519,Much Ado about Nothing,MUCH ADO ABOUT NOTHING,Comedy,1598,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,of
-1519,Much Ado about Nothing,MUCH ADO ABOUT NOTHING,Comedy,1598,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,messina
-1519,Much Ado about Nothing,MUCH ADO ABOUT NOTHING,Comedy,1598,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,antonio
-1519,Much Ado about Nothing,MUCH ADO ABOUT NOTHING,Comedy,1598,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,his
-1519,Much Ado about Nothing,MUCH ADO ABOUT NOTHING,Comedy,1598,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,brother
-1519,Much Ado about Nothing,MUCH ADO ABOUT NOTHING,Comedy,1598,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,balthasar
-1519,Much Ado about Nothing,MUCH ADO ABOUT NOTHING,Comedy,1598,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,servant
-1519,Much Ado about Nothing,MUCH ADO ABOUT NOTHING,Comedy,1598,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,to
-1519,Much Ado about Nothing,MUCH ADO ABOUT NOTHING,Comedy,1598,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,don
-1519,Much Ado about Nothing,MUCH ADO ABOUT NOTHING,Comedy,1598,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,pedro
-1519,Much Ado about Nothing,MUCH ADO ABOUT NOTHING,Comedy,1598,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,borachio
-1519,Much Ado about Nothing,MUCH ADO ABOUT NOTHING,Comedy,1598,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,follower
-1519,Much Ado about Nothing,MUCH ADO ABOUT NOTHING,Comedy,1598,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,of
-1519,Much Ado about Nothing,MUCH ADO ABOUT NOTHING,Comedy,1598,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,don
-1519,Much Ado about Nothing,MUCH ADO ABOUT NOTHING,Comedy,1598,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,john
-1519,Much Ado about Nothing,MUCH ADO ABOUT NOTHING,Comedy,1598,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,conrade
-1519,Much Ado about Nothing,MUCH ADO ABOUT NOTHING,Comedy,1598,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,follower
-1519,Much Ado about Nothing,MUCH ADO ABOUT NOTHING,Comedy,1598,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,of
-1519,Much Ado about Nothing,MUCH ADO ABOUT NOTHING,Comedy,1598,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,don
-1519,Much Ado about Nothing,MUCH ADO ABOUT NOTHING,Comedy,1598,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,john
-1519,Much Ado about Nothing,MUCH ADO ABOUT NOTHING,Comedy,1598,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,dogberry
-1519,Much Ado about Nothing,MUCH ADO ABOUT NOTHING,Comedy,1598,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,a
-1519,Much Ado about Nothing,MUCH ADO ABOUT NOTHING,Comedy,1598,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,constable
-1519,Much Ado about Nothing,MUCH ADO ABOUT NOTHING,Comedy,1598,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,verges
-1519,Much Ado about Nothing,MUCH ADO ABOUT NOTHING,Comedy,1598,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,a
-1519,Much Ado about Nothing,MUCH ADO ABOUT NOTHING,Comedy,1598,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,headborough
-1519,Much Ado about Nothing,MUCH ADO ABOUT NOTHING,Comedy,1598,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,friar
-1519,Much Ado about Nothing,MUCH ADO ABOUT NOTHING,Comedy,1598,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,francis
-1519,Much Ado about Nothing,MUCH ADO ABOUT NOTHING,Comedy,1598,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,a
-1519,Much Ado about Nothing,MUCH ADO ABOUT NOTHING,Comedy,1598,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,sexton
-1519,Much Ado about Nothing,MUCH ADO ABOUT NOTHING,Comedy,1598,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,a
-1519,Much Ado about Nothing,MUCH ADO ABOUT NOTHING,Comedy,1598,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,boy
-1519,Much Ado about Nothing,MUCH ADO ABOUT NOTHING,Comedy,1598,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,hero
-1519,Much Ado about Nothing,MUCH ADO ABOUT NOTHING,Comedy,1598,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,daughter
-1519,Much Ado about Nothing,MUCH ADO ABOUT NOTHING,Comedy,1598,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,to
-1519,Much Ado about Nothing,MUCH ADO ABOUT NOTHING,Comedy,1598,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,leonato
-1519,Much Ado about Nothing,MUCH ADO ABOUT NOTHING,Comedy,1598,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,beatrice
-1519,Much Ado about Nothing,MUCH ADO ABOUT NOTHING,Comedy,1598,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,niece
-1519,Much Ado about Nothing,MUCH ADO ABOUT NOTHING,Comedy,1598,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,to
-1519,Much Ado about Nothing,MUCH ADO ABOUT NOTHING,Comedy,1598,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,leonato
-1519,Much Ado about Nothing,MUCH ADO ABOUT NOTHING,Comedy,1598,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,margaret
-1519,Much Ado about Nothing,MUCH ADO ABOUT NOTHING,Comedy,1598,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,waiting
-1519,Much Ado about Nothing,MUCH ADO ABOUT NOTHING,Comedy,1598,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,gentlewoman
-1519,Much Ado about Nothing,MUCH ADO ABOUT NOTHING,Comedy,1598,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,attending
-1519,Much Ado about Nothing,MUCH ADO ABOUT NOTHING,Comedy,1598,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,on
-1519,Much Ado about Nothing,MUCH ADO ABOUT NOTHING,Comedy,1598,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,hero
-1519,Much Ado about Nothing,MUCH ADO ABOUT NOTHING,Comedy,1598,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,ursula
-1519,Much Ado about Nothing,MUCH ADO ABOUT NOTHING,Comedy,1598,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,waiting
-1519,Much Ado about Nothing,MUCH ADO ABOUT NOTHING,Comedy,1598,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,gentlewoman
-1519,Much Ado about Nothing,MUCH ADO ABOUT NOTHING,Comedy,1598,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,attending
-1519,Much Ado about Nothing,MUCH ADO ABOUT NOTHING,Comedy,1598,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,on
-1519,Much Ado about Nothing,MUCH ADO ABOUT NOTHING,Comedy,1598,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,hero
-1519,Much Ado about Nothing,MUCH ADO ABOUT NOTHING,Comedy,1598,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,messengers
-1519,Much Ado about Nothing,MUCH ADO ABOUT NOTHING,Comedy,1598,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,watch
-1519,Much Ado about Nothing,MUCH ADO ABOUT NOTHING,Comedy,1598,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,attendants
-1519,Much Ado about Nothing,MUCH ADO ABOUT NOTHING,Comedy,1598,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,c
-1519,Much Ado about Nothing,MUCH ADO ABOUT NOTHING,Comedy,1598,William Shakespeare,front_matter,scene_description,NA,NA,NA,NA,scene
-1519,Much Ado about Nothing,MUCH ADO ABOUT NOTHING,Comedy,1598,William Shakespeare,front_matter,scene_description,NA,NA,NA,NA,messina
-1519,Much Ado about Nothing,MUCH ADO ABOUT NOTHING,Comedy,1598,William Shakespeare,contents,reference,ACT I,NA,NA,NA,act
-1519,Much Ado about Nothing,MUCH ADO ABOUT NOTHING,Comedy,1598,William Shakespeare,contents,reference,ACT I,NA,NA,NA,i
-1519,Much Ado about Nothing,MUCH ADO ABOUT NOTHING,Comedy,1598,William Shakespeare,contents,reference,ACT I,SCENE I,NA,NA,scene
-1519,Much Ado about Nothing,MUCH ADO ABOUT NOTHING,Comedy,1598,William Shakespeare,contents,reference,ACT I,SCENE I,NA,NA,i
-1519,Much Ado about Nothing,MUCH ADO ABOUT NOTHING,Comedy,1598,William Shakespeare,contents,reference,ACT I,SCENE I,NA,NA,before
-1519,Much Ado about Nothing,MUCH ADO ABOUT NOTHING,Comedy,1598,William Shakespeare,contents,reference,ACT I,SCENE I,NA,NA,leonato’s
-1519,Much Ado about Nothing,MUCH ADO ABOUT NOTHING,Comedy,1598,William Shakespeare,contents,reference,ACT I,SCENE I,NA,NA,house
 1519,Much Ado about Nothing,MUCH ADO ABOUT NOTHING,Comedy,1598,William Shakespeare,contents,directions,ACT I,SCENE I,NA,NA,enter
 1519,Much Ado about Nothing,MUCH ADO ABOUT NOTHING,Comedy,1598,William Shakespeare,contents,directions,ACT I,SCENE I,NA,NA,leonato
 1519,Much Ado about Nothing,MUCH ADO ABOUT NOTHING,Comedy,1598,William Shakespeare,contents,directions,ACT I,SCENE I,NA,NA,hero
@@ -2719,13 +2510,6 @@ gutenberg_id,short_title,gutenberg_title,genre,year,author,section,class,act,sce
 1519,Much Ado about Nothing,MUCH ADO ABOUT NOTHING,Comedy,1598,William Shakespeare,contents,dialogue,ACT I,SCENE I,DON PEDRO,250,it
 1519,Much Ado about Nothing,MUCH ADO ABOUT NOTHING,Comedy,1598,William Shakespeare,contents,dialogue,ACT I,SCENE I,DON PEDRO,250,presently
 1519,Much Ado about Nothing,MUCH ADO ABOUT NOTHING,Comedy,1598,William Shakespeare,contents,directions,ACT I,SCENE I,NA,NA,exeunt
-1519,Much Ado about Nothing,MUCH ADO ABOUT NOTHING,Comedy,1598,William Shakespeare,contents,reference,ACT I,SCENE II,NA,NA,scene
-1519,Much Ado about Nothing,MUCH ADO ABOUT NOTHING,Comedy,1598,William Shakespeare,contents,reference,ACT I,SCENE II,NA,NA,ii
-1519,Much Ado about Nothing,MUCH ADO ABOUT NOTHING,Comedy,1598,William Shakespeare,contents,reference,ACT I,SCENE II,NA,NA,a
-1519,Much Ado about Nothing,MUCH ADO ABOUT NOTHING,Comedy,1598,William Shakespeare,contents,reference,ACT I,SCENE II,NA,NA,room
-1519,Much Ado about Nothing,MUCH ADO ABOUT NOTHING,Comedy,1598,William Shakespeare,contents,reference,ACT I,SCENE II,NA,NA,in
-1519,Much Ado about Nothing,MUCH ADO ABOUT NOTHING,Comedy,1598,William Shakespeare,contents,reference,ACT I,SCENE II,NA,NA,leonato’s
-1519,Much Ado about Nothing,MUCH ADO ABOUT NOTHING,Comedy,1598,William Shakespeare,contents,reference,ACT I,SCENE II,NA,NA,house
 1519,Much Ado about Nothing,MUCH ADO ABOUT NOTHING,Comedy,1598,William Shakespeare,contents,directions,ACT I,SCENE II,NA,NA,enter
 1519,Much Ado about Nothing,MUCH ADO ABOUT NOTHING,Comedy,1598,William Shakespeare,contents,directions,ACT I,SCENE II,NA,NA,leonato
 1519,Much Ado about Nothing,MUCH ADO ABOUT NOTHING,Comedy,1598,William Shakespeare,contents,directions,ACT I,SCENE II,NA,NA,and
@@ -2953,13 +2737,6 @@ gutenberg_id,short_title,gutenberg_title,genre,year,author,section,class,act,sce
 1519,Much Ado about Nothing,MUCH ADO ABOUT NOTHING,Comedy,1598,William Shakespeare,contents,dialogue,ACT I,SCENE II,LEONATO,269,busy
 1519,Much Ado about Nothing,MUCH ADO ABOUT NOTHING,Comedy,1598,William Shakespeare,contents,dialogue,ACT I,SCENE II,LEONATO,270,time
 1519,Much Ado about Nothing,MUCH ADO ABOUT NOTHING,Comedy,1598,William Shakespeare,contents,directions,ACT I,SCENE II,NA,NA,exeunt
-1519,Much Ado about Nothing,MUCH ADO ABOUT NOTHING,Comedy,1598,William Shakespeare,contents,reference,ACT I,SCENE III,NA,NA,scene
-1519,Much Ado about Nothing,MUCH ADO ABOUT NOTHING,Comedy,1598,William Shakespeare,contents,reference,ACT I,SCENE III,NA,NA,iii
-1519,Much Ado about Nothing,MUCH ADO ABOUT NOTHING,Comedy,1598,William Shakespeare,contents,reference,ACT I,SCENE III,NA,NA,another
-1519,Much Ado about Nothing,MUCH ADO ABOUT NOTHING,Comedy,1598,William Shakespeare,contents,reference,ACT I,SCENE III,NA,NA,room
-1519,Much Ado about Nothing,MUCH ADO ABOUT NOTHING,Comedy,1598,William Shakespeare,contents,reference,ACT I,SCENE III,NA,NA,in
-1519,Much Ado about Nothing,MUCH ADO ABOUT NOTHING,Comedy,1598,William Shakespeare,contents,reference,ACT I,SCENE III,NA,NA,leonato’s
-1519,Much Ado about Nothing,MUCH ADO ABOUT NOTHING,Comedy,1598,William Shakespeare,contents,reference,ACT I,SCENE III,NA,NA,house
 1519,Much Ado about Nothing,MUCH ADO ABOUT NOTHING,Comedy,1598,William Shakespeare,contents,directions,ACT I,SCENE III,NA,NA,enter
 1519,Much Ado about Nothing,MUCH ADO ABOUT NOTHING,Comedy,1598,William Shakespeare,contents,directions,ACT I,SCENE III,NA,NA,don
 1519,Much Ado about Nothing,MUCH ADO ABOUT NOTHING,Comedy,1598,William Shakespeare,contents,directions,ACT I,SCENE III,NA,NA,john
@@ -3533,15 +3310,6 @@ gutenberg_id,short_title,gutenberg_title,genre,year,author,section,class,act,sce
 1519,Much Ado about Nothing,MUCH ADO ABOUT NOTHING,Comedy,1598,William Shakespeare,contents,dialogue,ACT I,SCENE III,BORACHIO,322,your
 1519,Much Ado about Nothing,MUCH ADO ABOUT NOTHING,Comedy,1598,William Shakespeare,contents,dialogue,ACT I,SCENE III,BORACHIO,322,lordship
 1519,Much Ado about Nothing,MUCH ADO ABOUT NOTHING,Comedy,1598,William Shakespeare,contents,directions,ACT I,SCENE III,NA,NA,exeunt
-1519,Much Ado about Nothing,MUCH ADO ABOUT NOTHING,Comedy,1598,William Shakespeare,contents,reference,ACT II,SCENE III,NA,NA,act
-1519,Much Ado about Nothing,MUCH ADO ABOUT NOTHING,Comedy,1598,William Shakespeare,contents,reference,ACT II,SCENE III,NA,NA,ii
-1519,Much Ado about Nothing,MUCH ADO ABOUT NOTHING,Comedy,1598,William Shakespeare,contents,reference,ACT II,SCENE I,NA,NA,scene
-1519,Much Ado about Nothing,MUCH ADO ABOUT NOTHING,Comedy,1598,William Shakespeare,contents,reference,ACT II,SCENE I,NA,NA,i
-1519,Much Ado about Nothing,MUCH ADO ABOUT NOTHING,Comedy,1598,William Shakespeare,contents,reference,ACT II,SCENE I,NA,NA,a
-1519,Much Ado about Nothing,MUCH ADO ABOUT NOTHING,Comedy,1598,William Shakespeare,contents,reference,ACT II,SCENE I,NA,NA,hall
-1519,Much Ado about Nothing,MUCH ADO ABOUT NOTHING,Comedy,1598,William Shakespeare,contents,reference,ACT II,SCENE I,NA,NA,in
-1519,Much Ado about Nothing,MUCH ADO ABOUT NOTHING,Comedy,1598,William Shakespeare,contents,reference,ACT II,SCENE I,NA,NA,leonato’s
-1519,Much Ado about Nothing,MUCH ADO ABOUT NOTHING,Comedy,1598,William Shakespeare,contents,reference,ACT II,SCENE I,NA,NA,house
 1519,Much Ado about Nothing,MUCH ADO ABOUT NOTHING,Comedy,1598,William Shakespeare,contents,directions,ACT II,SCENE I,NA,NA,enter
 1519,Much Ado about Nothing,MUCH ADO ABOUT NOTHING,Comedy,1598,William Shakespeare,contents,directions,ACT II,SCENE I,NA,NA,leonato
 1519,Much Ado about Nothing,MUCH ADO ABOUT NOTHING,Comedy,1598,William Shakespeare,contents,directions,ACT II,SCENE I,NA,NA,antonio
@@ -6546,13 +6314,6 @@ gutenberg_id,short_title,gutenberg_title,genre,year,author,section,class,act,sce
 1519,Much Ado about Nothing,MUCH ADO ABOUT NOTHING,Comedy,1598,William Shakespeare,contents,dialogue,ACT II,SCENE I,DON PEDRO,606,my
 1519,Much Ado about Nothing,MUCH ADO ABOUT NOTHING,Comedy,1598,William Shakespeare,contents,dialogue,ACT II,SCENE I,DON PEDRO,606,drift
 1519,Much Ado about Nothing,MUCH ADO ABOUT NOTHING,Comedy,1598,William Shakespeare,contents,directions,ACT II,SCENE I,NA,NA,exeunt
-1519,Much Ado about Nothing,MUCH ADO ABOUT NOTHING,Comedy,1598,William Shakespeare,contents,reference,ACT II,SCENE II,NA,NA,scene
-1519,Much Ado about Nothing,MUCH ADO ABOUT NOTHING,Comedy,1598,William Shakespeare,contents,reference,ACT II,SCENE II,NA,NA,ii
-1519,Much Ado about Nothing,MUCH ADO ABOUT NOTHING,Comedy,1598,William Shakespeare,contents,reference,ACT II,SCENE II,NA,NA,another
-1519,Much Ado about Nothing,MUCH ADO ABOUT NOTHING,Comedy,1598,William Shakespeare,contents,reference,ACT II,SCENE II,NA,NA,room
-1519,Much Ado about Nothing,MUCH ADO ABOUT NOTHING,Comedy,1598,William Shakespeare,contents,reference,ACT II,SCENE II,NA,NA,in
-1519,Much Ado about Nothing,MUCH ADO ABOUT NOTHING,Comedy,1598,William Shakespeare,contents,reference,ACT II,SCENE II,NA,NA,leonato’s
-1519,Much Ado about Nothing,MUCH ADO ABOUT NOTHING,Comedy,1598,William Shakespeare,contents,reference,ACT II,SCENE II,NA,NA,house
 1519,Much Ado about Nothing,MUCH ADO ABOUT NOTHING,Comedy,1598,William Shakespeare,contents,directions,ACT II,SCENE II,NA,NA,enter
 1519,Much Ado about Nothing,MUCH ADO ABOUT NOTHING,Comedy,1598,William Shakespeare,contents,directions,ACT II,SCENE II,NA,NA,don
 1519,Much Ado about Nothing,MUCH ADO ABOUT NOTHING,Comedy,1598,William Shakespeare,contents,directions,ACT II,SCENE II,NA,NA,john
@@ -6973,10 +6734,6 @@ gutenberg_id,short_title,gutenberg_title,genre,year,author,section,class,act,sce
 1519,Much Ado about Nothing,MUCH ADO ABOUT NOTHING,Comedy,1598,William Shakespeare,contents,dialogue,ACT II,SCENE II,DON JOHN,644,of
 1519,Much Ado about Nothing,MUCH ADO ABOUT NOTHING,Comedy,1598,William Shakespeare,contents,dialogue,ACT II,SCENE II,DON JOHN,644,marriage
 1519,Much Ado about Nothing,MUCH ADO ABOUT NOTHING,Comedy,1598,William Shakespeare,contents,directions,ACT II,SCENE II,NA,NA,exeunt
-1519,Much Ado about Nothing,MUCH ADO ABOUT NOTHING,Comedy,1598,William Shakespeare,contents,reference,ACT II,SCENE III,NA,NA,scene
-1519,Much Ado about Nothing,MUCH ADO ABOUT NOTHING,Comedy,1598,William Shakespeare,contents,reference,ACT II,SCENE III,NA,NA,iii
-1519,Much Ado about Nothing,MUCH ADO ABOUT NOTHING,Comedy,1598,William Shakespeare,contents,reference,ACT II,SCENE III,NA,NA,leonato’s
-1519,Much Ado about Nothing,MUCH ADO ABOUT NOTHING,Comedy,1598,William Shakespeare,contents,reference,ACT II,SCENE III,NA,NA,garden
 1519,Much Ado about Nothing,MUCH ADO ABOUT NOTHING,Comedy,1598,William Shakespeare,contents,directions,ACT II,SCENE III,NA,NA,enter
 1519,Much Ado about Nothing,MUCH ADO ABOUT NOTHING,Comedy,1598,William Shakespeare,contents,directions,ACT II,SCENE III,NA,NA,benedick
 1519,Much Ado about Nothing,MUCH ADO ABOUT NOTHING,Comedy,1598,William Shakespeare,contents,dialogue,ACT II,SCENE III,BENEDICK,645,boy
@@ -9147,12 +8904,6 @@ gutenberg_id,short_title,gutenberg_title,genre,year,author,section,class,act,sce
 1519,Much Ado about Nothing,MUCH ADO ABOUT NOTHING,Comedy,1598,William Shakespeare,contents,dialogue,ACT II,SCENE III,BENEDICK,857,her
 1519,Much Ado about Nothing,MUCH ADO ABOUT NOTHING,Comedy,1598,William Shakespeare,contents,dialogue,ACT II,SCENE III,BENEDICK,857,picture
 1519,Much Ado about Nothing,MUCH ADO ABOUT NOTHING,Comedy,1598,William Shakespeare,contents,directions,ACT II,SCENE III,NA,NA,exit
-1519,Much Ado about Nothing,MUCH ADO ABOUT NOTHING,Comedy,1598,William Shakespeare,contents,reference,ACT III,SCENE III,NA,NA,act
-1519,Much Ado about Nothing,MUCH ADO ABOUT NOTHING,Comedy,1598,William Shakespeare,contents,reference,ACT III,SCENE III,NA,NA,iii
-1519,Much Ado about Nothing,MUCH ADO ABOUT NOTHING,Comedy,1598,William Shakespeare,contents,reference,ACT III,SCENE I,NA,NA,scene
-1519,Much Ado about Nothing,MUCH ADO ABOUT NOTHING,Comedy,1598,William Shakespeare,contents,reference,ACT III,SCENE I,NA,NA,i
-1519,Much Ado about Nothing,MUCH ADO ABOUT NOTHING,Comedy,1598,William Shakespeare,contents,reference,ACT III,SCENE I,NA,NA,leonato’s
-1519,Much Ado about Nothing,MUCH ADO ABOUT NOTHING,Comedy,1598,William Shakespeare,contents,reference,ACT III,SCENE I,NA,NA,garden
 1519,Much Ado about Nothing,MUCH ADO ABOUT NOTHING,Comedy,1598,William Shakespeare,contents,directions,ACT III,SCENE I,NA,NA,enter
 1519,Much Ado about Nothing,MUCH ADO ABOUT NOTHING,Comedy,1598,William Shakespeare,contents,directions,ACT III,SCENE I,NA,NA,hero
 1519,Much Ado about Nothing,MUCH ADO ABOUT NOTHING,Comedy,1598,William Shakespeare,contents,directions,ACT III,SCENE I,NA,NA,margaret
@@ -10096,13 +9847,6 @@ gutenberg_id,short_title,gutenberg_title,genre,year,author,section,class,act,sce
 1519,Much Ado about Nothing,MUCH ADO ABOUT NOTHING,Comedy,1598,William Shakespeare,contents,dialogue,ACT III,SCENE I,BEATRICE,977,than
 1519,Much Ado about Nothing,MUCH ADO ABOUT NOTHING,Comedy,1598,William Shakespeare,contents,dialogue,ACT III,SCENE I,BEATRICE,977,reportingly
 1519,Much Ado about Nothing,MUCH ADO ABOUT NOTHING,Comedy,1598,William Shakespeare,contents,directions,ACT III,SCENE I,NA,NA,exit
-1519,Much Ado about Nothing,MUCH ADO ABOUT NOTHING,Comedy,1598,William Shakespeare,contents,reference,ACT III,SCENE II,NA,NA,scene
-1519,Much Ado about Nothing,MUCH ADO ABOUT NOTHING,Comedy,1598,William Shakespeare,contents,reference,ACT III,SCENE II,NA,NA,ii
-1519,Much Ado about Nothing,MUCH ADO ABOUT NOTHING,Comedy,1598,William Shakespeare,contents,reference,ACT III,SCENE II,NA,NA,a
-1519,Much Ado about Nothing,MUCH ADO ABOUT NOTHING,Comedy,1598,William Shakespeare,contents,reference,ACT III,SCENE II,NA,NA,room
-1519,Much Ado about Nothing,MUCH ADO ABOUT NOTHING,Comedy,1598,William Shakespeare,contents,reference,ACT III,SCENE II,NA,NA,in
-1519,Much Ado about Nothing,MUCH ADO ABOUT NOTHING,Comedy,1598,William Shakespeare,contents,reference,ACT III,SCENE II,NA,NA,leonato’s
-1519,Much Ado about Nothing,MUCH ADO ABOUT NOTHING,Comedy,1598,William Shakespeare,contents,reference,ACT III,SCENE II,NA,NA,house
 1519,Much Ado about Nothing,MUCH ADO ABOUT NOTHING,Comedy,1598,William Shakespeare,contents,directions,ACT III,SCENE II,NA,NA,enter
 1519,Much Ado about Nothing,MUCH ADO ABOUT NOTHING,Comedy,1598,William Shakespeare,contents,directions,ACT III,SCENE II,NA,NA,don
 1519,Much Ado about Nothing,MUCH ADO ABOUT NOTHING,Comedy,1598,William Shakespeare,contents,directions,ACT III,SCENE II,NA,NA,pedro
@@ -11046,10 +10790,6 @@ gutenberg_id,short_title,gutenberg_title,genre,year,author,section,class,act,sce
 1519,Much Ado about Nothing,MUCH ADO ABOUT NOTHING,Comedy,1598,William Shakespeare,contents,dialogue,ACT III,SCENE II,DON JOHN,1073,the
 1519,Much Ado about Nothing,MUCH ADO ABOUT NOTHING,Comedy,1598,William Shakespeare,contents,dialogue,ACT III,SCENE II,DON JOHN,1073,sequel
 1519,Much Ado about Nothing,MUCH ADO ABOUT NOTHING,Comedy,1598,William Shakespeare,contents,directions,ACT III,SCENE II,NA,NA,exeunt
-1519,Much Ado about Nothing,MUCH ADO ABOUT NOTHING,Comedy,1598,William Shakespeare,contents,reference,ACT III,Scene III,NA,NA,scene
-1519,Much Ado about Nothing,MUCH ADO ABOUT NOTHING,Comedy,1598,William Shakespeare,contents,reference,ACT III,Scene III,NA,NA,iii
-1519,Much Ado about Nothing,MUCH ADO ABOUT NOTHING,Comedy,1598,William Shakespeare,contents,reference,ACT III,Scene III,NA,NA,a
-1519,Much Ado about Nothing,MUCH ADO ABOUT NOTHING,Comedy,1598,William Shakespeare,contents,reference,ACT III,Scene III,NA,NA,street
 1519,Much Ado about Nothing,MUCH ADO ABOUT NOTHING,Comedy,1598,William Shakespeare,contents,directions,ACT III,Scene III,NA,NA,enter
 1519,Much Ado about Nothing,MUCH ADO ABOUT NOTHING,Comedy,1598,William Shakespeare,contents,directions,ACT III,Scene III,NA,NA,dogberry
 1519,Much Ado about Nothing,MUCH ADO ABOUT NOTHING,Comedy,1598,William Shakespeare,contents,directions,ACT III,Scene III,NA,NA,and
@@ -12405,13 +12145,6 @@ gutenberg_id,short_title,gutenberg_title,genre,year,author,section,class,act,sce
 1519,Much Ado about Nothing,MUCH ADO ABOUT NOTHING,Comedy,1598,William Shakespeare,contents,dialogue,ACT III,Scene III,CONRADE,1208,obey
 1519,Much Ado about Nothing,MUCH ADO ABOUT NOTHING,Comedy,1598,William Shakespeare,contents,dialogue,ACT III,Scene III,CONRADE,1208,you
 1519,Much Ado about Nothing,MUCH ADO ABOUT NOTHING,Comedy,1598,William Shakespeare,contents,directions,ACT III,Scene III,NA,NA,exeunt
-1519,Much Ado about Nothing,MUCH ADO ABOUT NOTHING,Comedy,1598,William Shakespeare,contents,reference,ACT III,Scene IV,NA,NA,scene
-1519,Much Ado about Nothing,MUCH ADO ABOUT NOTHING,Comedy,1598,William Shakespeare,contents,reference,ACT III,Scene IV,NA,NA,iv
-1519,Much Ado about Nothing,MUCH ADO ABOUT NOTHING,Comedy,1598,William Shakespeare,contents,reference,ACT III,Scene IV,NA,NA,a
-1519,Much Ado about Nothing,MUCH ADO ABOUT NOTHING,Comedy,1598,William Shakespeare,contents,reference,ACT III,Scene IV,NA,NA,room
-1519,Much Ado about Nothing,MUCH ADO ABOUT NOTHING,Comedy,1598,William Shakespeare,contents,reference,ACT III,Scene IV,NA,NA,in
-1519,Much Ado about Nothing,MUCH ADO ABOUT NOTHING,Comedy,1598,William Shakespeare,contents,reference,ACT III,Scene IV,NA,NA,leonato’s
-1519,Much Ado about Nothing,MUCH ADO ABOUT NOTHING,Comedy,1598,William Shakespeare,contents,reference,ACT III,Scene IV,NA,NA,house
 1519,Much Ado about Nothing,MUCH ADO ABOUT NOTHING,Comedy,1598,William Shakespeare,contents,directions,ACT III,Scene IV,NA,NA,enter
 1519,Much Ado about Nothing,MUCH ADO ABOUT NOTHING,Comedy,1598,William Shakespeare,contents,directions,ACT III,Scene IV,NA,NA,hero
 1519,Much Ado about Nothing,MUCH ADO ABOUT NOTHING,Comedy,1598,William Shakespeare,contents,directions,ACT III,Scene IV,NA,NA,margaret
@@ -13110,13 +12843,6 @@ gutenberg_id,short_title,gutenberg_title,genre,year,author,section,class,act,sce
 1519,Much Ado about Nothing,MUCH ADO ABOUT NOTHING,Comedy,1598,William Shakespeare,contents,dialogue,ACT III,Scene IV,HERO,1280,good
 1519,Much Ado about Nothing,MUCH ADO ABOUT NOTHING,Comedy,1598,William Shakespeare,contents,dialogue,ACT III,Scene IV,HERO,1280,ursula
 1519,Much Ado about Nothing,MUCH ADO ABOUT NOTHING,Comedy,1598,William Shakespeare,contents,directions,ACT III,Scene IV,NA,NA,exeunt
-1519,Much Ado about Nothing,MUCH ADO ABOUT NOTHING,Comedy,1598,William Shakespeare,contents,reference,ACT III,Scene V,NA,NA,scene
-1519,Much Ado about Nothing,MUCH ADO ABOUT NOTHING,Comedy,1598,William Shakespeare,contents,reference,ACT III,Scene V,NA,NA,v
-1519,Much Ado about Nothing,MUCH ADO ABOUT NOTHING,Comedy,1598,William Shakespeare,contents,reference,ACT III,Scene V,NA,NA,another
-1519,Much Ado about Nothing,MUCH ADO ABOUT NOTHING,Comedy,1598,William Shakespeare,contents,reference,ACT III,Scene V,NA,NA,room
-1519,Much Ado about Nothing,MUCH ADO ABOUT NOTHING,Comedy,1598,William Shakespeare,contents,reference,ACT III,Scene V,NA,NA,in
-1519,Much Ado about Nothing,MUCH ADO ABOUT NOTHING,Comedy,1598,William Shakespeare,contents,reference,ACT III,Scene V,NA,NA,leonato’s
-1519,Much Ado about Nothing,MUCH ADO ABOUT NOTHING,Comedy,1598,William Shakespeare,contents,reference,ACT III,Scene V,NA,NA,house
 1519,Much Ado about Nothing,MUCH ADO ABOUT NOTHING,Comedy,1598,William Shakespeare,contents,directions,ACT III,Scene V,NA,NA,enter
 1519,Much Ado about Nothing,MUCH ADO ABOUT NOTHING,Comedy,1598,William Shakespeare,contents,directions,ACT III,Scene V,NA,NA,leonato
 1519,Much Ado about Nothing,MUCH ADO ABOUT NOTHING,Comedy,1598,William Shakespeare,contents,directions,ACT III,Scene V,NA,NA,and
@@ -13612,15 +13338,6 @@ gutenberg_id,short_title,gutenberg_title,genre,year,author,section,class,act,sce
 1519,Much Ado about Nothing,MUCH ADO ABOUT NOTHING,Comedy,1598,William Shakespeare,contents,dialogue,ACT III,Scene V,DOGBERRY,1330,the
 1519,Much Ado about Nothing,MUCH ADO ABOUT NOTHING,Comedy,1598,William Shakespeare,contents,dialogue,ACT III,Scene V,DOGBERRY,1330,gaol
 1519,Much Ado about Nothing,MUCH ADO ABOUT NOTHING,Comedy,1598,William Shakespeare,contents,directions,ACT III,Scene V,NA,NA,exeunt
-1519,Much Ado about Nothing,MUCH ADO ABOUT NOTHING,Comedy,1598,William Shakespeare,contents,reference,ACT IV,Scene V,NA,NA,act
-1519,Much Ado about Nothing,MUCH ADO ABOUT NOTHING,Comedy,1598,William Shakespeare,contents,reference,ACT IV,Scene V,NA,NA,iv
-1519,Much Ado about Nothing,MUCH ADO ABOUT NOTHING,Comedy,1598,William Shakespeare,contents,reference,ACT IV,SCENE I,NA,NA,scene
-1519,Much Ado about Nothing,MUCH ADO ABOUT NOTHING,Comedy,1598,William Shakespeare,contents,reference,ACT IV,SCENE I,NA,NA,i
-1519,Much Ado about Nothing,MUCH ADO ABOUT NOTHING,Comedy,1598,William Shakespeare,contents,reference,ACT IV,SCENE I,NA,NA,the
-1519,Much Ado about Nothing,MUCH ADO ABOUT NOTHING,Comedy,1598,William Shakespeare,contents,reference,ACT IV,SCENE I,NA,NA,inside
-1519,Much Ado about Nothing,MUCH ADO ABOUT NOTHING,Comedy,1598,William Shakespeare,contents,reference,ACT IV,SCENE I,NA,NA,of
-1519,Much Ado about Nothing,MUCH ADO ABOUT NOTHING,Comedy,1598,William Shakespeare,contents,reference,ACT IV,SCENE I,NA,NA,a
-1519,Much Ado about Nothing,MUCH ADO ABOUT NOTHING,Comedy,1598,William Shakespeare,contents,reference,ACT IV,SCENE I,NA,NA,church
 1519,Much Ado about Nothing,MUCH ADO ABOUT NOTHING,Comedy,1598,William Shakespeare,contents,directions,ACT IV,SCENE I,NA,NA,enter
 1519,Much Ado about Nothing,MUCH ADO ABOUT NOTHING,Comedy,1598,William Shakespeare,contents,directions,ACT IV,SCENE I,NA,NA,don
 1519,Much Ado about Nothing,MUCH ADO ABOUT NOTHING,Comedy,1598,William Shakespeare,contents,directions,ACT IV,SCENE I,NA,NA,pedro
@@ -16189,10 +15906,6 @@ gutenberg_id,short_title,gutenberg_title,genre,year,author,section,class,act,sce
 1519,Much Ado about Nothing,MUCH ADO ABOUT NOTHING,Comedy,1598,William Shakespeare,contents,dialogue,ACT IV,SCENE I,BENEDICK,1652,so
 1519,Much Ado about Nothing,MUCH ADO ABOUT NOTHING,Comedy,1598,William Shakespeare,contents,dialogue,ACT IV,SCENE I,BENEDICK,1652,farewell
 1519,Much Ado about Nothing,MUCH ADO ABOUT NOTHING,Comedy,1598,William Shakespeare,contents,directions,ACT IV,SCENE I,NA,NA,exeunt
-1519,Much Ado about Nothing,MUCH ADO ABOUT NOTHING,Comedy,1598,William Shakespeare,contents,reference,ACT IV,Scene II,NA,NA,scene
-1519,Much Ado about Nothing,MUCH ADO ABOUT NOTHING,Comedy,1598,William Shakespeare,contents,reference,ACT IV,Scene II,NA,NA,ii
-1519,Much Ado about Nothing,MUCH ADO ABOUT NOTHING,Comedy,1598,William Shakespeare,contents,reference,ACT IV,Scene II,NA,NA,a
-1519,Much Ado about Nothing,MUCH ADO ABOUT NOTHING,Comedy,1598,William Shakespeare,contents,reference,ACT IV,Scene II,NA,NA,prison
 1519,Much Ado about Nothing,MUCH ADO ABOUT NOTHING,Comedy,1598,William Shakespeare,contents,directions,ACT IV,Scene II,NA,NA,enter
 1519,Much Ado about Nothing,MUCH ADO ABOUT NOTHING,Comedy,1598,William Shakespeare,contents,directions,ACT IV,Scene II,NA,NA,dogberry
 1519,Much Ado about Nothing,MUCH ADO ABOUT NOTHING,Comedy,1598,William Shakespeare,contents,directions,ACT IV,Scene II,NA,NA,verges
@@ -16817,13 +16530,6 @@ gutenberg_id,short_title,gutenberg_title,genre,year,author,section,class,act,sce
 1519,Much Ado about Nothing,MUCH ADO ABOUT NOTHING,Comedy,1598,William Shakespeare,contents,dialogue,ACT IV,Scene II,DOGBERRY,1720,an
 1519,Much Ado about Nothing,MUCH ADO ABOUT NOTHING,Comedy,1598,William Shakespeare,contents,dialogue,ACT IV,Scene II,DOGBERRY,1720,ass
 1519,Much Ado about Nothing,MUCH ADO ABOUT NOTHING,Comedy,1598,William Shakespeare,contents,directions,ACT IV,Scene II,NA,NA,exeunt
-1519,Much Ado about Nothing,MUCH ADO ABOUT NOTHING,Comedy,1598,William Shakespeare,contents,reference,ACT V,Scene II,NA,NA,act
-1519,Much Ado about Nothing,MUCH ADO ABOUT NOTHING,Comedy,1598,William Shakespeare,contents,reference,ACT V,Scene II,NA,NA,v
-1519,Much Ado about Nothing,MUCH ADO ABOUT NOTHING,Comedy,1598,William Shakespeare,contents,reference,ACT V,SCENE I,NA,NA,scene
-1519,Much Ado about Nothing,MUCH ADO ABOUT NOTHING,Comedy,1598,William Shakespeare,contents,reference,ACT V,SCENE I,NA,NA,i
-1519,Much Ado about Nothing,MUCH ADO ABOUT NOTHING,Comedy,1598,William Shakespeare,contents,reference,ACT V,SCENE I,NA,NA,before
-1519,Much Ado about Nothing,MUCH ADO ABOUT NOTHING,Comedy,1598,William Shakespeare,contents,reference,ACT V,SCENE I,NA,NA,leonato’s
-1519,Much Ado about Nothing,MUCH ADO ABOUT NOTHING,Comedy,1598,William Shakespeare,contents,reference,ACT V,SCENE I,NA,NA,house
 1519,Much Ado about Nothing,MUCH ADO ABOUT NOTHING,Comedy,1598,William Shakespeare,contents,directions,ACT V,SCENE I,NA,NA,enter
 1519,Much Ado about Nothing,MUCH ADO ABOUT NOTHING,Comedy,1598,William Shakespeare,contents,directions,ACT V,SCENE I,NA,NA,leonato
 1519,Much Ado about Nothing,MUCH ADO ABOUT NOTHING,Comedy,1598,William Shakespeare,contents,directions,ACT V,SCENE I,NA,NA,and
@@ -19482,10 +19188,6 @@ gutenberg_id,short_title,gutenberg_title,genre,year,author,section,class,act,sce
 1519,Much Ado about Nothing,MUCH ADO ABOUT NOTHING,Comedy,1598,William Shakespeare,contents,dialogue,ACT V,SCENE I,LEONATO,2029,lewd
 1519,Much Ado about Nothing,MUCH ADO ABOUT NOTHING,Comedy,1598,William Shakespeare,contents,dialogue,ACT V,SCENE I,LEONATO,2029,fellow
 1519,Much Ado about Nothing,MUCH ADO ABOUT NOTHING,Comedy,1598,William Shakespeare,contents,directions,ACT V,SCENE I,NA,NA,exeunt
-1519,Much Ado about Nothing,MUCH ADO ABOUT NOTHING,Comedy,1598,William Shakespeare,contents,reference,ACT V,SCENE II,NA,NA,scene
-1519,Much Ado about Nothing,MUCH ADO ABOUT NOTHING,Comedy,1598,William Shakespeare,contents,reference,ACT V,SCENE II,NA,NA,ii
-1519,Much Ado about Nothing,MUCH ADO ABOUT NOTHING,Comedy,1598,William Shakespeare,contents,reference,ACT V,SCENE II,NA,NA,leonato’s
-1519,Much Ado about Nothing,MUCH ADO ABOUT NOTHING,Comedy,1598,William Shakespeare,contents,reference,ACT V,SCENE II,NA,NA,garden
 1519,Much Ado about Nothing,MUCH ADO ABOUT NOTHING,Comedy,1598,William Shakespeare,contents,directions,ACT V,SCENE II,NA,NA,enter
 1519,Much Ado about Nothing,MUCH ADO ABOUT NOTHING,Comedy,1598,William Shakespeare,contents,directions,ACT V,SCENE II,NA,NA,benedick
 1519,Much Ado about Nothing,MUCH ADO ABOUT NOTHING,Comedy,1598,William Shakespeare,contents,directions,ACT V,SCENE II,NA,NA,and
@@ -20265,13 +19967,6 @@ gutenberg_id,short_title,gutenberg_title,genre,year,author,section,class,act,sce
 1519,Much Ado about Nothing,MUCH ADO ABOUT NOTHING,Comedy,1598,William Shakespeare,contents,dialogue,ACT V,SCENE II,BENEDICK,2104,thy
 1519,Much Ado about Nothing,MUCH ADO ABOUT NOTHING,Comedy,1598,William Shakespeare,contents,dialogue,ACT V,SCENE II,BENEDICK,2104,uncle’s
 1519,Much Ado about Nothing,MUCH ADO ABOUT NOTHING,Comedy,1598,William Shakespeare,contents,directions,ACT V,SCENE II,NA,NA,exeunt
-1519,Much Ado about Nothing,MUCH ADO ABOUT NOTHING,Comedy,1598,William Shakespeare,contents,reference,ACT V,SCENE III,NA,NA,scene
-1519,Much Ado about Nothing,MUCH ADO ABOUT NOTHING,Comedy,1598,William Shakespeare,contents,reference,ACT V,SCENE III,NA,NA,iii
-1519,Much Ado about Nothing,MUCH ADO ABOUT NOTHING,Comedy,1598,William Shakespeare,contents,reference,ACT V,SCENE III,NA,NA,the
-1519,Much Ado about Nothing,MUCH ADO ABOUT NOTHING,Comedy,1598,William Shakespeare,contents,reference,ACT V,SCENE III,NA,NA,inside
-1519,Much Ado about Nothing,MUCH ADO ABOUT NOTHING,Comedy,1598,William Shakespeare,contents,reference,ACT V,SCENE III,NA,NA,of
-1519,Much Ado about Nothing,MUCH ADO ABOUT NOTHING,Comedy,1598,William Shakespeare,contents,reference,ACT V,SCENE III,NA,NA,a
-1519,Much Ado about Nothing,MUCH ADO ABOUT NOTHING,Comedy,1598,William Shakespeare,contents,reference,ACT V,SCENE III,NA,NA,church
 1519,Much Ado about Nothing,MUCH ADO ABOUT NOTHING,Comedy,1598,William Shakespeare,contents,directions,ACT V,SCENE III,NA,NA,enter
 1519,Much Ado about Nothing,MUCH ADO ABOUT NOTHING,Comedy,1598,William Shakespeare,contents,directions,ACT V,SCENE III,NA,NA,don
 1519,Much Ado about Nothing,MUCH ADO ABOUT NOTHING,Comedy,1598,William Shakespeare,contents,directions,ACT V,SCENE III,NA,NA,pedro
@@ -20496,13 +20191,6 @@ gutenberg_id,short_title,gutenberg_title,genre,year,author,section,class,act,sce
 1519,Much Ado about Nothing,MUCH ADO ABOUT NOTHING,Comedy,1598,William Shakespeare,contents,dialogue,ACT V,SCENE III,CLAUDIO,2139,this
 1519,Much Ado about Nothing,MUCH ADO ABOUT NOTHING,Comedy,1598,William Shakespeare,contents,dialogue,ACT V,SCENE III,CLAUDIO,2139,woe
 1519,Much Ado about Nothing,MUCH ADO ABOUT NOTHING,Comedy,1598,William Shakespeare,contents,directions,ACT V,SCENE III,NA,NA,exeunt
-1519,Much Ado about Nothing,MUCH ADO ABOUT NOTHING,Comedy,1598,William Shakespeare,contents,reference,ACT V,SCENE IV,NA,NA,scene
-1519,Much Ado about Nothing,MUCH ADO ABOUT NOTHING,Comedy,1598,William Shakespeare,contents,reference,ACT V,SCENE IV,NA,NA,iv
-1519,Much Ado about Nothing,MUCH ADO ABOUT NOTHING,Comedy,1598,William Shakespeare,contents,reference,ACT V,SCENE IV,NA,NA,a
-1519,Much Ado about Nothing,MUCH ADO ABOUT NOTHING,Comedy,1598,William Shakespeare,contents,reference,ACT V,SCENE IV,NA,NA,room
-1519,Much Ado about Nothing,MUCH ADO ABOUT NOTHING,Comedy,1598,William Shakespeare,contents,reference,ACT V,SCENE IV,NA,NA,in
-1519,Much Ado about Nothing,MUCH ADO ABOUT NOTHING,Comedy,1598,William Shakespeare,contents,reference,ACT V,SCENE IV,NA,NA,leonato’s
-1519,Much Ado about Nothing,MUCH ADO ABOUT NOTHING,Comedy,1598,William Shakespeare,contents,reference,ACT V,SCENE IV,NA,NA,house
 1519,Much Ado about Nothing,MUCH ADO ABOUT NOTHING,Comedy,1598,William Shakespeare,contents,directions,ACT V,SCENE IV,NA,NA,enter
 1519,Much Ado about Nothing,MUCH ADO ABOUT NOTHING,Comedy,1598,William Shakespeare,contents,directions,ACT V,SCENE IV,NA,NA,leonato
 1519,Much Ado about Nothing,MUCH ADO ABOUT NOTHING,Comedy,1598,William Shakespeare,contents,directions,ACT V,SCENE IV,NA,NA,antonio

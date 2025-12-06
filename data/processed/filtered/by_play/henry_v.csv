@@ -1,642 +1,4 @@
 gutenberg_id,short_title,gutenberg_title,genre,year,author,section,class,act,scene,character,line_number,word
-1521,Henry V,THE LIFE OF KING HENRY V,History,1599,William Shakespeare,front_matter,title,NA,NA,NA,NA,the
-1521,Henry V,THE LIFE OF KING HENRY V,History,1599,William Shakespeare,front_matter,title,NA,NA,NA,NA,life
-1521,Henry V,THE LIFE OF KING HENRY V,History,1599,William Shakespeare,front_matter,title,NA,NA,NA,NA,of
-1521,Henry V,THE LIFE OF KING HENRY V,History,1599,William Shakespeare,front_matter,title,NA,NA,NA,NA,king
-1521,Henry V,THE LIFE OF KING HENRY V,History,1599,William Shakespeare,front_matter,title,NA,NA,NA,NA,henry
-1521,Henry V,THE LIFE OF KING HENRY V,History,1599,William Shakespeare,front_matter,title,NA,NA,NA,NA,v
-1521,Henry V,THE LIFE OF KING HENRY V,History,1599,William Shakespeare,front_matter,author,NA,NA,NA,NA,by
-1521,Henry V,THE LIFE OF KING HENRY V,History,1599,William Shakespeare,front_matter,author,NA,NA,NA,NA,william
-1521,Henry V,THE LIFE OF KING HENRY V,History,1599,William Shakespeare,front_matter,author,NA,NA,NA,NA,shakespeare
-1521,Henry V,THE LIFE OF KING HENRY V,History,1599,William Shakespeare,front_matter,contents_header,NA,NA,NA,NA,contents
-1521,Henry V,THE LIFE OF KING HENRY V,History,1599,William Shakespeare,front_matter,contents,ACT I,NA,NA,NA,act
-1521,Henry V,THE LIFE OF KING HENRY V,History,1599,William Shakespeare,front_matter,contents,ACT I,NA,NA,NA,i
-1521,Henry V,THE LIFE OF KING HENRY V,History,1599,William Shakespeare,front_matter,contents,ACT I,NA,NA,NA,prologue
-1521,Henry V,THE LIFE OF KING HENRY V,History,1599,William Shakespeare,front_matter,contents,ACT I,Scene I,NA,NA,scene
-1521,Henry V,THE LIFE OF KING HENRY V,History,1599,William Shakespeare,front_matter,contents,ACT I,Scene I,NA,NA,i
-1521,Henry V,THE LIFE OF KING HENRY V,History,1599,William Shakespeare,front_matter,contents,ACT I,Scene I,NA,NA,london
-1521,Henry V,THE LIFE OF KING HENRY V,History,1599,William Shakespeare,front_matter,contents,ACT I,Scene I,NA,NA,an
-1521,Henry V,THE LIFE OF KING HENRY V,History,1599,William Shakespeare,front_matter,contents,ACT I,Scene I,NA,NA,ante
-1521,Henry V,THE LIFE OF KING HENRY V,History,1599,William Shakespeare,front_matter,contents,ACT I,Scene I,NA,NA,chamber
-1521,Henry V,THE LIFE OF KING HENRY V,History,1599,William Shakespeare,front_matter,contents,ACT I,Scene I,NA,NA,in
-1521,Henry V,THE LIFE OF KING HENRY V,History,1599,William Shakespeare,front_matter,contents,ACT I,Scene I,NA,NA,the
-1521,Henry V,THE LIFE OF KING HENRY V,History,1599,William Shakespeare,front_matter,contents,ACT I,Scene I,NA,NA,king’s
-1521,Henry V,THE LIFE OF KING HENRY V,History,1599,William Shakespeare,front_matter,contents,ACT I,Scene I,NA,NA,palace
-1521,Henry V,THE LIFE OF KING HENRY V,History,1599,William Shakespeare,front_matter,contents,ACT I,Scene II,NA,NA,scene
-1521,Henry V,THE LIFE OF KING HENRY V,History,1599,William Shakespeare,front_matter,contents,ACT I,Scene II,NA,NA,ii
-1521,Henry V,THE LIFE OF KING HENRY V,History,1599,William Shakespeare,front_matter,contents,ACT I,Scene II,NA,NA,the
-1521,Henry V,THE LIFE OF KING HENRY V,History,1599,William Shakespeare,front_matter,contents,ACT I,Scene II,NA,NA,same
-1521,Henry V,THE LIFE OF KING HENRY V,History,1599,William Shakespeare,front_matter,contents,ACT I,Scene II,NA,NA,the
-1521,Henry V,THE LIFE OF KING HENRY V,History,1599,William Shakespeare,front_matter,contents,ACT I,Scene II,NA,NA,presence
-1521,Henry V,THE LIFE OF KING HENRY V,History,1599,William Shakespeare,front_matter,contents,ACT I,Scene II,NA,NA,chamber
-1521,Henry V,THE LIFE OF KING HENRY V,History,1599,William Shakespeare,front_matter,contents,ACT II,NA,NA,NA,act
-1521,Henry V,THE LIFE OF KING HENRY V,History,1599,William Shakespeare,front_matter,contents,ACT II,NA,NA,NA,ii
-1521,Henry V,THE LIFE OF KING HENRY V,History,1599,William Shakespeare,front_matter,contents,ACT II,NA,NA,NA,chorus
-1521,Henry V,THE LIFE OF KING HENRY V,History,1599,William Shakespeare,front_matter,contents,ACT II,Scene I,NA,NA,scene
-1521,Henry V,THE LIFE OF KING HENRY V,History,1599,William Shakespeare,front_matter,contents,ACT II,Scene I,NA,NA,i
-1521,Henry V,THE LIFE OF KING HENRY V,History,1599,William Shakespeare,front_matter,contents,ACT II,Scene I,NA,NA,london
-1521,Henry V,THE LIFE OF KING HENRY V,History,1599,William Shakespeare,front_matter,contents,ACT II,Scene I,NA,NA,a
-1521,Henry V,THE LIFE OF KING HENRY V,History,1599,William Shakespeare,front_matter,contents,ACT II,Scene I,NA,NA,street
-1521,Henry V,THE LIFE OF KING HENRY V,History,1599,William Shakespeare,front_matter,contents,ACT II,Scene II,NA,NA,scene
-1521,Henry V,THE LIFE OF KING HENRY V,History,1599,William Shakespeare,front_matter,contents,ACT II,Scene II,NA,NA,ii
-1521,Henry V,THE LIFE OF KING HENRY V,History,1599,William Shakespeare,front_matter,contents,ACT II,Scene II,NA,NA,southampton
-1521,Henry V,THE LIFE OF KING HENRY V,History,1599,William Shakespeare,front_matter,contents,ACT II,Scene II,NA,NA,a
-1521,Henry V,THE LIFE OF KING HENRY V,History,1599,William Shakespeare,front_matter,contents,ACT II,Scene II,NA,NA,council
-1521,Henry V,THE LIFE OF KING HENRY V,History,1599,William Shakespeare,front_matter,contents,ACT II,Scene II,NA,NA,chamber
-1521,Henry V,THE LIFE OF KING HENRY V,History,1599,William Shakespeare,front_matter,contents,ACT II,Scene III,NA,NA,scene
-1521,Henry V,THE LIFE OF KING HENRY V,History,1599,William Shakespeare,front_matter,contents,ACT II,Scene III,NA,NA,iii
-1521,Henry V,THE LIFE OF KING HENRY V,History,1599,William Shakespeare,front_matter,contents,ACT II,Scene III,NA,NA,london
-1521,Henry V,THE LIFE OF KING HENRY V,History,1599,William Shakespeare,front_matter,contents,ACT II,Scene III,NA,NA,before
-1521,Henry V,THE LIFE OF KING HENRY V,History,1599,William Shakespeare,front_matter,contents,ACT II,Scene III,NA,NA,a
-1521,Henry V,THE LIFE OF KING HENRY V,History,1599,William Shakespeare,front_matter,contents,ACT II,Scene III,NA,NA,tavern
-1521,Henry V,THE LIFE OF KING HENRY V,History,1599,William Shakespeare,front_matter,contents,ACT II,Scene IV,NA,NA,scene
-1521,Henry V,THE LIFE OF KING HENRY V,History,1599,William Shakespeare,front_matter,contents,ACT II,Scene IV,NA,NA,iv
-1521,Henry V,THE LIFE OF KING HENRY V,History,1599,William Shakespeare,front_matter,contents,ACT II,Scene IV,NA,NA,france
-1521,Henry V,THE LIFE OF KING HENRY V,History,1599,William Shakespeare,front_matter,contents,ACT II,Scene IV,NA,NA,the
-1521,Henry V,THE LIFE OF KING HENRY V,History,1599,William Shakespeare,front_matter,contents,ACT II,Scene IV,NA,NA,king’s
-1521,Henry V,THE LIFE OF KING HENRY V,History,1599,William Shakespeare,front_matter,contents,ACT II,Scene IV,NA,NA,palace
-1521,Henry V,THE LIFE OF KING HENRY V,History,1599,William Shakespeare,front_matter,contents,ACT III,NA,NA,NA,act
-1521,Henry V,THE LIFE OF KING HENRY V,History,1599,William Shakespeare,front_matter,contents,ACT III,NA,NA,NA,iii
-1521,Henry V,THE LIFE OF KING HENRY V,History,1599,William Shakespeare,front_matter,contents,ACT III,NA,NA,NA,chorus
-1521,Henry V,THE LIFE OF KING HENRY V,History,1599,William Shakespeare,front_matter,contents,ACT III,Scene I,NA,NA,scene
-1521,Henry V,THE LIFE OF KING HENRY V,History,1599,William Shakespeare,front_matter,contents,ACT III,Scene I,NA,NA,i
-1521,Henry V,THE LIFE OF KING HENRY V,History,1599,William Shakespeare,front_matter,contents,ACT III,Scene I,NA,NA,france
-1521,Henry V,THE LIFE OF KING HENRY V,History,1599,William Shakespeare,front_matter,contents,ACT III,Scene I,NA,NA,before
-1521,Henry V,THE LIFE OF KING HENRY V,History,1599,William Shakespeare,front_matter,contents,ACT III,Scene I,NA,NA,harfleur
-1521,Henry V,THE LIFE OF KING HENRY V,History,1599,William Shakespeare,front_matter,contents,ACT III,Scene II,NA,NA,scene
-1521,Henry V,THE LIFE OF KING HENRY V,History,1599,William Shakespeare,front_matter,contents,ACT III,Scene II,NA,NA,ii
-1521,Henry V,THE LIFE OF KING HENRY V,History,1599,William Shakespeare,front_matter,contents,ACT III,Scene II,NA,NA,the
-1521,Henry V,THE LIFE OF KING HENRY V,History,1599,William Shakespeare,front_matter,contents,ACT III,Scene II,NA,NA,same
-1521,Henry V,THE LIFE OF KING HENRY V,History,1599,William Shakespeare,front_matter,contents,ACT III,Scene III,NA,NA,scene
-1521,Henry V,THE LIFE OF KING HENRY V,History,1599,William Shakespeare,front_matter,contents,ACT III,Scene III,NA,NA,iii
-1521,Henry V,THE LIFE OF KING HENRY V,History,1599,William Shakespeare,front_matter,contents,ACT III,Scene III,NA,NA,before
-1521,Henry V,THE LIFE OF KING HENRY V,History,1599,William Shakespeare,front_matter,contents,ACT III,Scene III,NA,NA,the
-1521,Henry V,THE LIFE OF KING HENRY V,History,1599,William Shakespeare,front_matter,contents,ACT III,Scene III,NA,NA,gates
-1521,Henry V,THE LIFE OF KING HENRY V,History,1599,William Shakespeare,front_matter,contents,ACT III,Scene IV,NA,NA,scene
-1521,Henry V,THE LIFE OF KING HENRY V,History,1599,William Shakespeare,front_matter,contents,ACT III,Scene IV,NA,NA,iv
-1521,Henry V,THE LIFE OF KING HENRY V,History,1599,William Shakespeare,front_matter,contents,ACT III,Scene IV,NA,NA,the
-1521,Henry V,THE LIFE OF KING HENRY V,History,1599,William Shakespeare,front_matter,contents,ACT III,Scene IV,NA,NA,french
-1521,Henry V,THE LIFE OF KING HENRY V,History,1599,William Shakespeare,front_matter,contents,ACT III,Scene IV,NA,NA,king’s
-1521,Henry V,THE LIFE OF KING HENRY V,History,1599,William Shakespeare,front_matter,contents,ACT III,Scene IV,NA,NA,palace
-1521,Henry V,THE LIFE OF KING HENRY V,History,1599,William Shakespeare,front_matter,contents,ACT III,Scene V,NA,NA,scene
-1521,Henry V,THE LIFE OF KING HENRY V,History,1599,William Shakespeare,front_matter,contents,ACT III,Scene V,NA,NA,v
-1521,Henry V,THE LIFE OF KING HENRY V,History,1599,William Shakespeare,front_matter,contents,ACT III,Scene V,NA,NA,the
-1521,Henry V,THE LIFE OF KING HENRY V,History,1599,William Shakespeare,front_matter,contents,ACT III,Scene V,NA,NA,same
-1521,Henry V,THE LIFE OF KING HENRY V,History,1599,William Shakespeare,front_matter,contents,ACT III,Scene VI,NA,NA,scene
-1521,Henry V,THE LIFE OF KING HENRY V,History,1599,William Shakespeare,front_matter,contents,ACT III,Scene VI,NA,NA,vi
-1521,Henry V,THE LIFE OF KING HENRY V,History,1599,William Shakespeare,front_matter,contents,ACT III,Scene VI,NA,NA,the
-1521,Henry V,THE LIFE OF KING HENRY V,History,1599,William Shakespeare,front_matter,contents,ACT III,Scene VI,NA,NA,english
-1521,Henry V,THE LIFE OF KING HENRY V,History,1599,William Shakespeare,front_matter,contents,ACT III,Scene VI,NA,NA,camp
-1521,Henry V,THE LIFE OF KING HENRY V,History,1599,William Shakespeare,front_matter,contents,ACT III,Scene VI,NA,NA,in
-1521,Henry V,THE LIFE OF KING HENRY V,History,1599,William Shakespeare,front_matter,contents,ACT III,Scene VI,NA,NA,picardy
-1521,Henry V,THE LIFE OF KING HENRY V,History,1599,William Shakespeare,front_matter,contents,ACT III,Scene VII,NA,NA,scene
-1521,Henry V,THE LIFE OF KING HENRY V,History,1599,William Shakespeare,front_matter,contents,ACT III,Scene VII,NA,NA,vii
-1521,Henry V,THE LIFE OF KING HENRY V,History,1599,William Shakespeare,front_matter,contents,ACT III,Scene VII,NA,NA,the
-1521,Henry V,THE LIFE OF KING HENRY V,History,1599,William Shakespeare,front_matter,contents,ACT III,Scene VII,NA,NA,french
-1521,Henry V,THE LIFE OF KING HENRY V,History,1599,William Shakespeare,front_matter,contents,ACT III,Scene VII,NA,NA,camp
-1521,Henry V,THE LIFE OF KING HENRY V,History,1599,William Shakespeare,front_matter,contents,ACT III,Scene VII,NA,NA,near
-1521,Henry V,THE LIFE OF KING HENRY V,History,1599,William Shakespeare,front_matter,contents,ACT III,Scene VII,NA,NA,agincourt
-1521,Henry V,THE LIFE OF KING HENRY V,History,1599,William Shakespeare,front_matter,contents,ACT IV,NA,NA,NA,act
-1521,Henry V,THE LIFE OF KING HENRY V,History,1599,William Shakespeare,front_matter,contents,ACT IV,NA,NA,NA,iv
-1521,Henry V,THE LIFE OF KING HENRY V,History,1599,William Shakespeare,front_matter,contents,ACT IV,NA,NA,NA,chorus
-1521,Henry V,THE LIFE OF KING HENRY V,History,1599,William Shakespeare,front_matter,contents,ACT IV,Scene I,NA,NA,scene
-1521,Henry V,THE LIFE OF KING HENRY V,History,1599,William Shakespeare,front_matter,contents,ACT IV,Scene I,NA,NA,i
-1521,Henry V,THE LIFE OF KING HENRY V,History,1599,William Shakespeare,front_matter,contents,ACT IV,Scene I,NA,NA,the
-1521,Henry V,THE LIFE OF KING HENRY V,History,1599,William Shakespeare,front_matter,contents,ACT IV,Scene I,NA,NA,english
-1521,Henry V,THE LIFE OF KING HENRY V,History,1599,William Shakespeare,front_matter,contents,ACT IV,Scene I,NA,NA,camp
-1521,Henry V,THE LIFE OF KING HENRY V,History,1599,William Shakespeare,front_matter,contents,ACT IV,Scene I,NA,NA,at
-1521,Henry V,THE LIFE OF KING HENRY V,History,1599,William Shakespeare,front_matter,contents,ACT IV,Scene I,NA,NA,agincourt
-1521,Henry V,THE LIFE OF KING HENRY V,History,1599,William Shakespeare,front_matter,contents,ACT IV,Scene II,NA,NA,scene
-1521,Henry V,THE LIFE OF KING HENRY V,History,1599,William Shakespeare,front_matter,contents,ACT IV,Scene II,NA,NA,ii
-1521,Henry V,THE LIFE OF KING HENRY V,History,1599,William Shakespeare,front_matter,contents,ACT IV,Scene II,NA,NA,the
-1521,Henry V,THE LIFE OF KING HENRY V,History,1599,William Shakespeare,front_matter,contents,ACT IV,Scene II,NA,NA,french
-1521,Henry V,THE LIFE OF KING HENRY V,History,1599,William Shakespeare,front_matter,contents,ACT IV,Scene II,NA,NA,camp
-1521,Henry V,THE LIFE OF KING HENRY V,History,1599,William Shakespeare,front_matter,contents,ACT IV,Scene III,NA,NA,scene
-1521,Henry V,THE LIFE OF KING HENRY V,History,1599,William Shakespeare,front_matter,contents,ACT IV,Scene III,NA,NA,iii
-1521,Henry V,THE LIFE OF KING HENRY V,History,1599,William Shakespeare,front_matter,contents,ACT IV,Scene III,NA,NA,the
-1521,Henry V,THE LIFE OF KING HENRY V,History,1599,William Shakespeare,front_matter,contents,ACT IV,Scene III,NA,NA,english
-1521,Henry V,THE LIFE OF KING HENRY V,History,1599,William Shakespeare,front_matter,contents,ACT IV,Scene III,NA,NA,camp
-1521,Henry V,THE LIFE OF KING HENRY V,History,1599,William Shakespeare,front_matter,contents,ACT IV,Scene IV,NA,NA,scene
-1521,Henry V,THE LIFE OF KING HENRY V,History,1599,William Shakespeare,front_matter,contents,ACT IV,Scene IV,NA,NA,iv
-1521,Henry V,THE LIFE OF KING HENRY V,History,1599,William Shakespeare,front_matter,contents,ACT IV,Scene IV,NA,NA,the
-1521,Henry V,THE LIFE OF KING HENRY V,History,1599,William Shakespeare,front_matter,contents,ACT IV,Scene IV,NA,NA,field
-1521,Henry V,THE LIFE OF KING HENRY V,History,1599,William Shakespeare,front_matter,contents,ACT IV,Scene IV,NA,NA,of
-1521,Henry V,THE LIFE OF KING HENRY V,History,1599,William Shakespeare,front_matter,contents,ACT IV,Scene IV,NA,NA,battle
-1521,Henry V,THE LIFE OF KING HENRY V,History,1599,William Shakespeare,front_matter,contents,ACT IV,Scene V,NA,NA,scene
-1521,Henry V,THE LIFE OF KING HENRY V,History,1599,William Shakespeare,front_matter,contents,ACT IV,Scene V,NA,NA,v
-1521,Henry V,THE LIFE OF KING HENRY V,History,1599,William Shakespeare,front_matter,contents,ACT IV,Scene V,NA,NA,another
-1521,Henry V,THE LIFE OF KING HENRY V,History,1599,William Shakespeare,front_matter,contents,ACT IV,Scene V,NA,NA,part
-1521,Henry V,THE LIFE OF KING HENRY V,History,1599,William Shakespeare,front_matter,contents,ACT IV,Scene V,NA,NA,of
-1521,Henry V,THE LIFE OF KING HENRY V,History,1599,William Shakespeare,front_matter,contents,ACT IV,Scene V,NA,NA,the
-1521,Henry V,THE LIFE OF KING HENRY V,History,1599,William Shakespeare,front_matter,contents,ACT IV,Scene V,NA,NA,field
-1521,Henry V,THE LIFE OF KING HENRY V,History,1599,William Shakespeare,front_matter,contents,ACT IV,Scene VI,NA,NA,scene
-1521,Henry V,THE LIFE OF KING HENRY V,History,1599,William Shakespeare,front_matter,contents,ACT IV,Scene VI,NA,NA,vi
-1521,Henry V,THE LIFE OF KING HENRY V,History,1599,William Shakespeare,front_matter,contents,ACT IV,Scene VI,NA,NA,another
-1521,Henry V,THE LIFE OF KING HENRY V,History,1599,William Shakespeare,front_matter,contents,ACT IV,Scene VI,NA,NA,part
-1521,Henry V,THE LIFE OF KING HENRY V,History,1599,William Shakespeare,front_matter,contents,ACT IV,Scene VI,NA,NA,of
-1521,Henry V,THE LIFE OF KING HENRY V,History,1599,William Shakespeare,front_matter,contents,ACT IV,Scene VI,NA,NA,the
-1521,Henry V,THE LIFE OF KING HENRY V,History,1599,William Shakespeare,front_matter,contents,ACT IV,Scene VI,NA,NA,field
-1521,Henry V,THE LIFE OF KING HENRY V,History,1599,William Shakespeare,front_matter,contents,ACT IV,Scene VII,NA,NA,scene
-1521,Henry V,THE LIFE OF KING HENRY V,History,1599,William Shakespeare,front_matter,contents,ACT IV,Scene VII,NA,NA,vii
-1521,Henry V,THE LIFE OF KING HENRY V,History,1599,William Shakespeare,front_matter,contents,ACT IV,Scene VII,NA,NA,another
-1521,Henry V,THE LIFE OF KING HENRY V,History,1599,William Shakespeare,front_matter,contents,ACT IV,Scene VII,NA,NA,part
-1521,Henry V,THE LIFE OF KING HENRY V,History,1599,William Shakespeare,front_matter,contents,ACT IV,Scene VII,NA,NA,of
-1521,Henry V,THE LIFE OF KING HENRY V,History,1599,William Shakespeare,front_matter,contents,ACT IV,Scene VII,NA,NA,the
-1521,Henry V,THE LIFE OF KING HENRY V,History,1599,William Shakespeare,front_matter,contents,ACT IV,Scene VII,NA,NA,field
-1521,Henry V,THE LIFE OF KING HENRY V,History,1599,William Shakespeare,front_matter,contents,ACT IV,Scene VIII,NA,NA,scene
-1521,Henry V,THE LIFE OF KING HENRY V,History,1599,William Shakespeare,front_matter,contents,ACT IV,Scene VIII,NA,NA,viii
-1521,Henry V,THE LIFE OF KING HENRY V,History,1599,William Shakespeare,front_matter,contents,ACT IV,Scene VIII,NA,NA,before
-1521,Henry V,THE LIFE OF KING HENRY V,History,1599,William Shakespeare,front_matter,contents,ACT IV,Scene VIII,NA,NA,king
-1521,Henry V,THE LIFE OF KING HENRY V,History,1599,William Shakespeare,front_matter,contents,ACT IV,Scene VIII,NA,NA,henry’s
-1521,Henry V,THE LIFE OF KING HENRY V,History,1599,William Shakespeare,front_matter,contents,ACT IV,Scene VIII,NA,NA,pavilion
-1521,Henry V,THE LIFE OF KING HENRY V,History,1599,William Shakespeare,front_matter,contents,ACT V,NA,NA,NA,act
-1521,Henry V,THE LIFE OF KING HENRY V,History,1599,William Shakespeare,front_matter,contents,ACT V,NA,NA,NA,v
-1521,Henry V,THE LIFE OF KING HENRY V,History,1599,William Shakespeare,front_matter,contents,ACT V,NA,NA,NA,chorus
-1521,Henry V,THE LIFE OF KING HENRY V,History,1599,William Shakespeare,front_matter,contents,ACT V,Scene I,NA,NA,scene
-1521,Henry V,THE LIFE OF KING HENRY V,History,1599,William Shakespeare,front_matter,contents,ACT V,Scene I,NA,NA,i
-1521,Henry V,THE LIFE OF KING HENRY V,History,1599,William Shakespeare,front_matter,contents,ACT V,Scene I,NA,NA,france
-1521,Henry V,THE LIFE OF KING HENRY V,History,1599,William Shakespeare,front_matter,contents,ACT V,Scene I,NA,NA,the
-1521,Henry V,THE LIFE OF KING HENRY V,History,1599,William Shakespeare,front_matter,contents,ACT V,Scene I,NA,NA,english
-1521,Henry V,THE LIFE OF KING HENRY V,History,1599,William Shakespeare,front_matter,contents,ACT V,Scene I,NA,NA,camp
-1521,Henry V,THE LIFE OF KING HENRY V,History,1599,William Shakespeare,front_matter,contents,ACT V,Scene II,NA,NA,scene
-1521,Henry V,THE LIFE OF KING HENRY V,History,1599,William Shakespeare,front_matter,contents,ACT V,Scene II,NA,NA,ii
-1521,Henry V,THE LIFE OF KING HENRY V,History,1599,William Shakespeare,front_matter,contents,ACT V,Scene II,NA,NA,france
-1521,Henry V,THE LIFE OF KING HENRY V,History,1599,William Shakespeare,front_matter,contents,ACT V,Scene II,NA,NA,a
-1521,Henry V,THE LIFE OF KING HENRY V,History,1599,William Shakespeare,front_matter,contents,ACT V,Scene II,NA,NA,royal
-1521,Henry V,THE LIFE OF KING HENRY V,History,1599,William Shakespeare,front_matter,contents,ACT V,Scene II,NA,NA,palace
-1521,Henry V,THE LIFE OF KING HENRY V,History,1599,William Shakespeare,front_matter,contents,ACT V,NA,NA,NA,epilogue
-1521,Henry V,THE LIFE OF KING HENRY V,History,1599,William Shakespeare,front_matter,dramatis_header,NA,NA,NA,NA,dramatis
-1521,Henry V,THE LIFE OF KING HENRY V,History,1599,William Shakespeare,front_matter,dramatis_header,NA,NA,NA,NA,personæ
-1521,Henry V,THE LIFE OF KING HENRY V,History,1599,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,king
-1521,Henry V,THE LIFE OF KING HENRY V,History,1599,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,henry
-1521,Henry V,THE LIFE OF KING HENRY V,History,1599,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,v
-1521,Henry V,THE LIFE OF KING HENRY V,History,1599,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,duke
-1521,Henry V,THE LIFE OF KING HENRY V,History,1599,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,of
-1521,Henry V,THE LIFE OF KING HENRY V,History,1599,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,clarence
-1521,Henry V,THE LIFE OF KING HENRY V,History,1599,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,brother
-1521,Henry V,THE LIFE OF KING HENRY V,History,1599,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,to
-1521,Henry V,THE LIFE OF KING HENRY V,History,1599,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,the
-1521,Henry V,THE LIFE OF KING HENRY V,History,1599,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,king
-1521,Henry V,THE LIFE OF KING HENRY V,History,1599,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,duke
-1521,Henry V,THE LIFE OF KING HENRY V,History,1599,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,of
-1521,Henry V,THE LIFE OF KING HENRY V,History,1599,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,bedford
-1521,Henry V,THE LIFE OF KING HENRY V,History,1599,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,brother
-1521,Henry V,THE LIFE OF KING HENRY V,History,1599,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,to
-1521,Henry V,THE LIFE OF KING HENRY V,History,1599,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,the
-1521,Henry V,THE LIFE OF KING HENRY V,History,1599,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,king
-1521,Henry V,THE LIFE OF KING HENRY V,History,1599,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,duke
-1521,Henry V,THE LIFE OF KING HENRY V,History,1599,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,of
-1521,Henry V,THE LIFE OF KING HENRY V,History,1599,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,gloucester
-1521,Henry V,THE LIFE OF KING HENRY V,History,1599,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,brother
-1521,Henry V,THE LIFE OF KING HENRY V,History,1599,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,to
-1521,Henry V,THE LIFE OF KING HENRY V,History,1599,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,the
-1521,Henry V,THE LIFE OF KING HENRY V,History,1599,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,king
-1521,Henry V,THE LIFE OF KING HENRY V,History,1599,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,duke
-1521,Henry V,THE LIFE OF KING HENRY V,History,1599,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,of
-1521,Henry V,THE LIFE OF KING HENRY V,History,1599,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,exeter
-1521,Henry V,THE LIFE OF KING HENRY V,History,1599,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,uncle
-1521,Henry V,THE LIFE OF KING HENRY V,History,1599,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,to
-1521,Henry V,THE LIFE OF KING HENRY V,History,1599,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,the
-1521,Henry V,THE LIFE OF KING HENRY V,History,1599,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,king
-1521,Henry V,THE LIFE OF KING HENRY V,History,1599,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,duke
-1521,Henry V,THE LIFE OF KING HENRY V,History,1599,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,of
-1521,Henry V,THE LIFE OF KING HENRY V,History,1599,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,york
-1521,Henry V,THE LIFE OF KING HENRY V,History,1599,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,cousin
-1521,Henry V,THE LIFE OF KING HENRY V,History,1599,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,to
-1521,Henry V,THE LIFE OF KING HENRY V,History,1599,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,the
-1521,Henry V,THE LIFE OF KING HENRY V,History,1599,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,king
-1521,Henry V,THE LIFE OF KING HENRY V,History,1599,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,earl
-1521,Henry V,THE LIFE OF KING HENRY V,History,1599,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,of
-1521,Henry V,THE LIFE OF KING HENRY V,History,1599,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,salisbury
-1521,Henry V,THE LIFE OF KING HENRY V,History,1599,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,earl
-1521,Henry V,THE LIFE OF KING HENRY V,History,1599,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,of
-1521,Henry V,THE LIFE OF KING HENRY V,History,1599,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,huntingdon
-1521,Henry V,THE LIFE OF KING HENRY V,History,1599,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,earl
-1521,Henry V,THE LIFE OF KING HENRY V,History,1599,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,of
-1521,Henry V,THE LIFE OF KING HENRY V,History,1599,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,westmorland
-1521,Henry V,THE LIFE OF KING HENRY V,History,1599,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,earl
-1521,Henry V,THE LIFE OF KING HENRY V,History,1599,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,of
-1521,Henry V,THE LIFE OF KING HENRY V,History,1599,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,warwick
-1521,Henry V,THE LIFE OF KING HENRY V,History,1599,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,archbishop
-1521,Henry V,THE LIFE OF KING HENRY V,History,1599,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,of
-1521,Henry V,THE LIFE OF KING HENRY V,History,1599,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,canterbury
-1521,Henry V,THE LIFE OF KING HENRY V,History,1599,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,bishop
-1521,Henry V,THE LIFE OF KING HENRY V,History,1599,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,of
-1521,Henry V,THE LIFE OF KING HENRY V,History,1599,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,ely
-1521,Henry V,THE LIFE OF KING HENRY V,History,1599,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,earl
-1521,Henry V,THE LIFE OF KING HENRY V,History,1599,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,of
-1521,Henry V,THE LIFE OF KING HENRY V,History,1599,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,cambridge
-1521,Henry V,THE LIFE OF KING HENRY V,History,1599,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,lord
-1521,Henry V,THE LIFE OF KING HENRY V,History,1599,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,scroop
-1521,Henry V,THE LIFE OF KING HENRY V,History,1599,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,sir
-1521,Henry V,THE LIFE OF KING HENRY V,History,1599,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,thomas
-1521,Henry V,THE LIFE OF KING HENRY V,History,1599,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,grey
-1521,Henry V,THE LIFE OF KING HENRY V,History,1599,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,sir
-1521,Henry V,THE LIFE OF KING HENRY V,History,1599,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,thomas
-1521,Henry V,THE LIFE OF KING HENRY V,History,1599,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,erpingham
-1521,Henry V,THE LIFE OF KING HENRY V,History,1599,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,officer
-1521,Henry V,THE LIFE OF KING HENRY V,History,1599,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,in
-1521,Henry V,THE LIFE OF KING HENRY V,History,1599,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,king
-1521,Henry V,THE LIFE OF KING HENRY V,History,1599,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,henry’s
-1521,Henry V,THE LIFE OF KING HENRY V,History,1599,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,army
-1521,Henry V,THE LIFE OF KING HENRY V,History,1599,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,gower
-1521,Henry V,THE LIFE OF KING HENRY V,History,1599,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,officer
-1521,Henry V,THE LIFE OF KING HENRY V,History,1599,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,in
-1521,Henry V,THE LIFE OF KING HENRY V,History,1599,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,king
-1521,Henry V,THE LIFE OF KING HENRY V,History,1599,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,henry’s
-1521,Henry V,THE LIFE OF KING HENRY V,History,1599,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,army
-1521,Henry V,THE LIFE OF KING HENRY V,History,1599,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,fluellen
-1521,Henry V,THE LIFE OF KING HENRY V,History,1599,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,officer
-1521,Henry V,THE LIFE OF KING HENRY V,History,1599,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,in
-1521,Henry V,THE LIFE OF KING HENRY V,History,1599,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,king
-1521,Henry V,THE LIFE OF KING HENRY V,History,1599,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,henry’s
-1521,Henry V,THE LIFE OF KING HENRY V,History,1599,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,army
-1521,Henry V,THE LIFE OF KING HENRY V,History,1599,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,macmorris
-1521,Henry V,THE LIFE OF KING HENRY V,History,1599,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,officer
-1521,Henry V,THE LIFE OF KING HENRY V,History,1599,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,in
-1521,Henry V,THE LIFE OF KING HENRY V,History,1599,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,king
-1521,Henry V,THE LIFE OF KING HENRY V,History,1599,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,henry’s
-1521,Henry V,THE LIFE OF KING HENRY V,History,1599,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,army
-1521,Henry V,THE LIFE OF KING HENRY V,History,1599,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,jamy
-1521,Henry V,THE LIFE OF KING HENRY V,History,1599,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,officer
-1521,Henry V,THE LIFE OF KING HENRY V,History,1599,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,in
-1521,Henry V,THE LIFE OF KING HENRY V,History,1599,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,king
-1521,Henry V,THE LIFE OF KING HENRY V,History,1599,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,henry’s
-1521,Henry V,THE LIFE OF KING HENRY V,History,1599,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,army
-1521,Henry V,THE LIFE OF KING HENRY V,History,1599,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,bates
-1521,Henry V,THE LIFE OF KING HENRY V,History,1599,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,soldier
-1521,Henry V,THE LIFE OF KING HENRY V,History,1599,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,in
-1521,Henry V,THE LIFE OF KING HENRY V,History,1599,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,the
-1521,Henry V,THE LIFE OF KING HENRY V,History,1599,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,same
-1521,Henry V,THE LIFE OF KING HENRY V,History,1599,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,court
-1521,Henry V,THE LIFE OF KING HENRY V,History,1599,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,soldier
-1521,Henry V,THE LIFE OF KING HENRY V,History,1599,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,in
-1521,Henry V,THE LIFE OF KING HENRY V,History,1599,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,the
-1521,Henry V,THE LIFE OF KING HENRY V,History,1599,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,same
-1521,Henry V,THE LIFE OF KING HENRY V,History,1599,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,williams
-1521,Henry V,THE LIFE OF KING HENRY V,History,1599,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,soldier
-1521,Henry V,THE LIFE OF KING HENRY V,History,1599,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,in
-1521,Henry V,THE LIFE OF KING HENRY V,History,1599,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,the
-1521,Henry V,THE LIFE OF KING HENRY V,History,1599,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,same
-1521,Henry V,THE LIFE OF KING HENRY V,History,1599,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,pistol
-1521,Henry V,THE LIFE OF KING HENRY V,History,1599,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,nym
-1521,Henry V,THE LIFE OF KING HENRY V,History,1599,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,bardolph
-1521,Henry V,THE LIFE OF KING HENRY V,History,1599,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,boy
-1521,Henry V,THE LIFE OF KING HENRY V,History,1599,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,a
-1521,Henry V,THE LIFE OF KING HENRY V,History,1599,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,herald
-1521,Henry V,THE LIFE OF KING HENRY V,History,1599,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,charles
-1521,Henry V,THE LIFE OF KING HENRY V,History,1599,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,vi
-1521,Henry V,THE LIFE OF KING HENRY V,History,1599,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,king
-1521,Henry V,THE LIFE OF KING HENRY V,History,1599,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,of
-1521,Henry V,THE LIFE OF KING HENRY V,History,1599,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,france
-1521,Henry V,THE LIFE OF KING HENRY V,History,1599,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,lewis
-1521,Henry V,THE LIFE OF KING HENRY V,History,1599,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,the
-1521,Henry V,THE LIFE OF KING HENRY V,History,1599,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,dauphin
-1521,Henry V,THE LIFE OF KING HENRY V,History,1599,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,duke
-1521,Henry V,THE LIFE OF KING HENRY V,History,1599,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,of
-1521,Henry V,THE LIFE OF KING HENRY V,History,1599,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,berry
-1521,Henry V,THE LIFE OF KING HENRY V,History,1599,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,duke
-1521,Henry V,THE LIFE OF KING HENRY V,History,1599,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,of
-1521,Henry V,THE LIFE OF KING HENRY V,History,1599,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,brittany
-1521,Henry V,THE LIFE OF KING HENRY V,History,1599,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,duke
-1521,Henry V,THE LIFE OF KING HENRY V,History,1599,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,of
-1521,Henry V,THE LIFE OF KING HENRY V,History,1599,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,burgundy
-1521,Henry V,THE LIFE OF KING HENRY V,History,1599,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,duke
-1521,Henry V,THE LIFE OF KING HENRY V,History,1599,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,of
-1521,Henry V,THE LIFE OF KING HENRY V,History,1599,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,orleans
-1521,Henry V,THE LIFE OF KING HENRY V,History,1599,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,duke
-1521,Henry V,THE LIFE OF KING HENRY V,History,1599,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,of
-1521,Henry V,THE LIFE OF KING HENRY V,History,1599,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,bourbon
-1521,Henry V,THE LIFE OF KING HENRY V,History,1599,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,the
-1521,Henry V,THE LIFE OF KING HENRY V,History,1599,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,constable
-1521,Henry V,THE LIFE OF KING HENRY V,History,1599,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,of
-1521,Henry V,THE LIFE OF KING HENRY V,History,1599,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,france
-1521,Henry V,THE LIFE OF KING HENRY V,History,1599,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,rambures
-1521,Henry V,THE LIFE OF KING HENRY V,History,1599,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,french
-1521,Henry V,THE LIFE OF KING HENRY V,History,1599,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,lord
-1521,Henry V,THE LIFE OF KING HENRY V,History,1599,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,grandpré
-1521,Henry V,THE LIFE OF KING HENRY V,History,1599,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,french
-1521,Henry V,THE LIFE OF KING HENRY V,History,1599,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,lord
-1521,Henry V,THE LIFE OF KING HENRY V,History,1599,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,governor
-1521,Henry V,THE LIFE OF KING HENRY V,History,1599,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,of
-1521,Henry V,THE LIFE OF KING HENRY V,History,1599,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,harfleur
-1521,Henry V,THE LIFE OF KING HENRY V,History,1599,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,montjoy
-1521,Henry V,THE LIFE OF KING HENRY V,History,1599,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,a
-1521,Henry V,THE LIFE OF KING HENRY V,History,1599,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,french
-1521,Henry V,THE LIFE OF KING HENRY V,History,1599,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,herald
-1521,Henry V,THE LIFE OF KING HENRY V,History,1599,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,ambassadors
-1521,Henry V,THE LIFE OF KING HENRY V,History,1599,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,to
-1521,Henry V,THE LIFE OF KING HENRY V,History,1599,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,the
-1521,Henry V,THE LIFE OF KING HENRY V,History,1599,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,king
-1521,Henry V,THE LIFE OF KING HENRY V,History,1599,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,of
-1521,Henry V,THE LIFE OF KING HENRY V,History,1599,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,england
-1521,Henry V,THE LIFE OF KING HENRY V,History,1599,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,isabel
-1521,Henry V,THE LIFE OF KING HENRY V,History,1599,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,queen
-1521,Henry V,THE LIFE OF KING HENRY V,History,1599,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,of
-1521,Henry V,THE LIFE OF KING HENRY V,History,1599,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,france
-1521,Henry V,THE LIFE OF KING HENRY V,History,1599,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,katharine
-1521,Henry V,THE LIFE OF KING HENRY V,History,1599,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,daughter
-1521,Henry V,THE LIFE OF KING HENRY V,History,1599,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,to
-1521,Henry V,THE LIFE OF KING HENRY V,History,1599,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,charles
-1521,Henry V,THE LIFE OF KING HENRY V,History,1599,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,and
-1521,Henry V,THE LIFE OF KING HENRY V,History,1599,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,isabel
-1521,Henry V,THE LIFE OF KING HENRY V,History,1599,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,alice
-1521,Henry V,THE LIFE OF KING HENRY V,History,1599,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,a
-1521,Henry V,THE LIFE OF KING HENRY V,History,1599,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,lady
-1521,Henry V,THE LIFE OF KING HENRY V,History,1599,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,attending
-1521,Henry V,THE LIFE OF KING HENRY V,History,1599,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,on
-1521,Henry V,THE LIFE OF KING HENRY V,History,1599,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,her
-1521,Henry V,THE LIFE OF KING HENRY V,History,1599,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,hostess
-1521,Henry V,THE LIFE OF KING HENRY V,History,1599,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,of
-1521,Henry V,THE LIFE OF KING HENRY V,History,1599,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,a
-1521,Henry V,THE LIFE OF KING HENRY V,History,1599,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,tavern
-1521,Henry V,THE LIFE OF KING HENRY V,History,1599,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,in
-1521,Henry V,THE LIFE OF KING HENRY V,History,1599,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,eastcheap
-1521,Henry V,THE LIFE OF KING HENRY V,History,1599,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,formerly
-1521,Henry V,THE LIFE OF KING HENRY V,History,1599,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,mistress
-1521,Henry V,THE LIFE OF KING HENRY V,History,1599,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,nell
-1521,Henry V,THE LIFE OF KING HENRY V,History,1599,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,quickly
-1521,Henry V,THE LIFE OF KING HENRY V,History,1599,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,and
-1521,Henry V,THE LIFE OF KING HENRY V,History,1599,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,now
-1521,Henry V,THE LIFE OF KING HENRY V,History,1599,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,married
-1521,Henry V,THE LIFE OF KING HENRY V,History,1599,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,to
-1521,Henry V,THE LIFE OF KING HENRY V,History,1599,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,pistol
-1521,Henry V,THE LIFE OF KING HENRY V,History,1599,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,chorus
-1521,Henry V,THE LIFE OF KING HENRY V,History,1599,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,lords
-1521,Henry V,THE LIFE OF KING HENRY V,History,1599,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,ladies
-1521,Henry V,THE LIFE OF KING HENRY V,History,1599,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,officers
-1521,Henry V,THE LIFE OF KING HENRY V,History,1599,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,soldiers
-1521,Henry V,THE LIFE OF KING HENRY V,History,1599,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,citizens
-1521,Henry V,THE LIFE OF KING HENRY V,History,1599,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,messengers
-1521,Henry V,THE LIFE OF KING HENRY V,History,1599,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,and
-1521,Henry V,THE LIFE OF KING HENRY V,History,1599,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,attendants
-1521,Henry V,THE LIFE OF KING HENRY V,History,1599,William Shakespeare,front_matter,scene_description,NA,NA,NA,NA,scene
-1521,Henry V,THE LIFE OF KING HENRY V,History,1599,William Shakespeare,front_matter,scene_description,NA,NA,NA,NA,england
-1521,Henry V,THE LIFE OF KING HENRY V,History,1599,William Shakespeare,front_matter,scene_description,NA,NA,NA,NA,afterwards
-1521,Henry V,THE LIFE OF KING HENRY V,History,1599,William Shakespeare,front_matter,scene_description,NA,NA,NA,NA,france
-1521,Henry V,THE LIFE OF KING HENRY V,History,1599,William Shakespeare,front_matter,scene_description,NA,NA,NA,NA,prologue
-1521,Henry V,THE LIFE OF KING HENRY V,History,1599,William Shakespeare,front_matter,scene_description,NA,NA,NA,NA,enter
-1521,Henry V,THE LIFE OF KING HENRY V,History,1599,William Shakespeare,front_matter,scene_description,NA,NA,NA,NA,chorus
-1521,Henry V,THE LIFE OF KING HENRY V,History,1599,William Shakespeare,front_matter,scene_description,NA,NA,NA,NA,chorus
-1521,Henry V,THE LIFE OF KING HENRY V,History,1599,William Shakespeare,front_matter,scene_description,NA,NA,NA,NA,o
-1521,Henry V,THE LIFE OF KING HENRY V,History,1599,William Shakespeare,front_matter,scene_description,NA,NA,NA,NA,for
-1521,Henry V,THE LIFE OF KING HENRY V,History,1599,William Shakespeare,front_matter,scene_description,NA,NA,NA,NA,a
-1521,Henry V,THE LIFE OF KING HENRY V,History,1599,William Shakespeare,front_matter,scene_description,NA,NA,NA,NA,muse
-1521,Henry V,THE LIFE OF KING HENRY V,History,1599,William Shakespeare,front_matter,scene_description,NA,NA,NA,NA,of
-1521,Henry V,THE LIFE OF KING HENRY V,History,1599,William Shakespeare,front_matter,scene_description,NA,NA,NA,NA,fire
-1521,Henry V,THE LIFE OF KING HENRY V,History,1599,William Shakespeare,front_matter,scene_description,NA,NA,NA,NA,that
-1521,Henry V,THE LIFE OF KING HENRY V,History,1599,William Shakespeare,front_matter,scene_description,NA,NA,NA,NA,would
-1521,Henry V,THE LIFE OF KING HENRY V,History,1599,William Shakespeare,front_matter,scene_description,NA,NA,NA,NA,ascend
-1521,Henry V,THE LIFE OF KING HENRY V,History,1599,William Shakespeare,front_matter,scene_description,NA,NA,NA,NA,the
-1521,Henry V,THE LIFE OF KING HENRY V,History,1599,William Shakespeare,front_matter,scene_description,NA,NA,NA,NA,brightest
-1521,Henry V,THE LIFE OF KING HENRY V,History,1599,William Shakespeare,front_matter,scene_description,NA,NA,NA,NA,heaven
-1521,Henry V,THE LIFE OF KING HENRY V,History,1599,William Shakespeare,front_matter,scene_description,NA,NA,NA,NA,of
-1521,Henry V,THE LIFE OF KING HENRY V,History,1599,William Shakespeare,front_matter,scene_description,NA,NA,NA,NA,invention
-1521,Henry V,THE LIFE OF KING HENRY V,History,1599,William Shakespeare,front_matter,scene_description,NA,NA,NA,NA,a
-1521,Henry V,THE LIFE OF KING HENRY V,History,1599,William Shakespeare,front_matter,scene_description,NA,NA,NA,NA,kingdom
-1521,Henry V,THE LIFE OF KING HENRY V,History,1599,William Shakespeare,front_matter,scene_description,NA,NA,NA,NA,for
-1521,Henry V,THE LIFE OF KING HENRY V,History,1599,William Shakespeare,front_matter,scene_description,NA,NA,NA,NA,a
-1521,Henry V,THE LIFE OF KING HENRY V,History,1599,William Shakespeare,front_matter,scene_description,NA,NA,NA,NA,stage
-1521,Henry V,THE LIFE OF KING HENRY V,History,1599,William Shakespeare,front_matter,scene_description,NA,NA,NA,NA,princes
-1521,Henry V,THE LIFE OF KING HENRY V,History,1599,William Shakespeare,front_matter,scene_description,NA,NA,NA,NA,to
-1521,Henry V,THE LIFE OF KING HENRY V,History,1599,William Shakespeare,front_matter,scene_description,NA,NA,NA,NA,act
-1521,Henry V,THE LIFE OF KING HENRY V,History,1599,William Shakespeare,front_matter,scene_description,NA,NA,NA,NA,and
-1521,Henry V,THE LIFE OF KING HENRY V,History,1599,William Shakespeare,front_matter,scene_description,NA,NA,NA,NA,monarchs
-1521,Henry V,THE LIFE OF KING HENRY V,History,1599,William Shakespeare,front_matter,scene_description,NA,NA,NA,NA,to
-1521,Henry V,THE LIFE OF KING HENRY V,History,1599,William Shakespeare,front_matter,scene_description,NA,NA,NA,NA,behold
-1521,Henry V,THE LIFE OF KING HENRY V,History,1599,William Shakespeare,front_matter,scene_description,NA,NA,NA,NA,the
-1521,Henry V,THE LIFE OF KING HENRY V,History,1599,William Shakespeare,front_matter,scene_description,NA,NA,NA,NA,swelling
-1521,Henry V,THE LIFE OF KING HENRY V,History,1599,William Shakespeare,front_matter,scene_description,NA,NA,NA,NA,scene
-1521,Henry V,THE LIFE OF KING HENRY V,History,1599,William Shakespeare,front_matter,scene_description,NA,NA,NA,NA,then
-1521,Henry V,THE LIFE OF KING HENRY V,History,1599,William Shakespeare,front_matter,scene_description,NA,NA,NA,NA,should
-1521,Henry V,THE LIFE OF KING HENRY V,History,1599,William Shakespeare,front_matter,scene_description,NA,NA,NA,NA,the
-1521,Henry V,THE LIFE OF KING HENRY V,History,1599,William Shakespeare,front_matter,scene_description,NA,NA,NA,NA,warlike
-1521,Henry V,THE LIFE OF KING HENRY V,History,1599,William Shakespeare,front_matter,scene_description,NA,NA,NA,NA,harry
-1521,Henry V,THE LIFE OF KING HENRY V,History,1599,William Shakespeare,front_matter,scene_description,NA,NA,NA,NA,like
-1521,Henry V,THE LIFE OF KING HENRY V,History,1599,William Shakespeare,front_matter,scene_description,NA,NA,NA,NA,himself
-1521,Henry V,THE LIFE OF KING HENRY V,History,1599,William Shakespeare,front_matter,scene_description,NA,NA,NA,NA,assume
-1521,Henry V,THE LIFE OF KING HENRY V,History,1599,William Shakespeare,front_matter,scene_description,NA,NA,NA,NA,the
-1521,Henry V,THE LIFE OF KING HENRY V,History,1599,William Shakespeare,front_matter,scene_description,NA,NA,NA,NA,port
-1521,Henry V,THE LIFE OF KING HENRY V,History,1599,William Shakespeare,front_matter,scene_description,NA,NA,NA,NA,of
-1521,Henry V,THE LIFE OF KING HENRY V,History,1599,William Shakespeare,front_matter,scene_description,NA,NA,NA,NA,mars
-1521,Henry V,THE LIFE OF KING HENRY V,History,1599,William Shakespeare,front_matter,scene_description,NA,NA,NA,NA,and
-1521,Henry V,THE LIFE OF KING HENRY V,History,1599,William Shakespeare,front_matter,scene_description,NA,NA,NA,NA,at
-1521,Henry V,THE LIFE OF KING HENRY V,History,1599,William Shakespeare,front_matter,scene_description,NA,NA,NA,NA,his
-1521,Henry V,THE LIFE OF KING HENRY V,History,1599,William Shakespeare,front_matter,scene_description,NA,NA,NA,NA,heels
-1521,Henry V,THE LIFE OF KING HENRY V,History,1599,William Shakespeare,front_matter,scene_description,NA,NA,NA,NA,leash’d
-1521,Henry V,THE LIFE OF KING HENRY V,History,1599,William Shakespeare,front_matter,scene_description,NA,NA,NA,NA,in
-1521,Henry V,THE LIFE OF KING HENRY V,History,1599,William Shakespeare,front_matter,scene_description,NA,NA,NA,NA,like
-1521,Henry V,THE LIFE OF KING HENRY V,History,1599,William Shakespeare,front_matter,scene_description,NA,NA,NA,NA,hounds
-1521,Henry V,THE LIFE OF KING HENRY V,History,1599,William Shakespeare,front_matter,scene_description,NA,NA,NA,NA,should
-1521,Henry V,THE LIFE OF KING HENRY V,History,1599,William Shakespeare,front_matter,scene_description,NA,NA,NA,NA,famine
-1521,Henry V,THE LIFE OF KING HENRY V,History,1599,William Shakespeare,front_matter,scene_description,NA,NA,NA,NA,sword
-1521,Henry V,THE LIFE OF KING HENRY V,History,1599,William Shakespeare,front_matter,scene_description,NA,NA,NA,NA,and
-1521,Henry V,THE LIFE OF KING HENRY V,History,1599,William Shakespeare,front_matter,scene_description,NA,NA,NA,NA,fire
-1521,Henry V,THE LIFE OF KING HENRY V,History,1599,William Shakespeare,front_matter,scene_description,NA,NA,NA,NA,crouch
-1521,Henry V,THE LIFE OF KING HENRY V,History,1599,William Shakespeare,front_matter,scene_description,NA,NA,NA,NA,for
-1521,Henry V,THE LIFE OF KING HENRY V,History,1599,William Shakespeare,front_matter,scene_description,NA,NA,NA,NA,employment
-1521,Henry V,THE LIFE OF KING HENRY V,History,1599,William Shakespeare,front_matter,scene_description,NA,NA,NA,NA,but
-1521,Henry V,THE LIFE OF KING HENRY V,History,1599,William Shakespeare,front_matter,scene_description,NA,NA,NA,NA,pardon
-1521,Henry V,THE LIFE OF KING HENRY V,History,1599,William Shakespeare,front_matter,scene_description,NA,NA,NA,NA,gentles
-1521,Henry V,THE LIFE OF KING HENRY V,History,1599,William Shakespeare,front_matter,scene_description,NA,NA,NA,NA,all
-1521,Henry V,THE LIFE OF KING HENRY V,History,1599,William Shakespeare,front_matter,scene_description,NA,NA,NA,NA,the
-1521,Henry V,THE LIFE OF KING HENRY V,History,1599,William Shakespeare,front_matter,scene_description,NA,NA,NA,NA,flat
-1521,Henry V,THE LIFE OF KING HENRY V,History,1599,William Shakespeare,front_matter,scene_description,NA,NA,NA,NA,unraised
-1521,Henry V,THE LIFE OF KING HENRY V,History,1599,William Shakespeare,front_matter,scene_description,NA,NA,NA,NA,spirits
-1521,Henry V,THE LIFE OF KING HENRY V,History,1599,William Shakespeare,front_matter,scene_description,NA,NA,NA,NA,that
-1521,Henry V,THE LIFE OF KING HENRY V,History,1599,William Shakespeare,front_matter,scene_description,NA,NA,NA,NA,hath
-1521,Henry V,THE LIFE OF KING HENRY V,History,1599,William Shakespeare,front_matter,scene_description,NA,NA,NA,NA,dar’d
-1521,Henry V,THE LIFE OF KING HENRY V,History,1599,William Shakespeare,front_matter,scene_description,NA,NA,NA,NA,on
-1521,Henry V,THE LIFE OF KING HENRY V,History,1599,William Shakespeare,front_matter,scene_description,NA,NA,NA,NA,this
-1521,Henry V,THE LIFE OF KING HENRY V,History,1599,William Shakespeare,front_matter,scene_description,NA,NA,NA,NA,unworthy
-1521,Henry V,THE LIFE OF KING HENRY V,History,1599,William Shakespeare,front_matter,scene_description,NA,NA,NA,NA,scaffold
-1521,Henry V,THE LIFE OF KING HENRY V,History,1599,William Shakespeare,front_matter,scene_description,NA,NA,NA,NA,to
-1521,Henry V,THE LIFE OF KING HENRY V,History,1599,William Shakespeare,front_matter,scene_description,NA,NA,NA,NA,bring
-1521,Henry V,THE LIFE OF KING HENRY V,History,1599,William Shakespeare,front_matter,scene_description,NA,NA,NA,NA,forth
-1521,Henry V,THE LIFE OF KING HENRY V,History,1599,William Shakespeare,front_matter,scene_description,NA,NA,NA,NA,so
-1521,Henry V,THE LIFE OF KING HENRY V,History,1599,William Shakespeare,front_matter,scene_description,NA,NA,NA,NA,great
-1521,Henry V,THE LIFE OF KING HENRY V,History,1599,William Shakespeare,front_matter,scene_description,NA,NA,NA,NA,an
-1521,Henry V,THE LIFE OF KING HENRY V,History,1599,William Shakespeare,front_matter,scene_description,NA,NA,NA,NA,object
-1521,Henry V,THE LIFE OF KING HENRY V,History,1599,William Shakespeare,front_matter,scene_description,NA,NA,NA,NA,can
-1521,Henry V,THE LIFE OF KING HENRY V,History,1599,William Shakespeare,front_matter,scene_description,NA,NA,NA,NA,this
-1521,Henry V,THE LIFE OF KING HENRY V,History,1599,William Shakespeare,front_matter,scene_description,NA,NA,NA,NA,cockpit
-1521,Henry V,THE LIFE OF KING HENRY V,History,1599,William Shakespeare,front_matter,scene_description,NA,NA,NA,NA,hold
-1521,Henry V,THE LIFE OF KING HENRY V,History,1599,William Shakespeare,front_matter,scene_description,NA,NA,NA,NA,the
-1521,Henry V,THE LIFE OF KING HENRY V,History,1599,William Shakespeare,front_matter,scene_description,NA,NA,NA,NA,vasty
-1521,Henry V,THE LIFE OF KING HENRY V,History,1599,William Shakespeare,front_matter,scene_description,NA,NA,NA,NA,fields
-1521,Henry V,THE LIFE OF KING HENRY V,History,1599,William Shakespeare,front_matter,scene_description,NA,NA,NA,NA,of
-1521,Henry V,THE LIFE OF KING HENRY V,History,1599,William Shakespeare,front_matter,scene_description,NA,NA,NA,NA,france
-1521,Henry V,THE LIFE OF KING HENRY V,History,1599,William Shakespeare,front_matter,scene_description,NA,NA,NA,NA,or
-1521,Henry V,THE LIFE OF KING HENRY V,History,1599,William Shakespeare,front_matter,scene_description,NA,NA,NA,NA,may
-1521,Henry V,THE LIFE OF KING HENRY V,History,1599,William Shakespeare,front_matter,scene_description,NA,NA,NA,NA,we
-1521,Henry V,THE LIFE OF KING HENRY V,History,1599,William Shakespeare,front_matter,scene_description,NA,NA,NA,NA,cram
-1521,Henry V,THE LIFE OF KING HENRY V,History,1599,William Shakespeare,front_matter,scene_description,NA,NA,NA,NA,within
-1521,Henry V,THE LIFE OF KING HENRY V,History,1599,William Shakespeare,front_matter,scene_description,NA,NA,NA,NA,this
-1521,Henry V,THE LIFE OF KING HENRY V,History,1599,William Shakespeare,front_matter,scene_description,NA,NA,NA,NA,wooden
-1521,Henry V,THE LIFE OF KING HENRY V,History,1599,William Shakespeare,front_matter,scene_description,NA,NA,NA,NA,o
-1521,Henry V,THE LIFE OF KING HENRY V,History,1599,William Shakespeare,front_matter,scene_description,NA,NA,NA,NA,the
-1521,Henry V,THE LIFE OF KING HENRY V,History,1599,William Shakespeare,front_matter,scene_description,NA,NA,NA,NA,very
-1521,Henry V,THE LIFE OF KING HENRY V,History,1599,William Shakespeare,front_matter,scene_description,NA,NA,NA,NA,casques
-1521,Henry V,THE LIFE OF KING HENRY V,History,1599,William Shakespeare,front_matter,scene_description,NA,NA,NA,NA,that
-1521,Henry V,THE LIFE OF KING HENRY V,History,1599,William Shakespeare,front_matter,scene_description,NA,NA,NA,NA,did
-1521,Henry V,THE LIFE OF KING HENRY V,History,1599,William Shakespeare,front_matter,scene_description,NA,NA,NA,NA,affright
-1521,Henry V,THE LIFE OF KING HENRY V,History,1599,William Shakespeare,front_matter,scene_description,NA,NA,NA,NA,the
-1521,Henry V,THE LIFE OF KING HENRY V,History,1599,William Shakespeare,front_matter,scene_description,NA,NA,NA,NA,air
-1521,Henry V,THE LIFE OF KING HENRY V,History,1599,William Shakespeare,front_matter,scene_description,NA,NA,NA,NA,at
-1521,Henry V,THE LIFE OF KING HENRY V,History,1599,William Shakespeare,front_matter,scene_description,NA,NA,NA,NA,agincourt
-1521,Henry V,THE LIFE OF KING HENRY V,History,1599,William Shakespeare,front_matter,scene_description,NA,NA,NA,NA,o
-1521,Henry V,THE LIFE OF KING HENRY V,History,1599,William Shakespeare,front_matter,scene_description,NA,NA,NA,NA,pardon
-1521,Henry V,THE LIFE OF KING HENRY V,History,1599,William Shakespeare,front_matter,scene_description,NA,NA,NA,NA,since
-1521,Henry V,THE LIFE OF KING HENRY V,History,1599,William Shakespeare,front_matter,scene_description,NA,NA,NA,NA,a
-1521,Henry V,THE LIFE OF KING HENRY V,History,1599,William Shakespeare,front_matter,scene_description,NA,NA,NA,NA,crooked
-1521,Henry V,THE LIFE OF KING HENRY V,History,1599,William Shakespeare,front_matter,scene_description,NA,NA,NA,NA,figure
-1521,Henry V,THE LIFE OF KING HENRY V,History,1599,William Shakespeare,front_matter,scene_description,NA,NA,NA,NA,may
-1521,Henry V,THE LIFE OF KING HENRY V,History,1599,William Shakespeare,front_matter,scene_description,NA,NA,NA,NA,attest
-1521,Henry V,THE LIFE OF KING HENRY V,History,1599,William Shakespeare,front_matter,scene_description,NA,NA,NA,NA,in
-1521,Henry V,THE LIFE OF KING HENRY V,History,1599,William Shakespeare,front_matter,scene_description,NA,NA,NA,NA,little
-1521,Henry V,THE LIFE OF KING HENRY V,History,1599,William Shakespeare,front_matter,scene_description,NA,NA,NA,NA,place
-1521,Henry V,THE LIFE OF KING HENRY V,History,1599,William Shakespeare,front_matter,scene_description,NA,NA,NA,NA,a
-1521,Henry V,THE LIFE OF KING HENRY V,History,1599,William Shakespeare,front_matter,scene_description,NA,NA,NA,NA,million
-1521,Henry V,THE LIFE OF KING HENRY V,History,1599,William Shakespeare,front_matter,scene_description,NA,NA,NA,NA,and
-1521,Henry V,THE LIFE OF KING HENRY V,History,1599,William Shakespeare,front_matter,scene_description,NA,NA,NA,NA,let
-1521,Henry V,THE LIFE OF KING HENRY V,History,1599,William Shakespeare,front_matter,scene_description,NA,NA,NA,NA,us
-1521,Henry V,THE LIFE OF KING HENRY V,History,1599,William Shakespeare,front_matter,scene_description,NA,NA,NA,NA,ciphers
-1521,Henry V,THE LIFE OF KING HENRY V,History,1599,William Shakespeare,front_matter,scene_description,NA,NA,NA,NA,to
-1521,Henry V,THE LIFE OF KING HENRY V,History,1599,William Shakespeare,front_matter,scene_description,NA,NA,NA,NA,this
-1521,Henry V,THE LIFE OF KING HENRY V,History,1599,William Shakespeare,front_matter,scene_description,NA,NA,NA,NA,great
-1521,Henry V,THE LIFE OF KING HENRY V,History,1599,William Shakespeare,front_matter,scene_description,NA,NA,NA,NA,accompt
-1521,Henry V,THE LIFE OF KING HENRY V,History,1599,William Shakespeare,front_matter,scene_description,NA,NA,NA,NA,on
-1521,Henry V,THE LIFE OF KING HENRY V,History,1599,William Shakespeare,front_matter,scene_description,NA,NA,NA,NA,your
-1521,Henry V,THE LIFE OF KING HENRY V,History,1599,William Shakespeare,front_matter,scene_description,NA,NA,NA,NA,imaginary
-1521,Henry V,THE LIFE OF KING HENRY V,History,1599,William Shakespeare,front_matter,scene_description,NA,NA,NA,NA,forces
-1521,Henry V,THE LIFE OF KING HENRY V,History,1599,William Shakespeare,front_matter,scene_description,NA,NA,NA,NA,work
-1521,Henry V,THE LIFE OF KING HENRY V,History,1599,William Shakespeare,front_matter,scene_description,NA,NA,NA,NA,suppose
-1521,Henry V,THE LIFE OF KING HENRY V,History,1599,William Shakespeare,front_matter,scene_description,NA,NA,NA,NA,within
-1521,Henry V,THE LIFE OF KING HENRY V,History,1599,William Shakespeare,front_matter,scene_description,NA,NA,NA,NA,the
-1521,Henry V,THE LIFE OF KING HENRY V,History,1599,William Shakespeare,front_matter,scene_description,NA,NA,NA,NA,girdle
-1521,Henry V,THE LIFE OF KING HENRY V,History,1599,William Shakespeare,front_matter,scene_description,NA,NA,NA,NA,of
-1521,Henry V,THE LIFE OF KING HENRY V,History,1599,William Shakespeare,front_matter,scene_description,NA,NA,NA,NA,these
-1521,Henry V,THE LIFE OF KING HENRY V,History,1599,William Shakespeare,front_matter,scene_description,NA,NA,NA,NA,walls
-1521,Henry V,THE LIFE OF KING HENRY V,History,1599,William Shakespeare,front_matter,scene_description,NA,NA,NA,NA,are
-1521,Henry V,THE LIFE OF KING HENRY V,History,1599,William Shakespeare,front_matter,scene_description,NA,NA,NA,NA,now
-1521,Henry V,THE LIFE OF KING HENRY V,History,1599,William Shakespeare,front_matter,scene_description,NA,NA,NA,NA,confin’d
-1521,Henry V,THE LIFE OF KING HENRY V,History,1599,William Shakespeare,front_matter,scene_description,NA,NA,NA,NA,two
-1521,Henry V,THE LIFE OF KING HENRY V,History,1599,William Shakespeare,front_matter,scene_description,NA,NA,NA,NA,mighty
-1521,Henry V,THE LIFE OF KING HENRY V,History,1599,William Shakespeare,front_matter,scene_description,NA,NA,NA,NA,monarchies
-1521,Henry V,THE LIFE OF KING HENRY V,History,1599,William Shakespeare,front_matter,scene_description,NA,NA,NA,NA,whose
-1521,Henry V,THE LIFE OF KING HENRY V,History,1599,William Shakespeare,front_matter,scene_description,NA,NA,NA,NA,high
-1521,Henry V,THE LIFE OF KING HENRY V,History,1599,William Shakespeare,front_matter,scene_description,NA,NA,NA,NA,upreared
-1521,Henry V,THE LIFE OF KING HENRY V,History,1599,William Shakespeare,front_matter,scene_description,NA,NA,NA,NA,and
-1521,Henry V,THE LIFE OF KING HENRY V,History,1599,William Shakespeare,front_matter,scene_description,NA,NA,NA,NA,abutting
-1521,Henry V,THE LIFE OF KING HENRY V,History,1599,William Shakespeare,front_matter,scene_description,NA,NA,NA,NA,fronts
-1521,Henry V,THE LIFE OF KING HENRY V,History,1599,William Shakespeare,front_matter,scene_description,NA,NA,NA,NA,the
-1521,Henry V,THE LIFE OF KING HENRY V,History,1599,William Shakespeare,front_matter,scene_description,NA,NA,NA,NA,perilous
-1521,Henry V,THE LIFE OF KING HENRY V,History,1599,William Shakespeare,front_matter,scene_description,NA,NA,NA,NA,narrow
-1521,Henry V,THE LIFE OF KING HENRY V,History,1599,William Shakespeare,front_matter,scene_description,NA,NA,NA,NA,ocean
-1521,Henry V,THE LIFE OF KING HENRY V,History,1599,William Shakespeare,front_matter,scene_description,NA,NA,NA,NA,parts
-1521,Henry V,THE LIFE OF KING HENRY V,History,1599,William Shakespeare,front_matter,scene_description,NA,NA,NA,NA,asunder
-1521,Henry V,THE LIFE OF KING HENRY V,History,1599,William Shakespeare,front_matter,scene_description,NA,NA,NA,NA,piece
-1521,Henry V,THE LIFE OF KING HENRY V,History,1599,William Shakespeare,front_matter,scene_description,NA,NA,NA,NA,out
-1521,Henry V,THE LIFE OF KING HENRY V,History,1599,William Shakespeare,front_matter,scene_description,NA,NA,NA,NA,our
-1521,Henry V,THE LIFE OF KING HENRY V,History,1599,William Shakespeare,front_matter,scene_description,NA,NA,NA,NA,imperfections
-1521,Henry V,THE LIFE OF KING HENRY V,History,1599,William Shakespeare,front_matter,scene_description,NA,NA,NA,NA,with
-1521,Henry V,THE LIFE OF KING HENRY V,History,1599,William Shakespeare,front_matter,scene_description,NA,NA,NA,NA,your
-1521,Henry V,THE LIFE OF KING HENRY V,History,1599,William Shakespeare,front_matter,scene_description,NA,NA,NA,NA,thoughts
-1521,Henry V,THE LIFE OF KING HENRY V,History,1599,William Shakespeare,front_matter,scene_description,NA,NA,NA,NA,into
-1521,Henry V,THE LIFE OF KING HENRY V,History,1599,William Shakespeare,front_matter,scene_description,NA,NA,NA,NA,a
-1521,Henry V,THE LIFE OF KING HENRY V,History,1599,William Shakespeare,front_matter,scene_description,NA,NA,NA,NA,thousand
-1521,Henry V,THE LIFE OF KING HENRY V,History,1599,William Shakespeare,front_matter,scene_description,NA,NA,NA,NA,parts
-1521,Henry V,THE LIFE OF KING HENRY V,History,1599,William Shakespeare,front_matter,scene_description,NA,NA,NA,NA,divide
-1521,Henry V,THE LIFE OF KING HENRY V,History,1599,William Shakespeare,front_matter,scene_description,NA,NA,NA,NA,one
-1521,Henry V,THE LIFE OF KING HENRY V,History,1599,William Shakespeare,front_matter,scene_description,NA,NA,NA,NA,man
-1521,Henry V,THE LIFE OF KING HENRY V,History,1599,William Shakespeare,front_matter,scene_description,NA,NA,NA,NA,and
-1521,Henry V,THE LIFE OF KING HENRY V,History,1599,William Shakespeare,front_matter,scene_description,NA,NA,NA,NA,make
-1521,Henry V,THE LIFE OF KING HENRY V,History,1599,William Shakespeare,front_matter,scene_description,NA,NA,NA,NA,imaginary
-1521,Henry V,THE LIFE OF KING HENRY V,History,1599,William Shakespeare,front_matter,scene_description,NA,NA,NA,NA,puissance
-1521,Henry V,THE LIFE OF KING HENRY V,History,1599,William Shakespeare,front_matter,scene_description,NA,NA,NA,NA,think
-1521,Henry V,THE LIFE OF KING HENRY V,History,1599,William Shakespeare,front_matter,scene_description,NA,NA,NA,NA,when
-1521,Henry V,THE LIFE OF KING HENRY V,History,1599,William Shakespeare,front_matter,scene_description,NA,NA,NA,NA,we
-1521,Henry V,THE LIFE OF KING HENRY V,History,1599,William Shakespeare,front_matter,scene_description,NA,NA,NA,NA,talk
-1521,Henry V,THE LIFE OF KING HENRY V,History,1599,William Shakespeare,front_matter,scene_description,NA,NA,NA,NA,of
-1521,Henry V,THE LIFE OF KING HENRY V,History,1599,William Shakespeare,front_matter,scene_description,NA,NA,NA,NA,horses
-1521,Henry V,THE LIFE OF KING HENRY V,History,1599,William Shakespeare,front_matter,scene_description,NA,NA,NA,NA,that
-1521,Henry V,THE LIFE OF KING HENRY V,History,1599,William Shakespeare,front_matter,scene_description,NA,NA,NA,NA,you
-1521,Henry V,THE LIFE OF KING HENRY V,History,1599,William Shakespeare,front_matter,scene_description,NA,NA,NA,NA,see
-1521,Henry V,THE LIFE OF KING HENRY V,History,1599,William Shakespeare,front_matter,scene_description,NA,NA,NA,NA,them
-1521,Henry V,THE LIFE OF KING HENRY V,History,1599,William Shakespeare,front_matter,scene_description,NA,NA,NA,NA,printing
-1521,Henry V,THE LIFE OF KING HENRY V,History,1599,William Shakespeare,front_matter,scene_description,NA,NA,NA,NA,their
-1521,Henry V,THE LIFE OF KING HENRY V,History,1599,William Shakespeare,front_matter,scene_description,NA,NA,NA,NA,proud
-1521,Henry V,THE LIFE OF KING HENRY V,History,1599,William Shakespeare,front_matter,scene_description,NA,NA,NA,NA,hoofs
-1521,Henry V,THE LIFE OF KING HENRY V,History,1599,William Shakespeare,front_matter,scene_description,NA,NA,NA,NA,i
-1521,Henry V,THE LIFE OF KING HENRY V,History,1599,William Shakespeare,front_matter,scene_description,NA,NA,NA,NA,th
-1521,Henry V,THE LIFE OF KING HENRY V,History,1599,William Shakespeare,front_matter,scene_description,NA,NA,NA,NA,receiving
-1521,Henry V,THE LIFE OF KING HENRY V,History,1599,William Shakespeare,front_matter,scene_description,NA,NA,NA,NA,earth
-1521,Henry V,THE LIFE OF KING HENRY V,History,1599,William Shakespeare,front_matter,scene_description,NA,NA,NA,NA,for
-1521,Henry V,THE LIFE OF KING HENRY V,History,1599,William Shakespeare,front_matter,scene_description,NA,NA,NA,NA,tis
-1521,Henry V,THE LIFE OF KING HENRY V,History,1599,William Shakespeare,front_matter,scene_description,NA,NA,NA,NA,your
-1521,Henry V,THE LIFE OF KING HENRY V,History,1599,William Shakespeare,front_matter,scene_description,NA,NA,NA,NA,thoughts
-1521,Henry V,THE LIFE OF KING HENRY V,History,1599,William Shakespeare,front_matter,scene_description,NA,NA,NA,NA,that
-1521,Henry V,THE LIFE OF KING HENRY V,History,1599,William Shakespeare,front_matter,scene_description,NA,NA,NA,NA,now
-1521,Henry V,THE LIFE OF KING HENRY V,History,1599,William Shakespeare,front_matter,scene_description,NA,NA,NA,NA,must
-1521,Henry V,THE LIFE OF KING HENRY V,History,1599,William Shakespeare,front_matter,scene_description,NA,NA,NA,NA,deck
-1521,Henry V,THE LIFE OF KING HENRY V,History,1599,William Shakespeare,front_matter,scene_description,NA,NA,NA,NA,our
-1521,Henry V,THE LIFE OF KING HENRY V,History,1599,William Shakespeare,front_matter,scene_description,NA,NA,NA,NA,kings
-1521,Henry V,THE LIFE OF KING HENRY V,History,1599,William Shakespeare,front_matter,scene_description,NA,NA,NA,NA,carry
-1521,Henry V,THE LIFE OF KING HENRY V,History,1599,William Shakespeare,front_matter,scene_description,NA,NA,NA,NA,them
-1521,Henry V,THE LIFE OF KING HENRY V,History,1599,William Shakespeare,front_matter,scene_description,NA,NA,NA,NA,here
-1521,Henry V,THE LIFE OF KING HENRY V,History,1599,William Shakespeare,front_matter,scene_description,NA,NA,NA,NA,and
-1521,Henry V,THE LIFE OF KING HENRY V,History,1599,William Shakespeare,front_matter,scene_description,NA,NA,NA,NA,there
-1521,Henry V,THE LIFE OF KING HENRY V,History,1599,William Shakespeare,front_matter,scene_description,NA,NA,NA,NA,jumping
-1521,Henry V,THE LIFE OF KING HENRY V,History,1599,William Shakespeare,front_matter,scene_description,NA,NA,NA,NA,o’er
-1521,Henry V,THE LIFE OF KING HENRY V,History,1599,William Shakespeare,front_matter,scene_description,NA,NA,NA,NA,times
-1521,Henry V,THE LIFE OF KING HENRY V,History,1599,William Shakespeare,front_matter,scene_description,NA,NA,NA,NA,turning
-1521,Henry V,THE LIFE OF KING HENRY V,History,1599,William Shakespeare,front_matter,scene_description,NA,NA,NA,NA,the
-1521,Henry V,THE LIFE OF KING HENRY V,History,1599,William Shakespeare,front_matter,scene_description,NA,NA,NA,NA,accomplishment
-1521,Henry V,THE LIFE OF KING HENRY V,History,1599,William Shakespeare,front_matter,scene_description,NA,NA,NA,NA,of
-1521,Henry V,THE LIFE OF KING HENRY V,History,1599,William Shakespeare,front_matter,scene_description,NA,NA,NA,NA,many
-1521,Henry V,THE LIFE OF KING HENRY V,History,1599,William Shakespeare,front_matter,scene_description,NA,NA,NA,NA,years
-1521,Henry V,THE LIFE OF KING HENRY V,History,1599,William Shakespeare,front_matter,scene_description,NA,NA,NA,NA,into
-1521,Henry V,THE LIFE OF KING HENRY V,History,1599,William Shakespeare,front_matter,scene_description,NA,NA,NA,NA,an
-1521,Henry V,THE LIFE OF KING HENRY V,History,1599,William Shakespeare,front_matter,scene_description,NA,NA,NA,NA,hour
-1521,Henry V,THE LIFE OF KING HENRY V,History,1599,William Shakespeare,front_matter,scene_description,NA,NA,NA,NA,glass
-1521,Henry V,THE LIFE OF KING HENRY V,History,1599,William Shakespeare,front_matter,scene_description,NA,NA,NA,NA,for
-1521,Henry V,THE LIFE OF KING HENRY V,History,1599,William Shakespeare,front_matter,scene_description,NA,NA,NA,NA,the
-1521,Henry V,THE LIFE OF KING HENRY V,History,1599,William Shakespeare,front_matter,scene_description,NA,NA,NA,NA,which
-1521,Henry V,THE LIFE OF KING HENRY V,History,1599,William Shakespeare,front_matter,scene_description,NA,NA,NA,NA,supply
-1521,Henry V,THE LIFE OF KING HENRY V,History,1599,William Shakespeare,front_matter,scene_description,NA,NA,NA,NA,admit
-1521,Henry V,THE LIFE OF KING HENRY V,History,1599,William Shakespeare,front_matter,scene_description,NA,NA,NA,NA,me
-1521,Henry V,THE LIFE OF KING HENRY V,History,1599,William Shakespeare,front_matter,scene_description,NA,NA,NA,NA,chorus
-1521,Henry V,THE LIFE OF KING HENRY V,History,1599,William Shakespeare,front_matter,scene_description,NA,NA,NA,NA,to
-1521,Henry V,THE LIFE OF KING HENRY V,History,1599,William Shakespeare,front_matter,scene_description,NA,NA,NA,NA,this
-1521,Henry V,THE LIFE OF KING HENRY V,History,1599,William Shakespeare,front_matter,scene_description,NA,NA,NA,NA,history
-1521,Henry V,THE LIFE OF KING HENRY V,History,1599,William Shakespeare,front_matter,scene_description,NA,NA,NA,NA,who
-1521,Henry V,THE LIFE OF KING HENRY V,History,1599,William Shakespeare,front_matter,scene_description,NA,NA,NA,NA,prologue
-1521,Henry V,THE LIFE OF KING HENRY V,History,1599,William Shakespeare,front_matter,scene_description,NA,NA,NA,NA,like
-1521,Henry V,THE LIFE OF KING HENRY V,History,1599,William Shakespeare,front_matter,scene_description,NA,NA,NA,NA,your
-1521,Henry V,THE LIFE OF KING HENRY V,History,1599,William Shakespeare,front_matter,scene_description,NA,NA,NA,NA,humble
-1521,Henry V,THE LIFE OF KING HENRY V,History,1599,William Shakespeare,front_matter,scene_description,NA,NA,NA,NA,patience
-1521,Henry V,THE LIFE OF KING HENRY V,History,1599,William Shakespeare,front_matter,scene_description,NA,NA,NA,NA,pray
-1521,Henry V,THE LIFE OF KING HENRY V,History,1599,William Shakespeare,front_matter,scene_description,NA,NA,NA,NA,gently
-1521,Henry V,THE LIFE OF KING HENRY V,History,1599,William Shakespeare,front_matter,scene_description,NA,NA,NA,NA,to
-1521,Henry V,THE LIFE OF KING HENRY V,History,1599,William Shakespeare,front_matter,scene_description,NA,NA,NA,NA,hear
-1521,Henry V,THE LIFE OF KING HENRY V,History,1599,William Shakespeare,front_matter,scene_description,NA,NA,NA,NA,kindly
-1521,Henry V,THE LIFE OF KING HENRY V,History,1599,William Shakespeare,front_matter,scene_description,NA,NA,NA,NA,to
-1521,Henry V,THE LIFE OF KING HENRY V,History,1599,William Shakespeare,front_matter,scene_description,NA,NA,NA,NA,judge
-1521,Henry V,THE LIFE OF KING HENRY V,History,1599,William Shakespeare,front_matter,scene_description,NA,NA,NA,NA,our
-1521,Henry V,THE LIFE OF KING HENRY V,History,1599,William Shakespeare,front_matter,scene_description,NA,NA,NA,NA,play
-1521,Henry V,THE LIFE OF KING HENRY V,History,1599,William Shakespeare,front_matter,scene_description,NA,NA,NA,NA,exit
-1521,Henry V,THE LIFE OF KING HENRY V,History,1599,William Shakespeare,contents,reference,ACT I,NA,NA,NA,act
-1521,Henry V,THE LIFE OF KING HENRY V,History,1599,William Shakespeare,contents,reference,ACT I,NA,NA,NA,i
-1521,Henry V,THE LIFE OF KING HENRY V,History,1599,William Shakespeare,contents,reference,ACT I,SCENE I,NA,NA,scene
-1521,Henry V,THE LIFE OF KING HENRY V,History,1599,William Shakespeare,contents,reference,ACT I,SCENE I,NA,NA,i
-1521,Henry V,THE LIFE OF KING HENRY V,History,1599,William Shakespeare,contents,reference,ACT I,SCENE I,NA,NA,london
-1521,Henry V,THE LIFE OF KING HENRY V,History,1599,William Shakespeare,contents,reference,ACT I,SCENE I,NA,NA,an
-1521,Henry V,THE LIFE OF KING HENRY V,History,1599,William Shakespeare,contents,reference,ACT I,SCENE I,NA,NA,ante
-1521,Henry V,THE LIFE OF KING HENRY V,History,1599,William Shakespeare,contents,reference,ACT I,SCENE I,NA,NA,chamber
-1521,Henry V,THE LIFE OF KING HENRY V,History,1599,William Shakespeare,contents,reference,ACT I,SCENE I,NA,NA,in
-1521,Henry V,THE LIFE OF KING HENRY V,History,1599,William Shakespeare,contents,reference,ACT I,SCENE I,NA,NA,the
-1521,Henry V,THE LIFE OF KING HENRY V,History,1599,William Shakespeare,contents,reference,ACT I,SCENE I,NA,NA,king’s
-1521,Henry V,THE LIFE OF KING HENRY V,History,1599,William Shakespeare,contents,reference,ACT I,SCENE I,NA,NA,palace
 1521,Henry V,THE LIFE OF KING HENRY V,History,1599,William Shakespeare,contents,directions,ACT I,SCENE I,NA,NA,enter
 1521,Henry V,THE LIFE OF KING HENRY V,History,1599,William Shakespeare,contents,directions,ACT I,SCENE I,NA,NA,the
 1521,Henry V,THE LIFE OF KING HENRY V,History,1599,William Shakespeare,contents,directions,ACT I,SCENE I,NA,NA,archbishop
@@ -1383,13 +745,6 @@ gutenberg_id,short_title,gutenberg_title,genre,year,author,section,class,act,sce
 1521,Henry V,THE LIFE OF KING HENRY V,History,1599,William Shakespeare,contents,dialogue,ACT I,SCENE I,ELY,102,hear
 1521,Henry V,THE LIFE OF KING HENRY V,History,1599,William Shakespeare,contents,dialogue,ACT I,SCENE I,ELY,102,it
 1521,Henry V,THE LIFE OF KING HENRY V,History,1599,William Shakespeare,contents,directions,ACT I,SCENE I,NA,NA,exeunt
-1521,Henry V,THE LIFE OF KING HENRY V,History,1599,William Shakespeare,contents,reference,ACT I,SCENE II,NA,NA,scene
-1521,Henry V,THE LIFE OF KING HENRY V,History,1599,William Shakespeare,contents,reference,ACT I,SCENE II,NA,NA,ii
-1521,Henry V,THE LIFE OF KING HENRY V,History,1599,William Shakespeare,contents,reference,ACT I,SCENE II,NA,NA,the
-1521,Henry V,THE LIFE OF KING HENRY V,History,1599,William Shakespeare,contents,reference,ACT I,SCENE II,NA,NA,same
-1521,Henry V,THE LIFE OF KING HENRY V,History,1599,William Shakespeare,contents,reference,ACT I,SCENE II,NA,NA,the
-1521,Henry V,THE LIFE OF KING HENRY V,History,1599,William Shakespeare,contents,reference,ACT I,SCENE II,NA,NA,presence
-1521,Henry V,THE LIFE OF KING HENRY V,History,1599,William Shakespeare,contents,reference,ACT I,SCENE II,NA,NA,chamber
 1521,Henry V,THE LIFE OF KING HENRY V,History,1599,William Shakespeare,contents,directions,ACT I,SCENE II,NA,NA,enter
 1521,Henry V,THE LIFE OF KING HENRY V,History,1599,William Shakespeare,contents,directions,ACT I,SCENE II,NA,NA,king
 1521,Henry V,THE LIFE OF KING HENRY V,History,1599,William Shakespeare,contents,directions,ACT I,SCENE II,NA,NA,henry
@@ -3842,8 +3197,6 @@ gutenberg_id,short_title,gutenberg_title,genre,year,author,section,class,act,sce
 1521,Henry V,THE LIFE OF KING HENRY V,History,1599,William Shakespeare,contents,dialogue,ACT I,SCENE II,KING HENRY,417,be
 1521,Henry V,THE LIFE OF KING HENRY V,History,1599,William Shakespeare,contents,dialogue,ACT I,SCENE II,KING HENRY,417,brought
 1521,Henry V,THE LIFE OF KING HENRY V,History,1599,William Shakespeare,contents,directions,ACT I,SCENE II,NA,NA,exeunt
-1521,Henry V,THE LIFE OF KING HENRY V,History,1599,William Shakespeare,contents,reference,ACT II,SCENE II,NA,NA,act
-1521,Henry V,THE LIFE OF KING HENRY V,History,1599,William Shakespeare,contents,reference,ACT II,SCENE II,NA,NA,ii
 1521,Henry V,THE LIFE OF KING HENRY V,History,1599,William Shakespeare,contents,directions,ACT II,SCENE II,NA,NA,flourish
 1521,Henry V,THE LIFE OF KING HENRY V,History,1599,William Shakespeare,contents,directions,ACT II,SCENE II,NA,NA,enter
 1521,Henry V,THE LIFE OF KING HENRY V,History,1599,William Shakespeare,contents,directions,ACT II,SCENE II,NA,NA,chorus
@@ -4168,11 +3521,6 @@ gutenberg_id,short_title,gutenberg_title,genre,year,author,section,class,act,sce
 1521,Henry V,THE LIFE OF KING HENRY V,History,1599,William Shakespeare,contents,dialogue,ACT II,SCENE II,CHORUS,459,our
 1521,Henry V,THE LIFE OF KING HENRY V,History,1599,William Shakespeare,contents,dialogue,ACT II,SCENE II,CHORUS,459,scene
 1521,Henry V,THE LIFE OF KING HENRY V,History,1599,William Shakespeare,contents,directions,ACT II,SCENE II,NA,NA,exit
-1521,Henry V,THE LIFE OF KING HENRY V,History,1599,William Shakespeare,contents,reference,ACT II,SCENE I,NA,NA,scene
-1521,Henry V,THE LIFE OF KING HENRY V,History,1599,William Shakespeare,contents,reference,ACT II,SCENE I,NA,NA,i
-1521,Henry V,THE LIFE OF KING HENRY V,History,1599,William Shakespeare,contents,reference,ACT II,SCENE I,NA,NA,london
-1521,Henry V,THE LIFE OF KING HENRY V,History,1599,William Shakespeare,contents,reference,ACT II,SCENE I,NA,NA,a
-1521,Henry V,THE LIFE OF KING HENRY V,History,1599,William Shakespeare,contents,reference,ACT II,SCENE I,NA,NA,street
 1521,Henry V,THE LIFE OF KING HENRY V,History,1599,William Shakespeare,contents,directions,ACT II,SCENE I,NA,NA,enter
 1521,Henry V,THE LIFE OF KING HENRY V,History,1599,William Shakespeare,contents,directions,ACT II,SCENE I,NA,NA,corporal
 1521,Henry V,THE LIFE OF KING HENRY V,History,1599,William Shakespeare,contents,directions,ACT II,SCENE I,NA,NA,nym
@@ -5184,12 +4532,6 @@ gutenberg_id,short_title,gutenberg_title,genre,year,author,section,class,act,sce
 1521,Henry V,THE LIFE OF KING HENRY V,History,1599,William Shakespeare,contents,dialogue,ACT II,SCENE I,PISTOL,564,will
 1521,Henry V,THE LIFE OF KING HENRY V,History,1599,William Shakespeare,contents,dialogue,ACT II,SCENE I,PISTOL,564,live
 1521,Henry V,THE LIFE OF KING HENRY V,History,1599,William Shakespeare,contents,directions,ACT II,SCENE I,NA,NA,exeunt
-1521,Henry V,THE LIFE OF KING HENRY V,History,1599,William Shakespeare,contents,reference,ACT II,SCENE II,NA,NA,scene
-1521,Henry V,THE LIFE OF KING HENRY V,History,1599,William Shakespeare,contents,reference,ACT II,SCENE II,NA,NA,ii
-1521,Henry V,THE LIFE OF KING HENRY V,History,1599,William Shakespeare,contents,reference,ACT II,SCENE II,NA,NA,southampton
-1521,Henry V,THE LIFE OF KING HENRY V,History,1599,William Shakespeare,contents,reference,ACT II,SCENE II,NA,NA,a
-1521,Henry V,THE LIFE OF KING HENRY V,History,1599,William Shakespeare,contents,reference,ACT II,SCENE II,NA,NA,council
-1521,Henry V,THE LIFE OF KING HENRY V,History,1599,William Shakespeare,contents,reference,ACT II,SCENE II,NA,NA,chamber
 1521,Henry V,THE LIFE OF KING HENRY V,History,1599,William Shakespeare,contents,directions,ACT II,SCENE II,NA,NA,enter
 1521,Henry V,THE LIFE OF KING HENRY V,History,1599,William Shakespeare,contents,directions,ACT II,SCENE II,NA,NA,exeter
 1521,Henry V,THE LIFE OF KING HENRY V,History,1599,William Shakespeare,contents,directions,ACT II,SCENE II,NA,NA,bedford
@@ -6699,12 +6041,6 @@ gutenberg_id,short_title,gutenberg_title,genre,year,author,section,class,act,sce
 1521,Henry V,THE LIFE OF KING HENRY V,History,1599,William Shakespeare,contents,dialogue,ACT II,SCENE II,KING HENRY,759,france
 1521,Henry V,THE LIFE OF KING HENRY V,History,1599,William Shakespeare,contents,directions,ACT II,SCENE II,NA,NA,flourish
 1521,Henry V,THE LIFE OF KING HENRY V,History,1599,William Shakespeare,contents,directions,ACT II,SCENE II,NA,NA,exeunt
-1521,Henry V,THE LIFE OF KING HENRY V,History,1599,William Shakespeare,contents,reference,ACT II,SCENE III,NA,NA,scene
-1521,Henry V,THE LIFE OF KING HENRY V,History,1599,William Shakespeare,contents,reference,ACT II,SCENE III,NA,NA,iii
-1521,Henry V,THE LIFE OF KING HENRY V,History,1599,William Shakespeare,contents,reference,ACT II,SCENE III,NA,NA,london
-1521,Henry V,THE LIFE OF KING HENRY V,History,1599,William Shakespeare,contents,reference,ACT II,SCENE III,NA,NA,before
-1521,Henry V,THE LIFE OF KING HENRY V,History,1599,William Shakespeare,contents,reference,ACT II,SCENE III,NA,NA,a
-1521,Henry V,THE LIFE OF KING HENRY V,History,1599,William Shakespeare,contents,reference,ACT II,SCENE III,NA,NA,tavern
 1521,Henry V,THE LIFE OF KING HENRY V,History,1599,William Shakespeare,contents,directions,ACT II,SCENE III,NA,NA,enter
 1521,Henry V,THE LIFE OF KING HENRY V,History,1599,William Shakespeare,contents,directions,ACT II,SCENE III,NA,NA,pistol
 1521,Henry V,THE LIFE OF KING HENRY V,History,1599,William Shakespeare,contents,directions,ACT II,SCENE III,NA,NA,nym
@@ -7188,12 +6524,6 @@ gutenberg_id,short_title,gutenberg_title,genre,year,author,section,class,act,sce
 1521,Henry V,THE LIFE OF KING HENRY V,History,1599,William Shakespeare,contents,dialogue,ACT II,SCENE III,HOSTESS,808,farewell
 1521,Henry V,THE LIFE OF KING HENRY V,History,1599,William Shakespeare,contents,dialogue,ACT II,SCENE III,HOSTESS,808,adieu
 1521,Henry V,THE LIFE OF KING HENRY V,History,1599,William Shakespeare,contents,directions,ACT II,SCENE III,NA,NA,exeunt
-1521,Henry V,THE LIFE OF KING HENRY V,History,1599,William Shakespeare,contents,reference,ACT II,SCENE IV,NA,NA,scene
-1521,Henry V,THE LIFE OF KING HENRY V,History,1599,William Shakespeare,contents,reference,ACT II,SCENE IV,NA,NA,iv
-1521,Henry V,THE LIFE OF KING HENRY V,History,1599,William Shakespeare,contents,reference,ACT II,SCENE IV,NA,NA,france
-1521,Henry V,THE LIFE OF KING HENRY V,History,1599,William Shakespeare,contents,reference,ACT II,SCENE IV,NA,NA,the
-1521,Henry V,THE LIFE OF KING HENRY V,History,1599,William Shakespeare,contents,reference,ACT II,SCENE IV,NA,NA,king’s
-1521,Henry V,THE LIFE OF KING HENRY V,History,1599,William Shakespeare,contents,reference,ACT II,SCENE IV,NA,NA,palace
 1521,Henry V,THE LIFE OF KING HENRY V,History,1599,William Shakespeare,contents,directions,ACT II,SCENE IV,NA,NA,flourish
 1521,Henry V,THE LIFE OF KING HENRY V,History,1599,William Shakespeare,contents,directions,ACT II,SCENE IV,NA,NA,enter
 1521,Henry V,THE LIFE OF KING HENRY V,History,1599,William Shakespeare,contents,directions,ACT II,SCENE IV,NA,NA,the
@@ -8357,8 +7687,6 @@ gutenberg_id,short_title,gutenberg_title,genre,year,author,section,class,act,sce
 1521,Henry V,THE LIFE OF KING HENRY V,History,1599,William Shakespeare,contents,dialogue,ACT II,SCENE IV,FRENCH KING,959,this
 1521,Henry V,THE LIFE OF KING HENRY V,History,1599,William Shakespeare,contents,dialogue,ACT II,SCENE IV,FRENCH KING,959,consequence
 1521,Henry V,THE LIFE OF KING HENRY V,History,1599,William Shakespeare,contents,directions,ACT II,SCENE IV,NA,NA,exeunt
-1521,Henry V,THE LIFE OF KING HENRY V,History,1599,William Shakespeare,contents,reference,ACT III,SCENE IV,NA,NA,act
-1521,Henry V,THE LIFE OF KING HENRY V,History,1599,William Shakespeare,contents,reference,ACT III,SCENE IV,NA,NA,iii
 1521,Henry V,THE LIFE OF KING HENRY V,History,1599,William Shakespeare,contents,directions,ACT III,SCENE IV,NA,NA,flourish
 1521,Henry V,THE LIFE OF KING HENRY V,History,1599,William Shakespeare,contents,directions,ACT III,SCENE IV,NA,NA,enter
 1521,Henry V,THE LIFE OF KING HENRY V,History,1599,William Shakespeare,contents,directions,ACT III,SCENE IV,NA,NA,chorus
@@ -8632,11 +7960,6 @@ gutenberg_id,short_title,gutenberg_title,genre,year,author,section,class,act,sce
 1521,Henry V,THE LIFE OF KING HENRY V,History,1599,William Shakespeare,contents,dialogue,ACT III,SCENE IV,CHORUS,994,your
 1521,Henry V,THE LIFE OF KING HENRY V,History,1599,William Shakespeare,contents,dialogue,ACT III,SCENE IV,CHORUS,994,mind
 1521,Henry V,THE LIFE OF KING HENRY V,History,1599,William Shakespeare,contents,directions,ACT III,SCENE IV,NA,NA,exit
-1521,Henry V,THE LIFE OF KING HENRY V,History,1599,William Shakespeare,contents,reference,ACT III,SCENE I,NA,NA,scene
-1521,Henry V,THE LIFE OF KING HENRY V,History,1599,William Shakespeare,contents,reference,ACT III,SCENE I,NA,NA,i
-1521,Henry V,THE LIFE OF KING HENRY V,History,1599,William Shakespeare,contents,reference,ACT III,SCENE I,NA,NA,france
-1521,Henry V,THE LIFE OF KING HENRY V,History,1599,William Shakespeare,contents,reference,ACT III,SCENE I,NA,NA,before
-1521,Henry V,THE LIFE OF KING HENRY V,History,1599,William Shakespeare,contents,reference,ACT III,SCENE I,NA,NA,harfleur
 1521,Henry V,THE LIFE OF KING HENRY V,History,1599,William Shakespeare,contents,directions,ACT III,SCENE I,NA,NA,alarum
 1521,Henry V,THE LIFE OF KING HENRY V,History,1599,William Shakespeare,contents,directions,ACT III,SCENE I,NA,NA,enter
 1521,Henry V,THE LIFE OF KING HENRY V,History,1599,William Shakespeare,contents,directions,ACT III,SCENE I,NA,NA,king
@@ -8930,10 +8253,6 @@ gutenberg_id,short_title,gutenberg_title,genre,year,author,section,class,act,sce
 1521,Henry V,THE LIFE OF KING HENRY V,History,1599,William Shakespeare,contents,directions,ACT III,SCENE I,NA,NA,chambers
 1521,Henry V,THE LIFE OF KING HENRY V,History,1599,William Shakespeare,contents,directions,ACT III,SCENE I,NA,NA,go
 1521,Henry V,THE LIFE OF KING HENRY V,History,1599,William Shakespeare,contents,directions,ACT III,SCENE I,NA,NA,off
-1521,Henry V,THE LIFE OF KING HENRY V,History,1599,William Shakespeare,contents,reference,ACT III,SCENE II,NA,NA,scene
-1521,Henry V,THE LIFE OF KING HENRY V,History,1599,William Shakespeare,contents,reference,ACT III,SCENE II,NA,NA,ii
-1521,Henry V,THE LIFE OF KING HENRY V,History,1599,William Shakespeare,contents,reference,ACT III,SCENE II,NA,NA,the
-1521,Henry V,THE LIFE OF KING HENRY V,History,1599,William Shakespeare,contents,reference,ACT III,SCENE II,NA,NA,same
 1521,Henry V,THE LIFE OF KING HENRY V,History,1599,William Shakespeare,contents,directions,ACT III,SCENE II,NA,NA,enter
 1521,Henry V,THE LIFE OF KING HENRY V,History,1599,William Shakespeare,contents,directions,ACT III,SCENE II,NA,NA,nym
 1521,Henry V,THE LIFE OF KING HENRY V,History,1599,William Shakespeare,contents,directions,ACT III,SCENE II,NA,NA,bardolph
@@ -10146,11 +9465,6 @@ gutenberg_id,short_title,gutenberg_title,genre,year,author,section,class,act,sce
 1521,Henry V,THE LIFE OF KING HENRY V,History,1599,William Shakespeare,contents,dialogue,ACT III,SCENE II,FLUELLEN,1139,an
 1521,Henry V,THE LIFE OF KING HENRY V,History,1599,William Shakespeare,contents,dialogue,ACT III,SCENE II,FLUELLEN,1139,end
 1521,Henry V,THE LIFE OF KING HENRY V,History,1599,William Shakespeare,contents,directions,ACT III,SCENE II,NA,NA,exeunt
-1521,Henry V,THE LIFE OF KING HENRY V,History,1599,William Shakespeare,contents,reference,ACT III,SCENE III,NA,NA,scene
-1521,Henry V,THE LIFE OF KING HENRY V,History,1599,William Shakespeare,contents,reference,ACT III,SCENE III,NA,NA,iii
-1521,Henry V,THE LIFE OF KING HENRY V,History,1599,William Shakespeare,contents,reference,ACT III,SCENE III,NA,NA,before
-1521,Henry V,THE LIFE OF KING HENRY V,History,1599,William Shakespeare,contents,reference,ACT III,SCENE III,NA,NA,the
-1521,Henry V,THE LIFE OF KING HENRY V,History,1599,William Shakespeare,contents,reference,ACT III,SCENE III,NA,NA,gates
 1521,Henry V,THE LIFE OF KING HENRY V,History,1599,William Shakespeare,contents,directions,ACT III,SCENE III,NA,NA,the
 1521,Henry V,THE LIFE OF KING HENRY V,History,1599,William Shakespeare,contents,directions,ACT III,SCENE III,NA,NA,governor
 1521,Henry V,THE LIFE OF KING HENRY V,History,1599,William Shakespeare,contents,directions,ACT III,SCENE III,NA,NA,and
@@ -10627,12 +9941,6 @@ gutenberg_id,short_title,gutenberg_title,genre,year,author,section,class,act,sce
 1521,Henry V,THE LIFE OF KING HENRY V,History,1599,William Shakespeare,contents,dialogue,ACT III,SCENE III,KING HENRY,1197,enter
 1521,Henry V,THE LIFE OF KING HENRY V,History,1599,William Shakespeare,contents,dialogue,ACT III,SCENE III,KING HENRY,1197,the
 1521,Henry V,THE LIFE OF KING HENRY V,History,1599,William Shakespeare,contents,dialogue,ACT III,SCENE III,KING HENRY,1197,town
-1521,Henry V,THE LIFE OF KING HENRY V,History,1599,William Shakespeare,contents,reference,ACT III,SCENE IV,NA,NA,scene
-1521,Henry V,THE LIFE OF KING HENRY V,History,1599,William Shakespeare,contents,reference,ACT III,SCENE IV,NA,NA,iv
-1521,Henry V,THE LIFE OF KING HENRY V,History,1599,William Shakespeare,contents,reference,ACT III,SCENE IV,NA,NA,the
-1521,Henry V,THE LIFE OF KING HENRY V,History,1599,William Shakespeare,contents,reference,ACT III,SCENE IV,NA,NA,french
-1521,Henry V,THE LIFE OF KING HENRY V,History,1599,William Shakespeare,contents,reference,ACT III,SCENE IV,NA,NA,king’s
-1521,Henry V,THE LIFE OF KING HENRY V,History,1599,William Shakespeare,contents,reference,ACT III,SCENE IV,NA,NA,palace
 1521,Henry V,THE LIFE OF KING HENRY V,History,1599,William Shakespeare,contents,directions,ACT III,SCENE IV,NA,NA,enter
 1521,Henry V,THE LIFE OF KING HENRY V,History,1599,William Shakespeare,contents,directions,ACT III,SCENE IV,NA,NA,katharine
 1521,Henry V,THE LIFE OF KING HENRY V,History,1599,William Shakespeare,contents,directions,ACT III,SCENE IV,NA,NA,and
@@ -11023,10 +10331,6 @@ gutenberg_id,short_title,gutenberg_title,genre,year,author,section,class,act,sce
 1521,Henry V,THE LIFE OF KING HENRY V,History,1599,William Shakespeare,contents,dialogue,ACT III,SCENE IV,KATHARINE,1248,à
 1521,Henry V,THE LIFE OF KING HENRY V,History,1599,William Shakespeare,contents,dialogue,ACT III,SCENE IV,KATHARINE,1248,dîner
 1521,Henry V,THE LIFE OF KING HENRY V,History,1599,William Shakespeare,contents,directions,ACT III,SCENE IV,NA,NA,exeunt
-1521,Henry V,THE LIFE OF KING HENRY V,History,1599,William Shakespeare,contents,reference,ACT III,SCENE V,NA,NA,scene
-1521,Henry V,THE LIFE OF KING HENRY V,History,1599,William Shakespeare,contents,reference,ACT III,SCENE V,NA,NA,v
-1521,Henry V,THE LIFE OF KING HENRY V,History,1599,William Shakespeare,contents,reference,ACT III,SCENE V,NA,NA,the
-1521,Henry V,THE LIFE OF KING HENRY V,History,1599,William Shakespeare,contents,reference,ACT III,SCENE V,NA,NA,same
 1521,Henry V,THE LIFE OF KING HENRY V,History,1599,William Shakespeare,contents,directions,ACT III,SCENE V,NA,NA,enter
 1521,Henry V,THE LIFE OF KING HENRY V,History,1599,William Shakespeare,contents,directions,ACT III,SCENE V,NA,NA,the
 1521,Henry V,THE LIFE OF KING HENRY V,History,1599,William Shakespeare,contents,directions,ACT III,SCENE V,NA,NA,king
@@ -11569,13 +10873,6 @@ gutenberg_id,short_title,gutenberg_title,genre,year,author,section,class,act,sce
 1521,Henry V,THE LIFE OF KING HENRY V,History,1599,William Shakespeare,contents,dialogue,ACT III,SCENE V,FRENCH KING,1317,england’s
 1521,Henry V,THE LIFE OF KING HENRY V,History,1599,William Shakespeare,contents,dialogue,ACT III,SCENE V,FRENCH KING,1317,fall
 1521,Henry V,THE LIFE OF KING HENRY V,History,1599,William Shakespeare,contents,directions,ACT III,SCENE V,NA,NA,exeunt
-1521,Henry V,THE LIFE OF KING HENRY V,History,1599,William Shakespeare,contents,reference,ACT III,SCENE VI,NA,NA,scene
-1521,Henry V,THE LIFE OF KING HENRY V,History,1599,William Shakespeare,contents,reference,ACT III,SCENE VI,NA,NA,vi
-1521,Henry V,THE LIFE OF KING HENRY V,History,1599,William Shakespeare,contents,reference,ACT III,SCENE VI,NA,NA,the
-1521,Henry V,THE LIFE OF KING HENRY V,History,1599,William Shakespeare,contents,reference,ACT III,SCENE VI,NA,NA,english
-1521,Henry V,THE LIFE OF KING HENRY V,History,1599,William Shakespeare,contents,reference,ACT III,SCENE VI,NA,NA,camp
-1521,Henry V,THE LIFE OF KING HENRY V,History,1599,William Shakespeare,contents,reference,ACT III,SCENE VI,NA,NA,in
-1521,Henry V,THE LIFE OF KING HENRY V,History,1599,William Shakespeare,contents,reference,ACT III,SCENE VI,NA,NA,picardy
 1521,Henry V,THE LIFE OF KING HENRY V,History,1599,William Shakespeare,contents,directions,ACT III,SCENE VI,NA,NA,enter
 1521,Henry V,THE LIFE OF KING HENRY V,History,1599,William Shakespeare,contents,directions,ACT III,SCENE VI,NA,NA,gower
 1521,Henry V,THE LIFE OF KING HENRY V,History,1599,William Shakespeare,contents,directions,ACT III,SCENE VI,NA,NA,and
@@ -13021,13 +12318,6 @@ gutenberg_id,short_title,gutenberg_title,genre,year,author,section,class,act,sce
 1521,Henry V,THE LIFE OF KING HENRY V,History,1599,William Shakespeare,contents,dialogue,ACT III,SCENE VI,KING HENRY,1465,march
 1521,Henry V,THE LIFE OF KING HENRY V,History,1599,William Shakespeare,contents,dialogue,ACT III,SCENE VI,KING HENRY,1465,away
 1521,Henry V,THE LIFE OF KING HENRY V,History,1599,William Shakespeare,contents,directions,ACT III,SCENE VI,NA,NA,exeunt
-1521,Henry V,THE LIFE OF KING HENRY V,History,1599,William Shakespeare,contents,reference,ACT III,SCENE VII,NA,NA,scene
-1521,Henry V,THE LIFE OF KING HENRY V,History,1599,William Shakespeare,contents,reference,ACT III,SCENE VII,NA,NA,vii
-1521,Henry V,THE LIFE OF KING HENRY V,History,1599,William Shakespeare,contents,reference,ACT III,SCENE VII,NA,NA,the
-1521,Henry V,THE LIFE OF KING HENRY V,History,1599,William Shakespeare,contents,reference,ACT III,SCENE VII,NA,NA,french
-1521,Henry V,THE LIFE OF KING HENRY V,History,1599,William Shakespeare,contents,reference,ACT III,SCENE VII,NA,NA,camp
-1521,Henry V,THE LIFE OF KING HENRY V,History,1599,William Shakespeare,contents,reference,ACT III,SCENE VII,NA,NA,near
-1521,Henry V,THE LIFE OF KING HENRY V,History,1599,William Shakespeare,contents,reference,ACT III,SCENE VII,NA,NA,agincourt
 1521,Henry V,THE LIFE OF KING HENRY V,History,1599,William Shakespeare,contents,directions,ACT III,SCENE VII,NA,NA,enter
 1521,Henry V,THE LIFE OF KING HENRY V,History,1599,William Shakespeare,contents,directions,ACT III,SCENE VII,NA,NA,the
 1521,Henry V,THE LIFE OF KING HENRY V,History,1599,William Shakespeare,contents,directions,ACT III,SCENE VII,NA,NA,constable
@@ -14214,8 +13504,6 @@ gutenberg_id,short_title,gutenberg_title,genre,year,author,section,class,act,sce
 1521,Henry V,THE LIFE OF KING HENRY V,History,1599,William Shakespeare,contents,dialogue,ACT III,SCENE VII,ORLEANS,1585,hundred
 1521,Henry V,THE LIFE OF KING HENRY V,History,1599,William Shakespeare,contents,dialogue,ACT III,SCENE VII,ORLEANS,1585,englishmen
 1521,Henry V,THE LIFE OF KING HENRY V,History,1599,William Shakespeare,contents,directions,ACT III,SCENE VII,NA,NA,exeunt
-1521,Henry V,THE LIFE OF KING HENRY V,History,1599,William Shakespeare,contents,reference,ACT IV,SCENE VII,NA,NA,act
-1521,Henry V,THE LIFE OF KING HENRY V,History,1599,William Shakespeare,contents,reference,ACT IV,SCENE VII,NA,NA,iv
 1521,Henry V,THE LIFE OF KING HENRY V,History,1599,William Shakespeare,contents,directions,ACT IV,SCENE VII,NA,NA,enter
 1521,Henry V,THE LIFE OF KING HENRY V,History,1599,William Shakespeare,contents,directions,ACT IV,SCENE VII,NA,NA,chorus
 1521,Henry V,THE LIFE OF KING HENRY V,History,1599,William Shakespeare,contents,dialogue,ACT IV,SCENE VII,CHORUS,1586,now
@@ -14608,13 +13896,6 @@ gutenberg_id,short_title,gutenberg_title,genre,year,author,section,class,act,sce
 1521,Henry V,THE LIFE OF KING HENRY V,History,1599,William Shakespeare,contents,dialogue,ACT IV,SCENE VII,CHORUS,1638,mock’ries
 1521,Henry V,THE LIFE OF KING HENRY V,History,1599,William Shakespeare,contents,dialogue,ACT IV,SCENE VII,CHORUS,1638,be
 1521,Henry V,THE LIFE OF KING HENRY V,History,1599,William Shakespeare,contents,directions,ACT IV,SCENE VII,NA,NA,exit
-1521,Henry V,THE LIFE OF KING HENRY V,History,1599,William Shakespeare,contents,reference,ACT IV,SCENE I,NA,NA,scene
-1521,Henry V,THE LIFE OF KING HENRY V,History,1599,William Shakespeare,contents,reference,ACT IV,SCENE I,NA,NA,i
-1521,Henry V,THE LIFE OF KING HENRY V,History,1599,William Shakespeare,contents,reference,ACT IV,SCENE I,NA,NA,the
-1521,Henry V,THE LIFE OF KING HENRY V,History,1599,William Shakespeare,contents,reference,ACT IV,SCENE I,NA,NA,english
-1521,Henry V,THE LIFE OF KING HENRY V,History,1599,William Shakespeare,contents,reference,ACT IV,SCENE I,NA,NA,camp
-1521,Henry V,THE LIFE OF KING HENRY V,History,1599,William Shakespeare,contents,reference,ACT IV,SCENE I,NA,NA,at
-1521,Henry V,THE LIFE OF KING HENRY V,History,1599,William Shakespeare,contents,reference,ACT IV,SCENE I,NA,NA,agincourt
 1521,Henry V,THE LIFE OF KING HENRY V,History,1599,William Shakespeare,contents,directions,ACT IV,SCENE I,NA,NA,enter
 1521,Henry V,THE LIFE OF KING HENRY V,History,1599,William Shakespeare,contents,directions,ACT IV,SCENE I,NA,NA,king
 1521,Henry V,THE LIFE OF KING HENRY V,History,1599,William Shakespeare,contents,directions,ACT IV,SCENE I,NA,NA,henry
@@ -17141,11 +16422,6 @@ gutenberg_id,short_title,gutenberg_title,genre,year,author,section,class,act,sce
 1521,Henry V,THE LIFE OF KING HENRY V,History,1599,William Shakespeare,contents,dialogue,ACT IV,SCENE I,KING HENRY,1913,for
 1521,Henry V,THE LIFE OF KING HENRY V,History,1599,William Shakespeare,contents,dialogue,ACT IV,SCENE I,KING HENRY,1913,me
 1521,Henry V,THE LIFE OF KING HENRY V,History,1599,William Shakespeare,contents,directions,ACT IV,SCENE I,NA,NA,exeunt
-1521,Henry V,THE LIFE OF KING HENRY V,History,1599,William Shakespeare,contents,reference,ACT IV,SCENE II,NA,NA,scene
-1521,Henry V,THE LIFE OF KING HENRY V,History,1599,William Shakespeare,contents,reference,ACT IV,SCENE II,NA,NA,ii
-1521,Henry V,THE LIFE OF KING HENRY V,History,1599,William Shakespeare,contents,reference,ACT IV,SCENE II,NA,NA,the
-1521,Henry V,THE LIFE OF KING HENRY V,History,1599,William Shakespeare,contents,reference,ACT IV,SCENE II,NA,NA,french
-1521,Henry V,THE LIFE OF KING HENRY V,History,1599,William Shakespeare,contents,reference,ACT IV,SCENE II,NA,NA,camp
 1521,Henry V,THE LIFE OF KING HENRY V,History,1599,William Shakespeare,contents,directions,ACT IV,SCENE II,NA,NA,enter
 1521,Henry V,THE LIFE OF KING HENRY V,History,1599,William Shakespeare,contents,directions,ACT IV,SCENE II,NA,NA,the
 1521,Henry V,THE LIFE OF KING HENRY V,History,1599,William Shakespeare,contents,directions,ACT IV,SCENE II,NA,NA,dauphin
@@ -17644,11 +16920,6 @@ gutenberg_id,short_title,gutenberg_title,genre,year,author,section,class,act,sce
 1521,Henry V,THE LIFE OF KING HENRY V,History,1599,William Shakespeare,contents,dialogue,ACT IV,SCENE II,CONSTABLE,1977,the
 1521,Henry V,THE LIFE OF KING HENRY V,History,1599,William Shakespeare,contents,dialogue,ACT IV,SCENE II,CONSTABLE,1977,day
 1521,Henry V,THE LIFE OF KING HENRY V,History,1599,William Shakespeare,contents,directions,ACT IV,SCENE II,NA,NA,exeunt
-1521,Henry V,THE LIFE OF KING HENRY V,History,1599,William Shakespeare,contents,reference,ACT IV,SCENE III,NA,NA,scene
-1521,Henry V,THE LIFE OF KING HENRY V,History,1599,William Shakespeare,contents,reference,ACT IV,SCENE III,NA,NA,iii
-1521,Henry V,THE LIFE OF KING HENRY V,History,1599,William Shakespeare,contents,reference,ACT IV,SCENE III,NA,NA,the
-1521,Henry V,THE LIFE OF KING HENRY V,History,1599,William Shakespeare,contents,reference,ACT IV,SCENE III,NA,NA,english
-1521,Henry V,THE LIFE OF KING HENRY V,History,1599,William Shakespeare,contents,reference,ACT IV,SCENE III,NA,NA,camp
 1521,Henry V,THE LIFE OF KING HENRY V,History,1599,William Shakespeare,contents,directions,ACT IV,SCENE III,NA,NA,enter
 1521,Henry V,THE LIFE OF KING HENRY V,History,1599,William Shakespeare,contents,directions,ACT IV,SCENE III,NA,NA,gloucester
 1521,Henry V,THE LIFE OF KING HENRY V,History,1599,William Shakespeare,contents,directions,ACT IV,SCENE III,NA,NA,bedford
@@ -18769,12 +18040,6 @@ gutenberg_id,short_title,gutenberg_title,genre,year,author,section,class,act,sce
 1521,Henry V,THE LIFE OF KING HENRY V,History,1599,William Shakespeare,contents,dialogue,ACT IV,SCENE III,KING HENRY,2113,the
 1521,Henry V,THE LIFE OF KING HENRY V,History,1599,William Shakespeare,contents,dialogue,ACT IV,SCENE III,KING HENRY,2113,day
 1521,Henry V,THE LIFE OF KING HENRY V,History,1599,William Shakespeare,contents,directions,ACT IV,SCENE III,NA,NA,exeunt
-1521,Henry V,THE LIFE OF KING HENRY V,History,1599,William Shakespeare,contents,reference,ACT IV,SCENE IV,NA,NA,scene
-1521,Henry V,THE LIFE OF KING HENRY V,History,1599,William Shakespeare,contents,reference,ACT IV,SCENE IV,NA,NA,iv
-1521,Henry V,THE LIFE OF KING HENRY V,History,1599,William Shakespeare,contents,reference,ACT IV,SCENE IV,NA,NA,the
-1521,Henry V,THE LIFE OF KING HENRY V,History,1599,William Shakespeare,contents,reference,ACT IV,SCENE IV,NA,NA,field
-1521,Henry V,THE LIFE OF KING HENRY V,History,1599,William Shakespeare,contents,reference,ACT IV,SCENE IV,NA,NA,of
-1521,Henry V,THE LIFE OF KING HENRY V,History,1599,William Shakespeare,contents,reference,ACT IV,SCENE IV,NA,NA,battle
 1521,Henry V,THE LIFE OF KING HENRY V,History,1599,William Shakespeare,contents,directions,ACT IV,SCENE IV,NA,NA,alarum
 1521,Henry V,THE LIFE OF KING HENRY V,History,1599,William Shakespeare,contents,directions,ACT IV,SCENE IV,NA,NA,excursions
 1521,Henry V,THE LIFE OF KING HENRY V,History,1599,William Shakespeare,contents,directions,ACT IV,SCENE IV,NA,NA,enter
@@ -19326,13 +18591,6 @@ gutenberg_id,short_title,gutenberg_title,genre,year,author,section,class,act,sce
 1521,Henry V,THE LIFE OF KING HENRY V,History,1599,William Shakespeare,contents,dialogue,ACT IV,SCENE IV,BOY,2179,but
 1521,Henry V,THE LIFE OF KING HENRY V,History,1599,William Shakespeare,contents,dialogue,ACT IV,SCENE IV,BOY,2179,boys
 1521,Henry V,THE LIFE OF KING HENRY V,History,1599,William Shakespeare,contents,directions,ACT IV,SCENE IV,NA,NA,exit
-1521,Henry V,THE LIFE OF KING HENRY V,History,1599,William Shakespeare,contents,reference,ACT IV,SCENE V,NA,NA,scene
-1521,Henry V,THE LIFE OF KING HENRY V,History,1599,William Shakespeare,contents,reference,ACT IV,SCENE V,NA,NA,v
-1521,Henry V,THE LIFE OF KING HENRY V,History,1599,William Shakespeare,contents,reference,ACT IV,SCENE V,NA,NA,another
-1521,Henry V,THE LIFE OF KING HENRY V,History,1599,William Shakespeare,contents,reference,ACT IV,SCENE V,NA,NA,part
-1521,Henry V,THE LIFE OF KING HENRY V,History,1599,William Shakespeare,contents,reference,ACT IV,SCENE V,NA,NA,of
-1521,Henry V,THE LIFE OF KING HENRY V,History,1599,William Shakespeare,contents,reference,ACT IV,SCENE V,NA,NA,the
-1521,Henry V,THE LIFE OF KING HENRY V,History,1599,William Shakespeare,contents,reference,ACT IV,SCENE V,NA,NA,field
 1521,Henry V,THE LIFE OF KING HENRY V,History,1599,William Shakespeare,contents,directions,ACT IV,SCENE V,NA,NA,enter
 1521,Henry V,THE LIFE OF KING HENRY V,History,1599,William Shakespeare,contents,directions,ACT IV,SCENE V,NA,NA,constable
 1521,Henry V,THE LIFE OF KING HENRY V,History,1599,William Shakespeare,contents,directions,ACT IV,SCENE V,NA,NA,orleans
@@ -19525,13 +18783,6 @@ gutenberg_id,short_title,gutenberg_title,genre,year,author,section,class,act,sce
 1521,Henry V,THE LIFE OF KING HENRY V,History,1599,William Shakespeare,contents,dialogue,ACT IV,SCENE V,BOURBON,2203,too
 1521,Henry V,THE LIFE OF KING HENRY V,History,1599,William Shakespeare,contents,dialogue,ACT IV,SCENE V,BOURBON,2203,long
 1521,Henry V,THE LIFE OF KING HENRY V,History,1599,William Shakespeare,contents,directions,ACT IV,SCENE V,NA,NA,exeunt
-1521,Henry V,THE LIFE OF KING HENRY V,History,1599,William Shakespeare,contents,reference,ACT IV,SCENE VI,NA,NA,scene
-1521,Henry V,THE LIFE OF KING HENRY V,History,1599,William Shakespeare,contents,reference,ACT IV,SCENE VI,NA,NA,vi
-1521,Henry V,THE LIFE OF KING HENRY V,History,1599,William Shakespeare,contents,reference,ACT IV,SCENE VI,NA,NA,another
-1521,Henry V,THE LIFE OF KING HENRY V,History,1599,William Shakespeare,contents,reference,ACT IV,SCENE VI,NA,NA,part
-1521,Henry V,THE LIFE OF KING HENRY V,History,1599,William Shakespeare,contents,reference,ACT IV,SCENE VI,NA,NA,of
-1521,Henry V,THE LIFE OF KING HENRY V,History,1599,William Shakespeare,contents,reference,ACT IV,SCENE VI,NA,NA,the
-1521,Henry V,THE LIFE OF KING HENRY V,History,1599,William Shakespeare,contents,reference,ACT IV,SCENE VI,NA,NA,field
 1521,Henry V,THE LIFE OF KING HENRY V,History,1599,William Shakespeare,contents,directions,ACT IV,SCENE VI,NA,NA,alarum
 1521,Henry V,THE LIFE OF KING HENRY V,History,1599,William Shakespeare,contents,directions,ACT IV,SCENE VI,NA,NA,enter
 1521,Henry V,THE LIFE OF KING HENRY V,History,1599,William Shakespeare,contents,directions,ACT IV,SCENE VI,NA,NA,king
@@ -19846,13 +19097,6 @@ gutenberg_id,short_title,gutenberg_title,genre,year,author,section,class,act,sce
 1521,Henry V,THE LIFE OF KING HENRY V,History,1599,William Shakespeare,contents,dialogue,ACT IV,SCENE VI,KING HENRY,2242,word
 1521,Henry V,THE LIFE OF KING HENRY V,History,1599,William Shakespeare,contents,dialogue,ACT IV,SCENE VI,KING HENRY,2242,through
 1521,Henry V,THE LIFE OF KING HENRY V,History,1599,William Shakespeare,contents,directions,ACT IV,SCENE VI,NA,NA,exeunt
-1521,Henry V,THE LIFE OF KING HENRY V,History,1599,William Shakespeare,contents,reference,ACT IV,SCENE VII,NA,NA,scene
-1521,Henry V,THE LIFE OF KING HENRY V,History,1599,William Shakespeare,contents,reference,ACT IV,SCENE VII,NA,NA,vii
-1521,Henry V,THE LIFE OF KING HENRY V,History,1599,William Shakespeare,contents,reference,ACT IV,SCENE VII,NA,NA,another
-1521,Henry V,THE LIFE OF KING HENRY V,History,1599,William Shakespeare,contents,reference,ACT IV,SCENE VII,NA,NA,part
-1521,Henry V,THE LIFE OF KING HENRY V,History,1599,William Shakespeare,contents,reference,ACT IV,SCENE VII,NA,NA,of
-1521,Henry V,THE LIFE OF KING HENRY V,History,1599,William Shakespeare,contents,reference,ACT IV,SCENE VII,NA,NA,the
-1521,Henry V,THE LIFE OF KING HENRY V,History,1599,William Shakespeare,contents,reference,ACT IV,SCENE VII,NA,NA,field
 1521,Henry V,THE LIFE OF KING HENRY V,History,1599,William Shakespeare,contents,directions,ACT IV,SCENE VII,NA,NA,enter
 1521,Henry V,THE LIFE OF KING HENRY V,History,1599,William Shakespeare,contents,directions,ACT IV,SCENE VII,NA,NA,fluellen
 1521,Henry V,THE LIFE OF KING HENRY V,History,1599,William Shakespeare,contents,directions,ACT IV,SCENE VII,NA,NA,and
@@ -21369,12 +20613,6 @@ gutenberg_id,short_title,gutenberg_title,genre,year,author,section,class,act,sce
 1521,Henry V,THE LIFE OF KING HENRY V,History,1599,William Shakespeare,contents,dialogue,ACT IV,SCENE VII,KING HENRY,2402,of
 1521,Henry V,THE LIFE OF KING HENRY V,History,1599,William Shakespeare,contents,dialogue,ACT IV,SCENE VII,KING HENRY,2402,exeter
 1521,Henry V,THE LIFE OF KING HENRY V,History,1599,William Shakespeare,contents,directions,ACT IV,SCENE VII,NA,NA,exeunt
-1521,Henry V,THE LIFE OF KING HENRY V,History,1599,William Shakespeare,contents,reference,ACT IV,SCENE VIII,NA,NA,scene
-1521,Henry V,THE LIFE OF KING HENRY V,History,1599,William Shakespeare,contents,reference,ACT IV,SCENE VIII,NA,NA,viii
-1521,Henry V,THE LIFE OF KING HENRY V,History,1599,William Shakespeare,contents,reference,ACT IV,SCENE VIII,NA,NA,before
-1521,Henry V,THE LIFE OF KING HENRY V,History,1599,William Shakespeare,contents,reference,ACT IV,SCENE VIII,NA,NA,king
-1521,Henry V,THE LIFE OF KING HENRY V,History,1599,William Shakespeare,contents,reference,ACT IV,SCENE VIII,NA,NA,henry’s
-1521,Henry V,THE LIFE OF KING HENRY V,History,1599,William Shakespeare,contents,reference,ACT IV,SCENE VIII,NA,NA,pavilion
 1521,Henry V,THE LIFE OF KING HENRY V,History,1599,William Shakespeare,contents,directions,ACT IV,SCENE VIII,NA,NA,enter
 1521,Henry V,THE LIFE OF KING HENRY V,History,1599,William Shakespeare,contents,directions,ACT IV,SCENE VIII,NA,NA,gower
 1521,Henry V,THE LIFE OF KING HENRY V,History,1599,William Shakespeare,contents,directions,ACT IV,SCENE VIII,NA,NA,and
@@ -22394,8 +21632,6 @@ gutenberg_id,short_title,gutenberg_title,genre,year,author,section,class,act,sce
 1521,Henry V,THE LIFE OF KING HENRY V,History,1599,William Shakespeare,contents,dialogue,ACT IV,SCENE VIII,KING HENRY,2515,happy
 1521,Henry V,THE LIFE OF KING HENRY V,History,1599,William Shakespeare,contents,dialogue,ACT IV,SCENE VIII,KING HENRY,2515,men
 1521,Henry V,THE LIFE OF KING HENRY V,History,1599,William Shakespeare,contents,directions,ACT IV,SCENE VIII,NA,NA,exeunt
-1521,Henry V,THE LIFE OF KING HENRY V,History,1599,William Shakespeare,contents,reference,ACT V,SCENE VIII,NA,NA,act
-1521,Henry V,THE LIFE OF KING HENRY V,History,1599,William Shakespeare,contents,reference,ACT V,SCENE VIII,NA,NA,v
 1521,Henry V,THE LIFE OF KING HENRY V,History,1599,William Shakespeare,contents,directions,ACT V,SCENE VIII,NA,NA,enter
 1521,Henry V,THE LIFE OF KING HENRY V,History,1599,William Shakespeare,contents,directions,ACT V,SCENE VIII,NA,NA,chorus
 1521,Henry V,THE LIFE OF KING HENRY V,History,1599,William Shakespeare,contents,dialogue,ACT V,SCENE VIII,CHORUS,2516,vouchsafe
@@ -22753,12 +21989,6 @@ gutenberg_id,short_title,gutenberg_title,genre,year,author,section,class,act,sce
 1521,Henry V,THE LIFE OF KING HENRY V,History,1599,William Shakespeare,contents,dialogue,ACT V,SCENE VIII,CHORUS,2560,to
 1521,Henry V,THE LIFE OF KING HENRY V,History,1599,William Shakespeare,contents,dialogue,ACT V,SCENE VIII,CHORUS,2560,france
 1521,Henry V,THE LIFE OF KING HENRY V,History,1599,William Shakespeare,contents,directions,ACT V,SCENE VIII,NA,NA,exit
-1521,Henry V,THE LIFE OF KING HENRY V,History,1599,William Shakespeare,contents,reference,ACT V,SCENE I,NA,NA,scene
-1521,Henry V,THE LIFE OF KING HENRY V,History,1599,William Shakespeare,contents,reference,ACT V,SCENE I,NA,NA,i
-1521,Henry V,THE LIFE OF KING HENRY V,History,1599,William Shakespeare,contents,reference,ACT V,SCENE I,NA,NA,france
-1521,Henry V,THE LIFE OF KING HENRY V,History,1599,William Shakespeare,contents,reference,ACT V,SCENE I,NA,NA,the
-1521,Henry V,THE LIFE OF KING HENRY V,History,1599,William Shakespeare,contents,reference,ACT V,SCENE I,NA,NA,english
-1521,Henry V,THE LIFE OF KING HENRY V,History,1599,William Shakespeare,contents,reference,ACT V,SCENE I,NA,NA,camp
 1521,Henry V,THE LIFE OF KING HENRY V,History,1599,William Shakespeare,contents,directions,ACT V,SCENE I,NA,NA,enter
 1521,Henry V,THE LIFE OF KING HENRY V,History,1599,William Shakespeare,contents,directions,ACT V,SCENE I,NA,NA,fluellen
 1521,Henry V,THE LIFE OF KING HENRY V,History,1599,William Shakespeare,contents,directions,ACT V,SCENE I,NA,NA,and
@@ -23500,12 +22730,6 @@ gutenberg_id,short_title,gutenberg_title,genre,year,author,section,class,act,sce
 1521,Henry V,THE LIFE OF KING HENRY V,History,1599,William Shakespeare,contents,dialogue,ACT V,SCENE I,PISTOL,2631,gallia
 1521,Henry V,THE LIFE OF KING HENRY V,History,1599,William Shakespeare,contents,dialogue,ACT V,SCENE I,PISTOL,2631,wars
 1521,Henry V,THE LIFE OF KING HENRY V,History,1599,William Shakespeare,contents,directions,ACT V,SCENE I,NA,NA,exit
-1521,Henry V,THE LIFE OF KING HENRY V,History,1599,William Shakespeare,contents,reference,ACT V,SCENE II,NA,NA,scene
-1521,Henry V,THE LIFE OF KING HENRY V,History,1599,William Shakespeare,contents,reference,ACT V,SCENE II,NA,NA,ii
-1521,Henry V,THE LIFE OF KING HENRY V,History,1599,William Shakespeare,contents,reference,ACT V,SCENE II,NA,NA,france
-1521,Henry V,THE LIFE OF KING HENRY V,History,1599,William Shakespeare,contents,reference,ACT V,SCENE II,NA,NA,a
-1521,Henry V,THE LIFE OF KING HENRY V,History,1599,William Shakespeare,contents,reference,ACT V,SCENE II,NA,NA,royal
-1521,Henry V,THE LIFE OF KING HENRY V,History,1599,William Shakespeare,contents,reference,ACT V,SCENE II,NA,NA,palace
 1521,Henry V,THE LIFE OF KING HENRY V,History,1599,William Shakespeare,contents,directions,ACT V,SCENE II,NA,NA,enter
 1521,Henry V,THE LIFE OF KING HENRY V,History,1599,William Shakespeare,contents,directions,ACT V,SCENE II,NA,NA,at
 1521,Henry V,THE LIFE OF KING HENRY V,History,1599,William Shakespeare,contents,directions,ACT V,SCENE II,NA,NA,one

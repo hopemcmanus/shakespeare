@@ -1,276 +1,4 @@
 gutenberg_id,short_title,gutenberg_title,genre,year,author,section,class,act,scene,character,line_number,word
-1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,front_matter,title,NA,NA,NA,NA,the
-1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,front_matter,title,NA,NA,NA,NA,winter’s
-1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,front_matter,title,NA,NA,NA,NA,tale
-1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,front_matter,author,NA,NA,NA,NA,by
-1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,front_matter,author,NA,NA,NA,NA,william
-1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,front_matter,author,NA,NA,NA,NA,shakespeare
-1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,front_matter,contents_header,NA,NA,NA,NA,contents
-1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,front_matter,contents,ACT I,NA,NA,NA,act
-1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,front_matter,contents,ACT I,NA,NA,NA,i
-1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,front_matter,contents,ACT I,Scene I,NA,NA,scene
-1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,front_matter,contents,ACT I,Scene I,NA,NA,i
-1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,front_matter,contents,ACT I,Scene I,NA,NA,sicilia
-1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,front_matter,contents,ACT I,Scene I,NA,NA,an
-1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,front_matter,contents,ACT I,Scene I,NA,NA,antechamber
-1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,front_matter,contents,ACT I,Scene I,NA,NA,in
-1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,front_matter,contents,ACT I,Scene I,NA,NA,leontes
-1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,front_matter,contents,ACT I,Scene I,NA,NA,palace
-1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,front_matter,contents,ACT I,Scene II,NA,NA,scene
-1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,front_matter,contents,ACT I,Scene II,NA,NA,ii
-1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,front_matter,contents,ACT I,Scene II,NA,NA,the
-1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,front_matter,contents,ACT I,Scene II,NA,NA,same
-1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,front_matter,contents,ACT I,Scene II,NA,NA,a
-1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,front_matter,contents,ACT I,Scene II,NA,NA,room
-1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,front_matter,contents,ACT I,Scene II,NA,NA,of
-1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,front_matter,contents,ACT I,Scene II,NA,NA,state
-1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,front_matter,contents,ACT I,Scene II,NA,NA,in
-1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,front_matter,contents,ACT I,Scene II,NA,NA,the
-1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,front_matter,contents,ACT I,Scene II,NA,NA,palace
-1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,front_matter,contents,ACT II,NA,NA,NA,act
-1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,front_matter,contents,ACT II,NA,NA,NA,ii
-1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,front_matter,contents,ACT II,Scene I,NA,NA,scene
-1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,front_matter,contents,ACT II,Scene I,NA,NA,i
-1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,front_matter,contents,ACT II,Scene I,NA,NA,sicilia
-1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,front_matter,contents,ACT II,Scene I,NA,NA,a
-1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,front_matter,contents,ACT II,Scene I,NA,NA,room
-1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,front_matter,contents,ACT II,Scene I,NA,NA,in
-1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,front_matter,contents,ACT II,Scene I,NA,NA,the
-1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,front_matter,contents,ACT II,Scene I,NA,NA,palace
-1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,front_matter,contents,ACT II,Scene II,NA,NA,scene
-1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,front_matter,contents,ACT II,Scene II,NA,NA,ii
-1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,front_matter,contents,ACT II,Scene II,NA,NA,the
-1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,front_matter,contents,ACT II,Scene II,NA,NA,same
-1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,front_matter,contents,ACT II,Scene II,NA,NA,the
-1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,front_matter,contents,ACT II,Scene II,NA,NA,outer
-1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,front_matter,contents,ACT II,Scene II,NA,NA,room
-1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,front_matter,contents,ACT II,Scene II,NA,NA,of
-1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,front_matter,contents,ACT II,Scene II,NA,NA,a
-1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,front_matter,contents,ACT II,Scene II,NA,NA,prison
-1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,front_matter,contents,ACT II,Scene III,NA,NA,scene
-1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,front_matter,contents,ACT II,Scene III,NA,NA,iii
-1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,front_matter,contents,ACT II,Scene III,NA,NA,the
-1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,front_matter,contents,ACT II,Scene III,NA,NA,same
-1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,front_matter,contents,ACT II,Scene III,NA,NA,a
-1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,front_matter,contents,ACT II,Scene III,NA,NA,room
-1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,front_matter,contents,ACT II,Scene III,NA,NA,in
-1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,front_matter,contents,ACT II,Scene III,NA,NA,the
-1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,front_matter,contents,ACT II,Scene III,NA,NA,palace
-1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,front_matter,contents,ACT III,NA,NA,NA,act
-1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,front_matter,contents,ACT III,NA,NA,NA,iii
-1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,front_matter,contents,ACT III,Scene I,NA,NA,scene
-1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,front_matter,contents,ACT III,Scene I,NA,NA,i
-1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,front_matter,contents,ACT III,Scene I,NA,NA,sicilia
-1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,front_matter,contents,ACT III,Scene I,NA,NA,a
-1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,front_matter,contents,ACT III,Scene I,NA,NA,street
-1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,front_matter,contents,ACT III,Scene I,NA,NA,in
-1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,front_matter,contents,ACT III,Scene I,NA,NA,some
-1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,front_matter,contents,ACT III,Scene I,NA,NA,town
-1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,front_matter,contents,ACT III,Scene II,NA,NA,scene
-1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,front_matter,contents,ACT III,Scene II,NA,NA,ii
-1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,front_matter,contents,ACT III,Scene II,NA,NA,the
-1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,front_matter,contents,ACT III,Scene II,NA,NA,same
-1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,front_matter,contents,ACT III,Scene II,NA,NA,a
-1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,front_matter,contents,ACT III,Scene II,NA,NA,court
-1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,front_matter,contents,ACT III,Scene II,NA,NA,of
-1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,front_matter,contents,ACT III,Scene II,NA,NA,justice
-1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,front_matter,contents,ACT III,Scene III,NA,NA,scene
-1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,front_matter,contents,ACT III,Scene III,NA,NA,iii
-1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,front_matter,contents,ACT III,Scene III,NA,NA,bohemia
-1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,front_matter,contents,ACT III,Scene III,NA,NA,a
-1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,front_matter,contents,ACT III,Scene III,NA,NA,desert
-1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,front_matter,contents,ACT III,Scene III,NA,NA,country
-1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,front_matter,contents,ACT III,Scene III,NA,NA,near
-1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,front_matter,contents,ACT III,Scene III,NA,NA,the
-1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,front_matter,contents,ACT III,Scene III,NA,NA,sea
-1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,front_matter,contents,ACT IV,NA,NA,NA,act
-1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,front_matter,contents,ACT IV,NA,NA,NA,iv
-1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,front_matter,contents,ACT IV,Scene I,NA,NA,scene
-1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,front_matter,contents,ACT IV,Scene I,NA,NA,i
-1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,front_matter,contents,ACT IV,Scene I,NA,NA,prologue
-1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,front_matter,contents,ACT IV,Scene II,NA,NA,scene
-1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,front_matter,contents,ACT IV,Scene II,NA,NA,ii
-1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,front_matter,contents,ACT IV,Scene II,NA,NA,bohemia
-1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,front_matter,contents,ACT IV,Scene II,NA,NA,a
-1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,front_matter,contents,ACT IV,Scene II,NA,NA,room
-1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,front_matter,contents,ACT IV,Scene II,NA,NA,in
-1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,front_matter,contents,ACT IV,Scene II,NA,NA,the
-1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,front_matter,contents,ACT IV,Scene II,NA,NA,palace
-1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,front_matter,contents,ACT IV,Scene II,NA,NA,of
-1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,front_matter,contents,ACT IV,Scene II,NA,NA,polixenes
-1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,front_matter,contents,ACT IV,Scene III,NA,NA,scene
-1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,front_matter,contents,ACT IV,Scene III,NA,NA,iii
-1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,front_matter,contents,ACT IV,Scene III,NA,NA,the
-1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,front_matter,contents,ACT IV,Scene III,NA,NA,same
-1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,front_matter,contents,ACT IV,Scene III,NA,NA,a
-1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,front_matter,contents,ACT IV,Scene III,NA,NA,road
-1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,front_matter,contents,ACT IV,Scene III,NA,NA,near
-1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,front_matter,contents,ACT IV,Scene III,NA,NA,the
-1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,front_matter,contents,ACT IV,Scene III,NA,NA,shepherd’s
-1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,front_matter,contents,ACT IV,Scene III,NA,NA,cottage
-1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,front_matter,contents,ACT IV,Scene IV,NA,NA,scene
-1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,front_matter,contents,ACT IV,Scene IV,NA,NA,iv
-1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,front_matter,contents,ACT IV,Scene IV,NA,NA,the
-1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,front_matter,contents,ACT IV,Scene IV,NA,NA,same
-1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,front_matter,contents,ACT IV,Scene IV,NA,NA,a
-1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,front_matter,contents,ACT IV,Scene IV,NA,NA,shepherd’s
-1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,front_matter,contents,ACT IV,Scene IV,NA,NA,cottage
-1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,front_matter,contents,ACT V,NA,NA,NA,act
-1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,front_matter,contents,ACT V,NA,NA,NA,v
-1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,front_matter,contents,ACT V,Scene I,NA,NA,scene
-1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,front_matter,contents,ACT V,Scene I,NA,NA,i
-1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,front_matter,contents,ACT V,Scene I,NA,NA,sicilia
-1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,front_matter,contents,ACT V,Scene I,NA,NA,a
-1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,front_matter,contents,ACT V,Scene I,NA,NA,room
-1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,front_matter,contents,ACT V,Scene I,NA,NA,in
-1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,front_matter,contents,ACT V,Scene I,NA,NA,the
-1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,front_matter,contents,ACT V,Scene I,NA,NA,palace
-1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,front_matter,contents,ACT V,Scene I,NA,NA,of
-1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,front_matter,contents,ACT V,Scene I,NA,NA,leontes
-1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,front_matter,contents,ACT V,Scene II,NA,NA,scene
-1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,front_matter,contents,ACT V,Scene II,NA,NA,ii
-1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,front_matter,contents,ACT V,Scene II,NA,NA,the
-1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,front_matter,contents,ACT V,Scene II,NA,NA,same
-1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,front_matter,contents,ACT V,Scene II,NA,NA,before
-1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,front_matter,contents,ACT V,Scene II,NA,NA,the
-1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,front_matter,contents,ACT V,Scene II,NA,NA,palace
-1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,front_matter,contents,ACT V,Scene III,NA,NA,scene
-1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,front_matter,contents,ACT V,Scene III,NA,NA,iii
-1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,front_matter,contents,ACT V,Scene III,NA,NA,the
-1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,front_matter,contents,ACT V,Scene III,NA,NA,same
-1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,front_matter,contents,ACT V,Scene III,NA,NA,a
-1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,front_matter,contents,ACT V,Scene III,NA,NA,room
-1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,front_matter,contents,ACT V,Scene III,NA,NA,in
-1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,front_matter,contents,ACT V,Scene III,NA,NA,paulina’s
-1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,front_matter,contents,ACT V,Scene III,NA,NA,house
-1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,front_matter,dramatis_header,NA,NA,NA,NA,dramatis
-1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,front_matter,dramatis_header,NA,NA,NA,NA,personæ
-1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,front_matter,title,NA,NA,NA,NA,leontes
-1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,front_matter,title,NA,NA,NA,NA,king
-1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,front_matter,title,NA,NA,NA,NA,of
-1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,front_matter,title,NA,NA,NA,NA,sicilia
-1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,front_matter,title,NA,NA,NA,NA,mamillius
-1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,front_matter,title,NA,NA,NA,NA,his
-1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,front_matter,title,NA,NA,NA,NA,son
-1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,front_matter,title,NA,NA,NA,NA,camillo
-1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,front_matter,title,NA,NA,NA,NA,sicilian
-1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,front_matter,title,NA,NA,NA,NA,lord
-1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,front_matter,title,NA,NA,NA,NA,antigonus
-1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,front_matter,title,NA,NA,NA,NA,sicilian
-1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,front_matter,title,NA,NA,NA,NA,lord
-1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,front_matter,title,NA,NA,NA,NA,cleomenes
-1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,front_matter,title,NA,NA,NA,NA,sicilian
-1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,front_matter,title,NA,NA,NA,NA,lord
-1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,front_matter,title,NA,NA,NA,NA,dion
-1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,front_matter,title,NA,NA,NA,NA,sicilian
-1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,front_matter,title,NA,NA,NA,NA,lord
-1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,front_matter,title,NA,NA,NA,NA,polixenes
-1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,front_matter,title,NA,NA,NA,NA,king
-1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,front_matter,title,NA,NA,NA,NA,of
-1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,front_matter,title,NA,NA,NA,NA,bohemia
-1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,front_matter,title,NA,NA,NA,NA,florizel
-1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,front_matter,title,NA,NA,NA,NA,his
-1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,front_matter,title,NA,NA,NA,NA,son
-1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,front_matter,title,NA,NA,NA,NA,archidamus
-1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,front_matter,title,NA,NA,NA,NA,a
-1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,front_matter,title,NA,NA,NA,NA,bohemian
-1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,front_matter,title,NA,NA,NA,NA,lord
-1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,front_matter,title,NA,NA,NA,NA,an
-1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,front_matter,title,NA,NA,NA,NA,old
-1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,front_matter,title,NA,NA,NA,NA,shepherd
-1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,front_matter,title,NA,NA,NA,NA,reputed
-1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,front_matter,title,NA,NA,NA,NA,father
-1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,front_matter,title,NA,NA,NA,NA,of
-1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,front_matter,title,NA,NA,NA,NA,perdita
-1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,front_matter,title,NA,NA,NA,NA,clown
-1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,front_matter,title,NA,NA,NA,NA,his
-1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,front_matter,title,NA,NA,NA,NA,son
-1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,front_matter,title,NA,NA,NA,NA,autolycus
-1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,front_matter,title,NA,NA,NA,NA,a
-1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,front_matter,title,NA,NA,NA,NA,rogue
-1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,front_matter,title,NA,NA,NA,NA,a
-1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,front_matter,title,NA,NA,NA,NA,mariner
-1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,front_matter,title,NA,NA,NA,NA,a
-1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,front_matter,title,NA,NA,NA,NA,gaoler
-1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,front_matter,title,NA,NA,NA,NA,servant
-1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,front_matter,title,NA,NA,NA,NA,to
-1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,front_matter,title,NA,NA,NA,NA,the
-1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,front_matter,title,NA,NA,NA,NA,old
-1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,front_matter,title,NA,NA,NA,NA,shepherd
-1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,front_matter,title,NA,NA,NA,NA,other
-1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,front_matter,title,NA,NA,NA,NA,sicilian
-1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,front_matter,title,NA,NA,NA,NA,lords
-1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,front_matter,title,NA,NA,NA,NA,sicilian
-1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,front_matter,title,NA,NA,NA,NA,gentlemen
-1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,front_matter,title,NA,NA,NA,NA,officers
-1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,front_matter,title,NA,NA,NA,NA,of
-1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,front_matter,title,NA,NA,NA,NA,a
-1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,front_matter,title,NA,NA,NA,NA,court
-1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,front_matter,title,NA,NA,NA,NA,of
-1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,front_matter,title,NA,NA,NA,NA,judicature
-1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,front_matter,title,NA,NA,NA,NA,hermione
-1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,front_matter,title,NA,NA,NA,NA,queen
-1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,front_matter,title,NA,NA,NA,NA,to
-1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,front_matter,title,NA,NA,NA,NA,leontes
-1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,front_matter,title,NA,NA,NA,NA,perdita
-1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,front_matter,title,NA,NA,NA,NA,daughter
-1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,front_matter,title,NA,NA,NA,NA,to
-1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,front_matter,title,NA,NA,NA,NA,leontes
-1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,front_matter,title,NA,NA,NA,NA,and
-1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,front_matter,title,NA,NA,NA,NA,hermione
-1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,front_matter,title,NA,NA,NA,NA,paulina
-1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,front_matter,title,NA,NA,NA,NA,wife
-1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,front_matter,title,NA,NA,NA,NA,to
-1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,front_matter,title,NA,NA,NA,NA,antigonus
-1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,front_matter,title,NA,NA,NA,NA,emilia
-1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,front_matter,title,NA,NA,NA,NA,a
-1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,front_matter,title,NA,NA,NA,NA,lady
-1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,front_matter,title,NA,NA,NA,NA,attending
-1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,front_matter,title,NA,NA,NA,NA,on
-1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,front_matter,title,NA,NA,NA,NA,the
-1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,front_matter,title,NA,NA,NA,NA,queen
-1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,front_matter,title,NA,NA,NA,NA,mopsa
-1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,front_matter,title,NA,NA,NA,NA,shepherdess
-1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,front_matter,title,NA,NA,NA,NA,dorcas
-1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,front_matter,title,NA,NA,NA,NA,shepherdess
-1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,front_matter,title,NA,NA,NA,NA,other
-1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,front_matter,title,NA,NA,NA,NA,ladies
-1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,front_matter,title,NA,NA,NA,NA,attending
-1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,front_matter,title,NA,NA,NA,NA,on
-1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,front_matter,title,NA,NA,NA,NA,the
-1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,front_matter,title,NA,NA,NA,NA,queen
-1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,front_matter,title,NA,NA,NA,NA,lords
-1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,front_matter,title,NA,NA,NA,NA,ladies
-1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,front_matter,title,NA,NA,NA,NA,and
-1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,front_matter,title,NA,NA,NA,NA,attendants
-1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,front_matter,title,NA,NA,NA,NA,satyrs
-1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,front_matter,title,NA,NA,NA,NA,for
-1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,front_matter,title,NA,NA,NA,NA,a
-1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,front_matter,title,NA,NA,NA,NA,dance
-1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,front_matter,title,NA,NA,NA,NA,shepherds
-1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,front_matter,title,NA,NA,NA,NA,shepherdesses
-1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,front_matter,title,NA,NA,NA,NA,guards
-1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,front_matter,title,NA,NA,NA,NA,c
-1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,front_matter,title,NA,NA,NA,NA,time
-1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,front_matter,title,NA,NA,NA,NA,as
-1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,front_matter,title,NA,NA,NA,NA,chorus
-1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,front_matter,title,NA,NA,NA,NA,scene
-1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,front_matter,title,NA,NA,NA,NA,sometimes
-1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,front_matter,title,NA,NA,NA,NA,in
-1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,front_matter,title,NA,NA,NA,NA,sicilia
-1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,front_matter,title,NA,NA,NA,NA,sometimes
-1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,front_matter,title,NA,NA,NA,NA,in
-1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,front_matter,title,NA,NA,NA,NA,bohemia
-1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,contents,reference,ACT I,NA,NA,NA,act
-1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,contents,reference,ACT I,NA,NA,NA,i
-1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,contents,reference,ACT I,SCENE I,NA,NA,scene
-1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,contents,reference,ACT I,SCENE I,NA,NA,i
-1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,contents,reference,ACT I,SCENE I,NA,NA,sicilia
-1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,contents,reference,ACT I,SCENE I,NA,NA,an
-1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,contents,reference,ACT I,SCENE I,NA,NA,antechamber
-1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,contents,reference,ACT I,SCENE I,NA,NA,in
-1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,contents,reference,ACT I,SCENE I,NA,NA,leontes
-1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,contents,reference,ACT I,SCENE I,NA,NA,palace
 1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,contents,directions,ACT I,SCENE I,NA,NA,enter
 1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,contents,directions,ACT I,SCENE I,NA,NA,camillo
 1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,contents,directions,ACT I,SCENE I,NA,NA,and
@@ -632,17 +360,6 @@ gutenberg_id,short_title,gutenberg_title,genre,year,author,section,class,act,sce
 1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,contents,dialogue,ACT I,SCENE I,ARCHIDAMUS,35,had
 1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,contents,dialogue,ACT I,SCENE I,ARCHIDAMUS,35,one
 1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,contents,directions,ACT I,SCENE I,NA,NA,exeunt
-1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,contents,reference,ACT I,SCENE II,NA,NA,scene
-1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,contents,reference,ACT I,SCENE II,NA,NA,ii
-1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,contents,reference,ACT I,SCENE II,NA,NA,the
-1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,contents,reference,ACT I,SCENE II,NA,NA,same
-1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,contents,reference,ACT I,SCENE II,NA,NA,a
-1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,contents,reference,ACT I,SCENE II,NA,NA,room
-1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,contents,reference,ACT I,SCENE II,NA,NA,of
-1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,contents,reference,ACT I,SCENE II,NA,NA,state
-1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,contents,reference,ACT I,SCENE II,NA,NA,in
-1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,contents,reference,ACT I,SCENE II,NA,NA,the
-1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,contents,reference,ACT I,SCENE II,NA,NA,palace
 1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,contents,directions,ACT I,SCENE II,NA,NA,enter
 1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,contents,directions,ACT I,SCENE II,NA,NA,leontes
 1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,contents,directions,ACT I,SCENE II,NA,NA,polixenes
@@ -4491,16 +4208,6 @@ gutenberg_id,short_title,gutenberg_title,genre,year,author,section,class,act,sce
 1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,contents,dialogue,ACT I,SCENE II,CAMILLO,570,sir
 1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,contents,dialogue,ACT I,SCENE II,CAMILLO,570,away
 1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,contents,directions,ACT I,SCENE II,NA,NA,exeunt
-1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,contents,reference,ACT II,SCENE II,NA,NA,act
-1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,contents,reference,ACT II,SCENE II,NA,NA,ii
-1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,contents,reference,ACT II,SCENE I,NA,NA,scene
-1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,contents,reference,ACT II,SCENE I,NA,NA,i
-1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,contents,reference,ACT II,SCENE I,NA,NA,sicilia
-1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,contents,reference,ACT II,SCENE I,NA,NA,a
-1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,contents,reference,ACT II,SCENE I,NA,NA,room
-1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,contents,reference,ACT II,SCENE I,NA,NA,in
-1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,contents,reference,ACT II,SCENE I,NA,NA,the
-1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,contents,reference,ACT II,SCENE I,NA,NA,palace
 1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,contents,directions,ACT II,SCENE I,NA,NA,enter
 1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,contents,directions,ACT II,SCENE I,NA,NA,hermione
 1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,contents,directions,ACT II,SCENE I,NA,NA,mamillius
@@ -6195,16 +5902,6 @@ gutenberg_id,short_title,gutenberg_title,genre,year,author,section,class,act,sce
 1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,contents,dialogue,ACT II,SCENE I,ANTIGONUS,803,were
 1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,contents,dialogue,ACT II,SCENE I,ANTIGONUS,803,known
 1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,contents,directions,ACT II,SCENE I,NA,NA,exeunt
-1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,contents,reference,ACT II,SCENE II,NA,NA,scene
-1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,contents,reference,ACT II,SCENE II,NA,NA,ii
-1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,contents,reference,ACT II,SCENE II,NA,NA,the
-1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,contents,reference,ACT II,SCENE II,NA,NA,same
-1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,contents,reference,ACT II,SCENE II,NA,NA,the
-1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,contents,reference,ACT II,SCENE II,NA,NA,outer
-1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,contents,reference,ACT II,SCENE II,NA,NA,room
-1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,contents,reference,ACT II,SCENE II,NA,NA,of
-1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,contents,reference,ACT II,SCENE II,NA,NA,a
-1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,contents,reference,ACT II,SCENE II,NA,NA,prison
 1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,contents,directions,ACT II,SCENE II,NA,NA,enter
 1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,contents,directions,ACT II,SCENE II,NA,NA,paulina
 1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,contents,directions,ACT II,SCENE II,NA,NA,a
@@ -6748,15 +6445,6 @@ gutenberg_id,short_title,gutenberg_title,genre,year,author,section,class,act,sce
 1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,contents,dialogue,ACT II,SCENE II,PAULINA,882,and
 1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,contents,dialogue,ACT II,SCENE II,PAULINA,882,danger
 1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,contents,directions,ACT II,SCENE II,NA,NA,exeunt
-1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,contents,reference,ACT II,SCENE III,NA,NA,scene
-1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,contents,reference,ACT II,SCENE III,NA,NA,iii
-1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,contents,reference,ACT II,SCENE III,NA,NA,the
-1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,contents,reference,ACT II,SCENE III,NA,NA,same
-1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,contents,reference,ACT II,SCENE III,NA,NA,a
-1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,contents,reference,ACT II,SCENE III,NA,NA,room
-1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,contents,reference,ACT II,SCENE III,NA,NA,in
-1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,contents,reference,ACT II,SCENE III,NA,NA,the
-1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,contents,reference,ACT II,SCENE III,NA,NA,palace
 1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,contents,directions,ACT II,SCENE III,NA,NA,enter
 1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,contents,directions,ACT II,SCENE III,NA,NA,leontes
 1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,contents,directions,ACT II,SCENE III,NA,NA,antigonus
@@ -8518,16 +8206,6 @@ gutenberg_id,short_title,gutenberg_title,genre,year,author,section,class,act,sce
 1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,contents,dialogue,ACT II,SCENE III,LEONTES,1125,my
 1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,contents,dialogue,ACT II,SCENE III,LEONTES,1125,bidding
 1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,contents,directions,ACT II,SCENE III,NA,NA,exeunt
-1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,contents,reference,ACT III,SCENE III,NA,NA,act
-1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,contents,reference,ACT III,SCENE III,NA,NA,iii
-1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,contents,reference,ACT III,SCENE I,NA,NA,scene
-1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,contents,reference,ACT III,SCENE I,NA,NA,i
-1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,contents,reference,ACT III,SCENE I,NA,NA,sicilia
-1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,contents,reference,ACT III,SCENE I,NA,NA,a
-1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,contents,reference,ACT III,SCENE I,NA,NA,street
-1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,contents,reference,ACT III,SCENE I,NA,NA,in
-1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,contents,reference,ACT III,SCENE I,NA,NA,some
-1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,contents,reference,ACT III,SCENE I,NA,NA,town
 1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,contents,directions,ACT III,SCENE I,NA,NA,enter
 1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,contents,directions,ACT III,SCENE I,NA,NA,cleomenes
 1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,contents,directions,ACT III,SCENE I,NA,NA,and
@@ -8703,14 +8381,6 @@ gutenberg_id,short_title,gutenberg_title,genre,year,author,section,class,act,sce
 1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,contents,dialogue,ACT III,SCENE I,DION,1152,the
 1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,contents,dialogue,ACT III,SCENE I,DION,1152,issue
 1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,contents,directions,ACT III,SCENE I,NA,NA,exeunt
-1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,contents,reference,ACT III,SCENE II,NA,NA,scene
-1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,contents,reference,ACT III,SCENE II,NA,NA,ii
-1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,contents,reference,ACT III,SCENE II,NA,NA,the
-1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,contents,reference,ACT III,SCENE II,NA,NA,same
-1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,contents,reference,ACT III,SCENE II,NA,NA,a
-1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,contents,reference,ACT III,SCENE II,NA,NA,court
-1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,contents,reference,ACT III,SCENE II,NA,NA,of
-1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,contents,reference,ACT III,SCENE II,NA,NA,justice
 1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,contents,directions,ACT III,SCENE II,NA,NA,enter
 1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,contents,directions,ACT III,SCENE II,NA,NA,leontes
 1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,contents,directions,ACT III,SCENE II,NA,NA,lords
@@ -10696,15 +10366,6 @@ gutenberg_id,short_title,gutenberg_title,genre,year,author,section,class,act,sce
 1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,contents,dialogue,ACT III,SCENE II,LEONTES,1415,these
 1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,contents,dialogue,ACT III,SCENE II,LEONTES,1415,sorrows
 1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,contents,directions,ACT III,SCENE II,NA,NA,exeunt
-1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,contents,reference,ACT III,SCENE III,NA,NA,scene
-1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,contents,reference,ACT III,SCENE III,NA,NA,iii
-1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,contents,reference,ACT III,SCENE III,NA,NA,bohemia
-1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,contents,reference,ACT III,SCENE III,NA,NA,a
-1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,contents,reference,ACT III,SCENE III,NA,NA,desert
-1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,contents,reference,ACT III,SCENE III,NA,NA,country
-1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,contents,reference,ACT III,SCENE III,NA,NA,near
-1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,contents,reference,ACT III,SCENE III,NA,NA,the
-1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,contents,reference,ACT III,SCENE III,NA,NA,sea
 1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,contents,directions,ACT III,SCENE III,NA,NA,enter
 1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,contents,directions,ACT III,SCENE III,NA,NA,antigonus
 1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,contents,directions,ACT III,SCENE III,NA,NA,with
@@ -11897,10 +11558,6 @@ gutenberg_id,short_title,gutenberg_title,genre,year,author,section,class,act,sce
 1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,contents,dialogue,ACT III,SCENE III,SHEPHERD,1536,on
 1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,contents,dialogue,ACT III,SCENE III,SHEPHERD,1536,t
 1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,contents,directions,ACT III,SCENE III,NA,NA,exeunt
-1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,contents,reference,ACT IV,SCENE III,NA,NA,act
-1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,contents,reference,ACT IV,SCENE III,NA,NA,iv
-1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,contents,reference,ACT IV,SCENE I,NA,NA,scene
-1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,contents,reference,ACT IV,SCENE I,NA,NA,i
 1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,contents,directions,ACT IV,SCENE I,NA,NA,enter
 1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,contents,directions,ACT IV,SCENE I,NA,NA,time
 1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,contents,directions,ACT IV,SCENE I,NA,NA,the
@@ -12173,16 +11830,6 @@ gutenberg_id,short_title,gutenberg_title,genre,year,author,section,class,act,sce
 1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,contents,dialogue,ACT IV,SCENE I,TIME,1568,never
 1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,contents,dialogue,ACT IV,SCENE I,TIME,1568,may
 1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,contents,directions,ACT IV,SCENE I,NA,NA,exit
-1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,contents,reference,ACT IV,SCENE II,NA,NA,scene
-1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,contents,reference,ACT IV,SCENE II,NA,NA,ii
-1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,contents,reference,ACT IV,SCENE II,NA,NA,bohemia
-1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,contents,reference,ACT IV,SCENE II,NA,NA,a
-1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,contents,reference,ACT IV,SCENE II,NA,NA,room
-1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,contents,reference,ACT IV,SCENE II,NA,NA,in
-1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,contents,reference,ACT IV,SCENE II,NA,NA,the
-1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,contents,reference,ACT IV,SCENE II,NA,NA,palace
-1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,contents,reference,ACT IV,SCENE II,NA,NA,of
-1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,contents,reference,ACT IV,SCENE II,NA,NA,polixenes
 1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,contents,directions,ACT IV,SCENE II,NA,NA,enter
 1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,contents,directions,ACT IV,SCENE II,NA,NA,polixenes
 1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,contents,directions,ACT IV,SCENE II,NA,NA,and
@@ -12665,16 +12312,6 @@ gutenberg_id,short_title,gutenberg_title,genre,year,author,section,class,act,sce
 1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,contents,dialogue,ACT IV,SCENE II,POLIXENES,1610,disguise
 1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,contents,dialogue,ACT IV,SCENE II,POLIXENES,1610,ourselves
 1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,contents,directions,ACT IV,SCENE II,NA,NA,exeunt
-1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,contents,reference,ACT IV,SCENE III,NA,NA,scene
-1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,contents,reference,ACT IV,SCENE III,NA,NA,iii
-1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,contents,reference,ACT IV,SCENE III,NA,NA,the
-1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,contents,reference,ACT IV,SCENE III,NA,NA,same
-1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,contents,reference,ACT IV,SCENE III,NA,NA,a
-1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,contents,reference,ACT IV,SCENE III,NA,NA,road
-1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,contents,reference,ACT IV,SCENE III,NA,NA,near
-1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,contents,reference,ACT IV,SCENE III,NA,NA,the
-1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,contents,reference,ACT IV,SCENE III,NA,NA,shepherd’s
-1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,contents,reference,ACT IV,SCENE III,NA,NA,cottage
 1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,contents,directions,ACT IV,SCENE III,NA,NA,enter
 1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,contents,directions,ACT IV,SCENE III,NA,NA,autolycus
 1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,contents,directions,ACT IV,SCENE III,NA,NA,singing
@@ -13701,13 +13338,6 @@ gutenberg_id,short_title,gutenberg_title,genre,year,author,section,class,act,sce
 1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,contents,dialogue,ACT IV,SCENE III,AUTOLYCUS,1714,mile
 1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,contents,dialogue,ACT IV,SCENE III,AUTOLYCUS,1714,a
 1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,contents,directions,ACT IV,SCENE III,NA,NA,exit
-1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,contents,reference,ACT IV,SCENE IV,NA,NA,scene
-1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,contents,reference,ACT IV,SCENE IV,NA,NA,iv
-1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,contents,reference,ACT IV,SCENE IV,NA,NA,the
-1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,contents,reference,ACT IV,SCENE IV,NA,NA,same
-1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,contents,reference,ACT IV,SCENE IV,NA,NA,a
-1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,contents,reference,ACT IV,SCENE IV,NA,NA,shepherd’s
-1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,contents,reference,ACT IV,SCENE IV,NA,NA,cottage
 1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,contents,directions,ACT IV,SCENE IV,NA,NA,enter
 1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,contents,directions,ACT IV,SCENE IV,NA,NA,florizel
 1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,contents,directions,ACT IV,SCENE IV,NA,NA,and
@@ -20741,18 +20371,6 @@ gutenberg_id,short_title,gutenberg_title,genre,year,author,section,class,act,sce
 1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,contents,dialogue,ACT IV,SCENE IV,AUTOLYCUS,2571,in
 1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,contents,dialogue,ACT IV,SCENE IV,AUTOLYCUS,2571,it
 1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,contents,directions,ACT IV,SCENE IV,NA,NA,exit
-1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,contents,reference,ACT V,SCENE IV,NA,NA,act
-1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,contents,reference,ACT V,SCENE IV,NA,NA,v
-1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,contents,reference,ACT V,SCENE I,NA,NA,scene
-1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,contents,reference,ACT V,SCENE I,NA,NA,i
-1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,contents,reference,ACT V,SCENE I,NA,NA,sicilia
-1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,contents,reference,ACT V,SCENE I,NA,NA,a
-1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,contents,reference,ACT V,SCENE I,NA,NA,room
-1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,contents,reference,ACT V,SCENE I,NA,NA,in
-1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,contents,reference,ACT V,SCENE I,NA,NA,the
-1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,contents,reference,ACT V,SCENE I,NA,NA,palace
-1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,contents,reference,ACT V,SCENE I,NA,NA,of
-1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,contents,reference,ACT V,SCENE I,NA,NA,leontes
 1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,contents,directions,ACT V,SCENE I,NA,NA,enter
 1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,contents,directions,ACT V,SCENE I,NA,NA,leontes
 1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,contents,directions,ACT V,SCENE I,NA,NA,cleomenes
@@ -22685,13 +22303,6 @@ gutenberg_id,short_title,gutenberg_title,genre,year,author,section,class,act,sce
 1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,contents,dialogue,ACT V,SCENE I,LEONTES,2850,my
 1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,contents,dialogue,ACT V,SCENE I,LEONTES,2850,lord
 1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,contents,directions,ACT V,SCENE I,NA,NA,exeunt
-1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,contents,reference,ACT V,SCENE II,NA,NA,scene
-1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,contents,reference,ACT V,SCENE II,NA,NA,ii
-1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,contents,reference,ACT V,SCENE II,NA,NA,the
-1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,contents,reference,ACT V,SCENE II,NA,NA,same
-1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,contents,reference,ACT V,SCENE II,NA,NA,before
-1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,contents,reference,ACT V,SCENE II,NA,NA,the
-1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,contents,reference,ACT V,SCENE II,NA,NA,palace
 1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,contents,directions,ACT V,SCENE II,NA,NA,enter
 1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,contents,directions,ACT V,SCENE II,NA,NA,autolycus
 1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,contents,directions,ACT V,SCENE II,NA,NA,and
@@ -24224,15 +23835,6 @@ gutenberg_id,short_title,gutenberg_title,genre,year,author,section,class,act,sce
 1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,contents,dialogue,ACT V,SCENE II,CLOWN,2986,good
 1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,contents,dialogue,ACT V,SCENE II,CLOWN,2986,masters
 1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,contents,directions,ACT V,SCENE II,NA,NA,exeunt
-1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,contents,reference,ACT V,SCENE III,NA,NA,scene
-1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,contents,reference,ACT V,SCENE III,NA,NA,iii
-1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,contents,reference,ACT V,SCENE III,NA,NA,the
-1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,contents,reference,ACT V,SCENE III,NA,NA,same
-1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,contents,reference,ACT V,SCENE III,NA,NA,a
-1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,contents,reference,ACT V,SCENE III,NA,NA,room
-1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,contents,reference,ACT V,SCENE III,NA,NA,in
-1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,contents,reference,ACT V,SCENE III,NA,NA,paulina’s
-1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,contents,reference,ACT V,SCENE III,NA,NA,house
 1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,contents,directions,ACT V,SCENE III,NA,NA,enter
 1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,contents,directions,ACT V,SCENE III,NA,NA,leontes
 1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,contents,directions,ACT V,SCENE III,NA,NA,polixenes

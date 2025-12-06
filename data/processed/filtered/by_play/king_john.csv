@@ -1,335 +1,4 @@
 gutenberg_id,short_title,gutenberg_title,genre,year,author,section,class,act,scene,character,line_number,word
-1511,King John,THE LIFE AND DEATH OF KING JOHN,History,1597,William Shakespeare,front_matter,title,NA,NA,NA,NA,the
-1511,King John,THE LIFE AND DEATH OF KING JOHN,History,1597,William Shakespeare,front_matter,title,NA,NA,NA,NA,life
-1511,King John,THE LIFE AND DEATH OF KING JOHN,History,1597,William Shakespeare,front_matter,title,NA,NA,NA,NA,and
-1511,King John,THE LIFE AND DEATH OF KING JOHN,History,1597,William Shakespeare,front_matter,title,NA,NA,NA,NA,death
-1511,King John,THE LIFE AND DEATH OF KING JOHN,History,1597,William Shakespeare,front_matter,title,NA,NA,NA,NA,of
-1511,King John,THE LIFE AND DEATH OF KING JOHN,History,1597,William Shakespeare,front_matter,title,NA,NA,NA,NA,king
-1511,King John,THE LIFE AND DEATH OF KING JOHN,History,1597,William Shakespeare,front_matter,title,NA,NA,NA,NA,john
-1511,King John,THE LIFE AND DEATH OF KING JOHN,History,1597,William Shakespeare,front_matter,author,NA,NA,NA,NA,by
-1511,King John,THE LIFE AND DEATH OF KING JOHN,History,1597,William Shakespeare,front_matter,author,NA,NA,NA,NA,william
-1511,King John,THE LIFE AND DEATH OF KING JOHN,History,1597,William Shakespeare,front_matter,author,NA,NA,NA,NA,shakespeare
-1511,King John,THE LIFE AND DEATH OF KING JOHN,History,1597,William Shakespeare,front_matter,contents_header,NA,NA,NA,NA,contents
-1511,King John,THE LIFE AND DEATH OF KING JOHN,History,1597,William Shakespeare,front_matter,contents,ACT I,NA,NA,NA,act
-1511,King John,THE LIFE AND DEATH OF KING JOHN,History,1597,William Shakespeare,front_matter,contents,ACT I,NA,NA,NA,i
-1511,King John,THE LIFE AND DEATH OF KING JOHN,History,1597,William Shakespeare,front_matter,contents,ACT I,Scene I,NA,NA,scene
-1511,King John,THE LIFE AND DEATH OF KING JOHN,History,1597,William Shakespeare,front_matter,contents,ACT I,Scene I,NA,NA,i
-1511,King John,THE LIFE AND DEATH OF KING JOHN,History,1597,William Shakespeare,front_matter,contents,ACT I,Scene I,NA,NA,northampton
-1511,King John,THE LIFE AND DEATH OF KING JOHN,History,1597,William Shakespeare,front_matter,contents,ACT I,Scene I,NA,NA,a
-1511,King John,THE LIFE AND DEATH OF KING JOHN,History,1597,William Shakespeare,front_matter,contents,ACT I,Scene I,NA,NA,room
-1511,King John,THE LIFE AND DEATH OF KING JOHN,History,1597,William Shakespeare,front_matter,contents,ACT I,Scene I,NA,NA,of
-1511,King John,THE LIFE AND DEATH OF KING JOHN,History,1597,William Shakespeare,front_matter,contents,ACT I,Scene I,NA,NA,state
-1511,King John,THE LIFE AND DEATH OF KING JOHN,History,1597,William Shakespeare,front_matter,contents,ACT I,Scene I,NA,NA,in
-1511,King John,THE LIFE AND DEATH OF KING JOHN,History,1597,William Shakespeare,front_matter,contents,ACT I,Scene I,NA,NA,the
-1511,King John,THE LIFE AND DEATH OF KING JOHN,History,1597,William Shakespeare,front_matter,contents,ACT I,Scene I,NA,NA,palace
-1511,King John,THE LIFE AND DEATH OF KING JOHN,History,1597,William Shakespeare,front_matter,contents,ACT II,NA,NA,NA,act
-1511,King John,THE LIFE AND DEATH OF KING JOHN,History,1597,William Shakespeare,front_matter,contents,ACT II,NA,NA,NA,ii
-1511,King John,THE LIFE AND DEATH OF KING JOHN,History,1597,William Shakespeare,front_matter,contents,ACT II,Scene I,NA,NA,scene
-1511,King John,THE LIFE AND DEATH OF KING JOHN,History,1597,William Shakespeare,front_matter,contents,ACT II,Scene I,NA,NA,i
-1511,King John,THE LIFE AND DEATH OF KING JOHN,History,1597,William Shakespeare,front_matter,contents,ACT II,Scene I,NA,NA,france
-1511,King John,THE LIFE AND DEATH OF KING JOHN,History,1597,William Shakespeare,front_matter,contents,ACT II,Scene I,NA,NA,before
-1511,King John,THE LIFE AND DEATH OF KING JOHN,History,1597,William Shakespeare,front_matter,contents,ACT II,Scene I,NA,NA,the
-1511,King John,THE LIFE AND DEATH OF KING JOHN,History,1597,William Shakespeare,front_matter,contents,ACT II,Scene I,NA,NA,walls
-1511,King John,THE LIFE AND DEATH OF KING JOHN,History,1597,William Shakespeare,front_matter,contents,ACT II,Scene I,NA,NA,of
-1511,King John,THE LIFE AND DEATH OF KING JOHN,History,1597,William Shakespeare,front_matter,contents,ACT II,Scene I,NA,NA,angiers
-1511,King John,THE LIFE AND DEATH OF KING JOHN,History,1597,William Shakespeare,front_matter,contents,ACT III,NA,NA,NA,act
-1511,King John,THE LIFE AND DEATH OF KING JOHN,History,1597,William Shakespeare,front_matter,contents,ACT III,NA,NA,NA,iii
-1511,King John,THE LIFE AND DEATH OF KING JOHN,History,1597,William Shakespeare,front_matter,contents,ACT III,Scene I,NA,NA,scene
-1511,King John,THE LIFE AND DEATH OF KING JOHN,History,1597,William Shakespeare,front_matter,contents,ACT III,Scene I,NA,NA,i
-1511,King John,THE LIFE AND DEATH OF KING JOHN,History,1597,William Shakespeare,front_matter,contents,ACT III,Scene I,NA,NA,france
-1511,King John,THE LIFE AND DEATH OF KING JOHN,History,1597,William Shakespeare,front_matter,contents,ACT III,Scene I,NA,NA,the
-1511,King John,THE LIFE AND DEATH OF KING JOHN,History,1597,William Shakespeare,front_matter,contents,ACT III,Scene I,NA,NA,french
-1511,King John,THE LIFE AND DEATH OF KING JOHN,History,1597,William Shakespeare,front_matter,contents,ACT III,Scene I,NA,NA,king’s
-1511,King John,THE LIFE AND DEATH OF KING JOHN,History,1597,William Shakespeare,front_matter,contents,ACT III,Scene I,NA,NA,tent
-1511,King John,THE LIFE AND DEATH OF KING JOHN,History,1597,William Shakespeare,front_matter,contents,ACT III,Scene II,NA,NA,scene
-1511,King John,THE LIFE AND DEATH OF KING JOHN,History,1597,William Shakespeare,front_matter,contents,ACT III,Scene II,NA,NA,ii
-1511,King John,THE LIFE AND DEATH OF KING JOHN,History,1597,William Shakespeare,front_matter,contents,ACT III,Scene II,NA,NA,the
-1511,King John,THE LIFE AND DEATH OF KING JOHN,History,1597,William Shakespeare,front_matter,contents,ACT III,Scene II,NA,NA,same
-1511,King John,THE LIFE AND DEATH OF KING JOHN,History,1597,William Shakespeare,front_matter,contents,ACT III,Scene II,NA,NA,plains
-1511,King John,THE LIFE AND DEATH OF KING JOHN,History,1597,William Shakespeare,front_matter,contents,ACT III,Scene II,NA,NA,near
-1511,King John,THE LIFE AND DEATH OF KING JOHN,History,1597,William Shakespeare,front_matter,contents,ACT III,Scene II,NA,NA,angiers
-1511,King John,THE LIFE AND DEATH OF KING JOHN,History,1597,William Shakespeare,front_matter,contents,ACT III,Scene III,NA,NA,scene
-1511,King John,THE LIFE AND DEATH OF KING JOHN,History,1597,William Shakespeare,front_matter,contents,ACT III,Scene III,NA,NA,iii
-1511,King John,THE LIFE AND DEATH OF KING JOHN,History,1597,William Shakespeare,front_matter,contents,ACT III,Scene III,NA,NA,the
-1511,King John,THE LIFE AND DEATH OF KING JOHN,History,1597,William Shakespeare,front_matter,contents,ACT III,Scene III,NA,NA,same
-1511,King John,THE LIFE AND DEATH OF KING JOHN,History,1597,William Shakespeare,front_matter,contents,ACT III,Scene IV,NA,NA,scene
-1511,King John,THE LIFE AND DEATH OF KING JOHN,History,1597,William Shakespeare,front_matter,contents,ACT III,Scene IV,NA,NA,iv
-1511,King John,THE LIFE AND DEATH OF KING JOHN,History,1597,William Shakespeare,front_matter,contents,ACT III,Scene IV,NA,NA,the
-1511,King John,THE LIFE AND DEATH OF KING JOHN,History,1597,William Shakespeare,front_matter,contents,ACT III,Scene IV,NA,NA,same
-1511,King John,THE LIFE AND DEATH OF KING JOHN,History,1597,William Shakespeare,front_matter,contents,ACT III,Scene IV,NA,NA,the
-1511,King John,THE LIFE AND DEATH OF KING JOHN,History,1597,William Shakespeare,front_matter,contents,ACT III,Scene IV,NA,NA,french
-1511,King John,THE LIFE AND DEATH OF KING JOHN,History,1597,William Shakespeare,front_matter,contents,ACT III,Scene IV,NA,NA,king’s
-1511,King John,THE LIFE AND DEATH OF KING JOHN,History,1597,William Shakespeare,front_matter,contents,ACT III,Scene IV,NA,NA,tent
-1511,King John,THE LIFE AND DEATH OF KING JOHN,History,1597,William Shakespeare,front_matter,contents,ACT IV,NA,NA,NA,act
-1511,King John,THE LIFE AND DEATH OF KING JOHN,History,1597,William Shakespeare,front_matter,contents,ACT IV,NA,NA,NA,iv
-1511,King John,THE LIFE AND DEATH OF KING JOHN,History,1597,William Shakespeare,front_matter,contents,ACT IV,Scene I,NA,NA,scene
-1511,King John,THE LIFE AND DEATH OF KING JOHN,History,1597,William Shakespeare,front_matter,contents,ACT IV,Scene I,NA,NA,i
-1511,King John,THE LIFE AND DEATH OF KING JOHN,History,1597,William Shakespeare,front_matter,contents,ACT IV,Scene I,NA,NA,northampton
-1511,King John,THE LIFE AND DEATH OF KING JOHN,History,1597,William Shakespeare,front_matter,contents,ACT IV,Scene I,NA,NA,a
-1511,King John,THE LIFE AND DEATH OF KING JOHN,History,1597,William Shakespeare,front_matter,contents,ACT IV,Scene I,NA,NA,room
-1511,King John,THE LIFE AND DEATH OF KING JOHN,History,1597,William Shakespeare,front_matter,contents,ACT IV,Scene I,NA,NA,in
-1511,King John,THE LIFE AND DEATH OF KING JOHN,History,1597,William Shakespeare,front_matter,contents,ACT IV,Scene I,NA,NA,the
-1511,King John,THE LIFE AND DEATH OF KING JOHN,History,1597,William Shakespeare,front_matter,contents,ACT IV,Scene I,NA,NA,castle
-1511,King John,THE LIFE AND DEATH OF KING JOHN,History,1597,William Shakespeare,front_matter,contents,ACT IV,Scene II,NA,NA,scene
-1511,King John,THE LIFE AND DEATH OF KING JOHN,History,1597,William Shakespeare,front_matter,contents,ACT IV,Scene II,NA,NA,ii
-1511,King John,THE LIFE AND DEATH OF KING JOHN,History,1597,William Shakespeare,front_matter,contents,ACT IV,Scene II,NA,NA,the
-1511,King John,THE LIFE AND DEATH OF KING JOHN,History,1597,William Shakespeare,front_matter,contents,ACT IV,Scene II,NA,NA,same
-1511,King John,THE LIFE AND DEATH OF KING JOHN,History,1597,William Shakespeare,front_matter,contents,ACT IV,Scene II,NA,NA,a
-1511,King John,THE LIFE AND DEATH OF KING JOHN,History,1597,William Shakespeare,front_matter,contents,ACT IV,Scene II,NA,NA,room
-1511,King John,THE LIFE AND DEATH OF KING JOHN,History,1597,William Shakespeare,front_matter,contents,ACT IV,Scene II,NA,NA,of
-1511,King John,THE LIFE AND DEATH OF KING JOHN,History,1597,William Shakespeare,front_matter,contents,ACT IV,Scene II,NA,NA,state
-1511,King John,THE LIFE AND DEATH OF KING JOHN,History,1597,William Shakespeare,front_matter,contents,ACT IV,Scene II,NA,NA,in
-1511,King John,THE LIFE AND DEATH OF KING JOHN,History,1597,William Shakespeare,front_matter,contents,ACT IV,Scene II,NA,NA,the
-1511,King John,THE LIFE AND DEATH OF KING JOHN,History,1597,William Shakespeare,front_matter,contents,ACT IV,Scene II,NA,NA,palace
-1511,King John,THE LIFE AND DEATH OF KING JOHN,History,1597,William Shakespeare,front_matter,contents,ACT IV,Scene III,NA,NA,scene
-1511,King John,THE LIFE AND DEATH OF KING JOHN,History,1597,William Shakespeare,front_matter,contents,ACT IV,Scene III,NA,NA,iii
-1511,King John,THE LIFE AND DEATH OF KING JOHN,History,1597,William Shakespeare,front_matter,contents,ACT IV,Scene III,NA,NA,the
-1511,King John,THE LIFE AND DEATH OF KING JOHN,History,1597,William Shakespeare,front_matter,contents,ACT IV,Scene III,NA,NA,same
-1511,King John,THE LIFE AND DEATH OF KING JOHN,History,1597,William Shakespeare,front_matter,contents,ACT IV,Scene III,NA,NA,before
-1511,King John,THE LIFE AND DEATH OF KING JOHN,History,1597,William Shakespeare,front_matter,contents,ACT IV,Scene III,NA,NA,the
-1511,King John,THE LIFE AND DEATH OF KING JOHN,History,1597,William Shakespeare,front_matter,contents,ACT IV,Scene III,NA,NA,castle
-1511,King John,THE LIFE AND DEATH OF KING JOHN,History,1597,William Shakespeare,front_matter,contents,ACT V,NA,NA,NA,act
-1511,King John,THE LIFE AND DEATH OF KING JOHN,History,1597,William Shakespeare,front_matter,contents,ACT V,NA,NA,NA,v
-1511,King John,THE LIFE AND DEATH OF KING JOHN,History,1597,William Shakespeare,front_matter,contents,ACT V,Scene I,NA,NA,scene
-1511,King John,THE LIFE AND DEATH OF KING JOHN,History,1597,William Shakespeare,front_matter,contents,ACT V,Scene I,NA,NA,i
-1511,King John,THE LIFE AND DEATH OF KING JOHN,History,1597,William Shakespeare,front_matter,contents,ACT V,Scene I,NA,NA,northampton
-1511,King John,THE LIFE AND DEATH OF KING JOHN,History,1597,William Shakespeare,front_matter,contents,ACT V,Scene I,NA,NA,a
-1511,King John,THE LIFE AND DEATH OF KING JOHN,History,1597,William Shakespeare,front_matter,contents,ACT V,Scene I,NA,NA,room
-1511,King John,THE LIFE AND DEATH OF KING JOHN,History,1597,William Shakespeare,front_matter,contents,ACT V,Scene I,NA,NA,in
-1511,King John,THE LIFE AND DEATH OF KING JOHN,History,1597,William Shakespeare,front_matter,contents,ACT V,Scene I,NA,NA,the
-1511,King John,THE LIFE AND DEATH OF KING JOHN,History,1597,William Shakespeare,front_matter,contents,ACT V,Scene I,NA,NA,palace
-1511,King John,THE LIFE AND DEATH OF KING JOHN,History,1597,William Shakespeare,front_matter,contents,ACT V,Scene II,NA,NA,scene
-1511,King John,THE LIFE AND DEATH OF KING JOHN,History,1597,William Shakespeare,front_matter,contents,ACT V,Scene II,NA,NA,ii
-1511,King John,THE LIFE AND DEATH OF KING JOHN,History,1597,William Shakespeare,front_matter,contents,ACT V,Scene II,NA,NA,near
-1511,King John,THE LIFE AND DEATH OF KING JOHN,History,1597,William Shakespeare,front_matter,contents,ACT V,Scene II,NA,NA,saint
-1511,King John,THE LIFE AND DEATH OF KING JOHN,History,1597,William Shakespeare,front_matter,contents,ACT V,Scene II,NA,NA,edmundsbury
-1511,King John,THE LIFE AND DEATH OF KING JOHN,History,1597,William Shakespeare,front_matter,contents,ACT V,Scene II,NA,NA,the
-1511,King John,THE LIFE AND DEATH OF KING JOHN,History,1597,William Shakespeare,front_matter,contents,ACT V,Scene II,NA,NA,french
-1511,King John,THE LIFE AND DEATH OF KING JOHN,History,1597,William Shakespeare,front_matter,contents,ACT V,Scene II,NA,NA,camp
-1511,King John,THE LIFE AND DEATH OF KING JOHN,History,1597,William Shakespeare,front_matter,contents,ACT V,Scene III,NA,NA,scene
-1511,King John,THE LIFE AND DEATH OF KING JOHN,History,1597,William Shakespeare,front_matter,contents,ACT V,Scene III,NA,NA,iii
-1511,King John,THE LIFE AND DEATH OF KING JOHN,History,1597,William Shakespeare,front_matter,contents,ACT V,Scene III,NA,NA,the
-1511,King John,THE LIFE AND DEATH OF KING JOHN,History,1597,William Shakespeare,front_matter,contents,ACT V,Scene III,NA,NA,same
-1511,King John,THE LIFE AND DEATH OF KING JOHN,History,1597,William Shakespeare,front_matter,contents,ACT V,Scene III,NA,NA,the
-1511,King John,THE LIFE AND DEATH OF KING JOHN,History,1597,William Shakespeare,front_matter,contents,ACT V,Scene III,NA,NA,field
-1511,King John,THE LIFE AND DEATH OF KING JOHN,History,1597,William Shakespeare,front_matter,contents,ACT V,Scene III,NA,NA,of
-1511,King John,THE LIFE AND DEATH OF KING JOHN,History,1597,William Shakespeare,front_matter,contents,ACT V,Scene III,NA,NA,battle
-1511,King John,THE LIFE AND DEATH OF KING JOHN,History,1597,William Shakespeare,front_matter,contents,ACT V,Scene IV,NA,NA,scene
-1511,King John,THE LIFE AND DEATH OF KING JOHN,History,1597,William Shakespeare,front_matter,contents,ACT V,Scene IV,NA,NA,iv
-1511,King John,THE LIFE AND DEATH OF KING JOHN,History,1597,William Shakespeare,front_matter,contents,ACT V,Scene IV,NA,NA,the
-1511,King John,THE LIFE AND DEATH OF KING JOHN,History,1597,William Shakespeare,front_matter,contents,ACT V,Scene IV,NA,NA,same
-1511,King John,THE LIFE AND DEATH OF KING JOHN,History,1597,William Shakespeare,front_matter,contents,ACT V,Scene IV,NA,NA,another
-1511,King John,THE LIFE AND DEATH OF KING JOHN,History,1597,William Shakespeare,front_matter,contents,ACT V,Scene IV,NA,NA,part
-1511,King John,THE LIFE AND DEATH OF KING JOHN,History,1597,William Shakespeare,front_matter,contents,ACT V,Scene IV,NA,NA,of
-1511,King John,THE LIFE AND DEATH OF KING JOHN,History,1597,William Shakespeare,front_matter,contents,ACT V,Scene IV,NA,NA,the
-1511,King John,THE LIFE AND DEATH OF KING JOHN,History,1597,William Shakespeare,front_matter,contents,ACT V,Scene IV,NA,NA,same
-1511,King John,THE LIFE AND DEATH OF KING JOHN,History,1597,William Shakespeare,front_matter,contents,ACT V,Scene V,NA,NA,scene
-1511,King John,THE LIFE AND DEATH OF KING JOHN,History,1597,William Shakespeare,front_matter,contents,ACT V,Scene V,NA,NA,v
-1511,King John,THE LIFE AND DEATH OF KING JOHN,History,1597,William Shakespeare,front_matter,contents,ACT V,Scene V,NA,NA,the
-1511,King John,THE LIFE AND DEATH OF KING JOHN,History,1597,William Shakespeare,front_matter,contents,ACT V,Scene V,NA,NA,same
-1511,King John,THE LIFE AND DEATH OF KING JOHN,History,1597,William Shakespeare,front_matter,contents,ACT V,Scene V,NA,NA,the
-1511,King John,THE LIFE AND DEATH OF KING JOHN,History,1597,William Shakespeare,front_matter,contents,ACT V,Scene V,NA,NA,french
-1511,King John,THE LIFE AND DEATH OF KING JOHN,History,1597,William Shakespeare,front_matter,contents,ACT V,Scene V,NA,NA,camp
-1511,King John,THE LIFE AND DEATH OF KING JOHN,History,1597,William Shakespeare,front_matter,contents,ACT V,Scene VI,NA,NA,scene
-1511,King John,THE LIFE AND DEATH OF KING JOHN,History,1597,William Shakespeare,front_matter,contents,ACT V,Scene VI,NA,NA,vi
-1511,King John,THE LIFE AND DEATH OF KING JOHN,History,1597,William Shakespeare,front_matter,contents,ACT V,Scene VI,NA,NA,an
-1511,King John,THE LIFE AND DEATH OF KING JOHN,History,1597,William Shakespeare,front_matter,contents,ACT V,Scene VI,NA,NA,open
-1511,King John,THE LIFE AND DEATH OF KING JOHN,History,1597,William Shakespeare,front_matter,contents,ACT V,Scene VI,NA,NA,place
-1511,King John,THE LIFE AND DEATH OF KING JOHN,History,1597,William Shakespeare,front_matter,contents,ACT V,Scene VI,NA,NA,in
-1511,King John,THE LIFE AND DEATH OF KING JOHN,History,1597,William Shakespeare,front_matter,contents,ACT V,Scene VI,NA,NA,the
-1511,King John,THE LIFE AND DEATH OF KING JOHN,History,1597,William Shakespeare,front_matter,contents,ACT V,Scene VI,NA,NA,neighborhood
-1511,King John,THE LIFE AND DEATH OF KING JOHN,History,1597,William Shakespeare,front_matter,contents,ACT V,Scene VI,NA,NA,of
-1511,King John,THE LIFE AND DEATH OF KING JOHN,History,1597,William Shakespeare,front_matter,contents,ACT V,Scene VI,NA,NA,swinstead
-1511,King John,THE LIFE AND DEATH OF KING JOHN,History,1597,William Shakespeare,front_matter,contents,ACT V,Scene VI,NA,NA,abbey
-1511,King John,THE LIFE AND DEATH OF KING JOHN,History,1597,William Shakespeare,front_matter,contents,ACT V,Scene VII,NA,NA,scene
-1511,King John,THE LIFE AND DEATH OF KING JOHN,History,1597,William Shakespeare,front_matter,contents,ACT V,Scene VII,NA,NA,vii
-1511,King John,THE LIFE AND DEATH OF KING JOHN,History,1597,William Shakespeare,front_matter,contents,ACT V,Scene VII,NA,NA,the
-1511,King John,THE LIFE AND DEATH OF KING JOHN,History,1597,William Shakespeare,front_matter,contents,ACT V,Scene VII,NA,NA,orchard
-1511,King John,THE LIFE AND DEATH OF KING JOHN,History,1597,William Shakespeare,front_matter,contents,ACT V,Scene VII,NA,NA,of
-1511,King John,THE LIFE AND DEATH OF KING JOHN,History,1597,William Shakespeare,front_matter,contents,ACT V,Scene VII,NA,NA,swinstead
-1511,King John,THE LIFE AND DEATH OF KING JOHN,History,1597,William Shakespeare,front_matter,contents,ACT V,Scene VII,NA,NA,abbey
-1511,King John,THE LIFE AND DEATH OF KING JOHN,History,1597,William Shakespeare,front_matter,dramatis_header,NA,NA,NA,NA,dramatis
-1511,King John,THE LIFE AND DEATH OF KING JOHN,History,1597,William Shakespeare,front_matter,dramatis_header,NA,NA,NA,NA,personæ
-1511,King John,THE LIFE AND DEATH OF KING JOHN,History,1597,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,king
-1511,King John,THE LIFE AND DEATH OF KING JOHN,History,1597,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,john
-1511,King John,THE LIFE AND DEATH OF KING JOHN,History,1597,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,prince
-1511,King John,THE LIFE AND DEATH OF KING JOHN,History,1597,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,henry
-1511,King John,THE LIFE AND DEATH OF KING JOHN,History,1597,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,son
-1511,King John,THE LIFE AND DEATH OF KING JOHN,History,1597,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,to
-1511,King John,THE LIFE AND DEATH OF KING JOHN,History,1597,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,king
-1511,King John,THE LIFE AND DEATH OF KING JOHN,History,1597,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,john
-1511,King John,THE LIFE AND DEATH OF KING JOHN,History,1597,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,afterwards
-1511,King John,THE LIFE AND DEATH OF KING JOHN,History,1597,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,king
-1511,King John,THE LIFE AND DEATH OF KING JOHN,History,1597,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,henry
-1511,King John,THE LIFE AND DEATH OF KING JOHN,History,1597,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,iii
-1511,King John,THE LIFE AND DEATH OF KING JOHN,History,1597,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,arthur
-1511,King John,THE LIFE AND DEATH OF KING JOHN,History,1597,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,duke
-1511,King John,THE LIFE AND DEATH OF KING JOHN,History,1597,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,of
-1511,King John,THE LIFE AND DEATH OF KING JOHN,History,1597,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,brittany
-1511,King John,THE LIFE AND DEATH OF KING JOHN,History,1597,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,nephew
-1511,King John,THE LIFE AND DEATH OF KING JOHN,History,1597,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,to
-1511,King John,THE LIFE AND DEATH OF KING JOHN,History,1597,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,king
-1511,King John,THE LIFE AND DEATH OF KING JOHN,History,1597,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,john
-1511,King John,THE LIFE AND DEATH OF KING JOHN,History,1597,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,earl
-1511,King John,THE LIFE AND DEATH OF KING JOHN,History,1597,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,of
-1511,King John,THE LIFE AND DEATH OF KING JOHN,History,1597,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,pembroke
-1511,King John,THE LIFE AND DEATH OF KING JOHN,History,1597,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,earl
-1511,King John,THE LIFE AND DEATH OF KING JOHN,History,1597,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,of
-1511,King John,THE LIFE AND DEATH OF KING JOHN,History,1597,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,essex
-1511,King John,THE LIFE AND DEATH OF KING JOHN,History,1597,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,earl
-1511,King John,THE LIFE AND DEATH OF KING JOHN,History,1597,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,of
-1511,King John,THE LIFE AND DEATH OF KING JOHN,History,1597,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,salisbury
-1511,King John,THE LIFE AND DEATH OF KING JOHN,History,1597,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,robert
-1511,King John,THE LIFE AND DEATH OF KING JOHN,History,1597,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,bigot
-1511,King John,THE LIFE AND DEATH OF KING JOHN,History,1597,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,earl
-1511,King John,THE LIFE AND DEATH OF KING JOHN,History,1597,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,of
-1511,King John,THE LIFE AND DEATH OF KING JOHN,History,1597,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,norfolk
-1511,King John,THE LIFE AND DEATH OF KING JOHN,History,1597,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,hubert
-1511,King John,THE LIFE AND DEATH OF KING JOHN,History,1597,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,de
-1511,King John,THE LIFE AND DEATH OF KING JOHN,History,1597,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,burgh
-1511,King John,THE LIFE AND DEATH OF KING JOHN,History,1597,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,chamberlain
-1511,King John,THE LIFE AND DEATH OF KING JOHN,History,1597,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,to
-1511,King John,THE LIFE AND DEATH OF KING JOHN,History,1597,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,the
-1511,King John,THE LIFE AND DEATH OF KING JOHN,History,1597,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,king
-1511,King John,THE LIFE AND DEATH OF KING JOHN,History,1597,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,robert
-1511,King John,THE LIFE AND DEATH OF KING JOHN,History,1597,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,faulconbridge
-1511,King John,THE LIFE AND DEATH OF KING JOHN,History,1597,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,son
-1511,King John,THE LIFE AND DEATH OF KING JOHN,History,1597,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,to
-1511,King John,THE LIFE AND DEATH OF KING JOHN,History,1597,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,sir
-1511,King John,THE LIFE AND DEATH OF KING JOHN,History,1597,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,robert
-1511,King John,THE LIFE AND DEATH OF KING JOHN,History,1597,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,faulconbridge
-1511,King John,THE LIFE AND DEATH OF KING JOHN,History,1597,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,the
-1511,King John,THE LIFE AND DEATH OF KING JOHN,History,1597,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,bastard
-1511,King John,THE LIFE AND DEATH OF KING JOHN,History,1597,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,philip
-1511,King John,THE LIFE AND DEATH OF KING JOHN,History,1597,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,faulconbridge
-1511,King John,THE LIFE AND DEATH OF KING JOHN,History,1597,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,his
-1511,King John,THE LIFE AND DEATH OF KING JOHN,History,1597,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,half
-1511,King John,THE LIFE AND DEATH OF KING JOHN,History,1597,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,brother
-1511,King John,THE LIFE AND DEATH OF KING JOHN,History,1597,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,bastard
-1511,King John,THE LIFE AND DEATH OF KING JOHN,History,1597,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,son
-1511,King John,THE LIFE AND DEATH OF KING JOHN,History,1597,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,to
-1511,King John,THE LIFE AND DEATH OF KING JOHN,History,1597,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,king
-1511,King John,THE LIFE AND DEATH OF KING JOHN,History,1597,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,richard
-1511,King John,THE LIFE AND DEATH OF KING JOHN,History,1597,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,i
-1511,King John,THE LIFE AND DEATH OF KING JOHN,History,1597,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,james
-1511,King John,THE LIFE AND DEATH OF KING JOHN,History,1597,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,gurney
-1511,King John,THE LIFE AND DEATH OF KING JOHN,History,1597,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,servant
-1511,King John,THE LIFE AND DEATH OF KING JOHN,History,1597,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,to
-1511,King John,THE LIFE AND DEATH OF KING JOHN,History,1597,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,lady
-1511,King John,THE LIFE AND DEATH OF KING JOHN,History,1597,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,faulconbridge
-1511,King John,THE LIFE AND DEATH OF KING JOHN,History,1597,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,peter
-1511,King John,THE LIFE AND DEATH OF KING JOHN,History,1597,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,of
-1511,King John,THE LIFE AND DEATH OF KING JOHN,History,1597,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,pomfret
-1511,King John,THE LIFE AND DEATH OF KING JOHN,History,1597,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,a
-1511,King John,THE LIFE AND DEATH OF KING JOHN,History,1597,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,prophet
-1511,King John,THE LIFE AND DEATH OF KING JOHN,History,1597,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,king
-1511,King John,THE LIFE AND DEATH OF KING JOHN,History,1597,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,philip
-1511,King John,THE LIFE AND DEATH OF KING JOHN,History,1597,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,ii
-1511,King John,THE LIFE AND DEATH OF KING JOHN,History,1597,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,king
-1511,King John,THE LIFE AND DEATH OF KING JOHN,History,1597,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,of
-1511,King John,THE LIFE AND DEATH OF KING JOHN,History,1597,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,france
-1511,King John,THE LIFE AND DEATH OF KING JOHN,History,1597,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,louis
-1511,King John,THE LIFE AND DEATH OF KING JOHN,History,1597,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,the
-1511,King John,THE LIFE AND DEATH OF KING JOHN,History,1597,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,dauphin
-1511,King John,THE LIFE AND DEATH OF KING JOHN,History,1597,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,son
-1511,King John,THE LIFE AND DEATH OF KING JOHN,History,1597,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,to
-1511,King John,THE LIFE AND DEATH OF KING JOHN,History,1597,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,king
-1511,King John,THE LIFE AND DEATH OF KING JOHN,History,1597,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,philip
-1511,King John,THE LIFE AND DEATH OF KING JOHN,History,1597,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,ii
-1511,King John,THE LIFE AND DEATH OF KING JOHN,History,1597,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,duke
-1511,King John,THE LIFE AND DEATH OF KING JOHN,History,1597,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,of
-1511,King John,THE LIFE AND DEATH OF KING JOHN,History,1597,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,austria
-1511,King John,THE LIFE AND DEATH OF KING JOHN,History,1597,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,also
-1511,King John,THE LIFE AND DEATH OF KING JOHN,History,1597,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,called
-1511,King John,THE LIFE AND DEATH OF KING JOHN,History,1597,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,limoges
-1511,King John,THE LIFE AND DEATH OF KING JOHN,History,1597,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,melun
-1511,King John,THE LIFE AND DEATH OF KING JOHN,History,1597,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,a
-1511,King John,THE LIFE AND DEATH OF KING JOHN,History,1597,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,french
-1511,King John,THE LIFE AND DEATH OF KING JOHN,History,1597,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,lord
-1511,King John,THE LIFE AND DEATH OF KING JOHN,History,1597,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,chatillion
-1511,King John,THE LIFE AND DEATH OF KING JOHN,History,1597,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,ambassador
-1511,King John,THE LIFE AND DEATH OF KING JOHN,History,1597,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,from
-1511,King John,THE LIFE AND DEATH OF KING JOHN,History,1597,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,france
-1511,King John,THE LIFE AND DEATH OF KING JOHN,History,1597,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,to
-1511,King John,THE LIFE AND DEATH OF KING JOHN,History,1597,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,king
-1511,King John,THE LIFE AND DEATH OF KING JOHN,History,1597,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,john
-1511,King John,THE LIFE AND DEATH OF KING JOHN,History,1597,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,cardinal
-1511,King John,THE LIFE AND DEATH OF KING JOHN,History,1597,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,pandulph
-1511,King John,THE LIFE AND DEATH OF KING JOHN,History,1597,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,the
-1511,King John,THE LIFE AND DEATH OF KING JOHN,History,1597,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,pope’s
-1511,King John,THE LIFE AND DEATH OF KING JOHN,History,1597,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,legate
-1511,King John,THE LIFE AND DEATH OF KING JOHN,History,1597,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,queen
-1511,King John,THE LIFE AND DEATH OF KING JOHN,History,1597,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,eleanor
-1511,King John,THE LIFE AND DEATH OF KING JOHN,History,1597,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,mother
-1511,King John,THE LIFE AND DEATH OF KING JOHN,History,1597,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,to
-1511,King John,THE LIFE AND DEATH OF KING JOHN,History,1597,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,king
-1511,King John,THE LIFE AND DEATH OF KING JOHN,History,1597,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,john
-1511,King John,THE LIFE AND DEATH OF KING JOHN,History,1597,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,and
-1511,King John,THE LIFE AND DEATH OF KING JOHN,History,1597,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,widow
-1511,King John,THE LIFE AND DEATH OF KING JOHN,History,1597,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,of
-1511,King John,THE LIFE AND DEATH OF KING JOHN,History,1597,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,king
-1511,King John,THE LIFE AND DEATH OF KING JOHN,History,1597,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,henry
-1511,King John,THE LIFE AND DEATH OF KING JOHN,History,1597,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,ii
-1511,King John,THE LIFE AND DEATH OF KING JOHN,History,1597,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,constance
-1511,King John,THE LIFE AND DEATH OF KING JOHN,History,1597,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,mother
-1511,King John,THE LIFE AND DEATH OF KING JOHN,History,1597,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,to
-1511,King John,THE LIFE AND DEATH OF KING JOHN,History,1597,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,arthur
-1511,King John,THE LIFE AND DEATH OF KING JOHN,History,1597,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,blanche
-1511,King John,THE LIFE AND DEATH OF KING JOHN,History,1597,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,of
-1511,King John,THE LIFE AND DEATH OF KING JOHN,History,1597,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,spain
-1511,King John,THE LIFE AND DEATH OF KING JOHN,History,1597,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,daughter
-1511,King John,THE LIFE AND DEATH OF KING JOHN,History,1597,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,to
-1511,King John,THE LIFE AND DEATH OF KING JOHN,History,1597,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,alphonso
-1511,King John,THE LIFE AND DEATH OF KING JOHN,History,1597,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,king
-1511,King John,THE LIFE AND DEATH OF KING JOHN,History,1597,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,of
-1511,King John,THE LIFE AND DEATH OF KING JOHN,History,1597,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,castile
-1511,King John,THE LIFE AND DEATH OF KING JOHN,History,1597,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,and
-1511,King John,THE LIFE AND DEATH OF KING JOHN,History,1597,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,niece
-1511,King John,THE LIFE AND DEATH OF KING JOHN,History,1597,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,to
-1511,King John,THE LIFE AND DEATH OF KING JOHN,History,1597,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,king
-1511,King John,THE LIFE AND DEATH OF KING JOHN,History,1597,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,john
-1511,King John,THE LIFE AND DEATH OF KING JOHN,History,1597,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,lady
-1511,King John,THE LIFE AND DEATH OF KING JOHN,History,1597,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,faulconbridge
-1511,King John,THE LIFE AND DEATH OF KING JOHN,History,1597,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,mother
-1511,King John,THE LIFE AND DEATH OF KING JOHN,History,1597,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,to
-1511,King John,THE LIFE AND DEATH OF KING JOHN,History,1597,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,the
-1511,King John,THE LIFE AND DEATH OF KING JOHN,History,1597,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,bastard
-1511,King John,THE LIFE AND DEATH OF KING JOHN,History,1597,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,and
-1511,King John,THE LIFE AND DEATH OF KING JOHN,History,1597,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,robert
-1511,King John,THE LIFE AND DEATH OF KING JOHN,History,1597,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,faulconbridge
-1511,King John,THE LIFE AND DEATH OF KING JOHN,History,1597,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,lords
-1511,King John,THE LIFE AND DEATH OF KING JOHN,History,1597,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,citizens
-1511,King John,THE LIFE AND DEATH OF KING JOHN,History,1597,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,of
-1511,King John,THE LIFE AND DEATH OF KING JOHN,History,1597,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,angiers
-1511,King John,THE LIFE AND DEATH OF KING JOHN,History,1597,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,sheriff
-1511,King John,THE LIFE AND DEATH OF KING JOHN,History,1597,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,heralds
-1511,King John,THE LIFE AND DEATH OF KING JOHN,History,1597,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,officers
-1511,King John,THE LIFE AND DEATH OF KING JOHN,History,1597,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,soldiers
-1511,King John,THE LIFE AND DEATH OF KING JOHN,History,1597,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,executioners
-1511,King John,THE LIFE AND DEATH OF KING JOHN,History,1597,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,messengers
-1511,King John,THE LIFE AND DEATH OF KING JOHN,History,1597,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,and
-1511,King John,THE LIFE AND DEATH OF KING JOHN,History,1597,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,other
-1511,King John,THE LIFE AND DEATH OF KING JOHN,History,1597,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,attendants
-1511,King John,THE LIFE AND DEATH OF KING JOHN,History,1597,William Shakespeare,front_matter,scene_description,NA,NA,NA,NA,scene
-1511,King John,THE LIFE AND DEATH OF KING JOHN,History,1597,William Shakespeare,front_matter,scene_description,NA,NA,NA,NA,sometimes
-1511,King John,THE LIFE AND DEATH OF KING JOHN,History,1597,William Shakespeare,front_matter,scene_description,NA,NA,NA,NA,in
-1511,King John,THE LIFE AND DEATH OF KING JOHN,History,1597,William Shakespeare,front_matter,scene_description,NA,NA,NA,NA,england
-1511,King John,THE LIFE AND DEATH OF KING JOHN,History,1597,William Shakespeare,front_matter,scene_description,NA,NA,NA,NA,and
-1511,King John,THE LIFE AND DEATH OF KING JOHN,History,1597,William Shakespeare,front_matter,scene_description,NA,NA,NA,NA,sometimes
-1511,King John,THE LIFE AND DEATH OF KING JOHN,History,1597,William Shakespeare,front_matter,scene_description,NA,NA,NA,NA,in
-1511,King John,THE LIFE AND DEATH OF KING JOHN,History,1597,William Shakespeare,front_matter,scene_description,NA,NA,NA,NA,france
-1511,King John,THE LIFE AND DEATH OF KING JOHN,History,1597,William Shakespeare,contents,reference,ACT I,NA,NA,NA,act
-1511,King John,THE LIFE AND DEATH OF KING JOHN,History,1597,William Shakespeare,contents,reference,ACT I,NA,NA,NA,i
-1511,King John,THE LIFE AND DEATH OF KING JOHN,History,1597,William Shakespeare,contents,reference,ACT I,SCENE I,NA,NA,scene
-1511,King John,THE LIFE AND DEATH OF KING JOHN,History,1597,William Shakespeare,contents,reference,ACT I,SCENE I,NA,NA,i
-1511,King John,THE LIFE AND DEATH OF KING JOHN,History,1597,William Shakespeare,contents,reference,ACT I,SCENE I,NA,NA,northampton
-1511,King John,THE LIFE AND DEATH OF KING JOHN,History,1597,William Shakespeare,contents,reference,ACT I,SCENE I,NA,NA,a
-1511,King John,THE LIFE AND DEATH OF KING JOHN,History,1597,William Shakespeare,contents,reference,ACT I,SCENE I,NA,NA,room
-1511,King John,THE LIFE AND DEATH OF KING JOHN,History,1597,William Shakespeare,contents,reference,ACT I,SCENE I,NA,NA,of
-1511,King John,THE LIFE AND DEATH OF KING JOHN,History,1597,William Shakespeare,contents,reference,ACT I,SCENE I,NA,NA,state
-1511,King John,THE LIFE AND DEATH OF KING JOHN,History,1597,William Shakespeare,contents,reference,ACT I,SCENE I,NA,NA,in
-1511,King John,THE LIFE AND DEATH OF KING JOHN,History,1597,William Shakespeare,contents,reference,ACT I,SCENE I,NA,NA,the
-1511,King John,THE LIFE AND DEATH OF KING JOHN,History,1597,William Shakespeare,contents,reference,ACT I,SCENE I,NA,NA,palace
 1511,King John,THE LIFE AND DEATH OF KING JOHN,History,1597,William Shakespeare,contents,directions,ACT I,SCENE I,NA,NA,enter
 1511,King John,THE LIFE AND DEATH OF KING JOHN,History,1597,William Shakespeare,contents,directions,ACT I,SCENE I,NA,NA,king
 1511,King John,THE LIFE AND DEATH OF KING JOHN,History,1597,William Shakespeare,contents,directions,ACT I,SCENE I,NA,NA,john
@@ -2593,16 +2262,6 @@ gutenberg_id,short_title,gutenberg_title,genre,year,author,section,class,act,sce
 1511,King John,THE LIFE AND DEATH OF KING JOHN,History,1597,William Shakespeare,contents,dialogue,ACT I,SCENE I,BASTARD,278,twas
 1511,King John,THE LIFE AND DEATH OF KING JOHN,History,1597,William Shakespeare,contents,dialogue,ACT I,SCENE I,BASTARD,278,not
 1511,King John,THE LIFE AND DEATH OF KING JOHN,History,1597,William Shakespeare,contents,directions,ACT I,SCENE I,NA,NA,exeunt
-1511,King John,THE LIFE AND DEATH OF KING JOHN,History,1597,William Shakespeare,contents,reference,ACT II,SCENE I,NA,NA,act
-1511,King John,THE LIFE AND DEATH OF KING JOHN,History,1597,William Shakespeare,contents,reference,ACT II,SCENE I,NA,NA,ii
-1511,King John,THE LIFE AND DEATH OF KING JOHN,History,1597,William Shakespeare,contents,reference,ACT II,SCENE I,NA,NA,scene
-1511,King John,THE LIFE AND DEATH OF KING JOHN,History,1597,William Shakespeare,contents,reference,ACT II,SCENE I,NA,NA,i
-1511,King John,THE LIFE AND DEATH OF KING JOHN,History,1597,William Shakespeare,contents,reference,ACT II,SCENE I,NA,NA,france
-1511,King John,THE LIFE AND DEATH OF KING JOHN,History,1597,William Shakespeare,contents,reference,ACT II,SCENE I,NA,NA,before
-1511,King John,THE LIFE AND DEATH OF KING JOHN,History,1597,William Shakespeare,contents,reference,ACT II,SCENE I,NA,NA,the
-1511,King John,THE LIFE AND DEATH OF KING JOHN,History,1597,William Shakespeare,contents,reference,ACT II,SCENE I,NA,NA,walls
-1511,King John,THE LIFE AND DEATH OF KING JOHN,History,1597,William Shakespeare,contents,reference,ACT II,SCENE I,NA,NA,of
-1511,King John,THE LIFE AND DEATH OF KING JOHN,History,1597,William Shakespeare,contents,reference,ACT II,SCENE I,NA,NA,angiers
 1511,King John,THE LIFE AND DEATH OF KING JOHN,History,1597,William Shakespeare,contents,directions,ACT II,SCENE I,NA,NA,enter
 1511,King John,THE LIFE AND DEATH OF KING JOHN,History,1597,William Shakespeare,contents,directions,ACT II,SCENE I,NA,NA,on
 1511,King John,THE LIFE AND DEATH OF KING JOHN,History,1597,William Shakespeare,contents,directions,ACT II,SCENE I,NA,NA,one
@@ -7393,15 +7052,6 @@ gutenberg_id,short_title,gutenberg_title,genre,year,author,section,class,act,sce
 1511,King John,THE LIFE AND DEATH OF KING JOHN,History,1597,William Shakespeare,contents,dialogue,ACT II,SCENE I,BASTARD,891,worship
 1511,King John,THE LIFE AND DEATH OF KING JOHN,History,1597,William Shakespeare,contents,dialogue,ACT II,SCENE I,BASTARD,891,thee
 1511,King John,THE LIFE AND DEATH OF KING JOHN,History,1597,William Shakespeare,contents,directions,ACT II,SCENE I,NA,NA,exit
-1511,King John,THE LIFE AND DEATH OF KING JOHN,History,1597,William Shakespeare,contents,reference,ACT III,SCENE I,NA,NA,act
-1511,King John,THE LIFE AND DEATH OF KING JOHN,History,1597,William Shakespeare,contents,reference,ACT III,SCENE I,NA,NA,iii
-1511,King John,THE LIFE AND DEATH OF KING JOHN,History,1597,William Shakespeare,contents,reference,ACT III,SCENE I,NA,NA,scene
-1511,King John,THE LIFE AND DEATH OF KING JOHN,History,1597,William Shakespeare,contents,reference,ACT III,SCENE I,NA,NA,i
-1511,King John,THE LIFE AND DEATH OF KING JOHN,History,1597,William Shakespeare,contents,reference,ACT III,SCENE I,NA,NA,france
-1511,King John,THE LIFE AND DEATH OF KING JOHN,History,1597,William Shakespeare,contents,reference,ACT III,SCENE I,NA,NA,the
-1511,King John,THE LIFE AND DEATH OF KING JOHN,History,1597,William Shakespeare,contents,reference,ACT III,SCENE I,NA,NA,french
-1511,King John,THE LIFE AND DEATH OF KING JOHN,History,1597,William Shakespeare,contents,reference,ACT III,SCENE I,NA,NA,king’s
-1511,King John,THE LIFE AND DEATH OF KING JOHN,History,1597,William Shakespeare,contents,reference,ACT III,SCENE I,NA,NA,tent
 1511,King John,THE LIFE AND DEATH OF KING JOHN,History,1597,William Shakespeare,contents,directions,ACT III,SCENE I,NA,NA,enter
 1511,King John,THE LIFE AND DEATH OF KING JOHN,History,1597,William Shakespeare,contents,directions,ACT III,SCENE I,NA,NA,constance
 1511,King John,THE LIFE AND DEATH OF KING JOHN,History,1597,William Shakespeare,contents,directions,ACT III,SCENE I,NA,NA,arthur
@@ -10195,13 +9845,6 @@ gutenberg_id,short_title,gutenberg_title,genre,year,author,section,class,act,sce
 1511,King John,THE LIFE AND DEATH OF KING JOHN,History,1597,William Shakespeare,contents,dialogue,ACT III,SCENE I,KING JOHN,1248,hie
 1511,King John,THE LIFE AND DEATH OF KING JOHN,History,1597,William Shakespeare,contents,directions,ACT III,SCENE I,NA,NA,exeunt
 1511,King John,THE LIFE AND DEATH OF KING JOHN,History,1597,William Shakespeare,contents,directions,ACT III,SCENE I,NA,NA,severally
-1511,King John,THE LIFE AND DEATH OF KING JOHN,History,1597,William Shakespeare,contents,reference,ACT III,SCENE II,NA,NA,scene
-1511,King John,THE LIFE AND DEATH OF KING JOHN,History,1597,William Shakespeare,contents,reference,ACT III,SCENE II,NA,NA,ii
-1511,King John,THE LIFE AND DEATH OF KING JOHN,History,1597,William Shakespeare,contents,reference,ACT III,SCENE II,NA,NA,the
-1511,King John,THE LIFE AND DEATH OF KING JOHN,History,1597,William Shakespeare,contents,reference,ACT III,SCENE II,NA,NA,same
-1511,King John,THE LIFE AND DEATH OF KING JOHN,History,1597,William Shakespeare,contents,reference,ACT III,SCENE II,NA,NA,plains
-1511,King John,THE LIFE AND DEATH OF KING JOHN,History,1597,William Shakespeare,contents,reference,ACT III,SCENE II,NA,NA,near
-1511,King John,THE LIFE AND DEATH OF KING JOHN,History,1597,William Shakespeare,contents,reference,ACT III,SCENE II,NA,NA,angiers
 1511,King John,THE LIFE AND DEATH OF KING JOHN,History,1597,William Shakespeare,contents,directions,ACT III,SCENE II,NA,NA,alarums
 1511,King John,THE LIFE AND DEATH OF KING JOHN,History,1597,William Shakespeare,contents,directions,ACT III,SCENE II,NA,NA,excursions
 1511,King John,THE LIFE AND DEATH OF KING JOHN,History,1597,William Shakespeare,contents,directions,ACT III,SCENE II,NA,NA,enter
@@ -10291,10 +9934,6 @@ gutenberg_id,short_title,gutenberg_title,genre,year,author,section,class,act,sce
 1511,King John,THE LIFE AND DEATH OF KING JOHN,History,1597,William Shakespeare,contents,dialogue,ACT III,SCENE II,BASTARD,1259,happy
 1511,King John,THE LIFE AND DEATH OF KING JOHN,History,1597,William Shakespeare,contents,dialogue,ACT III,SCENE II,BASTARD,1259,end
 1511,King John,THE LIFE AND DEATH OF KING JOHN,History,1597,William Shakespeare,contents,directions,ACT III,SCENE II,NA,NA,exeunt
-1511,King John,THE LIFE AND DEATH OF KING JOHN,History,1597,William Shakespeare,contents,reference,ACT III,SCENE III,NA,NA,scene
-1511,King John,THE LIFE AND DEATH OF KING JOHN,History,1597,William Shakespeare,contents,reference,ACT III,SCENE III,NA,NA,iii
-1511,King John,THE LIFE AND DEATH OF KING JOHN,History,1597,William Shakespeare,contents,reference,ACT III,SCENE III,NA,NA,the
-1511,King John,THE LIFE AND DEATH OF KING JOHN,History,1597,William Shakespeare,contents,reference,ACT III,SCENE III,NA,NA,same
 1511,King John,THE LIFE AND DEATH OF KING JOHN,History,1597,William Shakespeare,contents,directions,ACT III,SCENE III,NA,NA,alarums
 1511,King John,THE LIFE AND DEATH OF KING JOHN,History,1597,William Shakespeare,contents,directions,ACT III,SCENE III,NA,NA,excursions
 1511,King John,THE LIFE AND DEATH OF KING JOHN,History,1597,William Shakespeare,contents,directions,ACT III,SCENE III,NA,NA,retreat
@@ -10916,14 +10555,6 @@ gutenberg_id,short_title,gutenberg_title,genre,year,author,section,class,act,sce
 1511,King John,THE LIFE AND DEATH OF KING JOHN,History,1597,William Shakespeare,contents,dialogue,ACT III,SCENE III,KING JOHN,1341,calais
 1511,King John,THE LIFE AND DEATH OF KING JOHN,History,1597,William Shakespeare,contents,dialogue,ACT III,SCENE III,KING JOHN,1341,ho
 1511,King John,THE LIFE AND DEATH OF KING JOHN,History,1597,William Shakespeare,contents,directions,ACT III,SCENE III,NA,NA,exeunt
-1511,King John,THE LIFE AND DEATH OF KING JOHN,History,1597,William Shakespeare,contents,reference,ACT III,SCENE IV,NA,NA,scene
-1511,King John,THE LIFE AND DEATH OF KING JOHN,History,1597,William Shakespeare,contents,reference,ACT III,SCENE IV,NA,NA,iv
-1511,King John,THE LIFE AND DEATH OF KING JOHN,History,1597,William Shakespeare,contents,reference,ACT III,SCENE IV,NA,NA,the
-1511,King John,THE LIFE AND DEATH OF KING JOHN,History,1597,William Shakespeare,contents,reference,ACT III,SCENE IV,NA,NA,same
-1511,King John,THE LIFE AND DEATH OF KING JOHN,History,1597,William Shakespeare,contents,reference,ACT III,SCENE IV,NA,NA,the
-1511,King John,THE LIFE AND DEATH OF KING JOHN,History,1597,William Shakespeare,contents,reference,ACT III,SCENE IV,NA,NA,french
-1511,King John,THE LIFE AND DEATH OF KING JOHN,History,1597,William Shakespeare,contents,reference,ACT III,SCENE IV,NA,NA,king’s
-1511,King John,THE LIFE AND DEATH OF KING JOHN,History,1597,William Shakespeare,contents,reference,ACT III,SCENE IV,NA,NA,tent
 1511,King John,THE LIFE AND DEATH OF KING JOHN,History,1597,William Shakespeare,contents,directions,ACT III,SCENE IV,NA,NA,enter
 1511,King John,THE LIFE AND DEATH OF KING JOHN,History,1597,William Shakespeare,contents,directions,ACT III,SCENE IV,NA,NA,king
 1511,King John,THE LIFE AND DEATH OF KING JOHN,History,1597,William Shakespeare,contents,directions,ACT III,SCENE IV,NA,NA,philip
@@ -12413,16 +12044,6 @@ gutenberg_id,short_title,gutenberg_title,genre,year,author,section,class,act,sce
 1511,King John,THE LIFE AND DEATH OF KING JOHN,History,1597,William Shakespeare,contents,dialogue,ACT III,SCENE IV,LOUIS,1526,say
 1511,King John,THE LIFE AND DEATH OF KING JOHN,History,1597,William Shakespeare,contents,dialogue,ACT III,SCENE IV,LOUIS,1526,no
 1511,King John,THE LIFE AND DEATH OF KING JOHN,History,1597,William Shakespeare,contents,directions,ACT III,SCENE IV,NA,NA,exeunt
-1511,King John,THE LIFE AND DEATH OF KING JOHN,History,1597,William Shakespeare,contents,reference,ACT IV,SCENE IV,NA,NA,act
-1511,King John,THE LIFE AND DEATH OF KING JOHN,History,1597,William Shakespeare,contents,reference,ACT IV,SCENE IV,NA,NA,iv
-1511,King John,THE LIFE AND DEATH OF KING JOHN,History,1597,William Shakespeare,contents,reference,ACT IV,SCENE I,NA,NA,scene
-1511,King John,THE LIFE AND DEATH OF KING JOHN,History,1597,William Shakespeare,contents,reference,ACT IV,SCENE I,NA,NA,i
-1511,King John,THE LIFE AND DEATH OF KING JOHN,History,1597,William Shakespeare,contents,reference,ACT IV,SCENE I,NA,NA,northampton
-1511,King John,THE LIFE AND DEATH OF KING JOHN,History,1597,William Shakespeare,contents,reference,ACT IV,SCENE I,NA,NA,a
-1511,King John,THE LIFE AND DEATH OF KING JOHN,History,1597,William Shakespeare,contents,reference,ACT IV,SCENE I,NA,NA,room
-1511,King John,THE LIFE AND DEATH OF KING JOHN,History,1597,William Shakespeare,contents,reference,ACT IV,SCENE I,NA,NA,in
-1511,King John,THE LIFE AND DEATH OF KING JOHN,History,1597,William Shakespeare,contents,reference,ACT IV,SCENE I,NA,NA,the
-1511,King John,THE LIFE AND DEATH OF KING JOHN,History,1597,William Shakespeare,contents,reference,ACT IV,SCENE I,NA,NA,castle
 1511,King John,THE LIFE AND DEATH OF KING JOHN,History,1597,William Shakespeare,contents,directions,ACT IV,SCENE I,NA,NA,enter
 1511,King John,THE LIFE AND DEATH OF KING JOHN,History,1597,William Shakespeare,contents,directions,ACT IV,SCENE I,NA,NA,hubert
 1511,King John,THE LIFE AND DEATH OF KING JOHN,History,1597,William Shakespeare,contents,directions,ACT IV,SCENE I,NA,NA,and
@@ -13586,17 +13207,6 @@ gutenberg_id,short_title,gutenberg_title,genre,year,author,section,class,act,sce
 1511,King John,THE LIFE AND DEATH OF KING JOHN,History,1597,William Shakespeare,contents,dialogue,ACT IV,SCENE I,HUBERT,1671,for
 1511,King John,THE LIFE AND DEATH OF KING JOHN,History,1597,William Shakespeare,contents,dialogue,ACT IV,SCENE I,HUBERT,1671,thee
 1511,King John,THE LIFE AND DEATH OF KING JOHN,History,1597,William Shakespeare,contents,directions,ACT IV,SCENE I,NA,NA,exeunt
-1511,King John,THE LIFE AND DEATH OF KING JOHN,History,1597,William Shakespeare,contents,reference,ACT IV,SCENE II,NA,NA,scene
-1511,King John,THE LIFE AND DEATH OF KING JOHN,History,1597,William Shakespeare,contents,reference,ACT IV,SCENE II,NA,NA,ii
-1511,King John,THE LIFE AND DEATH OF KING JOHN,History,1597,William Shakespeare,contents,reference,ACT IV,SCENE II,NA,NA,the
-1511,King John,THE LIFE AND DEATH OF KING JOHN,History,1597,William Shakespeare,contents,reference,ACT IV,SCENE II,NA,NA,same
-1511,King John,THE LIFE AND DEATH OF KING JOHN,History,1597,William Shakespeare,contents,reference,ACT IV,SCENE II,NA,NA,a
-1511,King John,THE LIFE AND DEATH OF KING JOHN,History,1597,William Shakespeare,contents,reference,ACT IV,SCENE II,NA,NA,room
-1511,King John,THE LIFE AND DEATH OF KING JOHN,History,1597,William Shakespeare,contents,reference,ACT IV,SCENE II,NA,NA,of
-1511,King John,THE LIFE AND DEATH OF KING JOHN,History,1597,William Shakespeare,contents,reference,ACT IV,SCENE II,NA,NA,state
-1511,King John,THE LIFE AND DEATH OF KING JOHN,History,1597,William Shakespeare,contents,reference,ACT IV,SCENE II,NA,NA,in
-1511,King John,THE LIFE AND DEATH OF KING JOHN,History,1597,William Shakespeare,contents,reference,ACT IV,SCENE II,NA,NA,the
-1511,King John,THE LIFE AND DEATH OF KING JOHN,History,1597,William Shakespeare,contents,reference,ACT IV,SCENE II,NA,NA,palace
 1511,King John,THE LIFE AND DEATH OF KING JOHN,History,1597,William Shakespeare,contents,directions,ACT IV,SCENE II,NA,NA,enter
 1511,King John,THE LIFE AND DEATH OF KING JOHN,History,1597,William Shakespeare,contents,directions,ACT IV,SCENE II,NA,NA,king
 1511,King John,THE LIFE AND DEATH OF KING JOHN,History,1597,William Shakespeare,contents,directions,ACT IV,SCENE II,NA,NA,john
@@ -15764,13 +15374,6 @@ gutenberg_id,short_title,gutenberg_title,genre,year,author,section,class,act,sce
 1511,King John,THE LIFE AND DEATH OF KING JOHN,History,1597,William Shakespeare,contents,dialogue,ACT IV,SCENE II,KING JOHN,1949,more
 1511,King John,THE LIFE AND DEATH OF KING JOHN,History,1597,William Shakespeare,contents,dialogue,ACT IV,SCENE II,KING JOHN,1949,fast
 1511,King John,THE LIFE AND DEATH OF KING JOHN,History,1597,William Shakespeare,contents,directions,ACT IV,SCENE II,NA,NA,exeunt
-1511,King John,THE LIFE AND DEATH OF KING JOHN,History,1597,William Shakespeare,contents,reference,ACT IV,SCENE III,NA,NA,scene
-1511,King John,THE LIFE AND DEATH OF KING JOHN,History,1597,William Shakespeare,contents,reference,ACT IV,SCENE III,NA,NA,iii
-1511,King John,THE LIFE AND DEATH OF KING JOHN,History,1597,William Shakespeare,contents,reference,ACT IV,SCENE III,NA,NA,the
-1511,King John,THE LIFE AND DEATH OF KING JOHN,History,1597,William Shakespeare,contents,reference,ACT IV,SCENE III,NA,NA,same
-1511,King John,THE LIFE AND DEATH OF KING JOHN,History,1597,William Shakespeare,contents,reference,ACT IV,SCENE III,NA,NA,before
-1511,King John,THE LIFE AND DEATH OF KING JOHN,History,1597,William Shakespeare,contents,reference,ACT IV,SCENE III,NA,NA,the
-1511,King John,THE LIFE AND DEATH OF KING JOHN,History,1597,William Shakespeare,contents,reference,ACT IV,SCENE III,NA,NA,castle
 1511,King John,THE LIFE AND DEATH OF KING JOHN,History,1597,William Shakespeare,contents,directions,ACT IV,SCENE III,NA,NA,enter
 1511,King John,THE LIFE AND DEATH OF KING JOHN,History,1597,William Shakespeare,contents,directions,ACT IV,SCENE III,NA,NA,arthur
 1511,King John,THE LIFE AND DEATH OF KING JOHN,History,1597,William Shakespeare,contents,directions,ACT IV,SCENE III,NA,NA,on
@@ -17084,16 +16687,6 @@ gutenberg_id,short_title,gutenberg_title,genre,year,author,section,class,act,sce
 1511,King John,THE LIFE AND DEATH OF KING JOHN,History,1597,William Shakespeare,contents,dialogue,ACT IV,SCENE III,BASTARD,2115,the
 1511,King John,THE LIFE AND DEATH OF KING JOHN,History,1597,William Shakespeare,contents,dialogue,ACT IV,SCENE III,BASTARD,2115,land
 1511,King John,THE LIFE AND DEATH OF KING JOHN,History,1597,William Shakespeare,contents,directions,ACT IV,SCENE III,NA,NA,exeunt
-1511,King John,THE LIFE AND DEATH OF KING JOHN,History,1597,William Shakespeare,contents,reference,ACT V,SCENE III,NA,NA,act
-1511,King John,THE LIFE AND DEATH OF KING JOHN,History,1597,William Shakespeare,contents,reference,ACT V,SCENE III,NA,NA,v
-1511,King John,THE LIFE AND DEATH OF KING JOHN,History,1597,William Shakespeare,contents,reference,ACT V,SCENE I,NA,NA,scene
-1511,King John,THE LIFE AND DEATH OF KING JOHN,History,1597,William Shakespeare,contents,reference,ACT V,SCENE I,NA,NA,i
-1511,King John,THE LIFE AND DEATH OF KING JOHN,History,1597,William Shakespeare,contents,reference,ACT V,SCENE I,NA,NA,northampton
-1511,King John,THE LIFE AND DEATH OF KING JOHN,History,1597,William Shakespeare,contents,reference,ACT V,SCENE I,NA,NA,a
-1511,King John,THE LIFE AND DEATH OF KING JOHN,History,1597,William Shakespeare,contents,reference,ACT V,SCENE I,NA,NA,room
-1511,King John,THE LIFE AND DEATH OF KING JOHN,History,1597,William Shakespeare,contents,reference,ACT V,SCENE I,NA,NA,in
-1511,King John,THE LIFE AND DEATH OF KING JOHN,History,1597,William Shakespeare,contents,reference,ACT V,SCENE I,NA,NA,the
-1511,King John,THE LIFE AND DEATH OF KING JOHN,History,1597,William Shakespeare,contents,reference,ACT V,SCENE I,NA,NA,palace
 1511,King John,THE LIFE AND DEATH OF KING JOHN,History,1597,William Shakespeare,contents,directions,ACT V,SCENE I,NA,NA,enter
 1511,King John,THE LIFE AND DEATH OF KING JOHN,History,1597,William Shakespeare,contents,directions,ACT V,SCENE I,NA,NA,king
 1511,King John,THE LIFE AND DEATH OF KING JOHN,History,1597,William Shakespeare,contents,directions,ACT V,SCENE I,NA,NA,john
@@ -17719,14 +17312,6 @@ gutenberg_id,short_title,gutenberg_title,genre,year,author,section,class,act,sce
 1511,King John,THE LIFE AND DEATH OF KING JOHN,History,1597,William Shakespeare,contents,dialogue,ACT V,SCENE I,BASTARD,2196,prouder
 1511,King John,THE LIFE AND DEATH OF KING JOHN,History,1597,William Shakespeare,contents,dialogue,ACT V,SCENE I,BASTARD,2196,foe
 1511,King John,THE LIFE AND DEATH OF KING JOHN,History,1597,William Shakespeare,contents,directions,ACT V,SCENE I,NA,NA,exeunt
-1511,King John,THE LIFE AND DEATH OF KING JOHN,History,1597,William Shakespeare,contents,reference,ACT V,SCENE II,NA,NA,scene
-1511,King John,THE LIFE AND DEATH OF KING JOHN,History,1597,William Shakespeare,contents,reference,ACT V,SCENE II,NA,NA,ii
-1511,King John,THE LIFE AND DEATH OF KING JOHN,History,1597,William Shakespeare,contents,reference,ACT V,SCENE II,NA,NA,near
-1511,King John,THE LIFE AND DEATH OF KING JOHN,History,1597,William Shakespeare,contents,reference,ACT V,SCENE II,NA,NA,saint
-1511,King John,THE LIFE AND DEATH OF KING JOHN,History,1597,William Shakespeare,contents,reference,ACT V,SCENE II,NA,NA,edmundsbury
-1511,King John,THE LIFE AND DEATH OF KING JOHN,History,1597,William Shakespeare,contents,reference,ACT V,SCENE II,NA,NA,the
-1511,King John,THE LIFE AND DEATH OF KING JOHN,History,1597,William Shakespeare,contents,reference,ACT V,SCENE II,NA,NA,french
-1511,King John,THE LIFE AND DEATH OF KING JOHN,History,1597,William Shakespeare,contents,reference,ACT V,SCENE II,NA,NA,camp
 1511,King John,THE LIFE AND DEATH OF KING JOHN,History,1597,William Shakespeare,contents,directions,ACT V,SCENE II,NA,NA,enter
 1511,King John,THE LIFE AND DEATH OF KING JOHN,History,1597,William Shakespeare,contents,directions,ACT V,SCENE II,NA,NA,in
 1511,King John,THE LIFE AND DEATH OF KING JOHN,History,1597,William Shakespeare,contents,directions,ACT V,SCENE II,NA,NA,arms
@@ -19157,14 +18742,6 @@ gutenberg_id,short_title,gutenberg_title,genre,year,author,section,class,act,sce
 1511,King John,THE LIFE AND DEATH OF KING JOHN,History,1597,William Shakespeare,contents,dialogue,ACT V,SCENE II,BASTARD,2379,not
 1511,King John,THE LIFE AND DEATH OF KING JOHN,History,1597,William Shakespeare,contents,dialogue,ACT V,SCENE II,BASTARD,2379,doubt
 1511,King John,THE LIFE AND DEATH OF KING JOHN,History,1597,William Shakespeare,contents,directions,ACT V,SCENE II,NA,NA,exeunt
-1511,King John,THE LIFE AND DEATH OF KING JOHN,History,1597,William Shakespeare,contents,reference,ACT V,SCENE III,NA,NA,scene
-1511,King John,THE LIFE AND DEATH OF KING JOHN,History,1597,William Shakespeare,contents,reference,ACT V,SCENE III,NA,NA,iii
-1511,King John,THE LIFE AND DEATH OF KING JOHN,History,1597,William Shakespeare,contents,reference,ACT V,SCENE III,NA,NA,the
-1511,King John,THE LIFE AND DEATH OF KING JOHN,History,1597,William Shakespeare,contents,reference,ACT V,SCENE III,NA,NA,same
-1511,King John,THE LIFE AND DEATH OF KING JOHN,History,1597,William Shakespeare,contents,reference,ACT V,SCENE III,NA,NA,the
-1511,King John,THE LIFE AND DEATH OF KING JOHN,History,1597,William Shakespeare,contents,reference,ACT V,SCENE III,NA,NA,field
-1511,King John,THE LIFE AND DEATH OF KING JOHN,History,1597,William Shakespeare,contents,reference,ACT V,SCENE III,NA,NA,of
-1511,King John,THE LIFE AND DEATH OF KING JOHN,History,1597,William Shakespeare,contents,reference,ACT V,SCENE III,NA,NA,battle
 1511,King John,THE LIFE AND DEATH OF KING JOHN,History,1597,William Shakespeare,contents,directions,ACT V,SCENE III,NA,NA,alarums
 1511,King John,THE LIFE AND DEATH OF KING JOHN,History,1597,William Shakespeare,contents,directions,ACT V,SCENE III,NA,NA,enter
 1511,King John,THE LIFE AND DEATH OF KING JOHN,History,1597,William Shakespeare,contents,directions,ACT V,SCENE III,NA,NA,king
@@ -19311,15 +18888,6 @@ gutenberg_id,short_title,gutenberg_title,genre,year,author,section,class,act,sce
 1511,King John,THE LIFE AND DEATH OF KING JOHN,History,1597,William Shakespeare,contents,dialogue,ACT V,SCENE III,KING JOHN,2396,am
 1511,King John,THE LIFE AND DEATH OF KING JOHN,History,1597,William Shakespeare,contents,dialogue,ACT V,SCENE III,KING JOHN,2396,faint
 1511,King John,THE LIFE AND DEATH OF KING JOHN,History,1597,William Shakespeare,contents,directions,ACT V,SCENE III,NA,NA,exeunt
-1511,King John,THE LIFE AND DEATH OF KING JOHN,History,1597,William Shakespeare,contents,reference,ACT V,SCENE IV,NA,NA,scene
-1511,King John,THE LIFE AND DEATH OF KING JOHN,History,1597,William Shakespeare,contents,reference,ACT V,SCENE IV,NA,NA,iv
-1511,King John,THE LIFE AND DEATH OF KING JOHN,History,1597,William Shakespeare,contents,reference,ACT V,SCENE IV,NA,NA,the
-1511,King John,THE LIFE AND DEATH OF KING JOHN,History,1597,William Shakespeare,contents,reference,ACT V,SCENE IV,NA,NA,same
-1511,King John,THE LIFE AND DEATH OF KING JOHN,History,1597,William Shakespeare,contents,reference,ACT V,SCENE IV,NA,NA,another
-1511,King John,THE LIFE AND DEATH OF KING JOHN,History,1597,William Shakespeare,contents,reference,ACT V,SCENE IV,NA,NA,part
-1511,King John,THE LIFE AND DEATH OF KING JOHN,History,1597,William Shakespeare,contents,reference,ACT V,SCENE IV,NA,NA,of
-1511,King John,THE LIFE AND DEATH OF KING JOHN,History,1597,William Shakespeare,contents,reference,ACT V,SCENE IV,NA,NA,the
-1511,King John,THE LIFE AND DEATH OF KING JOHN,History,1597,William Shakespeare,contents,reference,ACT V,SCENE IV,NA,NA,same
 1511,King John,THE LIFE AND DEATH OF KING JOHN,History,1597,William Shakespeare,contents,directions,ACT V,SCENE IV,NA,NA,enter
 1511,King John,THE LIFE AND DEATH OF KING JOHN,History,1597,William Shakespeare,contents,directions,ACT V,SCENE IV,NA,NA,salisbury
 1511,King John,THE LIFE AND DEATH OF KING JOHN,History,1597,William Shakespeare,contents,directions,ACT V,SCENE IV,NA,NA,pembroke
@@ -19820,13 +19388,6 @@ gutenberg_id,short_title,gutenberg_title,genre,year,author,section,class,act,sce
 1511,King John,THE LIFE AND DEATH OF KING JOHN,History,1597,William Shakespeare,contents,directions,ACT V,SCENE IV,NA,NA,leading
 1511,King John,THE LIFE AND DEATH OF KING JOHN,History,1597,William Shakespeare,contents,directions,ACT V,SCENE IV,NA,NA,off
 1511,King John,THE LIFE AND DEATH OF KING JOHN,History,1597,William Shakespeare,contents,directions,ACT V,SCENE IV,NA,NA,melun
-1511,King John,THE LIFE AND DEATH OF KING JOHN,History,1597,William Shakespeare,contents,reference,ACT V,SCENE V,NA,NA,scene
-1511,King John,THE LIFE AND DEATH OF KING JOHN,History,1597,William Shakespeare,contents,reference,ACT V,SCENE V,NA,NA,v
-1511,King John,THE LIFE AND DEATH OF KING JOHN,History,1597,William Shakespeare,contents,reference,ACT V,SCENE V,NA,NA,the
-1511,King John,THE LIFE AND DEATH OF KING JOHN,History,1597,William Shakespeare,contents,reference,ACT V,SCENE V,NA,NA,same
-1511,King John,THE LIFE AND DEATH OF KING JOHN,History,1597,William Shakespeare,contents,reference,ACT V,SCENE V,NA,NA,the
-1511,King John,THE LIFE AND DEATH OF KING JOHN,History,1597,William Shakespeare,contents,reference,ACT V,SCENE V,NA,NA,french
-1511,King John,THE LIFE AND DEATH OF KING JOHN,History,1597,William Shakespeare,contents,reference,ACT V,SCENE V,NA,NA,camp
 1511,King John,THE LIFE AND DEATH OF KING JOHN,History,1597,William Shakespeare,contents,directions,ACT V,SCENE V,NA,NA,enter
 1511,King John,THE LIFE AND DEATH OF KING JOHN,History,1597,William Shakespeare,contents,directions,ACT V,SCENE V,NA,NA,louis
 1511,King John,THE LIFE AND DEATH OF KING JOHN,History,1597,William Shakespeare,contents,directions,ACT V,SCENE V,NA,NA,and
@@ -20019,17 +19580,6 @@ gutenberg_id,short_title,gutenberg_title,genre,year,author,section,class,act,sce
 1511,King John,THE LIFE AND DEATH OF KING JOHN,History,1597,William Shakespeare,contents,dialogue,ACT V,SCENE V,LOUIS,2481,of
 1511,King John,THE LIFE AND DEATH OF KING JOHN,History,1597,William Shakespeare,contents,dialogue,ACT V,SCENE V,LOUIS,2481,tomorrow
 1511,King John,THE LIFE AND DEATH OF KING JOHN,History,1597,William Shakespeare,contents,directions,ACT V,SCENE V,NA,NA,exeunt
-1511,King John,THE LIFE AND DEATH OF KING JOHN,History,1597,William Shakespeare,contents,reference,ACT V,SCENE VI,NA,NA,scene
-1511,King John,THE LIFE AND DEATH OF KING JOHN,History,1597,William Shakespeare,contents,reference,ACT V,SCENE VI,NA,NA,vi
-1511,King John,THE LIFE AND DEATH OF KING JOHN,History,1597,William Shakespeare,contents,reference,ACT V,SCENE VI,NA,NA,an
-1511,King John,THE LIFE AND DEATH OF KING JOHN,History,1597,William Shakespeare,contents,reference,ACT V,SCENE VI,NA,NA,open
-1511,King John,THE LIFE AND DEATH OF KING JOHN,History,1597,William Shakespeare,contents,reference,ACT V,SCENE VI,NA,NA,place
-1511,King John,THE LIFE AND DEATH OF KING JOHN,History,1597,William Shakespeare,contents,reference,ACT V,SCENE VI,NA,NA,in
-1511,King John,THE LIFE AND DEATH OF KING JOHN,History,1597,William Shakespeare,contents,reference,ACT V,SCENE VI,NA,NA,the
-1511,King John,THE LIFE AND DEATH OF KING JOHN,History,1597,William Shakespeare,contents,reference,ACT V,SCENE VI,NA,NA,neighborhood
-1511,King John,THE LIFE AND DEATH OF KING JOHN,History,1597,William Shakespeare,contents,reference,ACT V,SCENE VI,NA,NA,of
-1511,King John,THE LIFE AND DEATH OF KING JOHN,History,1597,William Shakespeare,contents,reference,ACT V,SCENE VI,NA,NA,swinstead
-1511,King John,THE LIFE AND DEATH OF KING JOHN,History,1597,William Shakespeare,contents,reference,ACT V,SCENE VI,NA,NA,abbey
 1511,King John,THE LIFE AND DEATH OF KING JOHN,History,1597,William Shakespeare,contents,directions,ACT V,SCENE VI,NA,NA,enter
 1511,King John,THE LIFE AND DEATH OF KING JOHN,History,1597,William Shakespeare,contents,directions,ACT V,SCENE VI,NA,NA,the
 1511,King John,THE LIFE AND DEATH OF KING JOHN,History,1597,William Shakespeare,contents,directions,ACT V,SCENE VI,NA,NA,bastard
@@ -20391,13 +19941,6 @@ gutenberg_id,short_title,gutenberg_title,genre,year,author,section,class,act,sce
 1511,King John,THE LIFE AND DEATH OF KING JOHN,History,1597,William Shakespeare,contents,dialogue,ACT V,SCENE VI,BASTARD,2529,i
 1511,King John,THE LIFE AND DEATH OF KING JOHN,History,1597,William Shakespeare,contents,dialogue,ACT V,SCENE VI,BASTARD,2529,come
 1511,King John,THE LIFE AND DEATH OF KING JOHN,History,1597,William Shakespeare,contents,directions,ACT V,SCENE VI,NA,NA,exeunt
-1511,King John,THE LIFE AND DEATH OF KING JOHN,History,1597,William Shakespeare,contents,reference,ACT V,SCENE VII,NA,NA,scene
-1511,King John,THE LIFE AND DEATH OF KING JOHN,History,1597,William Shakespeare,contents,reference,ACT V,SCENE VII,NA,NA,vii
-1511,King John,THE LIFE AND DEATH OF KING JOHN,History,1597,William Shakespeare,contents,reference,ACT V,SCENE VII,NA,NA,the
-1511,King John,THE LIFE AND DEATH OF KING JOHN,History,1597,William Shakespeare,contents,reference,ACT V,SCENE VII,NA,NA,orchard
-1511,King John,THE LIFE AND DEATH OF KING JOHN,History,1597,William Shakespeare,contents,reference,ACT V,SCENE VII,NA,NA,of
-1511,King John,THE LIFE AND DEATH OF KING JOHN,History,1597,William Shakespeare,contents,reference,ACT V,SCENE VII,NA,NA,swinstead
-1511,King John,THE LIFE AND DEATH OF KING JOHN,History,1597,William Shakespeare,contents,reference,ACT V,SCENE VII,NA,NA,abbey
 1511,King John,THE LIFE AND DEATH OF KING JOHN,History,1597,William Shakespeare,contents,directions,ACT V,SCENE VII,NA,NA,enter
 1511,King John,THE LIFE AND DEATH OF KING JOHN,History,1597,William Shakespeare,contents,directions,ACT V,SCENE VII,NA,NA,prince
 1511,King John,THE LIFE AND DEATH OF KING JOHN,History,1597,William Shakespeare,contents,directions,ACT V,SCENE VII,NA,NA,henry

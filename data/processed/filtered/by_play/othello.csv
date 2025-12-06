@@ -1,223 +1,4 @@
 gutenberg_id,short_title,gutenberg_title,genre,year,author,section,class,act,scene,character,line_number,word
-1531,Othello,"OTHELLO, THE MOOR OF VENICE",Tragedy,1604,William Shakespeare,front_matter,title,NA,NA,NA,NA,othello
-1531,Othello,"OTHELLO, THE MOOR OF VENICE",Tragedy,1604,William Shakespeare,front_matter,title,NA,NA,NA,NA,the
-1531,Othello,"OTHELLO, THE MOOR OF VENICE",Tragedy,1604,William Shakespeare,front_matter,title,NA,NA,NA,NA,moor
-1531,Othello,"OTHELLO, THE MOOR OF VENICE",Tragedy,1604,William Shakespeare,front_matter,title,NA,NA,NA,NA,of
-1531,Othello,"OTHELLO, THE MOOR OF VENICE",Tragedy,1604,William Shakespeare,front_matter,title,NA,NA,NA,NA,venice
-1531,Othello,"OTHELLO, THE MOOR OF VENICE",Tragedy,1604,William Shakespeare,front_matter,author,NA,NA,NA,NA,by
-1531,Othello,"OTHELLO, THE MOOR OF VENICE",Tragedy,1604,William Shakespeare,front_matter,author,NA,NA,NA,NA,william
-1531,Othello,"OTHELLO, THE MOOR OF VENICE",Tragedy,1604,William Shakespeare,front_matter,author,NA,NA,NA,NA,shakespeare
-1531,Othello,"OTHELLO, THE MOOR OF VENICE",Tragedy,1604,William Shakespeare,front_matter,contents_header,NA,NA,NA,NA,contents
-1531,Othello,"OTHELLO, THE MOOR OF VENICE",Tragedy,1604,William Shakespeare,front_matter,contents,ACT I,NA,NA,NA,act
-1531,Othello,"OTHELLO, THE MOOR OF VENICE",Tragedy,1604,William Shakespeare,front_matter,contents,ACT I,NA,NA,NA,i
-1531,Othello,"OTHELLO, THE MOOR OF VENICE",Tragedy,1604,William Shakespeare,front_matter,contents,ACT I,Scene I,NA,NA,scene
-1531,Othello,"OTHELLO, THE MOOR OF VENICE",Tragedy,1604,William Shakespeare,front_matter,contents,ACT I,Scene I,NA,NA,i
-1531,Othello,"OTHELLO, THE MOOR OF VENICE",Tragedy,1604,William Shakespeare,front_matter,contents,ACT I,Scene I,NA,NA,venice
-1531,Othello,"OTHELLO, THE MOOR OF VENICE",Tragedy,1604,William Shakespeare,front_matter,contents,ACT I,Scene I,NA,NA,a
-1531,Othello,"OTHELLO, THE MOOR OF VENICE",Tragedy,1604,William Shakespeare,front_matter,contents,ACT I,Scene I,NA,NA,street
-1531,Othello,"OTHELLO, THE MOOR OF VENICE",Tragedy,1604,William Shakespeare,front_matter,contents,ACT I,Scene II,NA,NA,scene
-1531,Othello,"OTHELLO, THE MOOR OF VENICE",Tragedy,1604,William Shakespeare,front_matter,contents,ACT I,Scene II,NA,NA,ii
-1531,Othello,"OTHELLO, THE MOOR OF VENICE",Tragedy,1604,William Shakespeare,front_matter,contents,ACT I,Scene II,NA,NA,venice
-1531,Othello,"OTHELLO, THE MOOR OF VENICE",Tragedy,1604,William Shakespeare,front_matter,contents,ACT I,Scene II,NA,NA,another
-1531,Othello,"OTHELLO, THE MOOR OF VENICE",Tragedy,1604,William Shakespeare,front_matter,contents,ACT I,Scene II,NA,NA,street
-1531,Othello,"OTHELLO, THE MOOR OF VENICE",Tragedy,1604,William Shakespeare,front_matter,contents,ACT I,Scene III,NA,NA,scene
-1531,Othello,"OTHELLO, THE MOOR OF VENICE",Tragedy,1604,William Shakespeare,front_matter,contents,ACT I,Scene III,NA,NA,iii
-1531,Othello,"OTHELLO, THE MOOR OF VENICE",Tragedy,1604,William Shakespeare,front_matter,contents,ACT I,Scene III,NA,NA,venice
-1531,Othello,"OTHELLO, THE MOOR OF VENICE",Tragedy,1604,William Shakespeare,front_matter,contents,ACT I,Scene III,NA,NA,a
-1531,Othello,"OTHELLO, THE MOOR OF VENICE",Tragedy,1604,William Shakespeare,front_matter,contents,ACT I,Scene III,NA,NA,council
-1531,Othello,"OTHELLO, THE MOOR OF VENICE",Tragedy,1604,William Shakespeare,front_matter,contents,ACT I,Scene III,NA,NA,chamber
-1531,Othello,"OTHELLO, THE MOOR OF VENICE",Tragedy,1604,William Shakespeare,front_matter,contents,ACT II,NA,NA,NA,act
-1531,Othello,"OTHELLO, THE MOOR OF VENICE",Tragedy,1604,William Shakespeare,front_matter,contents,ACT II,NA,NA,NA,ii
-1531,Othello,"OTHELLO, THE MOOR OF VENICE",Tragedy,1604,William Shakespeare,front_matter,contents,ACT II,Scene I,NA,NA,scene
-1531,Othello,"OTHELLO, THE MOOR OF VENICE",Tragedy,1604,William Shakespeare,front_matter,contents,ACT II,Scene I,NA,NA,i
-1531,Othello,"OTHELLO, THE MOOR OF VENICE",Tragedy,1604,William Shakespeare,front_matter,contents,ACT II,Scene I,NA,NA,a
-1531,Othello,"OTHELLO, THE MOOR OF VENICE",Tragedy,1604,William Shakespeare,front_matter,contents,ACT II,Scene I,NA,NA,seaport
-1531,Othello,"OTHELLO, THE MOOR OF VENICE",Tragedy,1604,William Shakespeare,front_matter,contents,ACT II,Scene I,NA,NA,in
-1531,Othello,"OTHELLO, THE MOOR OF VENICE",Tragedy,1604,William Shakespeare,front_matter,contents,ACT II,Scene I,NA,NA,cyprus
-1531,Othello,"OTHELLO, THE MOOR OF VENICE",Tragedy,1604,William Shakespeare,front_matter,contents,ACT II,Scene I,NA,NA,a
-1531,Othello,"OTHELLO, THE MOOR OF VENICE",Tragedy,1604,William Shakespeare,front_matter,contents,ACT II,Scene I,NA,NA,platform
-1531,Othello,"OTHELLO, THE MOOR OF VENICE",Tragedy,1604,William Shakespeare,front_matter,contents,ACT II,Scene II,NA,NA,scene
-1531,Othello,"OTHELLO, THE MOOR OF VENICE",Tragedy,1604,William Shakespeare,front_matter,contents,ACT II,Scene II,NA,NA,ii
-1531,Othello,"OTHELLO, THE MOOR OF VENICE",Tragedy,1604,William Shakespeare,front_matter,contents,ACT II,Scene II,NA,NA,a
-1531,Othello,"OTHELLO, THE MOOR OF VENICE",Tragedy,1604,William Shakespeare,front_matter,contents,ACT II,Scene II,NA,NA,street
-1531,Othello,"OTHELLO, THE MOOR OF VENICE",Tragedy,1604,William Shakespeare,front_matter,contents,ACT II,Scene III,NA,NA,scene
-1531,Othello,"OTHELLO, THE MOOR OF VENICE",Tragedy,1604,William Shakespeare,front_matter,contents,ACT II,Scene III,NA,NA,iii
-1531,Othello,"OTHELLO, THE MOOR OF VENICE",Tragedy,1604,William Shakespeare,front_matter,contents,ACT II,Scene III,NA,NA,a
-1531,Othello,"OTHELLO, THE MOOR OF VENICE",Tragedy,1604,William Shakespeare,front_matter,contents,ACT II,Scene III,NA,NA,hall
-1531,Othello,"OTHELLO, THE MOOR OF VENICE",Tragedy,1604,William Shakespeare,front_matter,contents,ACT II,Scene III,NA,NA,in
-1531,Othello,"OTHELLO, THE MOOR OF VENICE",Tragedy,1604,William Shakespeare,front_matter,contents,ACT II,Scene III,NA,NA,the
-1531,Othello,"OTHELLO, THE MOOR OF VENICE",Tragedy,1604,William Shakespeare,front_matter,contents,ACT II,Scene III,NA,NA,castle
-1531,Othello,"OTHELLO, THE MOOR OF VENICE",Tragedy,1604,William Shakespeare,front_matter,contents,ACT III,NA,NA,NA,act
-1531,Othello,"OTHELLO, THE MOOR OF VENICE",Tragedy,1604,William Shakespeare,front_matter,contents,ACT III,NA,NA,NA,iii
-1531,Othello,"OTHELLO, THE MOOR OF VENICE",Tragedy,1604,William Shakespeare,front_matter,contents,ACT III,Scene I,NA,NA,scene
-1531,Othello,"OTHELLO, THE MOOR OF VENICE",Tragedy,1604,William Shakespeare,front_matter,contents,ACT III,Scene I,NA,NA,i
-1531,Othello,"OTHELLO, THE MOOR OF VENICE",Tragedy,1604,William Shakespeare,front_matter,contents,ACT III,Scene I,NA,NA,cyprus
-1531,Othello,"OTHELLO, THE MOOR OF VENICE",Tragedy,1604,William Shakespeare,front_matter,contents,ACT III,Scene I,NA,NA,before
-1531,Othello,"OTHELLO, THE MOOR OF VENICE",Tragedy,1604,William Shakespeare,front_matter,contents,ACT III,Scene I,NA,NA,the
-1531,Othello,"OTHELLO, THE MOOR OF VENICE",Tragedy,1604,William Shakespeare,front_matter,contents,ACT III,Scene I,NA,NA,castle
-1531,Othello,"OTHELLO, THE MOOR OF VENICE",Tragedy,1604,William Shakespeare,front_matter,contents,ACT III,Scene II,NA,NA,scene
-1531,Othello,"OTHELLO, THE MOOR OF VENICE",Tragedy,1604,William Shakespeare,front_matter,contents,ACT III,Scene II,NA,NA,ii
-1531,Othello,"OTHELLO, THE MOOR OF VENICE",Tragedy,1604,William Shakespeare,front_matter,contents,ACT III,Scene II,NA,NA,cyprus
-1531,Othello,"OTHELLO, THE MOOR OF VENICE",Tragedy,1604,William Shakespeare,front_matter,contents,ACT III,Scene II,NA,NA,a
-1531,Othello,"OTHELLO, THE MOOR OF VENICE",Tragedy,1604,William Shakespeare,front_matter,contents,ACT III,Scene II,NA,NA,room
-1531,Othello,"OTHELLO, THE MOOR OF VENICE",Tragedy,1604,William Shakespeare,front_matter,contents,ACT III,Scene II,NA,NA,in
-1531,Othello,"OTHELLO, THE MOOR OF VENICE",Tragedy,1604,William Shakespeare,front_matter,contents,ACT III,Scene II,NA,NA,the
-1531,Othello,"OTHELLO, THE MOOR OF VENICE",Tragedy,1604,William Shakespeare,front_matter,contents,ACT III,Scene II,NA,NA,castle
-1531,Othello,"OTHELLO, THE MOOR OF VENICE",Tragedy,1604,William Shakespeare,front_matter,contents,ACT III,Scene III,NA,NA,scene
-1531,Othello,"OTHELLO, THE MOOR OF VENICE",Tragedy,1604,William Shakespeare,front_matter,contents,ACT III,Scene III,NA,NA,iii
-1531,Othello,"OTHELLO, THE MOOR OF VENICE",Tragedy,1604,William Shakespeare,front_matter,contents,ACT III,Scene III,NA,NA,cyprus
-1531,Othello,"OTHELLO, THE MOOR OF VENICE",Tragedy,1604,William Shakespeare,front_matter,contents,ACT III,Scene III,NA,NA,the
-1531,Othello,"OTHELLO, THE MOOR OF VENICE",Tragedy,1604,William Shakespeare,front_matter,contents,ACT III,Scene III,NA,NA,garden
-1531,Othello,"OTHELLO, THE MOOR OF VENICE",Tragedy,1604,William Shakespeare,front_matter,contents,ACT III,Scene III,NA,NA,of
-1531,Othello,"OTHELLO, THE MOOR OF VENICE",Tragedy,1604,William Shakespeare,front_matter,contents,ACT III,Scene III,NA,NA,the
-1531,Othello,"OTHELLO, THE MOOR OF VENICE",Tragedy,1604,William Shakespeare,front_matter,contents,ACT III,Scene III,NA,NA,castle
-1531,Othello,"OTHELLO, THE MOOR OF VENICE",Tragedy,1604,William Shakespeare,front_matter,contents,ACT III,Scene IV,NA,NA,scene
-1531,Othello,"OTHELLO, THE MOOR OF VENICE",Tragedy,1604,William Shakespeare,front_matter,contents,ACT III,Scene IV,NA,NA,iv
-1531,Othello,"OTHELLO, THE MOOR OF VENICE",Tragedy,1604,William Shakespeare,front_matter,contents,ACT III,Scene IV,NA,NA,cyprus
-1531,Othello,"OTHELLO, THE MOOR OF VENICE",Tragedy,1604,William Shakespeare,front_matter,contents,ACT III,Scene IV,NA,NA,before
-1531,Othello,"OTHELLO, THE MOOR OF VENICE",Tragedy,1604,William Shakespeare,front_matter,contents,ACT III,Scene IV,NA,NA,the
-1531,Othello,"OTHELLO, THE MOOR OF VENICE",Tragedy,1604,William Shakespeare,front_matter,contents,ACT III,Scene IV,NA,NA,castle
-1531,Othello,"OTHELLO, THE MOOR OF VENICE",Tragedy,1604,William Shakespeare,front_matter,contents,ACT IV,NA,NA,NA,act
-1531,Othello,"OTHELLO, THE MOOR OF VENICE",Tragedy,1604,William Shakespeare,front_matter,contents,ACT IV,NA,NA,NA,iv
-1531,Othello,"OTHELLO, THE MOOR OF VENICE",Tragedy,1604,William Shakespeare,front_matter,contents,ACT IV,Scene I,NA,NA,scene
-1531,Othello,"OTHELLO, THE MOOR OF VENICE",Tragedy,1604,William Shakespeare,front_matter,contents,ACT IV,Scene I,NA,NA,i
-1531,Othello,"OTHELLO, THE MOOR OF VENICE",Tragedy,1604,William Shakespeare,front_matter,contents,ACT IV,Scene I,NA,NA,cyprus
-1531,Othello,"OTHELLO, THE MOOR OF VENICE",Tragedy,1604,William Shakespeare,front_matter,contents,ACT IV,Scene I,NA,NA,before
-1531,Othello,"OTHELLO, THE MOOR OF VENICE",Tragedy,1604,William Shakespeare,front_matter,contents,ACT IV,Scene I,NA,NA,the
-1531,Othello,"OTHELLO, THE MOOR OF VENICE",Tragedy,1604,William Shakespeare,front_matter,contents,ACT IV,Scene I,NA,NA,castle
-1531,Othello,"OTHELLO, THE MOOR OF VENICE",Tragedy,1604,William Shakespeare,front_matter,contents,ACT IV,Scene II,NA,NA,scene
-1531,Othello,"OTHELLO, THE MOOR OF VENICE",Tragedy,1604,William Shakespeare,front_matter,contents,ACT IV,Scene II,NA,NA,ii
-1531,Othello,"OTHELLO, THE MOOR OF VENICE",Tragedy,1604,William Shakespeare,front_matter,contents,ACT IV,Scene II,NA,NA,cyprus
-1531,Othello,"OTHELLO, THE MOOR OF VENICE",Tragedy,1604,William Shakespeare,front_matter,contents,ACT IV,Scene II,NA,NA,a
-1531,Othello,"OTHELLO, THE MOOR OF VENICE",Tragedy,1604,William Shakespeare,front_matter,contents,ACT IV,Scene II,NA,NA,room
-1531,Othello,"OTHELLO, THE MOOR OF VENICE",Tragedy,1604,William Shakespeare,front_matter,contents,ACT IV,Scene II,NA,NA,in
-1531,Othello,"OTHELLO, THE MOOR OF VENICE",Tragedy,1604,William Shakespeare,front_matter,contents,ACT IV,Scene II,NA,NA,the
-1531,Othello,"OTHELLO, THE MOOR OF VENICE",Tragedy,1604,William Shakespeare,front_matter,contents,ACT IV,Scene II,NA,NA,castle
-1531,Othello,"OTHELLO, THE MOOR OF VENICE",Tragedy,1604,William Shakespeare,front_matter,contents,ACT IV,Scene III,NA,NA,scene
-1531,Othello,"OTHELLO, THE MOOR OF VENICE",Tragedy,1604,William Shakespeare,front_matter,contents,ACT IV,Scene III,NA,NA,iii
-1531,Othello,"OTHELLO, THE MOOR OF VENICE",Tragedy,1604,William Shakespeare,front_matter,contents,ACT IV,Scene III,NA,NA,cyprus
-1531,Othello,"OTHELLO, THE MOOR OF VENICE",Tragedy,1604,William Shakespeare,front_matter,contents,ACT IV,Scene III,NA,NA,another
-1531,Othello,"OTHELLO, THE MOOR OF VENICE",Tragedy,1604,William Shakespeare,front_matter,contents,ACT IV,Scene III,NA,NA,room
-1531,Othello,"OTHELLO, THE MOOR OF VENICE",Tragedy,1604,William Shakespeare,front_matter,contents,ACT IV,Scene III,NA,NA,in
-1531,Othello,"OTHELLO, THE MOOR OF VENICE",Tragedy,1604,William Shakespeare,front_matter,contents,ACT IV,Scene III,NA,NA,the
-1531,Othello,"OTHELLO, THE MOOR OF VENICE",Tragedy,1604,William Shakespeare,front_matter,contents,ACT IV,Scene III,NA,NA,castle
-1531,Othello,"OTHELLO, THE MOOR OF VENICE",Tragedy,1604,William Shakespeare,front_matter,contents,ACT V,NA,NA,NA,act
-1531,Othello,"OTHELLO, THE MOOR OF VENICE",Tragedy,1604,William Shakespeare,front_matter,contents,ACT V,NA,NA,NA,v
-1531,Othello,"OTHELLO, THE MOOR OF VENICE",Tragedy,1604,William Shakespeare,front_matter,contents,ACT V,Scene I,NA,NA,scene
-1531,Othello,"OTHELLO, THE MOOR OF VENICE",Tragedy,1604,William Shakespeare,front_matter,contents,ACT V,Scene I,NA,NA,i
-1531,Othello,"OTHELLO, THE MOOR OF VENICE",Tragedy,1604,William Shakespeare,front_matter,contents,ACT V,Scene I,NA,NA,cyprus
-1531,Othello,"OTHELLO, THE MOOR OF VENICE",Tragedy,1604,William Shakespeare,front_matter,contents,ACT V,Scene I,NA,NA,a
-1531,Othello,"OTHELLO, THE MOOR OF VENICE",Tragedy,1604,William Shakespeare,front_matter,contents,ACT V,Scene I,NA,NA,street
-1531,Othello,"OTHELLO, THE MOOR OF VENICE",Tragedy,1604,William Shakespeare,front_matter,contents,ACT V,Scene II,NA,NA,scene
-1531,Othello,"OTHELLO, THE MOOR OF VENICE",Tragedy,1604,William Shakespeare,front_matter,contents,ACT V,Scene II,NA,NA,ii
-1531,Othello,"OTHELLO, THE MOOR OF VENICE",Tragedy,1604,William Shakespeare,front_matter,contents,ACT V,Scene II,NA,NA,cyprus
-1531,Othello,"OTHELLO, THE MOOR OF VENICE",Tragedy,1604,William Shakespeare,front_matter,contents,ACT V,Scene II,NA,NA,a
-1531,Othello,"OTHELLO, THE MOOR OF VENICE",Tragedy,1604,William Shakespeare,front_matter,contents,ACT V,Scene II,NA,NA,bedchamber
-1531,Othello,"OTHELLO, THE MOOR OF VENICE",Tragedy,1604,William Shakespeare,front_matter,contents,ACT V,Scene II,NA,NA,in
-1531,Othello,"OTHELLO, THE MOOR OF VENICE",Tragedy,1604,William Shakespeare,front_matter,contents,ACT V,Scene II,NA,NA,the
-1531,Othello,"OTHELLO, THE MOOR OF VENICE",Tragedy,1604,William Shakespeare,front_matter,contents,ACT V,Scene II,NA,NA,castle
-1531,Othello,"OTHELLO, THE MOOR OF VENICE",Tragedy,1604,William Shakespeare,front_matter,dramatis_header,NA,NA,NA,NA,dramatis
-1531,Othello,"OTHELLO, THE MOOR OF VENICE",Tragedy,1604,William Shakespeare,front_matter,dramatis_header,NA,NA,NA,NA,personæ
-1531,Othello,"OTHELLO, THE MOOR OF VENICE",Tragedy,1604,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,duke
-1531,Othello,"OTHELLO, THE MOOR OF VENICE",Tragedy,1604,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,of
-1531,Othello,"OTHELLO, THE MOOR OF VENICE",Tragedy,1604,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,venice
-1531,Othello,"OTHELLO, THE MOOR OF VENICE",Tragedy,1604,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,brabantio
-1531,Othello,"OTHELLO, THE MOOR OF VENICE",Tragedy,1604,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,a
-1531,Othello,"OTHELLO, THE MOOR OF VENICE",Tragedy,1604,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,senator
-1531,Othello,"OTHELLO, THE MOOR OF VENICE",Tragedy,1604,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,of
-1531,Othello,"OTHELLO, THE MOOR OF VENICE",Tragedy,1604,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,venice
-1531,Othello,"OTHELLO, THE MOOR OF VENICE",Tragedy,1604,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,and
-1531,Othello,"OTHELLO, THE MOOR OF VENICE",Tragedy,1604,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,desdemona’s
-1531,Othello,"OTHELLO, THE MOOR OF VENICE",Tragedy,1604,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,father
-1531,Othello,"OTHELLO, THE MOOR OF VENICE",Tragedy,1604,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,other
-1531,Othello,"OTHELLO, THE MOOR OF VENICE",Tragedy,1604,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,senators
-1531,Othello,"OTHELLO, THE MOOR OF VENICE",Tragedy,1604,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,gratiano
-1531,Othello,"OTHELLO, THE MOOR OF VENICE",Tragedy,1604,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,brother
-1531,Othello,"OTHELLO, THE MOOR OF VENICE",Tragedy,1604,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,to
-1531,Othello,"OTHELLO, THE MOOR OF VENICE",Tragedy,1604,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,brabantio
-1531,Othello,"OTHELLO, THE MOOR OF VENICE",Tragedy,1604,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,lodovico
-1531,Othello,"OTHELLO, THE MOOR OF VENICE",Tragedy,1604,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,kinsman
-1531,Othello,"OTHELLO, THE MOOR OF VENICE",Tragedy,1604,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,to
-1531,Othello,"OTHELLO, THE MOOR OF VENICE",Tragedy,1604,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,brabantio
-1531,Othello,"OTHELLO, THE MOOR OF VENICE",Tragedy,1604,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,othello
-1531,Othello,"OTHELLO, THE MOOR OF VENICE",Tragedy,1604,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,a
-1531,Othello,"OTHELLO, THE MOOR OF VENICE",Tragedy,1604,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,noble
-1531,Othello,"OTHELLO, THE MOOR OF VENICE",Tragedy,1604,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,moor
-1531,Othello,"OTHELLO, THE MOOR OF VENICE",Tragedy,1604,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,in
-1531,Othello,"OTHELLO, THE MOOR OF VENICE",Tragedy,1604,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,the
-1531,Othello,"OTHELLO, THE MOOR OF VENICE",Tragedy,1604,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,service
-1531,Othello,"OTHELLO, THE MOOR OF VENICE",Tragedy,1604,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,of
-1531,Othello,"OTHELLO, THE MOOR OF VENICE",Tragedy,1604,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,venice
-1531,Othello,"OTHELLO, THE MOOR OF VENICE",Tragedy,1604,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,cassio
-1531,Othello,"OTHELLO, THE MOOR OF VENICE",Tragedy,1604,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,his
-1531,Othello,"OTHELLO, THE MOOR OF VENICE",Tragedy,1604,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,lieutenant
-1531,Othello,"OTHELLO, THE MOOR OF VENICE",Tragedy,1604,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,iago
-1531,Othello,"OTHELLO, THE MOOR OF VENICE",Tragedy,1604,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,his
-1531,Othello,"OTHELLO, THE MOOR OF VENICE",Tragedy,1604,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,ancient
-1531,Othello,"OTHELLO, THE MOOR OF VENICE",Tragedy,1604,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,montano
-1531,Othello,"OTHELLO, THE MOOR OF VENICE",Tragedy,1604,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,othello’s
-1531,Othello,"OTHELLO, THE MOOR OF VENICE",Tragedy,1604,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,predecessor
-1531,Othello,"OTHELLO, THE MOOR OF VENICE",Tragedy,1604,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,in
-1531,Othello,"OTHELLO, THE MOOR OF VENICE",Tragedy,1604,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,the
-1531,Othello,"OTHELLO, THE MOOR OF VENICE",Tragedy,1604,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,government
-1531,Othello,"OTHELLO, THE MOOR OF VENICE",Tragedy,1604,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,of
-1531,Othello,"OTHELLO, THE MOOR OF VENICE",Tragedy,1604,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,cyprus
-1531,Othello,"OTHELLO, THE MOOR OF VENICE",Tragedy,1604,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,roderigo
-1531,Othello,"OTHELLO, THE MOOR OF VENICE",Tragedy,1604,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,a
-1531,Othello,"OTHELLO, THE MOOR OF VENICE",Tragedy,1604,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,venetian
-1531,Othello,"OTHELLO, THE MOOR OF VENICE",Tragedy,1604,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,gentleman
-1531,Othello,"OTHELLO, THE MOOR OF VENICE",Tragedy,1604,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,clown
-1531,Othello,"OTHELLO, THE MOOR OF VENICE",Tragedy,1604,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,servant
-1531,Othello,"OTHELLO, THE MOOR OF VENICE",Tragedy,1604,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,to
-1531,Othello,"OTHELLO, THE MOOR OF VENICE",Tragedy,1604,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,othello
-1531,Othello,"OTHELLO, THE MOOR OF VENICE",Tragedy,1604,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,desdemona
-1531,Othello,"OTHELLO, THE MOOR OF VENICE",Tragedy,1604,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,daughter
-1531,Othello,"OTHELLO, THE MOOR OF VENICE",Tragedy,1604,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,to
-1531,Othello,"OTHELLO, THE MOOR OF VENICE",Tragedy,1604,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,brabantio
-1531,Othello,"OTHELLO, THE MOOR OF VENICE",Tragedy,1604,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,and
-1531,Othello,"OTHELLO, THE MOOR OF VENICE",Tragedy,1604,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,wife
-1531,Othello,"OTHELLO, THE MOOR OF VENICE",Tragedy,1604,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,to
-1531,Othello,"OTHELLO, THE MOOR OF VENICE",Tragedy,1604,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,othello
-1531,Othello,"OTHELLO, THE MOOR OF VENICE",Tragedy,1604,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,emilia
-1531,Othello,"OTHELLO, THE MOOR OF VENICE",Tragedy,1604,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,wife
-1531,Othello,"OTHELLO, THE MOOR OF VENICE",Tragedy,1604,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,to
-1531,Othello,"OTHELLO, THE MOOR OF VENICE",Tragedy,1604,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,iago
-1531,Othello,"OTHELLO, THE MOOR OF VENICE",Tragedy,1604,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,bianca
-1531,Othello,"OTHELLO, THE MOOR OF VENICE",Tragedy,1604,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,mistress
-1531,Othello,"OTHELLO, THE MOOR OF VENICE",Tragedy,1604,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,to
-1531,Othello,"OTHELLO, THE MOOR OF VENICE",Tragedy,1604,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,cassio
-1531,Othello,"OTHELLO, THE MOOR OF VENICE",Tragedy,1604,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,officers
-1531,Othello,"OTHELLO, THE MOOR OF VENICE",Tragedy,1604,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,gentlemen
-1531,Othello,"OTHELLO, THE MOOR OF VENICE",Tragedy,1604,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,messenger
-1531,Othello,"OTHELLO, THE MOOR OF VENICE",Tragedy,1604,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,musicians
-1531,Othello,"OTHELLO, THE MOOR OF VENICE",Tragedy,1604,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,herald
-1531,Othello,"OTHELLO, THE MOOR OF VENICE",Tragedy,1604,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,sailor
-1531,Othello,"OTHELLO, THE MOOR OF VENICE",Tragedy,1604,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,attendants
-1531,Othello,"OTHELLO, THE MOOR OF VENICE",Tragedy,1604,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,c
-1531,Othello,"OTHELLO, THE MOOR OF VENICE",Tragedy,1604,William Shakespeare,front_matter,scene_description,NA,NA,NA,NA,scene
-1531,Othello,"OTHELLO, THE MOOR OF VENICE",Tragedy,1604,William Shakespeare,front_matter,scene_description,NA,NA,NA,NA,the
-1531,Othello,"OTHELLO, THE MOOR OF VENICE",Tragedy,1604,William Shakespeare,front_matter,scene_description,NA,NA,NA,NA,first
-1531,Othello,"OTHELLO, THE MOOR OF VENICE",Tragedy,1604,William Shakespeare,front_matter,scene_description,NA,NA,NA,NA,act
-1531,Othello,"OTHELLO, THE MOOR OF VENICE",Tragedy,1604,William Shakespeare,front_matter,scene_description,NA,NA,NA,NA,in
-1531,Othello,"OTHELLO, THE MOOR OF VENICE",Tragedy,1604,William Shakespeare,front_matter,scene_description,NA,NA,NA,NA,venice
-1531,Othello,"OTHELLO, THE MOOR OF VENICE",Tragedy,1604,William Shakespeare,front_matter,scene_description,NA,NA,NA,NA,during
-1531,Othello,"OTHELLO, THE MOOR OF VENICE",Tragedy,1604,William Shakespeare,front_matter,scene_description,NA,NA,NA,NA,the
-1531,Othello,"OTHELLO, THE MOOR OF VENICE",Tragedy,1604,William Shakespeare,front_matter,scene_description,NA,NA,NA,NA,rest
-1531,Othello,"OTHELLO, THE MOOR OF VENICE",Tragedy,1604,William Shakespeare,front_matter,scene_description,NA,NA,NA,NA,of
-1531,Othello,"OTHELLO, THE MOOR OF VENICE",Tragedy,1604,William Shakespeare,front_matter,scene_description,NA,NA,NA,NA,the
-1531,Othello,"OTHELLO, THE MOOR OF VENICE",Tragedy,1604,William Shakespeare,front_matter,scene_description,NA,NA,NA,NA,play
-1531,Othello,"OTHELLO, THE MOOR OF VENICE",Tragedy,1604,William Shakespeare,front_matter,scene_description,NA,NA,NA,NA,at
-1531,Othello,"OTHELLO, THE MOOR OF VENICE",Tragedy,1604,William Shakespeare,front_matter,scene_description,NA,NA,NA,NA,a
-1531,Othello,"OTHELLO, THE MOOR OF VENICE",Tragedy,1604,William Shakespeare,front_matter,scene_description,NA,NA,NA,NA,seaport
-1531,Othello,"OTHELLO, THE MOOR OF VENICE",Tragedy,1604,William Shakespeare,front_matter,scene_description,NA,NA,NA,NA,in
-1531,Othello,"OTHELLO, THE MOOR OF VENICE",Tragedy,1604,William Shakespeare,front_matter,scene_description,NA,NA,NA,NA,cyprus
-1531,Othello,"OTHELLO, THE MOOR OF VENICE",Tragedy,1604,William Shakespeare,contents,reference,ACT I,NA,NA,NA,act
-1531,Othello,"OTHELLO, THE MOOR OF VENICE",Tragedy,1604,William Shakespeare,contents,reference,ACT I,NA,NA,NA,i
-1531,Othello,"OTHELLO, THE MOOR OF VENICE",Tragedy,1604,William Shakespeare,contents,reference,ACT I,SCENE I,NA,NA,scene
-1531,Othello,"OTHELLO, THE MOOR OF VENICE",Tragedy,1604,William Shakespeare,contents,reference,ACT I,SCENE I,NA,NA,i
-1531,Othello,"OTHELLO, THE MOOR OF VENICE",Tragedy,1604,William Shakespeare,contents,reference,ACT I,SCENE I,NA,NA,venice
-1531,Othello,"OTHELLO, THE MOOR OF VENICE",Tragedy,1604,William Shakespeare,contents,reference,ACT I,SCENE I,NA,NA,a
-1531,Othello,"OTHELLO, THE MOOR OF VENICE",Tragedy,1604,William Shakespeare,contents,reference,ACT I,SCENE I,NA,NA,street
 1531,Othello,"OTHELLO, THE MOOR OF VENICE",Tragedy,1604,William Shakespeare,contents,directions,ACT I,SCENE I,NA,NA,enter
 1531,Othello,"OTHELLO, THE MOOR OF VENICE",Tragedy,1604,William Shakespeare,contents,directions,ACT I,SCENE I,NA,NA,roderigo
 1531,Othello,"OTHELLO, THE MOOR OF VENICE",Tragedy,1604,William Shakespeare,contents,directions,ACT I,SCENE I,NA,NA,and
@@ -1722,11 +1503,6 @@ gutenberg_id,short_title,gutenberg_title,genre,year,author,section,class,act,sce
 1531,Othello,"OTHELLO, THE MOOR OF VENICE",Tragedy,1604,William Shakespeare,contents,dialogue,ACT I,SCENE I,BRABANTIO,194,your
 1531,Othello,"OTHELLO, THE MOOR OF VENICE",Tragedy,1604,William Shakespeare,contents,dialogue,ACT I,SCENE I,BRABANTIO,194,pains
 1531,Othello,"OTHELLO, THE MOOR OF VENICE",Tragedy,1604,William Shakespeare,contents,directions,ACT I,SCENE I,NA,NA,exeunt
-1531,Othello,"OTHELLO, THE MOOR OF VENICE",Tragedy,1604,William Shakespeare,contents,reference,ACT I,SCENE II,NA,NA,scene
-1531,Othello,"OTHELLO, THE MOOR OF VENICE",Tragedy,1604,William Shakespeare,contents,reference,ACT I,SCENE II,NA,NA,ii
-1531,Othello,"OTHELLO, THE MOOR OF VENICE",Tragedy,1604,William Shakespeare,contents,reference,ACT I,SCENE II,NA,NA,venice
-1531,Othello,"OTHELLO, THE MOOR OF VENICE",Tragedy,1604,William Shakespeare,contents,reference,ACT I,SCENE II,NA,NA,another
-1531,Othello,"OTHELLO, THE MOOR OF VENICE",Tragedy,1604,William Shakespeare,contents,reference,ACT I,SCENE II,NA,NA,street
 1531,Othello,"OTHELLO, THE MOOR OF VENICE",Tragedy,1604,William Shakespeare,contents,directions,ACT I,SCENE II,NA,NA,enter
 1531,Othello,"OTHELLO, THE MOOR OF VENICE",Tragedy,1604,William Shakespeare,contents,directions,ACT I,SCENE II,NA,NA,othello
 1531,Othello,"OTHELLO, THE MOOR OF VENICE",Tragedy,1604,William Shakespeare,contents,directions,ACT I,SCENE II,NA,NA,iago
@@ -2581,12 +2357,6 @@ gutenberg_id,short_title,gutenberg_title,genre,year,author,section,class,act,sce
 1531,Othello,"OTHELLO, THE MOOR OF VENICE",Tragedy,1604,William Shakespeare,contents,dialogue,ACT I,SCENE II,BRABANTIO,310,statesmen
 1531,Othello,"OTHELLO, THE MOOR OF VENICE",Tragedy,1604,William Shakespeare,contents,dialogue,ACT I,SCENE II,BRABANTIO,310,be
 1531,Othello,"OTHELLO, THE MOOR OF VENICE",Tragedy,1604,William Shakespeare,contents,directions,ACT I,SCENE II,NA,NA,exeunt
-1531,Othello,"OTHELLO, THE MOOR OF VENICE",Tragedy,1604,William Shakespeare,contents,reference,ACT I,SCENE III,NA,NA,scene
-1531,Othello,"OTHELLO, THE MOOR OF VENICE",Tragedy,1604,William Shakespeare,contents,reference,ACT I,SCENE III,NA,NA,iii
-1531,Othello,"OTHELLO, THE MOOR OF VENICE",Tragedy,1604,William Shakespeare,contents,reference,ACT I,SCENE III,NA,NA,venice
-1531,Othello,"OTHELLO, THE MOOR OF VENICE",Tragedy,1604,William Shakespeare,contents,reference,ACT I,SCENE III,NA,NA,a
-1531,Othello,"OTHELLO, THE MOOR OF VENICE",Tragedy,1604,William Shakespeare,contents,reference,ACT I,SCENE III,NA,NA,council
-1531,Othello,"OTHELLO, THE MOOR OF VENICE",Tragedy,1604,William Shakespeare,contents,reference,ACT I,SCENE III,NA,NA,chamber
 1531,Othello,"OTHELLO, THE MOOR OF VENICE",Tragedy,1604,William Shakespeare,contents,directions,ACT I,SCENE III,NA,NA,the
 1531,Othello,"OTHELLO, THE MOOR OF VENICE",Tragedy,1604,William Shakespeare,contents,directions,ACT I,SCENE III,NA,NA,duke
 1531,Othello,"OTHELLO, THE MOOR OF VENICE",Tragedy,1604,William Shakespeare,contents,directions,ACT I,SCENE III,NA,NA,and
@@ -5860,16 +5630,6 @@ gutenberg_id,short_title,gutenberg_title,genre,year,author,section,class,act,sce
 1531,Othello,"OTHELLO, THE MOOR OF VENICE",Tragedy,1604,William Shakespeare,contents,dialogue,ACT I,SCENE III,IAGO,715,world’s
 1531,Othello,"OTHELLO, THE MOOR OF VENICE",Tragedy,1604,William Shakespeare,contents,dialogue,ACT I,SCENE III,IAGO,715,light
 1531,Othello,"OTHELLO, THE MOOR OF VENICE",Tragedy,1604,William Shakespeare,contents,directions,ACT I,SCENE III,NA,NA,exit
-1531,Othello,"OTHELLO, THE MOOR OF VENICE",Tragedy,1604,William Shakespeare,contents,reference,ACT II,SCENE III,NA,NA,act
-1531,Othello,"OTHELLO, THE MOOR OF VENICE",Tragedy,1604,William Shakespeare,contents,reference,ACT II,SCENE III,NA,NA,ii
-1531,Othello,"OTHELLO, THE MOOR OF VENICE",Tragedy,1604,William Shakespeare,contents,reference,ACT II,SCENE I,NA,NA,scene
-1531,Othello,"OTHELLO, THE MOOR OF VENICE",Tragedy,1604,William Shakespeare,contents,reference,ACT II,SCENE I,NA,NA,i
-1531,Othello,"OTHELLO, THE MOOR OF VENICE",Tragedy,1604,William Shakespeare,contents,reference,ACT II,SCENE I,NA,NA,a
-1531,Othello,"OTHELLO, THE MOOR OF VENICE",Tragedy,1604,William Shakespeare,contents,reference,ACT II,SCENE I,NA,NA,seaport
-1531,Othello,"OTHELLO, THE MOOR OF VENICE",Tragedy,1604,William Shakespeare,contents,reference,ACT II,SCENE I,NA,NA,in
-1531,Othello,"OTHELLO, THE MOOR OF VENICE",Tragedy,1604,William Shakespeare,contents,reference,ACT II,SCENE I,NA,NA,cyprus
-1531,Othello,"OTHELLO, THE MOOR OF VENICE",Tragedy,1604,William Shakespeare,contents,reference,ACT II,SCENE I,NA,NA,a
-1531,Othello,"OTHELLO, THE MOOR OF VENICE",Tragedy,1604,William Shakespeare,contents,reference,ACT II,SCENE I,NA,NA,platform
 1531,Othello,"OTHELLO, THE MOOR OF VENICE",Tragedy,1604,William Shakespeare,contents,directions,ACT II,SCENE I,NA,NA,enter
 1531,Othello,"OTHELLO, THE MOOR OF VENICE",Tragedy,1604,William Shakespeare,contents,directions,ACT II,SCENE I,NA,NA,montano
 1531,Othello,"OTHELLO, THE MOOR OF VENICE",Tragedy,1604,William Shakespeare,contents,directions,ACT II,SCENE I,NA,NA,and
@@ -8439,10 +8199,6 @@ gutenberg_id,short_title,gutenberg_title,genre,year,author,section,class,act,sce
 1531,Othello,"OTHELLO, THE MOOR OF VENICE",Tragedy,1604,William Shakespeare,contents,dialogue,ACT II,SCENE I,IAGO,1020,till
 1531,Othello,"OTHELLO, THE MOOR OF VENICE",Tragedy,1604,William Shakespeare,contents,dialogue,ACT II,SCENE I,IAGO,1020,us’d
 1531,Othello,"OTHELLO, THE MOOR OF VENICE",Tragedy,1604,William Shakespeare,contents,directions,ACT II,SCENE I,NA,NA,exit
-1531,Othello,"OTHELLO, THE MOOR OF VENICE",Tragedy,1604,William Shakespeare,contents,reference,ACT II,SCENE II,NA,NA,scene
-1531,Othello,"OTHELLO, THE MOOR OF VENICE",Tragedy,1604,William Shakespeare,contents,reference,ACT II,SCENE II,NA,NA,ii
-1531,Othello,"OTHELLO, THE MOOR OF VENICE",Tragedy,1604,William Shakespeare,contents,reference,ACT II,SCENE II,NA,NA,a
-1531,Othello,"OTHELLO, THE MOOR OF VENICE",Tragedy,1604,William Shakespeare,contents,reference,ACT II,SCENE II,NA,NA,street
 1531,Othello,"OTHELLO, THE MOOR OF VENICE",Tragedy,1604,William Shakespeare,contents,directions,ACT II,SCENE II,NA,NA,enter
 1531,Othello,"OTHELLO, THE MOOR OF VENICE",Tragedy,1604,William Shakespeare,contents,directions,ACT II,SCENE II,NA,NA,othello’s
 1531,Othello,"OTHELLO, THE MOOR OF VENICE",Tragedy,1604,William Shakespeare,contents,directions,ACT II,SCENE II,NA,NA,herald
@@ -8551,13 +8307,6 @@ gutenberg_id,short_title,gutenberg_title,genre,year,author,section,class,act,sce
 1531,Othello,"OTHELLO, THE MOOR OF VENICE",Tragedy,1604,William Shakespeare,contents,dialogue,ACT II,SCENE II,HERALD,1029,general
 1531,Othello,"OTHELLO, THE MOOR OF VENICE",Tragedy,1604,William Shakespeare,contents,dialogue,ACT II,SCENE II,HERALD,1029,othello
 1531,Othello,"OTHELLO, THE MOOR OF VENICE",Tragedy,1604,William Shakespeare,contents,directions,ACT II,SCENE II,NA,NA,exit
-1531,Othello,"OTHELLO, THE MOOR OF VENICE",Tragedy,1604,William Shakespeare,contents,reference,ACT II,SCENE III,NA,NA,scene
-1531,Othello,"OTHELLO, THE MOOR OF VENICE",Tragedy,1604,William Shakespeare,contents,reference,ACT II,SCENE III,NA,NA,iii
-1531,Othello,"OTHELLO, THE MOOR OF VENICE",Tragedy,1604,William Shakespeare,contents,reference,ACT II,SCENE III,NA,NA,a
-1531,Othello,"OTHELLO, THE MOOR OF VENICE",Tragedy,1604,William Shakespeare,contents,reference,ACT II,SCENE III,NA,NA,hall
-1531,Othello,"OTHELLO, THE MOOR OF VENICE",Tragedy,1604,William Shakespeare,contents,reference,ACT II,SCENE III,NA,NA,in
-1531,Othello,"OTHELLO, THE MOOR OF VENICE",Tragedy,1604,William Shakespeare,contents,reference,ACT II,SCENE III,NA,NA,the
-1531,Othello,"OTHELLO, THE MOOR OF VENICE",Tragedy,1604,William Shakespeare,contents,reference,ACT II,SCENE III,NA,NA,castle
 1531,Othello,"OTHELLO, THE MOOR OF VENICE",Tragedy,1604,William Shakespeare,contents,directions,ACT II,SCENE III,NA,NA,enter
 1531,Othello,"OTHELLO, THE MOOR OF VENICE",Tragedy,1604,William Shakespeare,contents,directions,ACT II,SCENE III,NA,NA,othello
 1531,Othello,"OTHELLO, THE MOOR OF VENICE",Tragedy,1604,William Shakespeare,contents,directions,ACT II,SCENE III,NA,NA,desdemona
@@ -11585,14 +11334,6 @@ gutenberg_id,short_title,gutenberg_title,genre,year,author,section,class,act,sce
 1531,Othello,"OTHELLO, THE MOOR OF VENICE",Tragedy,1604,William Shakespeare,contents,dialogue,ACT II,SCENE III,IAGO,1386,and
 1531,Othello,"OTHELLO, THE MOOR OF VENICE",Tragedy,1604,William Shakespeare,contents,dialogue,ACT II,SCENE III,IAGO,1386,delay
 1531,Othello,"OTHELLO, THE MOOR OF VENICE",Tragedy,1604,William Shakespeare,contents,directions,ACT II,SCENE III,NA,NA,exit
-1531,Othello,"OTHELLO, THE MOOR OF VENICE",Tragedy,1604,William Shakespeare,contents,reference,ACT III,SCENE III,NA,NA,act
-1531,Othello,"OTHELLO, THE MOOR OF VENICE",Tragedy,1604,William Shakespeare,contents,reference,ACT III,SCENE III,NA,NA,iii
-1531,Othello,"OTHELLO, THE MOOR OF VENICE",Tragedy,1604,William Shakespeare,contents,reference,ACT III,SCENE I,NA,NA,scene
-1531,Othello,"OTHELLO, THE MOOR OF VENICE",Tragedy,1604,William Shakespeare,contents,reference,ACT III,SCENE I,NA,NA,i
-1531,Othello,"OTHELLO, THE MOOR OF VENICE",Tragedy,1604,William Shakespeare,contents,reference,ACT III,SCENE I,NA,NA,cyprus
-1531,Othello,"OTHELLO, THE MOOR OF VENICE",Tragedy,1604,William Shakespeare,contents,reference,ACT III,SCENE I,NA,NA,before
-1531,Othello,"OTHELLO, THE MOOR OF VENICE",Tragedy,1604,William Shakespeare,contents,reference,ACT III,SCENE I,NA,NA,the
-1531,Othello,"OTHELLO, THE MOOR OF VENICE",Tragedy,1604,William Shakespeare,contents,reference,ACT III,SCENE I,NA,NA,castle
 1531,Othello,"OTHELLO, THE MOOR OF VENICE",Tragedy,1604,William Shakespeare,contents,directions,ACT III,SCENE I,NA,NA,enter
 1531,Othello,"OTHELLO, THE MOOR OF VENICE",Tragedy,1604,William Shakespeare,contents,directions,ACT III,SCENE I,NA,NA,cassio
 1531,Othello,"OTHELLO, THE MOOR OF VENICE",Tragedy,1604,William Shakespeare,contents,directions,ACT III,SCENE I,NA,NA,and
@@ -12052,14 +11793,6 @@ gutenberg_id,short_title,gutenberg_title,genre,year,author,section,class,act,sce
 1531,Othello,"OTHELLO, THE MOOR OF VENICE",Tragedy,1604,William Shakespeare,contents,dialogue,ACT III,SCENE I,CASSIO,1445,to
 1531,Othello,"OTHELLO, THE MOOR OF VENICE",Tragedy,1604,William Shakespeare,contents,dialogue,ACT III,SCENE I,CASSIO,1445,you
 1531,Othello,"OTHELLO, THE MOOR OF VENICE",Tragedy,1604,William Shakespeare,contents,directions,ACT III,SCENE I,NA,NA,exeunt
-1531,Othello,"OTHELLO, THE MOOR OF VENICE",Tragedy,1604,William Shakespeare,contents,reference,ACT III,SCENE II,NA,NA,scene
-1531,Othello,"OTHELLO, THE MOOR OF VENICE",Tragedy,1604,William Shakespeare,contents,reference,ACT III,SCENE II,NA,NA,ii
-1531,Othello,"OTHELLO, THE MOOR OF VENICE",Tragedy,1604,William Shakespeare,contents,reference,ACT III,SCENE II,NA,NA,cyprus
-1531,Othello,"OTHELLO, THE MOOR OF VENICE",Tragedy,1604,William Shakespeare,contents,reference,ACT III,SCENE II,NA,NA,a
-1531,Othello,"OTHELLO, THE MOOR OF VENICE",Tragedy,1604,William Shakespeare,contents,reference,ACT III,SCENE II,NA,NA,room
-1531,Othello,"OTHELLO, THE MOOR OF VENICE",Tragedy,1604,William Shakespeare,contents,reference,ACT III,SCENE II,NA,NA,in
-1531,Othello,"OTHELLO, THE MOOR OF VENICE",Tragedy,1604,William Shakespeare,contents,reference,ACT III,SCENE II,NA,NA,the
-1531,Othello,"OTHELLO, THE MOOR OF VENICE",Tragedy,1604,William Shakespeare,contents,reference,ACT III,SCENE II,NA,NA,castle
 1531,Othello,"OTHELLO, THE MOOR OF VENICE",Tragedy,1604,William Shakespeare,contents,directions,ACT III,SCENE II,NA,NA,enter
 1531,Othello,"OTHELLO, THE MOOR OF VENICE",Tragedy,1604,William Shakespeare,contents,directions,ACT III,SCENE II,NA,NA,othello
 1531,Othello,"OTHELLO, THE MOOR OF VENICE",Tragedy,1604,William Shakespeare,contents,directions,ACT III,SCENE II,NA,NA,iago
@@ -12112,14 +11845,6 @@ gutenberg_id,short_title,gutenberg_title,genre,year,author,section,class,act,sce
 1531,Othello,"OTHELLO, THE MOOR OF VENICE",Tragedy,1604,William Shakespeare,contents,dialogue,ACT III,SCENE II,GENTLEMEN,1452,your
 1531,Othello,"OTHELLO, THE MOOR OF VENICE",Tragedy,1604,William Shakespeare,contents,dialogue,ACT III,SCENE II,GENTLEMEN,1452,lordship
 1531,Othello,"OTHELLO, THE MOOR OF VENICE",Tragedy,1604,William Shakespeare,contents,directions,ACT III,SCENE II,NA,NA,exeunt
-1531,Othello,"OTHELLO, THE MOOR OF VENICE",Tragedy,1604,William Shakespeare,contents,reference,ACT III,SCENE III,NA,NA,scene
-1531,Othello,"OTHELLO, THE MOOR OF VENICE",Tragedy,1604,William Shakespeare,contents,reference,ACT III,SCENE III,NA,NA,iii
-1531,Othello,"OTHELLO, THE MOOR OF VENICE",Tragedy,1604,William Shakespeare,contents,reference,ACT III,SCENE III,NA,NA,cyprus
-1531,Othello,"OTHELLO, THE MOOR OF VENICE",Tragedy,1604,William Shakespeare,contents,reference,ACT III,SCENE III,NA,NA,the
-1531,Othello,"OTHELLO, THE MOOR OF VENICE",Tragedy,1604,William Shakespeare,contents,reference,ACT III,SCENE III,NA,NA,garden
-1531,Othello,"OTHELLO, THE MOOR OF VENICE",Tragedy,1604,William Shakespeare,contents,reference,ACT III,SCENE III,NA,NA,of
-1531,Othello,"OTHELLO, THE MOOR OF VENICE",Tragedy,1604,William Shakespeare,contents,reference,ACT III,SCENE III,NA,NA,the
-1531,Othello,"OTHELLO, THE MOOR OF VENICE",Tragedy,1604,William Shakespeare,contents,reference,ACT III,SCENE III,NA,NA,castle
 1531,Othello,"OTHELLO, THE MOOR OF VENICE",Tragedy,1604,William Shakespeare,contents,directions,ACT III,SCENE III,NA,NA,enter
 1531,Othello,"OTHELLO, THE MOOR OF VENICE",Tragedy,1604,William Shakespeare,contents,directions,ACT III,SCENE III,NA,NA,desdemona
 1531,Othello,"OTHELLO, THE MOOR OF VENICE",Tragedy,1604,William Shakespeare,contents,directions,ACT III,SCENE III,NA,NA,cassio
@@ -16031,12 +15756,6 @@ gutenberg_id,short_title,gutenberg_title,genre,year,author,section,class,act,sce
 1531,Othello,"OTHELLO, THE MOOR OF VENICE",Tragedy,1604,William Shakespeare,contents,dialogue,ACT III,SCENE III,IAGO,1979,for
 1531,Othello,"OTHELLO, THE MOOR OF VENICE",Tragedy,1604,William Shakespeare,contents,dialogue,ACT III,SCENE III,IAGO,1979,ever
 1531,Othello,"OTHELLO, THE MOOR OF VENICE",Tragedy,1604,William Shakespeare,contents,directions,ACT III,SCENE III,NA,NA,exeunt
-1531,Othello,"OTHELLO, THE MOOR OF VENICE",Tragedy,1604,William Shakespeare,contents,reference,ACT III,SCENE IV,NA,NA,scene
-1531,Othello,"OTHELLO, THE MOOR OF VENICE",Tragedy,1604,William Shakespeare,contents,reference,ACT III,SCENE IV,NA,NA,iv
-1531,Othello,"OTHELLO, THE MOOR OF VENICE",Tragedy,1604,William Shakespeare,contents,reference,ACT III,SCENE IV,NA,NA,cyprus
-1531,Othello,"OTHELLO, THE MOOR OF VENICE",Tragedy,1604,William Shakespeare,contents,reference,ACT III,SCENE IV,NA,NA,before
-1531,Othello,"OTHELLO, THE MOOR OF VENICE",Tragedy,1604,William Shakespeare,contents,reference,ACT III,SCENE IV,NA,NA,the
-1531,Othello,"OTHELLO, THE MOOR OF VENICE",Tragedy,1604,William Shakespeare,contents,reference,ACT III,SCENE IV,NA,NA,castle
 1531,Othello,"OTHELLO, THE MOOR OF VENICE",Tragedy,1604,William Shakespeare,contents,directions,ACT III,SCENE IV,NA,NA,enter
 1531,Othello,"OTHELLO, THE MOOR OF VENICE",Tragedy,1604,William Shakespeare,contents,directions,ACT III,SCENE IV,NA,NA,desdemona
 1531,Othello,"OTHELLO, THE MOOR OF VENICE",Tragedy,1604,William Shakespeare,contents,directions,ACT III,SCENE IV,NA,NA,emilia
@@ -17622,14 +17341,6 @@ gutenberg_id,short_title,gutenberg_title,genre,year,author,section,class,act,sce
 1531,Othello,"OTHELLO, THE MOOR OF VENICE",Tragedy,1604,William Shakespeare,contents,dialogue,ACT III,SCENE IV,BIANCA,2197,be
 1531,Othello,"OTHELLO, THE MOOR OF VENICE",Tragedy,1604,William Shakespeare,contents,dialogue,ACT III,SCENE IV,BIANCA,2197,circumstanc’d
 1531,Othello,"OTHELLO, THE MOOR OF VENICE",Tragedy,1604,William Shakespeare,contents,directions,ACT III,SCENE IV,NA,NA,exeunt
-1531,Othello,"OTHELLO, THE MOOR OF VENICE",Tragedy,1604,William Shakespeare,contents,reference,ACT IV,SCENE IV,NA,NA,act
-1531,Othello,"OTHELLO, THE MOOR OF VENICE",Tragedy,1604,William Shakespeare,contents,reference,ACT IV,SCENE IV,NA,NA,iv
-1531,Othello,"OTHELLO, THE MOOR OF VENICE",Tragedy,1604,William Shakespeare,contents,reference,ACT IV,SCENE I,NA,NA,scene
-1531,Othello,"OTHELLO, THE MOOR OF VENICE",Tragedy,1604,William Shakespeare,contents,reference,ACT IV,SCENE I,NA,NA,i
-1531,Othello,"OTHELLO, THE MOOR OF VENICE",Tragedy,1604,William Shakespeare,contents,reference,ACT IV,SCENE I,NA,NA,cyprus
-1531,Othello,"OTHELLO, THE MOOR OF VENICE",Tragedy,1604,William Shakespeare,contents,reference,ACT IV,SCENE I,NA,NA,before
-1531,Othello,"OTHELLO, THE MOOR OF VENICE",Tragedy,1604,William Shakespeare,contents,reference,ACT IV,SCENE I,NA,NA,the
-1531,Othello,"OTHELLO, THE MOOR OF VENICE",Tragedy,1604,William Shakespeare,contents,reference,ACT IV,SCENE I,NA,NA,castle
 1531,Othello,"OTHELLO, THE MOOR OF VENICE",Tragedy,1604,William Shakespeare,contents,directions,ACT IV,SCENE I,NA,NA,enter
 1531,Othello,"OTHELLO, THE MOOR OF VENICE",Tragedy,1604,William Shakespeare,contents,directions,ACT IV,SCENE I,NA,NA,othello
 1531,Othello,"OTHELLO, THE MOOR OF VENICE",Tragedy,1604,William Shakespeare,contents,directions,ACT IV,SCENE I,NA,NA,and
@@ -19830,14 +19541,6 @@ gutenberg_id,short_title,gutenberg_title,genre,year,author,section,class,act,sce
 1531,Othello,"OTHELLO, THE MOOR OF VENICE",Tragedy,1604,William Shakespeare,contents,dialogue,ACT IV,SCENE I,LODOVICO,2490,in
 1531,Othello,"OTHELLO, THE MOOR OF VENICE",Tragedy,1604,William Shakespeare,contents,dialogue,ACT IV,SCENE I,LODOVICO,2490,him
 1531,Othello,"OTHELLO, THE MOOR OF VENICE",Tragedy,1604,William Shakespeare,contents,directions,ACT IV,SCENE I,NA,NA,exeunt
-1531,Othello,"OTHELLO, THE MOOR OF VENICE",Tragedy,1604,William Shakespeare,contents,reference,ACT IV,SCENE II,NA,NA,scene
-1531,Othello,"OTHELLO, THE MOOR OF VENICE",Tragedy,1604,William Shakespeare,contents,reference,ACT IV,SCENE II,NA,NA,ii
-1531,Othello,"OTHELLO, THE MOOR OF VENICE",Tragedy,1604,William Shakespeare,contents,reference,ACT IV,SCENE II,NA,NA,cyprus
-1531,Othello,"OTHELLO, THE MOOR OF VENICE",Tragedy,1604,William Shakespeare,contents,reference,ACT IV,SCENE II,NA,NA,a
-1531,Othello,"OTHELLO, THE MOOR OF VENICE",Tragedy,1604,William Shakespeare,contents,reference,ACT IV,SCENE II,NA,NA,room
-1531,Othello,"OTHELLO, THE MOOR OF VENICE",Tragedy,1604,William Shakespeare,contents,reference,ACT IV,SCENE II,NA,NA,in
-1531,Othello,"OTHELLO, THE MOOR OF VENICE",Tragedy,1604,William Shakespeare,contents,reference,ACT IV,SCENE II,NA,NA,the
-1531,Othello,"OTHELLO, THE MOOR OF VENICE",Tragedy,1604,William Shakespeare,contents,reference,ACT IV,SCENE II,NA,NA,castle
 1531,Othello,"OTHELLO, THE MOOR OF VENICE",Tragedy,1604,William Shakespeare,contents,directions,ACT IV,SCENE II,NA,NA,enter
 1531,Othello,"OTHELLO, THE MOOR OF VENICE",Tragedy,1604,William Shakespeare,contents,directions,ACT IV,SCENE II,NA,NA,othello
 1531,Othello,"OTHELLO, THE MOOR OF VENICE",Tragedy,1604,William Shakespeare,contents,directions,ACT IV,SCENE II,NA,NA,and
@@ -21842,14 +21545,6 @@ gutenberg_id,short_title,gutenberg_title,genre,year,author,section,class,act,sce
 1531,Othello,"OTHELLO, THE MOOR OF VENICE",Tragedy,1604,William Shakespeare,contents,dialogue,ACT IV,SCENE II,IAGO,2743,be
 1531,Othello,"OTHELLO, THE MOOR OF VENICE",Tragedy,1604,William Shakespeare,contents,dialogue,ACT IV,SCENE II,IAGO,2743,satisfied
 1531,Othello,"OTHELLO, THE MOOR OF VENICE",Tragedy,1604,William Shakespeare,contents,directions,ACT IV,SCENE II,NA,NA,exeunt
-1531,Othello,"OTHELLO, THE MOOR OF VENICE",Tragedy,1604,William Shakespeare,contents,reference,ACT IV,SCENE III,NA,NA,scene
-1531,Othello,"OTHELLO, THE MOOR OF VENICE",Tragedy,1604,William Shakespeare,contents,reference,ACT IV,SCENE III,NA,NA,iii
-1531,Othello,"OTHELLO, THE MOOR OF VENICE",Tragedy,1604,William Shakespeare,contents,reference,ACT IV,SCENE III,NA,NA,cyprus
-1531,Othello,"OTHELLO, THE MOOR OF VENICE",Tragedy,1604,William Shakespeare,contents,reference,ACT IV,SCENE III,NA,NA,another
-1531,Othello,"OTHELLO, THE MOOR OF VENICE",Tragedy,1604,William Shakespeare,contents,reference,ACT IV,SCENE III,NA,NA,room
-1531,Othello,"OTHELLO, THE MOOR OF VENICE",Tragedy,1604,William Shakespeare,contents,reference,ACT IV,SCENE III,NA,NA,in
-1531,Othello,"OTHELLO, THE MOOR OF VENICE",Tragedy,1604,William Shakespeare,contents,reference,ACT IV,SCENE III,NA,NA,the
-1531,Othello,"OTHELLO, THE MOOR OF VENICE",Tragedy,1604,William Shakespeare,contents,reference,ACT IV,SCENE III,NA,NA,castle
 1531,Othello,"OTHELLO, THE MOOR OF VENICE",Tragedy,1604,William Shakespeare,contents,directions,ACT IV,SCENE III,NA,NA,enter
 1531,Othello,"OTHELLO, THE MOOR OF VENICE",Tragedy,1604,William Shakespeare,contents,directions,ACT IV,SCENE III,NA,NA,othello
 1531,Othello,"OTHELLO, THE MOOR OF VENICE",Tragedy,1604,William Shakespeare,contents,directions,ACT IV,SCENE III,NA,NA,lodovico
@@ -22722,13 +22417,6 @@ gutenberg_id,short_title,gutenberg_title,genre,year,author,section,class,act,sce
 1531,Othello,"OTHELLO, THE MOOR OF VENICE",Tragedy,1604,William Shakespeare,contents,dialogue,ACT IV,SCENE III,DESDEMONA,2851,bad
 1531,Othello,"OTHELLO, THE MOOR OF VENICE",Tragedy,1604,William Shakespeare,contents,dialogue,ACT IV,SCENE III,DESDEMONA,2851,mend
 1531,Othello,"OTHELLO, THE MOOR OF VENICE",Tragedy,1604,William Shakespeare,contents,directions,ACT IV,SCENE III,NA,NA,exeunt
-1531,Othello,"OTHELLO, THE MOOR OF VENICE",Tragedy,1604,William Shakespeare,contents,reference,ACT V,SCENE III,NA,NA,act
-1531,Othello,"OTHELLO, THE MOOR OF VENICE",Tragedy,1604,William Shakespeare,contents,reference,ACT V,SCENE III,NA,NA,v
-1531,Othello,"OTHELLO, THE MOOR OF VENICE",Tragedy,1604,William Shakespeare,contents,reference,ACT V,SCENE I,NA,NA,scene
-1531,Othello,"OTHELLO, THE MOOR OF VENICE",Tragedy,1604,William Shakespeare,contents,reference,ACT V,SCENE I,NA,NA,i
-1531,Othello,"OTHELLO, THE MOOR OF VENICE",Tragedy,1604,William Shakespeare,contents,reference,ACT V,SCENE I,NA,NA,cyprus
-1531,Othello,"OTHELLO, THE MOOR OF VENICE",Tragedy,1604,William Shakespeare,contents,reference,ACT V,SCENE I,NA,NA,a
-1531,Othello,"OTHELLO, THE MOOR OF VENICE",Tragedy,1604,William Shakespeare,contents,reference,ACT V,SCENE I,NA,NA,street
 1531,Othello,"OTHELLO, THE MOOR OF VENICE",Tragedy,1604,William Shakespeare,contents,directions,ACT V,SCENE I,NA,NA,enter
 1531,Othello,"OTHELLO, THE MOOR OF VENICE",Tragedy,1604,William Shakespeare,contents,directions,ACT V,SCENE I,NA,NA,iago
 1531,Othello,"OTHELLO, THE MOOR OF VENICE",Tragedy,1604,William Shakespeare,contents,directions,ACT V,SCENE I,NA,NA,and
@@ -23798,14 +23486,6 @@ gutenberg_id,short_title,gutenberg_title,genre,year,author,section,class,act,sce
 1531,Othello,"OTHELLO, THE MOOR OF VENICE",Tragedy,1604,William Shakespeare,contents,dialogue,ACT V,SCENE I,IAGO,2991,me
 1531,Othello,"OTHELLO, THE MOOR OF VENICE",Tragedy,1604,William Shakespeare,contents,dialogue,ACT V,SCENE I,IAGO,2991,quite
 1531,Othello,"OTHELLO, THE MOOR OF VENICE",Tragedy,1604,William Shakespeare,contents,directions,ACT V,SCENE I,NA,NA,exeunt
-1531,Othello,"OTHELLO, THE MOOR OF VENICE",Tragedy,1604,William Shakespeare,contents,reference,ACT V,SCENE II,NA,NA,scene
-1531,Othello,"OTHELLO, THE MOOR OF VENICE",Tragedy,1604,William Shakespeare,contents,reference,ACT V,SCENE II,NA,NA,ii
-1531,Othello,"OTHELLO, THE MOOR OF VENICE",Tragedy,1604,William Shakespeare,contents,reference,ACT V,SCENE II,NA,NA,cyprus
-1531,Othello,"OTHELLO, THE MOOR OF VENICE",Tragedy,1604,William Shakespeare,contents,reference,ACT V,SCENE II,NA,NA,a
-1531,Othello,"OTHELLO, THE MOOR OF VENICE",Tragedy,1604,William Shakespeare,contents,reference,ACT V,SCENE II,NA,NA,bedchamber
-1531,Othello,"OTHELLO, THE MOOR OF VENICE",Tragedy,1604,William Shakespeare,contents,reference,ACT V,SCENE II,NA,NA,in
-1531,Othello,"OTHELLO, THE MOOR OF VENICE",Tragedy,1604,William Shakespeare,contents,reference,ACT V,SCENE II,NA,NA,the
-1531,Othello,"OTHELLO, THE MOOR OF VENICE",Tragedy,1604,William Shakespeare,contents,reference,ACT V,SCENE II,NA,NA,castle
 1531,Othello,"OTHELLO, THE MOOR OF VENICE",Tragedy,1604,William Shakespeare,contents,directions,ACT V,SCENE II,NA,NA,desdemona
 1531,Othello,"OTHELLO, THE MOOR OF VENICE",Tragedy,1604,William Shakespeare,contents,directions,ACT V,SCENE II,NA,NA,in
 1531,Othello,"OTHELLO, THE MOOR OF VENICE",Tragedy,1604,William Shakespeare,contents,directions,ACT V,SCENE II,NA,NA,bed

@@ -1,332 +1,4 @@
 gutenberg_id,short_title,gutenberg_title,genre,year,author,section,class,act,scene,character,line_number,word
-1523,As You Like It,AS YOU LIKE IT,Comedy,1599,William Shakespeare,front_matter,title,NA,NA,NA,NA,as
-1523,As You Like It,AS YOU LIKE IT,Comedy,1599,William Shakespeare,front_matter,title,NA,NA,NA,NA,you
-1523,As You Like It,AS YOU LIKE IT,Comedy,1599,William Shakespeare,front_matter,title,NA,NA,NA,NA,like
-1523,As You Like It,AS YOU LIKE IT,Comedy,1599,William Shakespeare,front_matter,title,NA,NA,NA,NA,it
-1523,As You Like It,AS YOU LIKE IT,Comedy,1599,William Shakespeare,front_matter,author,NA,NA,NA,NA,by
-1523,As You Like It,AS YOU LIKE IT,Comedy,1599,William Shakespeare,front_matter,author,NA,NA,NA,NA,william
-1523,As You Like It,AS YOU LIKE IT,Comedy,1599,William Shakespeare,front_matter,author,NA,NA,NA,NA,shakespeare
-1523,As You Like It,AS YOU LIKE IT,Comedy,1599,William Shakespeare,front_matter,contents_header,NA,NA,NA,NA,contents
-1523,As You Like It,AS YOU LIKE IT,Comedy,1599,William Shakespeare,front_matter,contents,ACT I,NA,NA,NA,act
-1523,As You Like It,AS YOU LIKE IT,Comedy,1599,William Shakespeare,front_matter,contents,ACT I,NA,NA,NA,i
-1523,As You Like It,AS YOU LIKE IT,Comedy,1599,William Shakespeare,front_matter,contents,ACT I,Scene I,NA,NA,scene
-1523,As You Like It,AS YOU LIKE IT,Comedy,1599,William Shakespeare,front_matter,contents,ACT I,Scene I,NA,NA,i
-1523,As You Like It,AS YOU LIKE IT,Comedy,1599,William Shakespeare,front_matter,contents,ACT I,Scene I,NA,NA,an
-1523,As You Like It,AS YOU LIKE IT,Comedy,1599,William Shakespeare,front_matter,contents,ACT I,Scene I,NA,NA,orchard
-1523,As You Like It,AS YOU LIKE IT,Comedy,1599,William Shakespeare,front_matter,contents,ACT I,Scene I,NA,NA,near
-1523,As You Like It,AS YOU LIKE IT,Comedy,1599,William Shakespeare,front_matter,contents,ACT I,Scene I,NA,NA,oliver’s
-1523,As You Like It,AS YOU LIKE IT,Comedy,1599,William Shakespeare,front_matter,contents,ACT I,Scene I,NA,NA,house
-1523,As You Like It,AS YOU LIKE IT,Comedy,1599,William Shakespeare,front_matter,contents,ACT I,Scene II,NA,NA,scene
-1523,As You Like It,AS YOU LIKE IT,Comedy,1599,William Shakespeare,front_matter,contents,ACT I,Scene II,NA,NA,ii
-1523,As You Like It,AS YOU LIKE IT,Comedy,1599,William Shakespeare,front_matter,contents,ACT I,Scene II,NA,NA,a
-1523,As You Like It,AS YOU LIKE IT,Comedy,1599,William Shakespeare,front_matter,contents,ACT I,Scene II,NA,NA,lawn
-1523,As You Like It,AS YOU LIKE IT,Comedy,1599,William Shakespeare,front_matter,contents,ACT I,Scene II,NA,NA,before
-1523,As You Like It,AS YOU LIKE IT,Comedy,1599,William Shakespeare,front_matter,contents,ACT I,Scene II,NA,NA,the
-1523,As You Like It,AS YOU LIKE IT,Comedy,1599,William Shakespeare,front_matter,contents,ACT I,Scene II,NA,NA,duke’s
-1523,As You Like It,AS YOU LIKE IT,Comedy,1599,William Shakespeare,front_matter,contents,ACT I,Scene II,NA,NA,palace
-1523,As You Like It,AS YOU LIKE IT,Comedy,1599,William Shakespeare,front_matter,contents,ACT I,Scene III,NA,NA,scene
-1523,As You Like It,AS YOU LIKE IT,Comedy,1599,William Shakespeare,front_matter,contents,ACT I,Scene III,NA,NA,iii
-1523,As You Like It,AS YOU LIKE IT,Comedy,1599,William Shakespeare,front_matter,contents,ACT I,Scene III,NA,NA,a
-1523,As You Like It,AS YOU LIKE IT,Comedy,1599,William Shakespeare,front_matter,contents,ACT I,Scene III,NA,NA,room
-1523,As You Like It,AS YOU LIKE IT,Comedy,1599,William Shakespeare,front_matter,contents,ACT I,Scene III,NA,NA,in
-1523,As You Like It,AS YOU LIKE IT,Comedy,1599,William Shakespeare,front_matter,contents,ACT I,Scene III,NA,NA,the
-1523,As You Like It,AS YOU LIKE IT,Comedy,1599,William Shakespeare,front_matter,contents,ACT I,Scene III,NA,NA,palace
-1523,As You Like It,AS YOU LIKE IT,Comedy,1599,William Shakespeare,front_matter,contents,ACT II,NA,NA,NA,act
-1523,As You Like It,AS YOU LIKE IT,Comedy,1599,William Shakespeare,front_matter,contents,ACT II,NA,NA,NA,ii
-1523,As You Like It,AS YOU LIKE IT,Comedy,1599,William Shakespeare,front_matter,contents,ACT II,Scene I,NA,NA,scene
-1523,As You Like It,AS YOU LIKE IT,Comedy,1599,William Shakespeare,front_matter,contents,ACT II,Scene I,NA,NA,i
-1523,As You Like It,AS YOU LIKE IT,Comedy,1599,William Shakespeare,front_matter,contents,ACT II,Scene I,NA,NA,the
-1523,As You Like It,AS YOU LIKE IT,Comedy,1599,William Shakespeare,front_matter,contents,ACT II,Scene I,NA,NA,forest
-1523,As You Like It,AS YOU LIKE IT,Comedy,1599,William Shakespeare,front_matter,contents,ACT II,Scene I,NA,NA,of
-1523,As You Like It,AS YOU LIKE IT,Comedy,1599,William Shakespeare,front_matter,contents,ACT II,Scene I,NA,NA,arden
-1523,As You Like It,AS YOU LIKE IT,Comedy,1599,William Shakespeare,front_matter,contents,ACT II,Scene II,NA,NA,scene
-1523,As You Like It,AS YOU LIKE IT,Comedy,1599,William Shakespeare,front_matter,contents,ACT II,Scene II,NA,NA,ii
-1523,As You Like It,AS YOU LIKE IT,Comedy,1599,William Shakespeare,front_matter,contents,ACT II,Scene II,NA,NA,a
-1523,As You Like It,AS YOU LIKE IT,Comedy,1599,William Shakespeare,front_matter,contents,ACT II,Scene II,NA,NA,room
-1523,As You Like It,AS YOU LIKE IT,Comedy,1599,William Shakespeare,front_matter,contents,ACT II,Scene II,NA,NA,in
-1523,As You Like It,AS YOU LIKE IT,Comedy,1599,William Shakespeare,front_matter,contents,ACT II,Scene II,NA,NA,the
-1523,As You Like It,AS YOU LIKE IT,Comedy,1599,William Shakespeare,front_matter,contents,ACT II,Scene II,NA,NA,palace
-1523,As You Like It,AS YOU LIKE IT,Comedy,1599,William Shakespeare,front_matter,contents,ACT II,Scene III,NA,NA,scene
-1523,As You Like It,AS YOU LIKE IT,Comedy,1599,William Shakespeare,front_matter,contents,ACT II,Scene III,NA,NA,iii
-1523,As You Like It,AS YOU LIKE IT,Comedy,1599,William Shakespeare,front_matter,contents,ACT II,Scene III,NA,NA,before
-1523,As You Like It,AS YOU LIKE IT,Comedy,1599,William Shakespeare,front_matter,contents,ACT II,Scene III,NA,NA,oliver’s
-1523,As You Like It,AS YOU LIKE IT,Comedy,1599,William Shakespeare,front_matter,contents,ACT II,Scene III,NA,NA,house
-1523,As You Like It,AS YOU LIKE IT,Comedy,1599,William Shakespeare,front_matter,contents,ACT II,Scene IV,NA,NA,scene
-1523,As You Like It,AS YOU LIKE IT,Comedy,1599,William Shakespeare,front_matter,contents,ACT II,Scene IV,NA,NA,iv
-1523,As You Like It,AS YOU LIKE IT,Comedy,1599,William Shakespeare,front_matter,contents,ACT II,Scene IV,NA,NA,the
-1523,As You Like It,AS YOU LIKE IT,Comedy,1599,William Shakespeare,front_matter,contents,ACT II,Scene IV,NA,NA,forest
-1523,As You Like It,AS YOU LIKE IT,Comedy,1599,William Shakespeare,front_matter,contents,ACT II,Scene IV,NA,NA,of
-1523,As You Like It,AS YOU LIKE IT,Comedy,1599,William Shakespeare,front_matter,contents,ACT II,Scene IV,NA,NA,arden
-1523,As You Like It,AS YOU LIKE IT,Comedy,1599,William Shakespeare,front_matter,contents,ACT II,Scene V,NA,NA,scene
-1523,As You Like It,AS YOU LIKE IT,Comedy,1599,William Shakespeare,front_matter,contents,ACT II,Scene V,NA,NA,v
-1523,As You Like It,AS YOU LIKE IT,Comedy,1599,William Shakespeare,front_matter,contents,ACT II,Scene V,NA,NA,another
-1523,As You Like It,AS YOU LIKE IT,Comedy,1599,William Shakespeare,front_matter,contents,ACT II,Scene V,NA,NA,part
-1523,As You Like It,AS YOU LIKE IT,Comedy,1599,William Shakespeare,front_matter,contents,ACT II,Scene V,NA,NA,of
-1523,As You Like It,AS YOU LIKE IT,Comedy,1599,William Shakespeare,front_matter,contents,ACT II,Scene V,NA,NA,the
-1523,As You Like It,AS YOU LIKE IT,Comedy,1599,William Shakespeare,front_matter,contents,ACT II,Scene V,NA,NA,forest
-1523,As You Like It,AS YOU LIKE IT,Comedy,1599,William Shakespeare,front_matter,contents,ACT II,Scene VI,NA,NA,scene
-1523,As You Like It,AS YOU LIKE IT,Comedy,1599,William Shakespeare,front_matter,contents,ACT II,Scene VI,NA,NA,vi
-1523,As You Like It,AS YOU LIKE IT,Comedy,1599,William Shakespeare,front_matter,contents,ACT II,Scene VI,NA,NA,another
-1523,As You Like It,AS YOU LIKE IT,Comedy,1599,William Shakespeare,front_matter,contents,ACT II,Scene VI,NA,NA,part
-1523,As You Like It,AS YOU LIKE IT,Comedy,1599,William Shakespeare,front_matter,contents,ACT II,Scene VI,NA,NA,of
-1523,As You Like It,AS YOU LIKE IT,Comedy,1599,William Shakespeare,front_matter,contents,ACT II,Scene VI,NA,NA,the
-1523,As You Like It,AS YOU LIKE IT,Comedy,1599,William Shakespeare,front_matter,contents,ACT II,Scene VI,NA,NA,forest
-1523,As You Like It,AS YOU LIKE IT,Comedy,1599,William Shakespeare,front_matter,contents,ACT II,Scene VII,NA,NA,scene
-1523,As You Like It,AS YOU LIKE IT,Comedy,1599,William Shakespeare,front_matter,contents,ACT II,Scene VII,NA,NA,vii
-1523,As You Like It,AS YOU LIKE IT,Comedy,1599,William Shakespeare,front_matter,contents,ACT II,Scene VII,NA,NA,another
-1523,As You Like It,AS YOU LIKE IT,Comedy,1599,William Shakespeare,front_matter,contents,ACT II,Scene VII,NA,NA,part
-1523,As You Like It,AS YOU LIKE IT,Comedy,1599,William Shakespeare,front_matter,contents,ACT II,Scene VII,NA,NA,of
-1523,As You Like It,AS YOU LIKE IT,Comedy,1599,William Shakespeare,front_matter,contents,ACT II,Scene VII,NA,NA,the
-1523,As You Like It,AS YOU LIKE IT,Comedy,1599,William Shakespeare,front_matter,contents,ACT II,Scene VII,NA,NA,forest
-1523,As You Like It,AS YOU LIKE IT,Comedy,1599,William Shakespeare,front_matter,contents,ACT III,NA,NA,NA,act
-1523,As You Like It,AS YOU LIKE IT,Comedy,1599,William Shakespeare,front_matter,contents,ACT III,NA,NA,NA,iii
-1523,As You Like It,AS YOU LIKE IT,Comedy,1599,William Shakespeare,front_matter,contents,ACT III,Scene I,NA,NA,scene
-1523,As You Like It,AS YOU LIKE IT,Comedy,1599,William Shakespeare,front_matter,contents,ACT III,Scene I,NA,NA,i
-1523,As You Like It,AS YOU LIKE IT,Comedy,1599,William Shakespeare,front_matter,contents,ACT III,Scene I,NA,NA,a
-1523,As You Like It,AS YOU LIKE IT,Comedy,1599,William Shakespeare,front_matter,contents,ACT III,Scene I,NA,NA,room
-1523,As You Like It,AS YOU LIKE IT,Comedy,1599,William Shakespeare,front_matter,contents,ACT III,Scene I,NA,NA,in
-1523,As You Like It,AS YOU LIKE IT,Comedy,1599,William Shakespeare,front_matter,contents,ACT III,Scene I,NA,NA,the
-1523,As You Like It,AS YOU LIKE IT,Comedy,1599,William Shakespeare,front_matter,contents,ACT III,Scene I,NA,NA,palace
-1523,As You Like It,AS YOU LIKE IT,Comedy,1599,William Shakespeare,front_matter,contents,ACT III,Scene II,NA,NA,scene
-1523,As You Like It,AS YOU LIKE IT,Comedy,1599,William Shakespeare,front_matter,contents,ACT III,Scene II,NA,NA,ii
-1523,As You Like It,AS YOU LIKE IT,Comedy,1599,William Shakespeare,front_matter,contents,ACT III,Scene II,NA,NA,the
-1523,As You Like It,AS YOU LIKE IT,Comedy,1599,William Shakespeare,front_matter,contents,ACT III,Scene II,NA,NA,forest
-1523,As You Like It,AS YOU LIKE IT,Comedy,1599,William Shakespeare,front_matter,contents,ACT III,Scene II,NA,NA,of
-1523,As You Like It,AS YOU LIKE IT,Comedy,1599,William Shakespeare,front_matter,contents,ACT III,Scene II,NA,NA,arden
-1523,As You Like It,AS YOU LIKE IT,Comedy,1599,William Shakespeare,front_matter,contents,ACT III,Scene III,NA,NA,scene
-1523,As You Like It,AS YOU LIKE IT,Comedy,1599,William Shakespeare,front_matter,contents,ACT III,Scene III,NA,NA,iii
-1523,As You Like It,AS YOU LIKE IT,Comedy,1599,William Shakespeare,front_matter,contents,ACT III,Scene III,NA,NA,another
-1523,As You Like It,AS YOU LIKE IT,Comedy,1599,William Shakespeare,front_matter,contents,ACT III,Scene III,NA,NA,part
-1523,As You Like It,AS YOU LIKE IT,Comedy,1599,William Shakespeare,front_matter,contents,ACT III,Scene III,NA,NA,of
-1523,As You Like It,AS YOU LIKE IT,Comedy,1599,William Shakespeare,front_matter,contents,ACT III,Scene III,NA,NA,the
-1523,As You Like It,AS YOU LIKE IT,Comedy,1599,William Shakespeare,front_matter,contents,ACT III,Scene III,NA,NA,forest
-1523,As You Like It,AS YOU LIKE IT,Comedy,1599,William Shakespeare,front_matter,contents,ACT III,Scene IV,NA,NA,scene
-1523,As You Like It,AS YOU LIKE IT,Comedy,1599,William Shakespeare,front_matter,contents,ACT III,Scene IV,NA,NA,iv
-1523,As You Like It,AS YOU LIKE IT,Comedy,1599,William Shakespeare,front_matter,contents,ACT III,Scene IV,NA,NA,another
-1523,As You Like It,AS YOU LIKE IT,Comedy,1599,William Shakespeare,front_matter,contents,ACT III,Scene IV,NA,NA,part
-1523,As You Like It,AS YOU LIKE IT,Comedy,1599,William Shakespeare,front_matter,contents,ACT III,Scene IV,NA,NA,of
-1523,As You Like It,AS YOU LIKE IT,Comedy,1599,William Shakespeare,front_matter,contents,ACT III,Scene IV,NA,NA,the
-1523,As You Like It,AS YOU LIKE IT,Comedy,1599,William Shakespeare,front_matter,contents,ACT III,Scene IV,NA,NA,forest
-1523,As You Like It,AS YOU LIKE IT,Comedy,1599,William Shakespeare,front_matter,contents,ACT III,Scene IV,NA,NA,before
-1523,As You Like It,AS YOU LIKE IT,Comedy,1599,William Shakespeare,front_matter,contents,ACT III,Scene IV,NA,NA,a
-1523,As You Like It,AS YOU LIKE IT,Comedy,1599,William Shakespeare,front_matter,contents,ACT III,Scene IV,NA,NA,cottage
-1523,As You Like It,AS YOU LIKE IT,Comedy,1599,William Shakespeare,front_matter,contents,ACT III,Scene V,NA,NA,scene
-1523,As You Like It,AS YOU LIKE IT,Comedy,1599,William Shakespeare,front_matter,contents,ACT III,Scene V,NA,NA,v
-1523,As You Like It,AS YOU LIKE IT,Comedy,1599,William Shakespeare,front_matter,contents,ACT III,Scene V,NA,NA,another
-1523,As You Like It,AS YOU LIKE IT,Comedy,1599,William Shakespeare,front_matter,contents,ACT III,Scene V,NA,NA,part
-1523,As You Like It,AS YOU LIKE IT,Comedy,1599,William Shakespeare,front_matter,contents,ACT III,Scene V,NA,NA,of
-1523,As You Like It,AS YOU LIKE IT,Comedy,1599,William Shakespeare,front_matter,contents,ACT III,Scene V,NA,NA,the
-1523,As You Like It,AS YOU LIKE IT,Comedy,1599,William Shakespeare,front_matter,contents,ACT III,Scene V,NA,NA,forest
-1523,As You Like It,AS YOU LIKE IT,Comedy,1599,William Shakespeare,front_matter,contents,ACT IV,NA,NA,NA,act
-1523,As You Like It,AS YOU LIKE IT,Comedy,1599,William Shakespeare,front_matter,contents,ACT IV,NA,NA,NA,iv
-1523,As You Like It,AS YOU LIKE IT,Comedy,1599,William Shakespeare,front_matter,contents,ACT IV,Scene I,NA,NA,scene
-1523,As You Like It,AS YOU LIKE IT,Comedy,1599,William Shakespeare,front_matter,contents,ACT IV,Scene I,NA,NA,i
-1523,As You Like It,AS YOU LIKE IT,Comedy,1599,William Shakespeare,front_matter,contents,ACT IV,Scene I,NA,NA,the
-1523,As You Like It,AS YOU LIKE IT,Comedy,1599,William Shakespeare,front_matter,contents,ACT IV,Scene I,NA,NA,forest
-1523,As You Like It,AS YOU LIKE IT,Comedy,1599,William Shakespeare,front_matter,contents,ACT IV,Scene I,NA,NA,of
-1523,As You Like It,AS YOU LIKE IT,Comedy,1599,William Shakespeare,front_matter,contents,ACT IV,Scene I,NA,NA,arden
-1523,As You Like It,AS YOU LIKE IT,Comedy,1599,William Shakespeare,front_matter,contents,ACT IV,Scene II,NA,NA,scene
-1523,As You Like It,AS YOU LIKE IT,Comedy,1599,William Shakespeare,front_matter,contents,ACT IV,Scene II,NA,NA,ii
-1523,As You Like It,AS YOU LIKE IT,Comedy,1599,William Shakespeare,front_matter,contents,ACT IV,Scene II,NA,NA,another
-1523,As You Like It,AS YOU LIKE IT,Comedy,1599,William Shakespeare,front_matter,contents,ACT IV,Scene II,NA,NA,part
-1523,As You Like It,AS YOU LIKE IT,Comedy,1599,William Shakespeare,front_matter,contents,ACT IV,Scene II,NA,NA,of
-1523,As You Like It,AS YOU LIKE IT,Comedy,1599,William Shakespeare,front_matter,contents,ACT IV,Scene II,NA,NA,the
-1523,As You Like It,AS YOU LIKE IT,Comedy,1599,William Shakespeare,front_matter,contents,ACT IV,Scene II,NA,NA,forest
-1523,As You Like It,AS YOU LIKE IT,Comedy,1599,William Shakespeare,front_matter,contents,ACT IV,Scene III,NA,NA,scene
-1523,As You Like It,AS YOU LIKE IT,Comedy,1599,William Shakespeare,front_matter,contents,ACT IV,Scene III,NA,NA,iii
-1523,As You Like It,AS YOU LIKE IT,Comedy,1599,William Shakespeare,front_matter,contents,ACT IV,Scene III,NA,NA,another
-1523,As You Like It,AS YOU LIKE IT,Comedy,1599,William Shakespeare,front_matter,contents,ACT IV,Scene III,NA,NA,part
-1523,As You Like It,AS YOU LIKE IT,Comedy,1599,William Shakespeare,front_matter,contents,ACT IV,Scene III,NA,NA,of
-1523,As You Like It,AS YOU LIKE IT,Comedy,1599,William Shakespeare,front_matter,contents,ACT IV,Scene III,NA,NA,the
-1523,As You Like It,AS YOU LIKE IT,Comedy,1599,William Shakespeare,front_matter,contents,ACT IV,Scene III,NA,NA,forest
-1523,As You Like It,AS YOU LIKE IT,Comedy,1599,William Shakespeare,front_matter,contents,ACT V,NA,NA,NA,act
-1523,As You Like It,AS YOU LIKE IT,Comedy,1599,William Shakespeare,front_matter,contents,ACT V,NA,NA,NA,v
-1523,As You Like It,AS YOU LIKE IT,Comedy,1599,William Shakespeare,front_matter,contents,ACT V,Scene I,NA,NA,scene
-1523,As You Like It,AS YOU LIKE IT,Comedy,1599,William Shakespeare,front_matter,contents,ACT V,Scene I,NA,NA,i
-1523,As You Like It,AS YOU LIKE IT,Comedy,1599,William Shakespeare,front_matter,contents,ACT V,Scene I,NA,NA,the
-1523,As You Like It,AS YOU LIKE IT,Comedy,1599,William Shakespeare,front_matter,contents,ACT V,Scene I,NA,NA,forest
-1523,As You Like It,AS YOU LIKE IT,Comedy,1599,William Shakespeare,front_matter,contents,ACT V,Scene I,NA,NA,of
-1523,As You Like It,AS YOU LIKE IT,Comedy,1599,William Shakespeare,front_matter,contents,ACT V,Scene I,NA,NA,arden
-1523,As You Like It,AS YOU LIKE IT,Comedy,1599,William Shakespeare,front_matter,contents,ACT V,Scene II,NA,NA,scene
-1523,As You Like It,AS YOU LIKE IT,Comedy,1599,William Shakespeare,front_matter,contents,ACT V,Scene II,NA,NA,ii
-1523,As You Like It,AS YOU LIKE IT,Comedy,1599,William Shakespeare,front_matter,contents,ACT V,Scene II,NA,NA,another
-1523,As You Like It,AS YOU LIKE IT,Comedy,1599,William Shakespeare,front_matter,contents,ACT V,Scene II,NA,NA,part
-1523,As You Like It,AS YOU LIKE IT,Comedy,1599,William Shakespeare,front_matter,contents,ACT V,Scene II,NA,NA,of
-1523,As You Like It,AS YOU LIKE IT,Comedy,1599,William Shakespeare,front_matter,contents,ACT V,Scene II,NA,NA,the
-1523,As You Like It,AS YOU LIKE IT,Comedy,1599,William Shakespeare,front_matter,contents,ACT V,Scene II,NA,NA,forest
-1523,As You Like It,AS YOU LIKE IT,Comedy,1599,William Shakespeare,front_matter,contents,ACT V,Scene III,NA,NA,scene
-1523,As You Like It,AS YOU LIKE IT,Comedy,1599,William Shakespeare,front_matter,contents,ACT V,Scene III,NA,NA,iii
-1523,As You Like It,AS YOU LIKE IT,Comedy,1599,William Shakespeare,front_matter,contents,ACT V,Scene III,NA,NA,another
-1523,As You Like It,AS YOU LIKE IT,Comedy,1599,William Shakespeare,front_matter,contents,ACT V,Scene III,NA,NA,part
-1523,As You Like It,AS YOU LIKE IT,Comedy,1599,William Shakespeare,front_matter,contents,ACT V,Scene III,NA,NA,of
-1523,As You Like It,AS YOU LIKE IT,Comedy,1599,William Shakespeare,front_matter,contents,ACT V,Scene III,NA,NA,the
-1523,As You Like It,AS YOU LIKE IT,Comedy,1599,William Shakespeare,front_matter,contents,ACT V,Scene III,NA,NA,forest
-1523,As You Like It,AS YOU LIKE IT,Comedy,1599,William Shakespeare,front_matter,contents,ACT V,Scene IV,NA,NA,scene
-1523,As You Like It,AS YOU LIKE IT,Comedy,1599,William Shakespeare,front_matter,contents,ACT V,Scene IV,NA,NA,iv
-1523,As You Like It,AS YOU LIKE IT,Comedy,1599,William Shakespeare,front_matter,contents,ACT V,Scene IV,NA,NA,another
-1523,As You Like It,AS YOU LIKE IT,Comedy,1599,William Shakespeare,front_matter,contents,ACT V,Scene IV,NA,NA,part
-1523,As You Like It,AS YOU LIKE IT,Comedy,1599,William Shakespeare,front_matter,contents,ACT V,Scene IV,NA,NA,of
-1523,As You Like It,AS YOU LIKE IT,Comedy,1599,William Shakespeare,front_matter,contents,ACT V,Scene IV,NA,NA,the
-1523,As You Like It,AS YOU LIKE IT,Comedy,1599,William Shakespeare,front_matter,contents,ACT V,Scene IV,NA,NA,forest
-1523,As You Like It,AS YOU LIKE IT,Comedy,1599,William Shakespeare,front_matter,contents,ACT V,NA,NA,NA,epilogue
-1523,As You Like It,AS YOU LIKE IT,Comedy,1599,William Shakespeare,front_matter,dramatis_header,NA,NA,NA,NA,dramatis
-1523,As You Like It,AS YOU LIKE IT,Comedy,1599,William Shakespeare,front_matter,dramatis_header,NA,NA,NA,NA,personæ
-1523,As You Like It,AS YOU LIKE IT,Comedy,1599,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,orlando
-1523,As You Like It,AS YOU LIKE IT,Comedy,1599,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,youngest
-1523,As You Like It,AS YOU LIKE IT,Comedy,1599,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,son
-1523,As You Like It,AS YOU LIKE IT,Comedy,1599,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,of
-1523,As You Like It,AS YOU LIKE IT,Comedy,1599,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,sir
-1523,As You Like It,AS YOU LIKE IT,Comedy,1599,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,rowland
-1523,As You Like It,AS YOU LIKE IT,Comedy,1599,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,de
-1523,As You Like It,AS YOU LIKE IT,Comedy,1599,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,boys
-1523,As You Like It,AS YOU LIKE IT,Comedy,1599,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,oliver
-1523,As You Like It,AS YOU LIKE IT,Comedy,1599,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,eldest
-1523,As You Like It,AS YOU LIKE IT,Comedy,1599,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,son
-1523,As You Like It,AS YOU LIKE IT,Comedy,1599,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,of
-1523,As You Like It,AS YOU LIKE IT,Comedy,1599,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,sir
-1523,As You Like It,AS YOU LIKE IT,Comedy,1599,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,rowland
-1523,As You Like It,AS YOU LIKE IT,Comedy,1599,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,de
-1523,As You Like It,AS YOU LIKE IT,Comedy,1599,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,boys
-1523,As You Like It,AS YOU LIKE IT,Comedy,1599,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,jaques
-1523,As You Like It,AS YOU LIKE IT,Comedy,1599,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,de
-1523,As You Like It,AS YOU LIKE IT,Comedy,1599,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,boys
-1523,As You Like It,AS YOU LIKE IT,Comedy,1599,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,second
-1523,As You Like It,AS YOU LIKE IT,Comedy,1599,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,son
-1523,As You Like It,AS YOU LIKE IT,Comedy,1599,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,of
-1523,As You Like It,AS YOU LIKE IT,Comedy,1599,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,sir
-1523,As You Like It,AS YOU LIKE IT,Comedy,1599,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,rowland
-1523,As You Like It,AS YOU LIKE IT,Comedy,1599,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,de
-1523,As You Like It,AS YOU LIKE IT,Comedy,1599,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,boys
-1523,As You Like It,AS YOU LIKE IT,Comedy,1599,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,adam
-1523,As You Like It,AS YOU LIKE IT,Comedy,1599,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,servant
-1523,As You Like It,AS YOU LIKE IT,Comedy,1599,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,to
-1523,As You Like It,AS YOU LIKE IT,Comedy,1599,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,oliver
-1523,As You Like It,AS YOU LIKE IT,Comedy,1599,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,dennis
-1523,As You Like It,AS YOU LIKE IT,Comedy,1599,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,servant
-1523,As You Like It,AS YOU LIKE IT,Comedy,1599,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,to
-1523,As You Like It,AS YOU LIKE IT,Comedy,1599,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,oliver
-1523,As You Like It,AS YOU LIKE IT,Comedy,1599,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,rosalind
-1523,As You Like It,AS YOU LIKE IT,Comedy,1599,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,daughter
-1523,As You Like It,AS YOU LIKE IT,Comedy,1599,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,of
-1523,As You Like It,AS YOU LIKE IT,Comedy,1599,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,duke
-1523,As You Like It,AS YOU LIKE IT,Comedy,1599,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,senior
-1523,As You Like It,AS YOU LIKE IT,Comedy,1599,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,celia
-1523,As You Like It,AS YOU LIKE IT,Comedy,1599,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,daughter
-1523,As You Like It,AS YOU LIKE IT,Comedy,1599,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,of
-1523,As You Like It,AS YOU LIKE IT,Comedy,1599,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,duke
-1523,As You Like It,AS YOU LIKE IT,Comedy,1599,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,frederick
-1523,As You Like It,AS YOU LIKE IT,Comedy,1599,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,touchstone
-1523,As You Like It,AS YOU LIKE IT,Comedy,1599,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,a
-1523,As You Like It,AS YOU LIKE IT,Comedy,1599,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,clown
-1523,As You Like It,AS YOU LIKE IT,Comedy,1599,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,duke
-1523,As You Like It,AS YOU LIKE IT,Comedy,1599,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,senior
-1523,As You Like It,AS YOU LIKE IT,Comedy,1599,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,ferdinand
-1523,As You Like It,AS YOU LIKE IT,Comedy,1599,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,living
-1523,As You Like It,AS YOU LIKE IT,Comedy,1599,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,in
-1523,As You Like It,AS YOU LIKE IT,Comedy,1599,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,exile
-1523,As You Like It,AS YOU LIKE IT,Comedy,1599,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,jaques
-1523,As You Like It,AS YOU LIKE IT,Comedy,1599,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,lord
-1523,As You Like It,AS YOU LIKE IT,Comedy,1599,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,attending
-1523,As You Like It,AS YOU LIKE IT,Comedy,1599,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,on
-1523,As You Like It,AS YOU LIKE IT,Comedy,1599,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,the
-1523,As You Like It,AS YOU LIKE IT,Comedy,1599,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,duke
-1523,As You Like It,AS YOU LIKE IT,Comedy,1599,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,senior
-1523,As You Like It,AS YOU LIKE IT,Comedy,1599,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,amiens
-1523,As You Like It,AS YOU LIKE IT,Comedy,1599,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,lord
-1523,As You Like It,AS YOU LIKE IT,Comedy,1599,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,attending
-1523,As You Like It,AS YOU LIKE IT,Comedy,1599,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,on
-1523,As You Like It,AS YOU LIKE IT,Comedy,1599,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,the
-1523,As You Like It,AS YOU LIKE IT,Comedy,1599,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,duke
-1523,As You Like It,AS YOU LIKE IT,Comedy,1599,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,senior
-1523,As You Like It,AS YOU LIKE IT,Comedy,1599,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,duke
-1523,As You Like It,AS YOU LIKE IT,Comedy,1599,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,frederick
-1523,As You Like It,AS YOU LIKE IT,Comedy,1599,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,brother
-1523,As You Like It,AS YOU LIKE IT,Comedy,1599,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,to
-1523,As You Like It,AS YOU LIKE IT,Comedy,1599,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,the
-1523,As You Like It,AS YOU LIKE IT,Comedy,1599,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,duke
-1523,As You Like It,AS YOU LIKE IT,Comedy,1599,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,and
-1523,As You Like It,AS YOU LIKE IT,Comedy,1599,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,usurper
-1523,As You Like It,AS YOU LIKE IT,Comedy,1599,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,of
-1523,As You Like It,AS YOU LIKE IT,Comedy,1599,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,his
-1523,As You Like It,AS YOU LIKE IT,Comedy,1599,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,dominions
-1523,As You Like It,AS YOU LIKE IT,Comedy,1599,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,charles
-1523,As You Like It,AS YOU LIKE IT,Comedy,1599,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,his
-1523,As You Like It,AS YOU LIKE IT,Comedy,1599,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,wrestler
-1523,As You Like It,AS YOU LIKE IT,Comedy,1599,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,le
-1523,As You Like It,AS YOU LIKE IT,Comedy,1599,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,beau
-1523,As You Like It,AS YOU LIKE IT,Comedy,1599,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,a
-1523,As You Like It,AS YOU LIKE IT,Comedy,1599,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,courtier
-1523,As You Like It,AS YOU LIKE IT,Comedy,1599,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,attending
-1523,As You Like It,AS YOU LIKE IT,Comedy,1599,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,upon
-1523,As You Like It,AS YOU LIKE IT,Comedy,1599,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,frederick
-1523,As You Like It,AS YOU LIKE IT,Comedy,1599,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,corin
-1523,As You Like It,AS YOU LIKE IT,Comedy,1599,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,shepherd
-1523,As You Like It,AS YOU LIKE IT,Comedy,1599,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,silvius
-1523,As You Like It,AS YOU LIKE IT,Comedy,1599,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,shepherd
-1523,As You Like It,AS YOU LIKE IT,Comedy,1599,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,phoebe
-1523,As You Like It,AS YOU LIKE IT,Comedy,1599,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,a
-1523,As You Like It,AS YOU LIKE IT,Comedy,1599,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,shepherdess
-1523,As You Like It,AS YOU LIKE IT,Comedy,1599,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,audrey
-1523,As You Like It,AS YOU LIKE IT,Comedy,1599,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,a
-1523,As You Like It,AS YOU LIKE IT,Comedy,1599,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,country
-1523,As You Like It,AS YOU LIKE IT,Comedy,1599,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,wench
-1523,As You Like It,AS YOU LIKE IT,Comedy,1599,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,william
-1523,As You Like It,AS YOU LIKE IT,Comedy,1599,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,a
-1523,As You Like It,AS YOU LIKE IT,Comedy,1599,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,country
-1523,As You Like It,AS YOU LIKE IT,Comedy,1599,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,fellow
-1523,As You Like It,AS YOU LIKE IT,Comedy,1599,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,in
-1523,As You Like It,AS YOU LIKE IT,Comedy,1599,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,love
-1523,As You Like It,AS YOU LIKE IT,Comedy,1599,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,with
-1523,As You Like It,AS YOU LIKE IT,Comedy,1599,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,audrey
-1523,As You Like It,AS YOU LIKE IT,Comedy,1599,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,sir
-1523,As You Like It,AS YOU LIKE IT,Comedy,1599,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,oliver
-1523,As You Like It,AS YOU LIKE IT,Comedy,1599,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,martext
-1523,As You Like It,AS YOU LIKE IT,Comedy,1599,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,a
-1523,As You Like It,AS YOU LIKE IT,Comedy,1599,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,vicar
-1523,As You Like It,AS YOU LIKE IT,Comedy,1599,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,a
-1523,As You Like It,AS YOU LIKE IT,Comedy,1599,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,person
-1523,As You Like It,AS YOU LIKE IT,Comedy,1599,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,representing
-1523,As You Like It,AS YOU LIKE IT,Comedy,1599,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,hymen
-1523,As You Like It,AS YOU LIKE IT,Comedy,1599,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,lords
-1523,As You Like It,AS YOU LIKE IT,Comedy,1599,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,belonging
-1523,As You Like It,AS YOU LIKE IT,Comedy,1599,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,to
-1523,As You Like It,AS YOU LIKE IT,Comedy,1599,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,the
-1523,As You Like It,AS YOU LIKE IT,Comedy,1599,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,two
-1523,As You Like It,AS YOU LIKE IT,Comedy,1599,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,dukes
-1523,As You Like It,AS YOU LIKE IT,Comedy,1599,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,pages
-1523,As You Like It,AS YOU LIKE IT,Comedy,1599,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,foresters
-1523,As You Like It,AS YOU LIKE IT,Comedy,1599,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,and
-1523,As You Like It,AS YOU LIKE IT,Comedy,1599,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,other
-1523,As You Like It,AS YOU LIKE IT,Comedy,1599,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,attendants
-1523,As You Like It,AS YOU LIKE IT,Comedy,1599,William Shakespeare,front_matter,scene_description,NA,NA,NA,NA,the
-1523,As You Like It,AS YOU LIKE IT,Comedy,1599,William Shakespeare,front_matter,scene_description,NA,NA,NA,NA,scene
-1523,As You Like It,AS YOU LIKE IT,Comedy,1599,William Shakespeare,front_matter,scene_description,NA,NA,NA,NA,lies
-1523,As You Like It,AS YOU LIKE IT,Comedy,1599,William Shakespeare,front_matter,scene_description,NA,NA,NA,NA,first
-1523,As You Like It,AS YOU LIKE IT,Comedy,1599,William Shakespeare,front_matter,scene_description,NA,NA,NA,NA,near
-1523,As You Like It,AS YOU LIKE IT,Comedy,1599,William Shakespeare,front_matter,scene_description,NA,NA,NA,NA,oliver’s
-1523,As You Like It,AS YOU LIKE IT,Comedy,1599,William Shakespeare,front_matter,scene_description,NA,NA,NA,NA,house
-1523,As You Like It,AS YOU LIKE IT,Comedy,1599,William Shakespeare,front_matter,scene_description,NA,NA,NA,NA,afterwards
-1523,As You Like It,AS YOU LIKE IT,Comedy,1599,William Shakespeare,front_matter,scene_description,NA,NA,NA,NA,partly
-1523,As You Like It,AS YOU LIKE IT,Comedy,1599,William Shakespeare,front_matter,scene_description,NA,NA,NA,NA,in
-1523,As You Like It,AS YOU LIKE IT,Comedy,1599,William Shakespeare,front_matter,scene_description,NA,NA,NA,NA,the
-1523,As You Like It,AS YOU LIKE IT,Comedy,1599,William Shakespeare,front_matter,scene_description,NA,NA,NA,NA,usurper’s
-1523,As You Like It,AS YOU LIKE IT,Comedy,1599,William Shakespeare,front_matter,scene_description,NA,NA,NA,NA,court
-1523,As You Like It,AS YOU LIKE IT,Comedy,1599,William Shakespeare,front_matter,scene_description,NA,NA,NA,NA,and
-1523,As You Like It,AS YOU LIKE IT,Comedy,1599,William Shakespeare,front_matter,scene_description,NA,NA,NA,NA,partly
-1523,As You Like It,AS YOU LIKE IT,Comedy,1599,William Shakespeare,front_matter,scene_description,NA,NA,NA,NA,in
-1523,As You Like It,AS YOU LIKE IT,Comedy,1599,William Shakespeare,front_matter,scene_description,NA,NA,NA,NA,the
-1523,As You Like It,AS YOU LIKE IT,Comedy,1599,William Shakespeare,front_matter,scene_description,NA,NA,NA,NA,forest
-1523,As You Like It,AS YOU LIKE IT,Comedy,1599,William Shakespeare,front_matter,scene_description,NA,NA,NA,NA,of
-1523,As You Like It,AS YOU LIKE IT,Comedy,1599,William Shakespeare,front_matter,scene_description,NA,NA,NA,NA,arden
-1523,As You Like It,AS YOU LIKE IT,Comedy,1599,William Shakespeare,contents,reference,ACT I,NA,NA,NA,act
-1523,As You Like It,AS YOU LIKE IT,Comedy,1599,William Shakespeare,contents,reference,ACT I,NA,NA,NA,i
-1523,As You Like It,AS YOU LIKE IT,Comedy,1599,William Shakespeare,contents,reference,ACT I,SCENE I,NA,NA,scene
-1523,As You Like It,AS YOU LIKE IT,Comedy,1599,William Shakespeare,contents,reference,ACT I,SCENE I,NA,NA,i
-1523,As You Like It,AS YOU LIKE IT,Comedy,1599,William Shakespeare,contents,reference,ACT I,SCENE I,NA,NA,an
-1523,As You Like It,AS YOU LIKE IT,Comedy,1599,William Shakespeare,contents,reference,ACT I,SCENE I,NA,NA,orchard
-1523,As You Like It,AS YOU LIKE IT,Comedy,1599,William Shakespeare,contents,reference,ACT I,SCENE I,NA,NA,near
-1523,As You Like It,AS YOU LIKE IT,Comedy,1599,William Shakespeare,contents,reference,ACT I,SCENE I,NA,NA,oliver’s
-1523,As You Like It,AS YOU LIKE IT,Comedy,1599,William Shakespeare,contents,reference,ACT I,SCENE I,NA,NA,house
 1523,As You Like It,AS YOU LIKE IT,Comedy,1599,William Shakespeare,contents,directions,ACT I,SCENE I,NA,NA,enter
 1523,As You Like It,AS YOU LIKE IT,Comedy,1599,William Shakespeare,contents,directions,ACT I,SCENE I,NA,NA,orlando
 1523,As You Like It,AS YOU LIKE IT,Comedy,1599,William Shakespeare,contents,directions,ACT I,SCENE I,NA,NA,and
@@ -1770,14 +1442,6 @@ gutenberg_id,short_title,gutenberg_title,genre,year,author,section,class,act,sce
 1523,As You Like It,AS YOU LIKE IT,Comedy,1599,William Shakespeare,contents,dialogue,ACT I,SCENE I,OLIVER,127,go
 1523,As You Like It,AS YOU LIKE IT,Comedy,1599,William Shakespeare,contents,dialogue,ACT I,SCENE I,OLIVER,127,about
 1523,As You Like It,AS YOU LIKE IT,Comedy,1599,William Shakespeare,contents,directions,ACT I,SCENE I,NA,NA,exit
-1523,As You Like It,AS YOU LIKE IT,Comedy,1599,William Shakespeare,contents,reference,ACT I,SCENE II,NA,NA,scene
-1523,As You Like It,AS YOU LIKE IT,Comedy,1599,William Shakespeare,contents,reference,ACT I,SCENE II,NA,NA,ii
-1523,As You Like It,AS YOU LIKE IT,Comedy,1599,William Shakespeare,contents,reference,ACT I,SCENE II,NA,NA,a
-1523,As You Like It,AS YOU LIKE IT,Comedy,1599,William Shakespeare,contents,reference,ACT I,SCENE II,NA,NA,lawn
-1523,As You Like It,AS YOU LIKE IT,Comedy,1599,William Shakespeare,contents,reference,ACT I,SCENE II,NA,NA,before
-1523,As You Like It,AS YOU LIKE IT,Comedy,1599,William Shakespeare,contents,reference,ACT I,SCENE II,NA,NA,the
-1523,As You Like It,AS YOU LIKE IT,Comedy,1599,William Shakespeare,contents,reference,ACT I,SCENE II,NA,NA,duke’s
-1523,As You Like It,AS YOU LIKE IT,Comedy,1599,William Shakespeare,contents,reference,ACT I,SCENE II,NA,NA,palace
 1523,As You Like It,AS YOU LIKE IT,Comedy,1599,William Shakespeare,contents,directions,ACT I,SCENE II,NA,NA,enter
 1523,As You Like It,AS YOU LIKE IT,Comedy,1599,William Shakespeare,contents,directions,ACT I,SCENE II,NA,NA,rosalind
 1523,As You Like It,AS YOU LIKE IT,Comedy,1599,William Shakespeare,contents,directions,ACT I,SCENE II,NA,NA,and
@@ -3993,13 +3657,6 @@ gutenberg_id,short_title,gutenberg_title,genre,year,author,section,class,act,sce
 1523,As You Like It,AS YOU LIKE IT,Comedy,1599,William Shakespeare,contents,dialogue,ACT I,SCENE II,ORLANDO,364,heavenly
 1523,As You Like It,AS YOU LIKE IT,Comedy,1599,William Shakespeare,contents,dialogue,ACT I,SCENE II,ORLANDO,364,rosalind
 1523,As You Like It,AS YOU LIKE IT,Comedy,1599,William Shakespeare,contents,directions,ACT I,SCENE II,NA,NA,exit
-1523,As You Like It,AS YOU LIKE IT,Comedy,1599,William Shakespeare,contents,reference,ACT I,SCENE III,NA,NA,scene
-1523,As You Like It,AS YOU LIKE IT,Comedy,1599,William Shakespeare,contents,reference,ACT I,SCENE III,NA,NA,iii
-1523,As You Like It,AS YOU LIKE IT,Comedy,1599,William Shakespeare,contents,reference,ACT I,SCENE III,NA,NA,a
-1523,As You Like It,AS YOU LIKE IT,Comedy,1599,William Shakespeare,contents,reference,ACT I,SCENE III,NA,NA,room
-1523,As You Like It,AS YOU LIKE IT,Comedy,1599,William Shakespeare,contents,reference,ACT I,SCENE III,NA,NA,in
-1523,As You Like It,AS YOU LIKE IT,Comedy,1599,William Shakespeare,contents,reference,ACT I,SCENE III,NA,NA,the
-1523,As You Like It,AS YOU LIKE IT,Comedy,1599,William Shakespeare,contents,reference,ACT I,SCENE III,NA,NA,palace
 1523,As You Like It,AS YOU LIKE IT,Comedy,1599,William Shakespeare,contents,directions,ACT I,SCENE III,NA,NA,enter
 1523,As You Like It,AS YOU LIKE IT,Comedy,1599,William Shakespeare,contents,directions,ACT I,SCENE III,NA,NA,celia
 1523,As You Like It,AS YOU LIKE IT,Comedy,1599,William Shakespeare,contents,directions,ACT I,SCENE III,NA,NA,and
@@ -5101,14 +4758,6 @@ gutenberg_id,short_title,gutenberg_title,genre,year,author,section,class,act,sce
 1523,As You Like It,AS YOU LIKE IT,Comedy,1599,William Shakespeare,contents,dialogue,ACT I,SCENE III,CELIA,498,to
 1523,As You Like It,AS YOU LIKE IT,Comedy,1599,William Shakespeare,contents,dialogue,ACT I,SCENE III,CELIA,498,banishment
 1523,As You Like It,AS YOU LIKE IT,Comedy,1599,William Shakespeare,contents,directions,ACT I,SCENE III,NA,NA,exeunt
-1523,As You Like It,AS YOU LIKE IT,Comedy,1599,William Shakespeare,contents,reference,ACT II,SCENE III,NA,NA,act
-1523,As You Like It,AS YOU LIKE IT,Comedy,1599,William Shakespeare,contents,reference,ACT II,SCENE III,NA,NA,ii
-1523,As You Like It,AS YOU LIKE IT,Comedy,1599,William Shakespeare,contents,reference,ACT II,SCENE I,NA,NA,scene
-1523,As You Like It,AS YOU LIKE IT,Comedy,1599,William Shakespeare,contents,reference,ACT II,SCENE I,NA,NA,i
-1523,As You Like It,AS YOU LIKE IT,Comedy,1599,William Shakespeare,contents,reference,ACT II,SCENE I,NA,NA,the
-1523,As You Like It,AS YOU LIKE IT,Comedy,1599,William Shakespeare,contents,reference,ACT II,SCENE I,NA,NA,forest
-1523,As You Like It,AS YOU LIKE IT,Comedy,1599,William Shakespeare,contents,reference,ACT II,SCENE I,NA,NA,of
-1523,As You Like It,AS YOU LIKE IT,Comedy,1599,William Shakespeare,contents,reference,ACT II,SCENE I,NA,NA,arden
 1523,As You Like It,AS YOU LIKE IT,Comedy,1599,William Shakespeare,contents,directions,ACT II,SCENE I,NA,NA,enter
 1523,As You Like It,AS YOU LIKE IT,Comedy,1599,William Shakespeare,contents,directions,ACT II,SCENE I,NA,NA,duke
 1523,As You Like It,AS YOU LIKE IT,Comedy,1599,William Shakespeare,contents,directions,ACT II,SCENE I,NA,NA,senior
@@ -5657,13 +5306,6 @@ gutenberg_id,short_title,gutenberg_title,genre,year,author,section,class,act,sce
 1523,As You Like It,AS YOU LIKE IT,Comedy,1599,William Shakespeare,contents,dialogue,ACT II,SCENE I,FIRST LORD,570,him
 1523,As You Like It,AS YOU LIKE IT,Comedy,1599,William Shakespeare,contents,dialogue,ACT II,SCENE I,FIRST LORD,570,straight
 1523,As You Like It,AS YOU LIKE IT,Comedy,1599,William Shakespeare,contents,directions,ACT II,SCENE I,NA,NA,exeunt
-1523,As You Like It,AS YOU LIKE IT,Comedy,1599,William Shakespeare,contents,reference,ACT II,SCENE II,NA,NA,scene
-1523,As You Like It,AS YOU LIKE IT,Comedy,1599,William Shakespeare,contents,reference,ACT II,SCENE II,NA,NA,ii
-1523,As You Like It,AS YOU LIKE IT,Comedy,1599,William Shakespeare,contents,reference,ACT II,SCENE II,NA,NA,a
-1523,As You Like It,AS YOU LIKE IT,Comedy,1599,William Shakespeare,contents,reference,ACT II,SCENE II,NA,NA,room
-1523,As You Like It,AS YOU LIKE IT,Comedy,1599,William Shakespeare,contents,reference,ACT II,SCENE II,NA,NA,in
-1523,As You Like It,AS YOU LIKE IT,Comedy,1599,William Shakespeare,contents,reference,ACT II,SCENE II,NA,NA,the
-1523,As You Like It,AS YOU LIKE IT,Comedy,1599,William Shakespeare,contents,reference,ACT II,SCENE II,NA,NA,palace
 1523,As You Like It,AS YOU LIKE IT,Comedy,1599,William Shakespeare,contents,directions,ACT II,SCENE II,NA,NA,enter
 1523,As You Like It,AS YOU LIKE IT,Comedy,1599,William Shakespeare,contents,directions,ACT II,SCENE II,NA,NA,duke
 1523,As You Like It,AS YOU LIKE IT,Comedy,1599,William Shakespeare,contents,directions,ACT II,SCENE II,NA,NA,frederick
@@ -5827,11 +5469,6 @@ gutenberg_id,short_title,gutenberg_title,genre,year,author,section,class,act,sce
 1523,As You Like It,AS YOU LIKE IT,Comedy,1599,William Shakespeare,contents,dialogue,ACT II,SCENE II,DUKE FREDERICK,591,foolish
 1523,As You Like It,AS YOU LIKE IT,Comedy,1599,William Shakespeare,contents,dialogue,ACT II,SCENE II,DUKE FREDERICK,591,runaways
 1523,As You Like It,AS YOU LIKE IT,Comedy,1599,William Shakespeare,contents,directions,ACT II,SCENE II,NA,NA,exeunt
-1523,As You Like It,AS YOU LIKE IT,Comedy,1599,William Shakespeare,contents,reference,ACT II,SCENE III,NA,NA,scene
-1523,As You Like It,AS YOU LIKE IT,Comedy,1599,William Shakespeare,contents,reference,ACT II,SCENE III,NA,NA,iii
-1523,As You Like It,AS YOU LIKE IT,Comedy,1599,William Shakespeare,contents,reference,ACT II,SCENE III,NA,NA,before
-1523,As You Like It,AS YOU LIKE IT,Comedy,1599,William Shakespeare,contents,reference,ACT II,SCENE III,NA,NA,oliver’s
-1523,As You Like It,AS YOU LIKE IT,Comedy,1599,William Shakespeare,contents,reference,ACT II,SCENE III,NA,NA,house
 1523,As You Like It,AS YOU LIKE IT,Comedy,1599,William Shakespeare,contents,directions,ACT II,SCENE III,NA,NA,enter
 1523,As You Like It,AS YOU LIKE IT,Comedy,1599,William Shakespeare,contents,directions,ACT II,SCENE III,NA,NA,orlando
 1523,As You Like It,AS YOU LIKE IT,Comedy,1599,William Shakespeare,contents,directions,ACT II,SCENE III,NA,NA,and
@@ -6448,12 +6085,6 @@ gutenberg_id,short_title,gutenberg_title,genre,year,author,section,class,act,sce
 1523,As You Like It,AS YOU LIKE IT,Comedy,1599,William Shakespeare,contents,dialogue,ACT II,SCENE III,ADAM,668,master’s
 1523,As You Like It,AS YOU LIKE IT,Comedy,1599,William Shakespeare,contents,dialogue,ACT II,SCENE III,ADAM,668,debtor
 1523,As You Like It,AS YOU LIKE IT,Comedy,1599,William Shakespeare,contents,directions,ACT II,SCENE III,NA,NA,exeunt
-1523,As You Like It,AS YOU LIKE IT,Comedy,1599,William Shakespeare,contents,reference,ACT II,SCENE IV,NA,NA,scene
-1523,As You Like It,AS YOU LIKE IT,Comedy,1599,William Shakespeare,contents,reference,ACT II,SCENE IV,NA,NA,iv
-1523,As You Like It,AS YOU LIKE IT,Comedy,1599,William Shakespeare,contents,reference,ACT II,SCENE IV,NA,NA,the
-1523,As You Like It,AS YOU LIKE IT,Comedy,1599,William Shakespeare,contents,reference,ACT II,SCENE IV,NA,NA,forest
-1523,As You Like It,AS YOU LIKE IT,Comedy,1599,William Shakespeare,contents,reference,ACT II,SCENE IV,NA,NA,of
-1523,As You Like It,AS YOU LIKE IT,Comedy,1599,William Shakespeare,contents,reference,ACT II,SCENE IV,NA,NA,arden
 1523,As You Like It,AS YOU LIKE IT,Comedy,1599,William Shakespeare,contents,directions,ACT II,SCENE IV,NA,NA,enter
 1523,As You Like It,AS YOU LIKE IT,Comedy,1599,William Shakespeare,contents,directions,ACT II,SCENE IV,NA,NA,rosalind
 1523,As You Like It,AS YOU LIKE IT,Comedy,1599,William Shakespeare,contents,directions,ACT II,SCENE IV,NA,NA,as
@@ -7257,13 +6888,6 @@ gutenberg_id,short_title,gutenberg_title,genre,year,author,section,class,act,sce
 1523,As You Like It,AS YOU LIKE IT,Comedy,1599,William Shakespeare,contents,dialogue,ACT II,SCENE IV,CORIN,762,right
 1523,As You Like It,AS YOU LIKE IT,Comedy,1599,William Shakespeare,contents,dialogue,ACT II,SCENE IV,CORIN,762,suddenly
 1523,As You Like It,AS YOU LIKE IT,Comedy,1599,William Shakespeare,contents,directions,ACT II,SCENE IV,NA,NA,exeunt
-1523,As You Like It,AS YOU LIKE IT,Comedy,1599,William Shakespeare,contents,reference,ACT II,SCENE V,NA,NA,scene
-1523,As You Like It,AS YOU LIKE IT,Comedy,1599,William Shakespeare,contents,reference,ACT II,SCENE V,NA,NA,v
-1523,As You Like It,AS YOU LIKE IT,Comedy,1599,William Shakespeare,contents,reference,ACT II,SCENE V,NA,NA,another
-1523,As You Like It,AS YOU LIKE IT,Comedy,1599,William Shakespeare,contents,reference,ACT II,SCENE V,NA,NA,part
-1523,As You Like It,AS YOU LIKE IT,Comedy,1599,William Shakespeare,contents,reference,ACT II,SCENE V,NA,NA,of
-1523,As You Like It,AS YOU LIKE IT,Comedy,1599,William Shakespeare,contents,reference,ACT II,SCENE V,NA,NA,the
-1523,As You Like It,AS YOU LIKE IT,Comedy,1599,William Shakespeare,contents,reference,ACT II,SCENE V,NA,NA,forest
 1523,As You Like It,AS YOU LIKE IT,Comedy,1599,William Shakespeare,contents,directions,ACT II,SCENE V,NA,NA,enter
 1523,As You Like It,AS YOU LIKE IT,Comedy,1599,William Shakespeare,contents,directions,ACT II,SCENE V,NA,NA,amiens
 1523,As You Like It,AS YOU LIKE IT,Comedy,1599,William Shakespeare,contents,directions,ACT II,SCENE V,NA,NA,jaques
@@ -7667,13 +7291,6 @@ gutenberg_id,short_title,gutenberg_title,genre,year,author,section,class,act,sce
 1523,As You Like It,AS YOU LIKE IT,Comedy,1599,William Shakespeare,contents,dialogue,ACT II,SCENE V,AMIENS,813,prepared
 1523,As You Like It,AS YOU LIKE IT,Comedy,1599,William Shakespeare,contents,directions,ACT II,SCENE V,NA,NA,exeunt
 1523,As You Like It,AS YOU LIKE IT,Comedy,1599,William Shakespeare,contents,directions,ACT II,SCENE V,NA,NA,severally
-1523,As You Like It,AS YOU LIKE IT,Comedy,1599,William Shakespeare,contents,reference,ACT II,SCENE VI,NA,NA,scene
-1523,As You Like It,AS YOU LIKE IT,Comedy,1599,William Shakespeare,contents,reference,ACT II,SCENE VI,NA,NA,vi
-1523,As You Like It,AS YOU LIKE IT,Comedy,1599,William Shakespeare,contents,reference,ACT II,SCENE VI,NA,NA,another
-1523,As You Like It,AS YOU LIKE IT,Comedy,1599,William Shakespeare,contents,reference,ACT II,SCENE VI,NA,NA,part
-1523,As You Like It,AS YOU LIKE IT,Comedy,1599,William Shakespeare,contents,reference,ACT II,SCENE VI,NA,NA,of
-1523,As You Like It,AS YOU LIKE IT,Comedy,1599,William Shakespeare,contents,reference,ACT II,SCENE VI,NA,NA,the
-1523,As You Like It,AS YOU LIKE IT,Comedy,1599,William Shakespeare,contents,reference,ACT II,SCENE VI,NA,NA,forest
 1523,As You Like It,AS YOU LIKE IT,Comedy,1599,William Shakespeare,contents,directions,ACT II,SCENE VI,NA,NA,enter
 1523,As You Like It,AS YOU LIKE IT,Comedy,1599,William Shakespeare,contents,directions,ACT II,SCENE VI,NA,NA,orlando
 1523,As You Like It,AS YOU LIKE IT,Comedy,1599,William Shakespeare,contents,directions,ACT II,SCENE VI,NA,NA,and
@@ -7845,13 +7462,6 @@ gutenberg_id,short_title,gutenberg_title,genre,year,author,section,class,act,sce
 1523,As You Like It,AS YOU LIKE IT,Comedy,1599,William Shakespeare,contents,dialogue,ACT II,SCENE VI,ORLANDO,826,good
 1523,As You Like It,AS YOU LIKE IT,Comedy,1599,William Shakespeare,contents,dialogue,ACT II,SCENE VI,ORLANDO,826,adam
 1523,As You Like It,AS YOU LIKE IT,Comedy,1599,William Shakespeare,contents,directions,ACT II,SCENE VI,NA,NA,exeunt
-1523,As You Like It,AS YOU LIKE IT,Comedy,1599,William Shakespeare,contents,reference,ACT II,SCENE VII,NA,NA,scene
-1523,As You Like It,AS YOU LIKE IT,Comedy,1599,William Shakespeare,contents,reference,ACT II,SCENE VII,NA,NA,vii
-1523,As You Like It,AS YOU LIKE IT,Comedy,1599,William Shakespeare,contents,reference,ACT II,SCENE VII,NA,NA,another
-1523,As You Like It,AS YOU LIKE IT,Comedy,1599,William Shakespeare,contents,reference,ACT II,SCENE VII,NA,NA,part
-1523,As You Like It,AS YOU LIKE IT,Comedy,1599,William Shakespeare,contents,reference,ACT II,SCENE VII,NA,NA,of
-1523,As You Like It,AS YOU LIKE IT,Comedy,1599,William Shakespeare,contents,reference,ACT II,SCENE VII,NA,NA,the
-1523,As You Like It,AS YOU LIKE IT,Comedy,1599,William Shakespeare,contents,reference,ACT II,SCENE VII,NA,NA,forest
 1523,As You Like It,AS YOU LIKE IT,Comedy,1599,William Shakespeare,contents,directions,ACT II,SCENE VII,NA,NA,enter
 1523,As You Like It,AS YOU LIKE IT,Comedy,1599,William Shakespeare,contents,directions,ACT II,SCENE VII,NA,NA,duke
 1523,As You Like It,AS YOU LIKE IT,Comedy,1599,William Shakespeare,contents,directions,ACT II,SCENE VII,NA,NA,senior
@@ -9469,15 +9079,6 @@ gutenberg_id,short_title,gutenberg_title,genre,year,author,section,class,act,sce
 1523,As You Like It,AS YOU LIKE IT,Comedy,1599,William Shakespeare,contents,dialogue,ACT II,SCENE VII,DUKE SENIOR,1034,fortunes
 1523,As You Like It,AS YOU LIKE IT,Comedy,1599,William Shakespeare,contents,dialogue,ACT II,SCENE VII,DUKE SENIOR,1034,understand
 1523,As You Like It,AS YOU LIKE IT,Comedy,1599,William Shakespeare,contents,directions,ACT II,SCENE VII,NA,NA,exeunt
-1523,As You Like It,AS YOU LIKE IT,Comedy,1599,William Shakespeare,contents,reference,ACT III,SCENE VII,NA,NA,act
-1523,As You Like It,AS YOU LIKE IT,Comedy,1599,William Shakespeare,contents,reference,ACT III,SCENE VII,NA,NA,iii
-1523,As You Like It,AS YOU LIKE IT,Comedy,1599,William Shakespeare,contents,reference,ACT III,SCENE I,NA,NA,scene
-1523,As You Like It,AS YOU LIKE IT,Comedy,1599,William Shakespeare,contents,reference,ACT III,SCENE I,NA,NA,i
-1523,As You Like It,AS YOU LIKE IT,Comedy,1599,William Shakespeare,contents,reference,ACT III,SCENE I,NA,NA,a
-1523,As You Like It,AS YOU LIKE IT,Comedy,1599,William Shakespeare,contents,reference,ACT III,SCENE I,NA,NA,room
-1523,As You Like It,AS YOU LIKE IT,Comedy,1599,William Shakespeare,contents,reference,ACT III,SCENE I,NA,NA,in
-1523,As You Like It,AS YOU LIKE IT,Comedy,1599,William Shakespeare,contents,reference,ACT III,SCENE I,NA,NA,the
-1523,As You Like It,AS YOU LIKE IT,Comedy,1599,William Shakespeare,contents,reference,ACT III,SCENE I,NA,NA,palace
 1523,As You Like It,AS YOU LIKE IT,Comedy,1599,William Shakespeare,contents,directions,ACT III,SCENE I,NA,NA,enter
 1523,As You Like It,AS YOU LIKE IT,Comedy,1599,William Shakespeare,contents,directions,ACT III,SCENE I,NA,NA,duke
 1523,As You Like It,AS YOU LIKE IT,Comedy,1599,William Shakespeare,contents,directions,ACT III,SCENE I,NA,NA,frederick
@@ -9632,12 +9233,6 @@ gutenberg_id,short_title,gutenberg_title,genre,year,author,section,class,act,sce
 1523,As You Like It,AS YOU LIKE IT,Comedy,1599,William Shakespeare,contents,dialogue,ACT III,SCENE I,DUKE FREDERICK,1052,him
 1523,As You Like It,AS YOU LIKE IT,Comedy,1599,William Shakespeare,contents,dialogue,ACT III,SCENE I,DUKE FREDERICK,1052,going
 1523,As You Like It,AS YOU LIKE IT,Comedy,1599,William Shakespeare,contents,directions,ACT III,SCENE I,NA,NA,exeunt
-1523,As You Like It,AS YOU LIKE IT,Comedy,1599,William Shakespeare,contents,reference,ACT III,SCENE II,NA,NA,scene
-1523,As You Like It,AS YOU LIKE IT,Comedy,1599,William Shakespeare,contents,reference,ACT III,SCENE II,NA,NA,ii
-1523,As You Like It,AS YOU LIKE IT,Comedy,1599,William Shakespeare,contents,reference,ACT III,SCENE II,NA,NA,the
-1523,As You Like It,AS YOU LIKE IT,Comedy,1599,William Shakespeare,contents,reference,ACT III,SCENE II,NA,NA,forest
-1523,As You Like It,AS YOU LIKE IT,Comedy,1599,William Shakespeare,contents,reference,ACT III,SCENE II,NA,NA,of
-1523,As You Like It,AS YOU LIKE IT,Comedy,1599,William Shakespeare,contents,reference,ACT III,SCENE II,NA,NA,arden
 1523,As You Like It,AS YOU LIKE IT,Comedy,1599,William Shakespeare,contents,directions,ACT III,SCENE II,NA,NA,enter
 1523,As You Like It,AS YOU LIKE IT,Comedy,1599,William Shakespeare,contents,directions,ACT III,SCENE II,NA,NA,orlando
 1523,As You Like It,AS YOU LIKE IT,Comedy,1599,William Shakespeare,contents,directions,ACT III,SCENE II,NA,NA,with
@@ -12880,13 +12475,6 @@ gutenberg_id,short_title,gutenberg_title,genre,year,author,section,class,act,sce
 1523,As You Like It,AS YOU LIKE IT,Comedy,1599,William Shakespeare,contents,dialogue,ACT III,SCENE II,ROSALIND,1388,you
 1523,As You Like It,AS YOU LIKE IT,Comedy,1599,William Shakespeare,contents,dialogue,ACT III,SCENE II,ROSALIND,1388,go
 1523,As You Like It,AS YOU LIKE IT,Comedy,1599,William Shakespeare,contents,directions,ACT III,SCENE II,NA,NA,exeunt
-1523,As You Like It,AS YOU LIKE IT,Comedy,1599,William Shakespeare,contents,reference,ACT III,SCENE III,NA,NA,scene
-1523,As You Like It,AS YOU LIKE IT,Comedy,1599,William Shakespeare,contents,reference,ACT III,SCENE III,NA,NA,iii
-1523,As You Like It,AS YOU LIKE IT,Comedy,1599,William Shakespeare,contents,reference,ACT III,SCENE III,NA,NA,another
-1523,As You Like It,AS YOU LIKE IT,Comedy,1599,William Shakespeare,contents,reference,ACT III,SCENE III,NA,NA,part
-1523,As You Like It,AS YOU LIKE IT,Comedy,1599,William Shakespeare,contents,reference,ACT III,SCENE III,NA,NA,of
-1523,As You Like It,AS YOU LIKE IT,Comedy,1599,William Shakespeare,contents,reference,ACT III,SCENE III,NA,NA,the
-1523,As You Like It,AS YOU LIKE IT,Comedy,1599,William Shakespeare,contents,reference,ACT III,SCENE III,NA,NA,forest
 1523,As You Like It,AS YOU LIKE IT,Comedy,1599,William Shakespeare,contents,directions,ACT III,SCENE III,NA,NA,enter
 1523,As You Like It,AS YOU LIKE IT,Comedy,1599,William Shakespeare,contents,directions,ACT III,SCENE III,NA,NA,touchstone
 1523,As You Like It,AS YOU LIKE IT,Comedy,1599,William Shakespeare,contents,directions,ACT III,SCENE III,NA,NA,and
@@ -13705,16 +13293,6 @@ gutenberg_id,short_title,gutenberg_title,genre,year,author,section,class,act,sce
 1523,As You Like It,AS YOU LIKE IT,Comedy,1599,William Shakespeare,contents,dialogue,ACT III,SCENE III,MARTEXT,1467,my
 1523,As You Like It,AS YOU LIKE IT,Comedy,1599,William Shakespeare,contents,dialogue,ACT III,SCENE III,MARTEXT,1467,calling
 1523,As You Like It,AS YOU LIKE IT,Comedy,1599,William Shakespeare,contents,directions,ACT III,SCENE III,NA,NA,exit
-1523,As You Like It,AS YOU LIKE IT,Comedy,1599,William Shakespeare,contents,reference,ACT III,SCENE IV,NA,NA,scene
-1523,As You Like It,AS YOU LIKE IT,Comedy,1599,William Shakespeare,contents,reference,ACT III,SCENE IV,NA,NA,iv
-1523,As You Like It,AS YOU LIKE IT,Comedy,1599,William Shakespeare,contents,reference,ACT III,SCENE IV,NA,NA,another
-1523,As You Like It,AS YOU LIKE IT,Comedy,1599,William Shakespeare,contents,reference,ACT III,SCENE IV,NA,NA,part
-1523,As You Like It,AS YOU LIKE IT,Comedy,1599,William Shakespeare,contents,reference,ACT III,SCENE IV,NA,NA,of
-1523,As You Like It,AS YOU LIKE IT,Comedy,1599,William Shakespeare,contents,reference,ACT III,SCENE IV,NA,NA,the
-1523,As You Like It,AS YOU LIKE IT,Comedy,1599,William Shakespeare,contents,reference,ACT III,SCENE IV,NA,NA,forest
-1523,As You Like It,AS YOU LIKE IT,Comedy,1599,William Shakespeare,contents,reference,ACT III,SCENE IV,NA,NA,before
-1523,As You Like It,AS YOU LIKE IT,Comedy,1599,William Shakespeare,contents,reference,ACT III,SCENE IV,NA,NA,a
-1523,As You Like It,AS YOU LIKE IT,Comedy,1599,William Shakespeare,contents,reference,ACT III,SCENE IV,NA,NA,cottage
 1523,As You Like It,AS YOU LIKE IT,Comedy,1599,William Shakespeare,contents,directions,ACT III,SCENE IV,NA,NA,enter
 1523,As You Like It,AS YOU LIKE IT,Comedy,1599,William Shakespeare,contents,directions,ACT III,SCENE IV,NA,NA,rosalind
 1523,As You Like It,AS YOU LIKE IT,Comedy,1599,William Shakespeare,contents,directions,ACT III,SCENE IV,NA,NA,and
@@ -14173,13 +13751,6 @@ gutenberg_id,short_title,gutenberg_title,genre,year,author,section,class,act,sce
 1523,As You Like It,AS YOU LIKE IT,Comedy,1599,William Shakespeare,contents,dialogue,ACT III,SCENE IV,ROSALIND,1517,their
 1523,As You Like It,AS YOU LIKE IT,Comedy,1599,William Shakespeare,contents,dialogue,ACT III,SCENE IV,ROSALIND,1517,play
 1523,As You Like It,AS YOU LIKE IT,Comedy,1599,William Shakespeare,contents,directions,ACT III,SCENE IV,NA,NA,exeunt
-1523,As You Like It,AS YOU LIKE IT,Comedy,1599,William Shakespeare,contents,reference,ACT III,SCENE V,NA,NA,scene
-1523,As You Like It,AS YOU LIKE IT,Comedy,1599,William Shakespeare,contents,reference,ACT III,SCENE V,NA,NA,v
-1523,As You Like It,AS YOU LIKE IT,Comedy,1599,William Shakespeare,contents,reference,ACT III,SCENE V,NA,NA,another
-1523,As You Like It,AS YOU LIKE IT,Comedy,1599,William Shakespeare,contents,reference,ACT III,SCENE V,NA,NA,part
-1523,As You Like It,AS YOU LIKE IT,Comedy,1599,William Shakespeare,contents,reference,ACT III,SCENE V,NA,NA,of
-1523,As You Like It,AS YOU LIKE IT,Comedy,1599,William Shakespeare,contents,reference,ACT III,SCENE V,NA,NA,the
-1523,As You Like It,AS YOU LIKE IT,Comedy,1599,William Shakespeare,contents,reference,ACT III,SCENE V,NA,NA,forest
 1523,As You Like It,AS YOU LIKE IT,Comedy,1599,William Shakespeare,contents,directions,ACT III,SCENE V,NA,NA,enter
 1523,As You Like It,AS YOU LIKE IT,Comedy,1599,William Shakespeare,contents,directions,ACT III,SCENE V,NA,NA,silvius
 1523,As You Like It,AS YOU LIKE IT,Comedy,1599,William Shakespeare,contents,directions,ACT III,SCENE V,NA,NA,and
@@ -15379,14 +14950,6 @@ gutenberg_id,short_title,gutenberg_title,genre,year,author,section,class,act,sce
 1523,As You Like It,AS YOU LIKE IT,Comedy,1599,William Shakespeare,contents,dialogue,ACT III,SCENE V,PHOEBE,1659,me
 1523,As You Like It,AS YOU LIKE IT,Comedy,1599,William Shakespeare,contents,dialogue,ACT III,SCENE V,PHOEBE,1659,silvius
 1523,As You Like It,AS YOU LIKE IT,Comedy,1599,William Shakespeare,contents,directions,ACT III,SCENE V,NA,NA,exeunt
-1523,As You Like It,AS YOU LIKE IT,Comedy,1599,William Shakespeare,contents,reference,ACT IV,SCENE V,NA,NA,act
-1523,As You Like It,AS YOU LIKE IT,Comedy,1599,William Shakespeare,contents,reference,ACT IV,SCENE V,NA,NA,iv
-1523,As You Like It,AS YOU LIKE IT,Comedy,1599,William Shakespeare,contents,reference,ACT IV,SCENE I,NA,NA,scene
-1523,As You Like It,AS YOU LIKE IT,Comedy,1599,William Shakespeare,contents,reference,ACT IV,SCENE I,NA,NA,i
-1523,As You Like It,AS YOU LIKE IT,Comedy,1599,William Shakespeare,contents,reference,ACT IV,SCENE I,NA,NA,the
-1523,As You Like It,AS YOU LIKE IT,Comedy,1599,William Shakespeare,contents,reference,ACT IV,SCENE I,NA,NA,forest
-1523,As You Like It,AS YOU LIKE IT,Comedy,1599,William Shakespeare,contents,reference,ACT IV,SCENE I,NA,NA,of
-1523,As You Like It,AS YOU LIKE IT,Comedy,1599,William Shakespeare,contents,reference,ACT IV,SCENE I,NA,NA,arden
 1523,As You Like It,AS YOU LIKE IT,Comedy,1599,William Shakespeare,contents,directions,ACT IV,SCENE I,NA,NA,enter
 1523,As You Like It,AS YOU LIKE IT,Comedy,1599,William Shakespeare,contents,directions,ACT IV,SCENE I,NA,NA,rosalind
 1523,As You Like It,AS YOU LIKE IT,Comedy,1599,William Shakespeare,contents,directions,ACT IV,SCENE I,NA,NA,celia
@@ -17061,13 +16624,6 @@ gutenberg_id,short_title,gutenberg_title,genre,year,author,section,class,act,sce
 1523,As You Like It,AS YOU LIKE IT,Comedy,1599,William Shakespeare,contents,dialogue,ACT IV,SCENE I,CELIA,1824,i’ll
 1523,As You Like It,AS YOU LIKE IT,Comedy,1599,William Shakespeare,contents,dialogue,ACT IV,SCENE I,CELIA,1824,sleep
 1523,As You Like It,AS YOU LIKE IT,Comedy,1599,William Shakespeare,contents,directions,ACT IV,SCENE I,NA,NA,exeunt
-1523,As You Like It,AS YOU LIKE IT,Comedy,1599,William Shakespeare,contents,reference,ACT IV,SCENE II,NA,NA,scene
-1523,As You Like It,AS YOU LIKE IT,Comedy,1599,William Shakespeare,contents,reference,ACT IV,SCENE II,NA,NA,ii
-1523,As You Like It,AS YOU LIKE IT,Comedy,1599,William Shakespeare,contents,reference,ACT IV,SCENE II,NA,NA,another
-1523,As You Like It,AS YOU LIKE IT,Comedy,1599,William Shakespeare,contents,reference,ACT IV,SCENE II,NA,NA,part
-1523,As You Like It,AS YOU LIKE IT,Comedy,1599,William Shakespeare,contents,reference,ACT IV,SCENE II,NA,NA,of
-1523,As You Like It,AS YOU LIKE IT,Comedy,1599,William Shakespeare,contents,reference,ACT IV,SCENE II,NA,NA,the
-1523,As You Like It,AS YOU LIKE IT,Comedy,1599,William Shakespeare,contents,reference,ACT IV,SCENE II,NA,NA,forest
 1523,As You Like It,AS YOU LIKE IT,Comedy,1599,William Shakespeare,contents,directions,ACT IV,SCENE II,NA,NA,enter
 1523,As You Like It,AS YOU LIKE IT,Comedy,1599,William Shakespeare,contents,directions,ACT IV,SCENE II,NA,NA,jaques
 1523,As You Like It,AS YOU LIKE IT,Comedy,1599,William Shakespeare,contents,directions,ACT IV,SCENE II,NA,NA,and
@@ -17206,13 +16762,6 @@ gutenberg_id,short_title,gutenberg_title,genre,year,author,section,class,act,sce
 1523,As You Like It,AS YOU LIKE IT,Comedy,1599,William Shakespeare,contents,dialogue,ACT IV,SCENE II,SECOND LORD,1840,to
 1523,As You Like It,AS YOU LIKE IT,Comedy,1599,William Shakespeare,contents,dialogue,ACT IV,SCENE II,SECOND LORD,1840,scorn
 1523,As You Like It,AS YOU LIKE IT,Comedy,1599,William Shakespeare,contents,directions,ACT IV,SCENE II,NA,NA,exeunt
-1523,As You Like It,AS YOU LIKE IT,Comedy,1599,William Shakespeare,contents,reference,ACT IV,SCENE III,NA,NA,scene
-1523,As You Like It,AS YOU LIKE IT,Comedy,1599,William Shakespeare,contents,reference,ACT IV,SCENE III,NA,NA,iii
-1523,As You Like It,AS YOU LIKE IT,Comedy,1599,William Shakespeare,contents,reference,ACT IV,SCENE III,NA,NA,another
-1523,As You Like It,AS YOU LIKE IT,Comedy,1599,William Shakespeare,contents,reference,ACT IV,SCENE III,NA,NA,part
-1523,As You Like It,AS YOU LIKE IT,Comedy,1599,William Shakespeare,contents,reference,ACT IV,SCENE III,NA,NA,of
-1523,As You Like It,AS YOU LIKE IT,Comedy,1599,William Shakespeare,contents,reference,ACT IV,SCENE III,NA,NA,the
-1523,As You Like It,AS YOU LIKE IT,Comedy,1599,William Shakespeare,contents,reference,ACT IV,SCENE III,NA,NA,forest
 1523,As You Like It,AS YOU LIKE IT,Comedy,1599,William Shakespeare,contents,directions,ACT IV,SCENE III,NA,NA,enter
 1523,As You Like It,AS YOU LIKE IT,Comedy,1599,William Shakespeare,contents,directions,ACT IV,SCENE III,NA,NA,rosalind
 1523,As You Like It,AS YOU LIKE IT,Comedy,1599,William Shakespeare,contents,directions,ACT IV,SCENE III,NA,NA,and
@@ -18630,14 +18179,6 @@ gutenberg_id,short_title,gutenberg_title,genre,year,author,section,class,act,sce
 1523,As You Like It,AS YOU LIKE IT,Comedy,1599,William Shakespeare,contents,dialogue,ACT IV,SCENE III,ROSALIND,2020,you
 1523,As You Like It,AS YOU LIKE IT,Comedy,1599,William Shakespeare,contents,dialogue,ACT IV,SCENE III,ROSALIND,2020,go
 1523,As You Like It,AS YOU LIKE IT,Comedy,1599,William Shakespeare,contents,directions,ACT IV,SCENE III,NA,NA,exeunt
-1523,As You Like It,AS YOU LIKE IT,Comedy,1599,William Shakespeare,contents,reference,ACT V,SCENE III,NA,NA,act
-1523,As You Like It,AS YOU LIKE IT,Comedy,1599,William Shakespeare,contents,reference,ACT V,SCENE III,NA,NA,v
-1523,As You Like It,AS YOU LIKE IT,Comedy,1599,William Shakespeare,contents,reference,ACT V,SCENE I,NA,NA,scene
-1523,As You Like It,AS YOU LIKE IT,Comedy,1599,William Shakespeare,contents,reference,ACT V,SCENE I,NA,NA,i
-1523,As You Like It,AS YOU LIKE IT,Comedy,1599,William Shakespeare,contents,reference,ACT V,SCENE I,NA,NA,the
-1523,As You Like It,AS YOU LIKE IT,Comedy,1599,William Shakespeare,contents,reference,ACT V,SCENE I,NA,NA,forest
-1523,As You Like It,AS YOU LIKE IT,Comedy,1599,William Shakespeare,contents,reference,ACT V,SCENE I,NA,NA,of
-1523,As You Like It,AS YOU LIKE IT,Comedy,1599,William Shakespeare,contents,reference,ACT V,SCENE I,NA,NA,arden
 1523,As You Like It,AS YOU LIKE IT,Comedy,1599,William Shakespeare,contents,directions,ACT V,SCENE I,NA,NA,enter
 1523,As You Like It,AS YOU LIKE IT,Comedy,1599,William Shakespeare,contents,directions,ACT V,SCENE I,NA,NA,touchstone
 1523,As You Like It,AS YOU LIKE IT,Comedy,1599,William Shakespeare,contents,directions,ACT V,SCENE I,NA,NA,and
@@ -19114,13 +18655,6 @@ gutenberg_id,short_title,gutenberg_title,genre,year,author,section,class,act,sce
 1523,As You Like It,AS YOU LIKE IT,Comedy,1599,William Shakespeare,contents,dialogue,ACT V,SCENE I,TOUCHSTONE,2070,i
 1523,As You Like It,AS YOU LIKE IT,Comedy,1599,William Shakespeare,contents,dialogue,ACT V,SCENE I,TOUCHSTONE,2070,attend
 1523,As You Like It,AS YOU LIKE IT,Comedy,1599,William Shakespeare,contents,directions,ACT V,SCENE I,NA,NA,exeunt
-1523,As You Like It,AS YOU LIKE IT,Comedy,1599,William Shakespeare,contents,reference,ACT V,SCENE II,NA,NA,scene
-1523,As You Like It,AS YOU LIKE IT,Comedy,1599,William Shakespeare,contents,reference,ACT V,SCENE II,NA,NA,ii
-1523,As You Like It,AS YOU LIKE IT,Comedy,1599,William Shakespeare,contents,reference,ACT V,SCENE II,NA,NA,another
-1523,As You Like It,AS YOU LIKE IT,Comedy,1599,William Shakespeare,contents,reference,ACT V,SCENE II,NA,NA,part
-1523,As You Like It,AS YOU LIKE IT,Comedy,1599,William Shakespeare,contents,reference,ACT V,SCENE II,NA,NA,of
-1523,As You Like It,AS YOU LIKE IT,Comedy,1599,William Shakespeare,contents,reference,ACT V,SCENE II,NA,NA,the
-1523,As You Like It,AS YOU LIKE IT,Comedy,1599,William Shakespeare,contents,reference,ACT V,SCENE II,NA,NA,forest
 1523,As You Like It,AS YOU LIKE IT,Comedy,1599,William Shakespeare,contents,directions,ACT V,SCENE II,NA,NA,enter
 1523,As You Like It,AS YOU LIKE IT,Comedy,1599,William Shakespeare,contents,directions,ACT V,SCENE II,NA,NA,orlando
 1523,As You Like It,AS YOU LIKE IT,Comedy,1599,William Shakespeare,contents,directions,ACT V,SCENE II,NA,NA,and
@@ -20136,13 +19670,6 @@ gutenberg_id,short_title,gutenberg_title,genre,year,author,section,class,act,sce
 1523,As You Like It,AS YOU LIKE IT,Comedy,1599,William Shakespeare,contents,dialogue,ACT V,SCENE II,ORLANDO,2174,nor
 1523,As You Like It,AS YOU LIKE IT,Comedy,1599,William Shakespeare,contents,dialogue,ACT V,SCENE II,ORLANDO,2174,i
 1523,As You Like It,AS YOU LIKE IT,Comedy,1599,William Shakespeare,contents,directions,ACT V,SCENE II,NA,NA,exeunt
-1523,As You Like It,AS YOU LIKE IT,Comedy,1599,William Shakespeare,contents,reference,ACT V,SCENE III,NA,NA,scene
-1523,As You Like It,AS YOU LIKE IT,Comedy,1599,William Shakespeare,contents,reference,ACT V,SCENE III,NA,NA,iii
-1523,As You Like It,AS YOU LIKE IT,Comedy,1599,William Shakespeare,contents,reference,ACT V,SCENE III,NA,NA,another
-1523,As You Like It,AS YOU LIKE IT,Comedy,1599,William Shakespeare,contents,reference,ACT V,SCENE III,NA,NA,part
-1523,As You Like It,AS YOU LIKE IT,Comedy,1599,William Shakespeare,contents,reference,ACT V,SCENE III,NA,NA,of
-1523,As You Like It,AS YOU LIKE IT,Comedy,1599,William Shakespeare,contents,reference,ACT V,SCENE III,NA,NA,the
-1523,As You Like It,AS YOU LIKE IT,Comedy,1599,William Shakespeare,contents,reference,ACT V,SCENE III,NA,NA,forest
 1523,As You Like It,AS YOU LIKE IT,Comedy,1599,William Shakespeare,contents,directions,ACT V,SCENE III,NA,NA,enter
 1523,As You Like It,AS YOU LIKE IT,Comedy,1599,William Shakespeare,contents,directions,ACT V,SCENE III,NA,NA,touchstone
 1523,As You Like It,AS YOU LIKE IT,Comedy,1599,William Shakespeare,contents,directions,ACT V,SCENE III,NA,NA,and
@@ -20497,13 +20024,6 @@ gutenberg_id,short_title,gutenberg_title,genre,year,author,section,class,act,sce
 1523,As You Like It,AS YOU LIKE IT,Comedy,1599,William Shakespeare,contents,dialogue,ACT V,SCENE III,TOUCHSTONE,2213,come
 1523,As You Like It,AS YOU LIKE IT,Comedy,1599,William Shakespeare,contents,dialogue,ACT V,SCENE III,TOUCHSTONE,2213,audrey
 1523,As You Like It,AS YOU LIKE IT,Comedy,1599,William Shakespeare,contents,directions,ACT V,SCENE III,NA,NA,exeunt
-1523,As You Like It,AS YOU LIKE IT,Comedy,1599,William Shakespeare,contents,reference,ACT V,SCENE IV,NA,NA,scene
-1523,As You Like It,AS YOU LIKE IT,Comedy,1599,William Shakespeare,contents,reference,ACT V,SCENE IV,NA,NA,iv
-1523,As You Like It,AS YOU LIKE IT,Comedy,1599,William Shakespeare,contents,reference,ACT V,SCENE IV,NA,NA,another
-1523,As You Like It,AS YOU LIKE IT,Comedy,1599,William Shakespeare,contents,reference,ACT V,SCENE IV,NA,NA,part
-1523,As You Like It,AS YOU LIKE IT,Comedy,1599,William Shakespeare,contents,reference,ACT V,SCENE IV,NA,NA,of
-1523,As You Like It,AS YOU LIKE IT,Comedy,1599,William Shakespeare,contents,reference,ACT V,SCENE IV,NA,NA,the
-1523,As You Like It,AS YOU LIKE IT,Comedy,1599,William Shakespeare,contents,reference,ACT V,SCENE IV,NA,NA,forest
 1523,As You Like It,AS YOU LIKE IT,Comedy,1599,William Shakespeare,contents,directions,ACT V,SCENE IV,NA,NA,enter
 1523,As You Like It,AS YOU LIKE IT,Comedy,1599,William Shakespeare,contents,directions,ACT V,SCENE IV,NA,NA,duke
 1523,As You Like It,AS YOU LIKE IT,Comedy,1599,William Shakespeare,contents,directions,ACT V,SCENE IV,NA,NA,senior
@@ -22137,7 +21657,6 @@ gutenberg_id,short_title,gutenberg_title,genre,year,author,section,class,act,sce
 1523,As You Like It,AS YOU LIKE IT,Comedy,1599,William Shakespeare,contents,directions,ACT V,SCENE IV,NA,NA,all
 1523,As You Like It,AS YOU LIKE IT,Comedy,1599,William Shakespeare,contents,directions,ACT V,SCENE IV,NA,NA,but
 1523,As You Like It,AS YOU LIKE IT,Comedy,1599,William Shakespeare,contents,directions,ACT V,SCENE IV,NA,NA,rosalind
-1523,As You Like It,AS YOU LIKE IT,Comedy,1599,William Shakespeare,contents,reference,ACT V,EPILOGUE,NA,NA,epilogue
 1523,As You Like It,AS YOU LIKE IT,Comedy,1599,William Shakespeare,contents,dialogue,ACT V,EPILOGUE,ROSALIND,2393,it
 1523,As You Like It,AS YOU LIKE IT,Comedy,1599,William Shakespeare,contents,dialogue,ACT V,EPILOGUE,ROSALIND,2393,is
 1523,As You Like It,AS YOU LIKE IT,Comedy,1599,William Shakespeare,contents,dialogue,ACT V,EPILOGUE,ROSALIND,2393,not

@@ -1,206 +1,4 @@
 gutenberg_id,short_title,gutenberg_title,genre,year,author,section,class,act,scene,character,line_number,word
-1540,Tempest,THE TEMPEST,Comedy,1611,William Shakespeare,front_matter,title,NA,NA,NA,NA,the
-1540,Tempest,THE TEMPEST,Comedy,1611,William Shakespeare,front_matter,title,NA,NA,NA,NA,tempest
-1540,Tempest,THE TEMPEST,Comedy,1611,William Shakespeare,front_matter,author,NA,NA,NA,NA,by
-1540,Tempest,THE TEMPEST,Comedy,1611,William Shakespeare,front_matter,author,NA,NA,NA,NA,william
-1540,Tempest,THE TEMPEST,Comedy,1611,William Shakespeare,front_matter,author,NA,NA,NA,NA,shakespeare
-1540,Tempest,THE TEMPEST,Comedy,1611,William Shakespeare,front_matter,contents_header,NA,NA,NA,NA,contents
-1540,Tempest,THE TEMPEST,Comedy,1611,William Shakespeare,front_matter,contents,ACT I,NA,NA,NA,act
-1540,Tempest,THE TEMPEST,Comedy,1611,William Shakespeare,front_matter,contents,ACT I,NA,NA,NA,i
-1540,Tempest,THE TEMPEST,Comedy,1611,William Shakespeare,front_matter,contents,ACT I,Scene I,NA,NA,scene
-1540,Tempest,THE TEMPEST,Comedy,1611,William Shakespeare,front_matter,contents,ACT I,Scene I,NA,NA,i
-1540,Tempest,THE TEMPEST,Comedy,1611,William Shakespeare,front_matter,contents,ACT I,Scene I,NA,NA,on
-1540,Tempest,THE TEMPEST,Comedy,1611,William Shakespeare,front_matter,contents,ACT I,Scene I,NA,NA,a
-1540,Tempest,THE TEMPEST,Comedy,1611,William Shakespeare,front_matter,contents,ACT I,Scene I,NA,NA,ship
-1540,Tempest,THE TEMPEST,Comedy,1611,William Shakespeare,front_matter,contents,ACT I,Scene I,NA,NA,at
-1540,Tempest,THE TEMPEST,Comedy,1611,William Shakespeare,front_matter,contents,ACT I,Scene I,NA,NA,sea
-1540,Tempest,THE TEMPEST,Comedy,1611,William Shakespeare,front_matter,contents,ACT I,Scene I,NA,NA,a
-1540,Tempest,THE TEMPEST,Comedy,1611,William Shakespeare,front_matter,contents,ACT I,Scene I,NA,NA,tempestuous
-1540,Tempest,THE TEMPEST,Comedy,1611,William Shakespeare,front_matter,contents,ACT I,Scene I,NA,NA,noise
-1540,Tempest,THE TEMPEST,Comedy,1611,William Shakespeare,front_matter,contents,ACT I,Scene I,NA,NA,of
-1540,Tempest,THE TEMPEST,Comedy,1611,William Shakespeare,front_matter,contents,ACT I,Scene I,NA,NA,thunder
-1540,Tempest,THE TEMPEST,Comedy,1611,William Shakespeare,front_matter,contents,ACT I,Scene I,NA,NA,and
-1540,Tempest,THE TEMPEST,Comedy,1611,William Shakespeare,front_matter,contents,ACT I,Scene I,NA,NA,lightning
-1540,Tempest,THE TEMPEST,Comedy,1611,William Shakespeare,front_matter,contents,ACT I,NA,NA,NA,heard
-1540,Tempest,THE TEMPEST,Comedy,1611,William Shakespeare,front_matter,contents,ACT I,Scene II,NA,NA,scene
-1540,Tempest,THE TEMPEST,Comedy,1611,William Shakespeare,front_matter,contents,ACT I,Scene II,NA,NA,ii
-1540,Tempest,THE TEMPEST,Comedy,1611,William Shakespeare,front_matter,contents,ACT I,Scene II,NA,NA,the
-1540,Tempest,THE TEMPEST,Comedy,1611,William Shakespeare,front_matter,contents,ACT I,Scene II,NA,NA,island
-1540,Tempest,THE TEMPEST,Comedy,1611,William Shakespeare,front_matter,contents,ACT I,Scene II,NA,NA,before
-1540,Tempest,THE TEMPEST,Comedy,1611,William Shakespeare,front_matter,contents,ACT I,Scene II,NA,NA,the
-1540,Tempest,THE TEMPEST,Comedy,1611,William Shakespeare,front_matter,contents,ACT I,Scene II,NA,NA,cell
-1540,Tempest,THE TEMPEST,Comedy,1611,William Shakespeare,front_matter,contents,ACT I,Scene II,NA,NA,of
-1540,Tempest,THE TEMPEST,Comedy,1611,William Shakespeare,front_matter,contents,ACT I,Scene II,NA,NA,prospero
-1540,Tempest,THE TEMPEST,Comedy,1611,William Shakespeare,front_matter,contents,ACT II,NA,NA,NA,act
-1540,Tempest,THE TEMPEST,Comedy,1611,William Shakespeare,front_matter,contents,ACT II,NA,NA,NA,ii
-1540,Tempest,THE TEMPEST,Comedy,1611,William Shakespeare,front_matter,contents,ACT II,Scene I,NA,NA,scene
-1540,Tempest,THE TEMPEST,Comedy,1611,William Shakespeare,front_matter,contents,ACT II,Scene I,NA,NA,i
-1540,Tempest,THE TEMPEST,Comedy,1611,William Shakespeare,front_matter,contents,ACT II,Scene I,NA,NA,another
-1540,Tempest,THE TEMPEST,Comedy,1611,William Shakespeare,front_matter,contents,ACT II,Scene I,NA,NA,part
-1540,Tempest,THE TEMPEST,Comedy,1611,William Shakespeare,front_matter,contents,ACT II,Scene I,NA,NA,of
-1540,Tempest,THE TEMPEST,Comedy,1611,William Shakespeare,front_matter,contents,ACT II,Scene I,NA,NA,the
-1540,Tempest,THE TEMPEST,Comedy,1611,William Shakespeare,front_matter,contents,ACT II,Scene I,NA,NA,island
-1540,Tempest,THE TEMPEST,Comedy,1611,William Shakespeare,front_matter,contents,ACT II,Scene II,NA,NA,scene
-1540,Tempest,THE TEMPEST,Comedy,1611,William Shakespeare,front_matter,contents,ACT II,Scene II,NA,NA,ii
-1540,Tempest,THE TEMPEST,Comedy,1611,William Shakespeare,front_matter,contents,ACT II,Scene II,NA,NA,another
-1540,Tempest,THE TEMPEST,Comedy,1611,William Shakespeare,front_matter,contents,ACT II,Scene II,NA,NA,part
-1540,Tempest,THE TEMPEST,Comedy,1611,William Shakespeare,front_matter,contents,ACT II,Scene II,NA,NA,of
-1540,Tempest,THE TEMPEST,Comedy,1611,William Shakespeare,front_matter,contents,ACT II,Scene II,NA,NA,the
-1540,Tempest,THE TEMPEST,Comedy,1611,William Shakespeare,front_matter,contents,ACT II,Scene II,NA,NA,island
-1540,Tempest,THE TEMPEST,Comedy,1611,William Shakespeare,front_matter,contents,ACT III,NA,NA,NA,act
-1540,Tempest,THE TEMPEST,Comedy,1611,William Shakespeare,front_matter,contents,ACT III,NA,NA,NA,iii
-1540,Tempest,THE TEMPEST,Comedy,1611,William Shakespeare,front_matter,contents,ACT III,Scene I,NA,NA,scene
-1540,Tempest,THE TEMPEST,Comedy,1611,William Shakespeare,front_matter,contents,ACT III,Scene I,NA,NA,i
-1540,Tempest,THE TEMPEST,Comedy,1611,William Shakespeare,front_matter,contents,ACT III,Scene I,NA,NA,before
-1540,Tempest,THE TEMPEST,Comedy,1611,William Shakespeare,front_matter,contents,ACT III,Scene I,NA,NA,prospero’s
-1540,Tempest,THE TEMPEST,Comedy,1611,William Shakespeare,front_matter,contents,ACT III,Scene I,NA,NA,cell
-1540,Tempest,THE TEMPEST,Comedy,1611,William Shakespeare,front_matter,contents,ACT III,Scene II,NA,NA,scene
-1540,Tempest,THE TEMPEST,Comedy,1611,William Shakespeare,front_matter,contents,ACT III,Scene II,NA,NA,ii
-1540,Tempest,THE TEMPEST,Comedy,1611,William Shakespeare,front_matter,contents,ACT III,Scene II,NA,NA,another
-1540,Tempest,THE TEMPEST,Comedy,1611,William Shakespeare,front_matter,contents,ACT III,Scene II,NA,NA,part
-1540,Tempest,THE TEMPEST,Comedy,1611,William Shakespeare,front_matter,contents,ACT III,Scene II,NA,NA,of
-1540,Tempest,THE TEMPEST,Comedy,1611,William Shakespeare,front_matter,contents,ACT III,Scene II,NA,NA,the
-1540,Tempest,THE TEMPEST,Comedy,1611,William Shakespeare,front_matter,contents,ACT III,Scene II,NA,NA,island
-1540,Tempest,THE TEMPEST,Comedy,1611,William Shakespeare,front_matter,contents,ACT III,Scene III,NA,NA,scene
-1540,Tempest,THE TEMPEST,Comedy,1611,William Shakespeare,front_matter,contents,ACT III,Scene III,NA,NA,iii
-1540,Tempest,THE TEMPEST,Comedy,1611,William Shakespeare,front_matter,contents,ACT III,Scene III,NA,NA,another
-1540,Tempest,THE TEMPEST,Comedy,1611,William Shakespeare,front_matter,contents,ACT III,Scene III,NA,NA,part
-1540,Tempest,THE TEMPEST,Comedy,1611,William Shakespeare,front_matter,contents,ACT III,Scene III,NA,NA,of
-1540,Tempest,THE TEMPEST,Comedy,1611,William Shakespeare,front_matter,contents,ACT III,Scene III,NA,NA,the
-1540,Tempest,THE TEMPEST,Comedy,1611,William Shakespeare,front_matter,contents,ACT III,Scene III,NA,NA,island
-1540,Tempest,THE TEMPEST,Comedy,1611,William Shakespeare,front_matter,contents,ACT IV,NA,NA,NA,act
-1540,Tempest,THE TEMPEST,Comedy,1611,William Shakespeare,front_matter,contents,ACT IV,NA,NA,NA,iv
-1540,Tempest,THE TEMPEST,Comedy,1611,William Shakespeare,front_matter,contents,ACT IV,Scene I,NA,NA,scene
-1540,Tempest,THE TEMPEST,Comedy,1611,William Shakespeare,front_matter,contents,ACT IV,Scene I,NA,NA,i
-1540,Tempest,THE TEMPEST,Comedy,1611,William Shakespeare,front_matter,contents,ACT IV,Scene I,NA,NA,before
-1540,Tempest,THE TEMPEST,Comedy,1611,William Shakespeare,front_matter,contents,ACT IV,Scene I,NA,NA,prospero’s
-1540,Tempest,THE TEMPEST,Comedy,1611,William Shakespeare,front_matter,contents,ACT IV,Scene I,NA,NA,cell
-1540,Tempest,THE TEMPEST,Comedy,1611,William Shakespeare,front_matter,contents,ACT V,NA,NA,NA,act
-1540,Tempest,THE TEMPEST,Comedy,1611,William Shakespeare,front_matter,contents,ACT V,NA,NA,NA,v
-1540,Tempest,THE TEMPEST,Comedy,1611,William Shakespeare,front_matter,contents,ACT V,Scene I,NA,NA,scene
-1540,Tempest,THE TEMPEST,Comedy,1611,William Shakespeare,front_matter,contents,ACT V,Scene I,NA,NA,i
-1540,Tempest,THE TEMPEST,Comedy,1611,William Shakespeare,front_matter,contents,ACT V,Scene I,NA,NA,before
-1540,Tempest,THE TEMPEST,Comedy,1611,William Shakespeare,front_matter,contents,ACT V,Scene I,NA,NA,the
-1540,Tempest,THE TEMPEST,Comedy,1611,William Shakespeare,front_matter,contents,ACT V,Scene I,NA,NA,cell
-1540,Tempest,THE TEMPEST,Comedy,1611,William Shakespeare,front_matter,contents,ACT V,Scene I,NA,NA,of
-1540,Tempest,THE TEMPEST,Comedy,1611,William Shakespeare,front_matter,contents,ACT V,Scene I,NA,NA,prospero
-1540,Tempest,THE TEMPEST,Comedy,1611,William Shakespeare,front_matter,contents,ACT V,NA,NA,NA,epilogue
-1540,Tempest,THE TEMPEST,Comedy,1611,William Shakespeare,front_matter,dramatis_header,NA,NA,NA,NA,dramatis
-1540,Tempest,THE TEMPEST,Comedy,1611,William Shakespeare,front_matter,dramatis_header,NA,NA,NA,NA,personæ
-1540,Tempest,THE TEMPEST,Comedy,1611,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,alonso
-1540,Tempest,THE TEMPEST,Comedy,1611,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,king
-1540,Tempest,THE TEMPEST,Comedy,1611,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,of
-1540,Tempest,THE TEMPEST,Comedy,1611,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,naples
-1540,Tempest,THE TEMPEST,Comedy,1611,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,sebastian
-1540,Tempest,THE TEMPEST,Comedy,1611,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,his
-1540,Tempest,THE TEMPEST,Comedy,1611,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,brother
-1540,Tempest,THE TEMPEST,Comedy,1611,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,prospero
-1540,Tempest,THE TEMPEST,Comedy,1611,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,the
-1540,Tempest,THE TEMPEST,Comedy,1611,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,right
-1540,Tempest,THE TEMPEST,Comedy,1611,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,duke
-1540,Tempest,THE TEMPEST,Comedy,1611,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,of
-1540,Tempest,THE TEMPEST,Comedy,1611,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,milan
-1540,Tempest,THE TEMPEST,Comedy,1611,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,antonio
-1540,Tempest,THE TEMPEST,Comedy,1611,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,his
-1540,Tempest,THE TEMPEST,Comedy,1611,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,brother
-1540,Tempest,THE TEMPEST,Comedy,1611,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,the
-1540,Tempest,THE TEMPEST,Comedy,1611,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,usurping
-1540,Tempest,THE TEMPEST,Comedy,1611,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,duke
-1540,Tempest,THE TEMPEST,Comedy,1611,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,of
-1540,Tempest,THE TEMPEST,Comedy,1611,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,milan
-1540,Tempest,THE TEMPEST,Comedy,1611,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,ferdinand
-1540,Tempest,THE TEMPEST,Comedy,1611,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,son
-1540,Tempest,THE TEMPEST,Comedy,1611,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,to
-1540,Tempest,THE TEMPEST,Comedy,1611,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,the
-1540,Tempest,THE TEMPEST,Comedy,1611,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,king
-1540,Tempest,THE TEMPEST,Comedy,1611,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,of
-1540,Tempest,THE TEMPEST,Comedy,1611,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,naples
-1540,Tempest,THE TEMPEST,Comedy,1611,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,gonzalo
-1540,Tempest,THE TEMPEST,Comedy,1611,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,an
-1540,Tempest,THE TEMPEST,Comedy,1611,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,honest
-1540,Tempest,THE TEMPEST,Comedy,1611,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,old
-1540,Tempest,THE TEMPEST,Comedy,1611,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,counsellor
-1540,Tempest,THE TEMPEST,Comedy,1611,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,adrian
-1540,Tempest,THE TEMPEST,Comedy,1611,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,lord
-1540,Tempest,THE TEMPEST,Comedy,1611,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,francisco
-1540,Tempest,THE TEMPEST,Comedy,1611,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,lord
-1540,Tempest,THE TEMPEST,Comedy,1611,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,caliban
-1540,Tempest,THE TEMPEST,Comedy,1611,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,a
-1540,Tempest,THE TEMPEST,Comedy,1611,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,savage
-1540,Tempest,THE TEMPEST,Comedy,1611,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,and
-1540,Tempest,THE TEMPEST,Comedy,1611,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,deformed
-1540,Tempest,THE TEMPEST,Comedy,1611,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,slave
-1540,Tempest,THE TEMPEST,Comedy,1611,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,trinculo
-1540,Tempest,THE TEMPEST,Comedy,1611,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,a
-1540,Tempest,THE TEMPEST,Comedy,1611,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,jester
-1540,Tempest,THE TEMPEST,Comedy,1611,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,stephano
-1540,Tempest,THE TEMPEST,Comedy,1611,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,a
-1540,Tempest,THE TEMPEST,Comedy,1611,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,drunken
-1540,Tempest,THE TEMPEST,Comedy,1611,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,butler
-1540,Tempest,THE TEMPEST,Comedy,1611,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,master
-1540,Tempest,THE TEMPEST,Comedy,1611,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,of
-1540,Tempest,THE TEMPEST,Comedy,1611,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,a
-1540,Tempest,THE TEMPEST,Comedy,1611,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,ship
-1540,Tempest,THE TEMPEST,Comedy,1611,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,boatswain
-1540,Tempest,THE TEMPEST,Comedy,1611,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,mariners
-1540,Tempest,THE TEMPEST,Comedy,1611,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,miranda
-1540,Tempest,THE TEMPEST,Comedy,1611,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,daughter
-1540,Tempest,THE TEMPEST,Comedy,1611,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,to
-1540,Tempest,THE TEMPEST,Comedy,1611,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,prospero
-1540,Tempest,THE TEMPEST,Comedy,1611,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,ariel
-1540,Tempest,THE TEMPEST,Comedy,1611,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,an
-1540,Tempest,THE TEMPEST,Comedy,1611,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,airy
-1540,Tempest,THE TEMPEST,Comedy,1611,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,spirit
-1540,Tempest,THE TEMPEST,Comedy,1611,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,iris
-1540,Tempest,THE TEMPEST,Comedy,1611,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,presented
-1540,Tempest,THE TEMPEST,Comedy,1611,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,by
-1540,Tempest,THE TEMPEST,Comedy,1611,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,spirits
-1540,Tempest,THE TEMPEST,Comedy,1611,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,ceres
-1540,Tempest,THE TEMPEST,Comedy,1611,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,presented
-1540,Tempest,THE TEMPEST,Comedy,1611,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,by
-1540,Tempest,THE TEMPEST,Comedy,1611,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,spirits
-1540,Tempest,THE TEMPEST,Comedy,1611,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,juno
-1540,Tempest,THE TEMPEST,Comedy,1611,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,presented
-1540,Tempest,THE TEMPEST,Comedy,1611,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,by
-1540,Tempest,THE TEMPEST,Comedy,1611,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,spirits
-1540,Tempest,THE TEMPEST,Comedy,1611,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,nymphs
-1540,Tempest,THE TEMPEST,Comedy,1611,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,presented
-1540,Tempest,THE TEMPEST,Comedy,1611,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,by
-1540,Tempest,THE TEMPEST,Comedy,1611,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,spirits
-1540,Tempest,THE TEMPEST,Comedy,1611,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,reapers
-1540,Tempest,THE TEMPEST,Comedy,1611,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,presented
-1540,Tempest,THE TEMPEST,Comedy,1611,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,by
-1540,Tempest,THE TEMPEST,Comedy,1611,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,spirits
-1540,Tempest,THE TEMPEST,Comedy,1611,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,other
-1540,Tempest,THE TEMPEST,Comedy,1611,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,spirits
-1540,Tempest,THE TEMPEST,Comedy,1611,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,attending
-1540,Tempest,THE TEMPEST,Comedy,1611,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,on
-1540,Tempest,THE TEMPEST,Comedy,1611,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,prospero
-1540,Tempest,THE TEMPEST,Comedy,1611,William Shakespeare,front_matter,scene_description,NA,NA,NA,NA,scene
-1540,Tempest,THE TEMPEST,Comedy,1611,William Shakespeare,front_matter,scene_description,NA,NA,NA,NA,the
-1540,Tempest,THE TEMPEST,Comedy,1611,William Shakespeare,front_matter,scene_description,NA,NA,NA,NA,sea
-1540,Tempest,THE TEMPEST,Comedy,1611,William Shakespeare,front_matter,scene_description,NA,NA,NA,NA,with
-1540,Tempest,THE TEMPEST,Comedy,1611,William Shakespeare,front_matter,scene_description,NA,NA,NA,NA,a
-1540,Tempest,THE TEMPEST,Comedy,1611,William Shakespeare,front_matter,scene_description,NA,NA,NA,NA,ship
-1540,Tempest,THE TEMPEST,Comedy,1611,William Shakespeare,front_matter,scene_description,NA,NA,NA,NA,afterwards
-1540,Tempest,THE TEMPEST,Comedy,1611,William Shakespeare,front_matter,scene_description,NA,NA,NA,NA,an
-1540,Tempest,THE TEMPEST,Comedy,1611,William Shakespeare,front_matter,scene_description,NA,NA,NA,NA,island
-1540,Tempest,THE TEMPEST,Comedy,1611,William Shakespeare,contents,reference,ACT I,NA,NA,NA,act
-1540,Tempest,THE TEMPEST,Comedy,1611,William Shakespeare,contents,reference,ACT I,NA,NA,NA,i
-1540,Tempest,THE TEMPEST,Comedy,1611,William Shakespeare,contents,reference,ACT I,SCENE I,NA,NA,scene
-1540,Tempest,THE TEMPEST,Comedy,1611,William Shakespeare,contents,reference,ACT I,SCENE I,NA,NA,i
-1540,Tempest,THE TEMPEST,Comedy,1611,William Shakespeare,contents,reference,ACT I,SCENE I,NA,NA,on
-1540,Tempest,THE TEMPEST,Comedy,1611,William Shakespeare,contents,reference,ACT I,SCENE I,NA,NA,a
-1540,Tempest,THE TEMPEST,Comedy,1611,William Shakespeare,contents,reference,ACT I,SCENE I,NA,NA,ship
-1540,Tempest,THE TEMPEST,Comedy,1611,William Shakespeare,contents,reference,ACT I,SCENE I,NA,NA,at
-1540,Tempest,THE TEMPEST,Comedy,1611,William Shakespeare,contents,reference,ACT I,SCENE I,NA,NA,sea
-1540,Tempest,THE TEMPEST,Comedy,1611,William Shakespeare,contents,reference,ACT I,SCENE I,NA,NA,a
-1540,Tempest,THE TEMPEST,Comedy,1611,William Shakespeare,contents,reference,ACT I,SCENE I,NA,NA,tempestuous
-1540,Tempest,THE TEMPEST,Comedy,1611,William Shakespeare,contents,reference,ACT I,SCENE I,NA,NA,noise
-1540,Tempest,THE TEMPEST,Comedy,1611,William Shakespeare,contents,reference,ACT I,SCENE I,NA,NA,of
-1540,Tempest,THE TEMPEST,Comedy,1611,William Shakespeare,contents,reference,ACT I,SCENE I,NA,NA,thunder
-1540,Tempest,THE TEMPEST,Comedy,1611,William Shakespeare,contents,reference,ACT I,SCENE I,NA,NA,and
-1540,Tempest,THE TEMPEST,Comedy,1611,William Shakespeare,contents,reference,ACT I,SCENE I,NA,NA,lightning
 1540,Tempest,THE TEMPEST,Comedy,1611,William Shakespeare,contents,directions,ACT I,SCENE I,NA,NA,heard
 1540,Tempest,THE TEMPEST,Comedy,1611,William Shakespeare,contents,directions,ACT I,SCENE I,NA,NA,enter
 1540,Tempest,THE TEMPEST,Comedy,1611,William Shakespeare,contents,directions,ACT I,SCENE I,NA,NA,a
@@ -739,15 +537,6 @@ gutenberg_id,short_title,gutenberg_title,genre,year,author,section,class,act,sce
 1540,Tempest,THE TEMPEST,Comedy,1611,William Shakespeare,contents,dialogue,ACT I,SCENE I,GONZALO,61,dry
 1540,Tempest,THE TEMPEST,Comedy,1611,William Shakespeare,contents,dialogue,ACT I,SCENE I,GONZALO,61,death
 1540,Tempest,THE TEMPEST,Comedy,1611,William Shakespeare,contents,directions,ACT I,SCENE I,NA,NA,exit
-1540,Tempest,THE TEMPEST,Comedy,1611,William Shakespeare,contents,reference,ACT I,SCENE II,NA,NA,scene
-1540,Tempest,THE TEMPEST,Comedy,1611,William Shakespeare,contents,reference,ACT I,SCENE II,NA,NA,ii
-1540,Tempest,THE TEMPEST,Comedy,1611,William Shakespeare,contents,reference,ACT I,SCENE II,NA,NA,the
-1540,Tempest,THE TEMPEST,Comedy,1611,William Shakespeare,contents,reference,ACT I,SCENE II,NA,NA,island
-1540,Tempest,THE TEMPEST,Comedy,1611,William Shakespeare,contents,reference,ACT I,SCENE II,NA,NA,before
-1540,Tempest,THE TEMPEST,Comedy,1611,William Shakespeare,contents,reference,ACT I,SCENE II,NA,NA,the
-1540,Tempest,THE TEMPEST,Comedy,1611,William Shakespeare,contents,reference,ACT I,SCENE II,NA,NA,cell
-1540,Tempest,THE TEMPEST,Comedy,1611,William Shakespeare,contents,reference,ACT I,SCENE II,NA,NA,of
-1540,Tempest,THE TEMPEST,Comedy,1611,William Shakespeare,contents,reference,ACT I,SCENE II,NA,NA,prospero
 1540,Tempest,THE TEMPEST,Comedy,1611,William Shakespeare,contents,directions,ACT I,SCENE II,NA,NA,enter
 1540,Tempest,THE TEMPEST,Comedy,1611,William Shakespeare,contents,directions,ACT I,SCENE II,NA,NA,prospero
 1540,Tempest,THE TEMPEST,Comedy,1611,William Shakespeare,contents,directions,ACT I,SCENE II,NA,NA,and
@@ -4945,15 +4734,6 @@ gutenberg_id,short_title,gutenberg_title,genre,year,author,section,class,act,sce
 1540,Tempest,THE TEMPEST,Comedy,1611,William Shakespeare,contents,dialogue,ACT I,SCENE II,PROSPERO,656,for
 1540,Tempest,THE TEMPEST,Comedy,1611,William Shakespeare,contents,dialogue,ACT I,SCENE II,PROSPERO,656,him
 1540,Tempest,THE TEMPEST,Comedy,1611,William Shakespeare,contents,directions,ACT I,SCENE II,NA,NA,exeunt
-1540,Tempest,THE TEMPEST,Comedy,1611,William Shakespeare,contents,reference,ACT II,SCENE II,NA,NA,act
-1540,Tempest,THE TEMPEST,Comedy,1611,William Shakespeare,contents,reference,ACT II,SCENE II,NA,NA,ii
-1540,Tempest,THE TEMPEST,Comedy,1611,William Shakespeare,contents,reference,ACT II,SCENE I,NA,NA,scene
-1540,Tempest,THE TEMPEST,Comedy,1611,William Shakespeare,contents,reference,ACT II,SCENE I,NA,NA,i
-1540,Tempest,THE TEMPEST,Comedy,1611,William Shakespeare,contents,reference,ACT II,SCENE I,NA,NA,another
-1540,Tempest,THE TEMPEST,Comedy,1611,William Shakespeare,contents,reference,ACT II,SCENE I,NA,NA,part
-1540,Tempest,THE TEMPEST,Comedy,1611,William Shakespeare,contents,reference,ACT II,SCENE I,NA,NA,of
-1540,Tempest,THE TEMPEST,Comedy,1611,William Shakespeare,contents,reference,ACT II,SCENE I,NA,NA,the
-1540,Tempest,THE TEMPEST,Comedy,1611,William Shakespeare,contents,reference,ACT II,SCENE I,NA,NA,island
 1540,Tempest,THE TEMPEST,Comedy,1611,William Shakespeare,contents,directions,ACT II,SCENE I,NA,NA,enter
 1540,Tempest,THE TEMPEST,Comedy,1611,William Shakespeare,contents,directions,ACT II,SCENE I,NA,NA,alonso
 1540,Tempest,THE TEMPEST,Comedy,1611,William Shakespeare,contents,directions,ACT II,SCENE I,NA,NA,sebastian
@@ -7406,13 +7186,6 @@ gutenberg_id,short_title,gutenberg_title,genre,year,author,section,class,act,sce
 1540,Tempest,THE TEMPEST,Comedy,1611,William Shakespeare,contents,dialogue,ACT II,SCENE I,ARIEL,1008,thy
 1540,Tempest,THE TEMPEST,Comedy,1611,William Shakespeare,contents,dialogue,ACT II,SCENE I,ARIEL,1008,son
 1540,Tempest,THE TEMPEST,Comedy,1611,William Shakespeare,contents,directions,ACT II,SCENE I,NA,NA,exit
-1540,Tempest,THE TEMPEST,Comedy,1611,William Shakespeare,contents,reference,ACT II,SCENE II,NA,NA,scene
-1540,Tempest,THE TEMPEST,Comedy,1611,William Shakespeare,contents,reference,ACT II,SCENE II,NA,NA,ii
-1540,Tempest,THE TEMPEST,Comedy,1611,William Shakespeare,contents,reference,ACT II,SCENE II,NA,NA,another
-1540,Tempest,THE TEMPEST,Comedy,1611,William Shakespeare,contents,reference,ACT II,SCENE II,NA,NA,part
-1540,Tempest,THE TEMPEST,Comedy,1611,William Shakespeare,contents,reference,ACT II,SCENE II,NA,NA,of
-1540,Tempest,THE TEMPEST,Comedy,1611,William Shakespeare,contents,reference,ACT II,SCENE II,NA,NA,the
-1540,Tempest,THE TEMPEST,Comedy,1611,William Shakespeare,contents,reference,ACT II,SCENE II,NA,NA,island
 1540,Tempest,THE TEMPEST,Comedy,1611,William Shakespeare,contents,directions,ACT II,SCENE II,NA,NA,enter
 1540,Tempest,THE TEMPEST,Comedy,1611,William Shakespeare,contents,directions,ACT II,SCENE II,NA,NA,caliban
 1540,Tempest,THE TEMPEST,Comedy,1611,William Shakespeare,contents,directions,ACT II,SCENE II,NA,NA,with
@@ -8988,13 +8761,6 @@ gutenberg_id,short_title,gutenberg_title,genre,year,author,section,class,act,sce
 1540,Tempest,THE TEMPEST,Comedy,1611,William Shakespeare,contents,dialogue,ACT II,SCENE II,STEPHANO,1165,the
 1540,Tempest,THE TEMPEST,Comedy,1611,William Shakespeare,contents,dialogue,ACT II,SCENE II,STEPHANO,1165,way
 1540,Tempest,THE TEMPEST,Comedy,1611,William Shakespeare,contents,directions,ACT II,SCENE II,NA,NA,exeunt
-1540,Tempest,THE TEMPEST,Comedy,1611,William Shakespeare,contents,reference,ACT III,SCENE II,NA,NA,act
-1540,Tempest,THE TEMPEST,Comedy,1611,William Shakespeare,contents,reference,ACT III,SCENE II,NA,NA,iii
-1540,Tempest,THE TEMPEST,Comedy,1611,William Shakespeare,contents,reference,ACT III,SCENE I,NA,NA,scene
-1540,Tempest,THE TEMPEST,Comedy,1611,William Shakespeare,contents,reference,ACT III,SCENE I,NA,NA,i
-1540,Tempest,THE TEMPEST,Comedy,1611,William Shakespeare,contents,reference,ACT III,SCENE I,NA,NA,before
-1540,Tempest,THE TEMPEST,Comedy,1611,William Shakespeare,contents,reference,ACT III,SCENE I,NA,NA,prospero’s
-1540,Tempest,THE TEMPEST,Comedy,1611,William Shakespeare,contents,reference,ACT III,SCENE I,NA,NA,cell
 1540,Tempest,THE TEMPEST,Comedy,1611,William Shakespeare,contents,directions,ACT III,SCENE I,NA,NA,enter
 1540,Tempest,THE TEMPEST,Comedy,1611,William Shakespeare,contents,directions,ACT III,SCENE I,NA,NA,ferdinand
 1540,Tempest,THE TEMPEST,Comedy,1611,William Shakespeare,contents,directions,ACT III,SCENE I,NA,NA,bearing
@@ -9827,13 +9593,6 @@ gutenberg_id,short_title,gutenberg_title,genre,year,author,section,class,act,sce
 1540,Tempest,THE TEMPEST,Comedy,1611,William Shakespeare,contents,dialogue,ACT III,SCENE I,PROSPERO,1279,business
 1540,Tempest,THE TEMPEST,Comedy,1611,William Shakespeare,contents,dialogue,ACT III,SCENE I,PROSPERO,1279,appertaining
 1540,Tempest,THE TEMPEST,Comedy,1611,William Shakespeare,contents,directions,ACT III,SCENE I,NA,NA,exit
-1540,Tempest,THE TEMPEST,Comedy,1611,William Shakespeare,contents,reference,ACT III,SCENE II,NA,NA,scene
-1540,Tempest,THE TEMPEST,Comedy,1611,William Shakespeare,contents,reference,ACT III,SCENE II,NA,NA,ii
-1540,Tempest,THE TEMPEST,Comedy,1611,William Shakespeare,contents,reference,ACT III,SCENE II,NA,NA,another
-1540,Tempest,THE TEMPEST,Comedy,1611,William Shakespeare,contents,reference,ACT III,SCENE II,NA,NA,part
-1540,Tempest,THE TEMPEST,Comedy,1611,William Shakespeare,contents,reference,ACT III,SCENE II,NA,NA,of
-1540,Tempest,THE TEMPEST,Comedy,1611,William Shakespeare,contents,reference,ACT III,SCENE II,NA,NA,the
-1540,Tempest,THE TEMPEST,Comedy,1611,William Shakespeare,contents,reference,ACT III,SCENE II,NA,NA,island
 1540,Tempest,THE TEMPEST,Comedy,1611,William Shakespeare,contents,directions,ACT III,SCENE II,NA,NA,enter
 1540,Tempest,THE TEMPEST,Comedy,1611,William Shakespeare,contents,directions,ACT III,SCENE II,NA,NA,caliban
 1540,Tempest,THE TEMPEST,Comedy,1611,William Shakespeare,contents,directions,ACT III,SCENE II,NA,NA,with
@@ -11002,13 +10761,6 @@ gutenberg_id,short_title,gutenberg_title,genre,year,author,section,class,act,sce
 1540,Tempest,THE TEMPEST,Comedy,1611,William Shakespeare,contents,dialogue,ACT III,SCENE II,TRINCULO,1417,follow
 1540,Tempest,THE TEMPEST,Comedy,1611,William Shakespeare,contents,dialogue,ACT III,SCENE II,TRINCULO,1417,stephano
 1540,Tempest,THE TEMPEST,Comedy,1611,William Shakespeare,contents,directions,ACT III,SCENE II,NA,NA,exeunt
-1540,Tempest,THE TEMPEST,Comedy,1611,William Shakespeare,contents,reference,ACT III,SCENE III,NA,NA,scene
-1540,Tempest,THE TEMPEST,Comedy,1611,William Shakespeare,contents,reference,ACT III,SCENE III,NA,NA,iii
-1540,Tempest,THE TEMPEST,Comedy,1611,William Shakespeare,contents,reference,ACT III,SCENE III,NA,NA,another
-1540,Tempest,THE TEMPEST,Comedy,1611,William Shakespeare,contents,reference,ACT III,SCENE III,NA,NA,part
-1540,Tempest,THE TEMPEST,Comedy,1611,William Shakespeare,contents,reference,ACT III,SCENE III,NA,NA,of
-1540,Tempest,THE TEMPEST,Comedy,1611,William Shakespeare,contents,reference,ACT III,SCENE III,NA,NA,the
-1540,Tempest,THE TEMPEST,Comedy,1611,William Shakespeare,contents,reference,ACT III,SCENE III,NA,NA,island
 1540,Tempest,THE TEMPEST,Comedy,1611,William Shakespeare,contents,directions,ACT III,SCENE III,NA,NA,enter
 1540,Tempest,THE TEMPEST,Comedy,1611,William Shakespeare,contents,directions,ACT III,SCENE III,NA,NA,alonso
 1540,Tempest,THE TEMPEST,Comedy,1611,William Shakespeare,contents,directions,ACT III,SCENE III,NA,NA,sebastian
@@ -12039,13 +11791,6 @@ gutenberg_id,short_title,gutenberg_title,genre,year,author,section,class,act,sce
 1540,Tempest,THE TEMPEST,Comedy,1611,William Shakespeare,contents,dialogue,ACT III,SCENE III,ADRIAN,1549,pray
 1540,Tempest,THE TEMPEST,Comedy,1611,William Shakespeare,contents,dialogue,ACT III,SCENE III,ADRIAN,1549,you
 1540,Tempest,THE TEMPEST,Comedy,1611,William Shakespeare,contents,directions,ACT III,SCENE III,NA,NA,exeunt
-1540,Tempest,THE TEMPEST,Comedy,1611,William Shakespeare,contents,reference,ACT IV,SCENE III,NA,NA,act
-1540,Tempest,THE TEMPEST,Comedy,1611,William Shakespeare,contents,reference,ACT IV,SCENE III,NA,NA,iv
-1540,Tempest,THE TEMPEST,Comedy,1611,William Shakespeare,contents,reference,ACT IV,SCENE I,NA,NA,scene
-1540,Tempest,THE TEMPEST,Comedy,1611,William Shakespeare,contents,reference,ACT IV,SCENE I,NA,NA,i
-1540,Tempest,THE TEMPEST,Comedy,1611,William Shakespeare,contents,reference,ACT IV,SCENE I,NA,NA,before
-1540,Tempest,THE TEMPEST,Comedy,1611,William Shakespeare,contents,reference,ACT IV,SCENE I,NA,NA,prospero’s
-1540,Tempest,THE TEMPEST,Comedy,1611,William Shakespeare,contents,reference,ACT IV,SCENE I,NA,NA,cell
 1540,Tempest,THE TEMPEST,Comedy,1611,William Shakespeare,contents,directions,ACT IV,SCENE I,NA,NA,enter
 1540,Tempest,THE TEMPEST,Comedy,1611,William Shakespeare,contents,directions,ACT IV,SCENE I,NA,NA,prospero
 1540,Tempest,THE TEMPEST,Comedy,1611,William Shakespeare,contents,directions,ACT IV,SCENE I,NA,NA,ferdinand
@@ -14195,15 +13940,6 @@ gutenberg_id,short_title,gutenberg_title,genre,year,author,section,class,act,sce
 1540,Tempest,THE TEMPEST,Comedy,1611,William Shakespeare,contents,dialogue,ACT IV,SCENE I,PROSPERO,1834,me
 1540,Tempest,THE TEMPEST,Comedy,1611,William Shakespeare,contents,dialogue,ACT IV,SCENE I,PROSPERO,1834,service
 1540,Tempest,THE TEMPEST,Comedy,1611,William Shakespeare,contents,directions,ACT IV,SCENE I,NA,NA,exeunt
-1540,Tempest,THE TEMPEST,Comedy,1611,William Shakespeare,contents,reference,ACT V,SCENE I,NA,NA,act
-1540,Tempest,THE TEMPEST,Comedy,1611,William Shakespeare,contents,reference,ACT V,SCENE I,NA,NA,v
-1540,Tempest,THE TEMPEST,Comedy,1611,William Shakespeare,contents,reference,ACT V,SCENE I,NA,NA,scene
-1540,Tempest,THE TEMPEST,Comedy,1611,William Shakespeare,contents,reference,ACT V,SCENE I,NA,NA,i
-1540,Tempest,THE TEMPEST,Comedy,1611,William Shakespeare,contents,reference,ACT V,SCENE I,NA,NA,before
-1540,Tempest,THE TEMPEST,Comedy,1611,William Shakespeare,contents,reference,ACT V,SCENE I,NA,NA,the
-1540,Tempest,THE TEMPEST,Comedy,1611,William Shakespeare,contents,reference,ACT V,SCENE I,NA,NA,cell
-1540,Tempest,THE TEMPEST,Comedy,1611,William Shakespeare,contents,reference,ACT V,SCENE I,NA,NA,of
-1540,Tempest,THE TEMPEST,Comedy,1611,William Shakespeare,contents,reference,ACT V,SCENE I,NA,NA,prospero
 1540,Tempest,THE TEMPEST,Comedy,1611,William Shakespeare,contents,directions,ACT V,SCENE I,NA,NA,enter
 1540,Tempest,THE TEMPEST,Comedy,1611,William Shakespeare,contents,directions,ACT V,SCENE I,NA,NA,prospero
 1540,Tempest,THE TEMPEST,Comedy,1611,William Shakespeare,contents,directions,ACT V,SCENE I,NA,NA,in
@@ -16929,7 +16665,6 @@ gutenberg_id,short_title,gutenberg_title,genre,year,author,section,class,act,sce
 1540,Tempest,THE TEMPEST,Comedy,1611,William Shakespeare,contents,dialogue,ACT V,SCENE I,PROSPERO,2199,draw
 1540,Tempest,THE TEMPEST,Comedy,1611,William Shakespeare,contents,dialogue,ACT V,SCENE I,PROSPERO,2199,near
 1540,Tempest,THE TEMPEST,Comedy,1611,William Shakespeare,contents,directions,ACT V,SCENE I,NA,NA,exeunt
-1540,Tempest,THE TEMPEST,Comedy,1611,William Shakespeare,contents,reference,ACT V,EPILOGUE,NA,NA,epilogue
 1540,Tempest,THE TEMPEST,Comedy,1611,William Shakespeare,contents,dialogue,ACT V,EPILOGUE,PROSPERO,2200,now
 1540,Tempest,THE TEMPEST,Comedy,1611,William Shakespeare,contents,dialogue,ACT V,EPILOGUE,PROSPERO,2200,my
 1540,Tempest,THE TEMPEST,Comedy,1611,William Shakespeare,contents,dialogue,ACT V,EPILOGUE,PROSPERO,2200,charms

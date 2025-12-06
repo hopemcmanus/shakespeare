@@ -1,524 +1,4 @@
 gutenberg_id,short_title,gutenberg_title,genre,year,author,section,class,act,scene,character,line_number,word
-1528,Troilus and Cressida,TROILUS AND CRESSIDA,Tragedy,1602,William Shakespeare,front_matter,title,NA,NA,NA,NA,troilus
-1528,Troilus and Cressida,TROILUS AND CRESSIDA,Tragedy,1602,William Shakespeare,front_matter,title,NA,NA,NA,NA,and
-1528,Troilus and Cressida,TROILUS AND CRESSIDA,Tragedy,1602,William Shakespeare,front_matter,title,NA,NA,NA,NA,cressida
-1528,Troilus and Cressida,TROILUS AND CRESSIDA,Tragedy,1602,William Shakespeare,front_matter,author,NA,NA,NA,NA,by
-1528,Troilus and Cressida,TROILUS AND CRESSIDA,Tragedy,1602,William Shakespeare,front_matter,author,NA,NA,NA,NA,william
-1528,Troilus and Cressida,TROILUS AND CRESSIDA,Tragedy,1602,William Shakespeare,front_matter,author,NA,NA,NA,NA,shakespeare
-1528,Troilus and Cressida,TROILUS AND CRESSIDA,Tragedy,1602,William Shakespeare,front_matter,contents_header,NA,NA,NA,NA,contents
-1528,Troilus and Cressida,TROILUS AND CRESSIDA,Tragedy,1602,William Shakespeare,front_matter,contents,ACT I,NA,NA,NA,act
-1528,Troilus and Cressida,TROILUS AND CRESSIDA,Tragedy,1602,William Shakespeare,front_matter,contents,ACT I,NA,NA,NA,i
-1528,Troilus and Cressida,TROILUS AND CRESSIDA,Tragedy,1602,William Shakespeare,front_matter,contents,ACT I,NA,NA,NA,prologue
-1528,Troilus and Cressida,TROILUS AND CRESSIDA,Tragedy,1602,William Shakespeare,front_matter,contents,ACT I,Scene I,NA,NA,scene
-1528,Troilus and Cressida,TROILUS AND CRESSIDA,Tragedy,1602,William Shakespeare,front_matter,contents,ACT I,Scene I,NA,NA,i
-1528,Troilus and Cressida,TROILUS AND CRESSIDA,Tragedy,1602,William Shakespeare,front_matter,contents,ACT I,NA,NA,NA,troy
-1528,Troilus and Cressida,TROILUS AND CRESSIDA,Tragedy,1602,William Shakespeare,front_matter,contents,ACT I,NA,NA,NA,before
-1528,Troilus and Cressida,TROILUS AND CRESSIDA,Tragedy,1602,William Shakespeare,front_matter,contents,ACT I,NA,NA,NA,priam’s
-1528,Troilus and Cressida,TROILUS AND CRESSIDA,Tragedy,1602,William Shakespeare,front_matter,contents,ACT I,NA,NA,NA,palace
-1528,Troilus and Cressida,TROILUS AND CRESSIDA,Tragedy,1602,William Shakespeare,front_matter,contents,ACT I,Scene II,NA,NA,scene
-1528,Troilus and Cressida,TROILUS AND CRESSIDA,Tragedy,1602,William Shakespeare,front_matter,contents,ACT I,Scene II,NA,NA,ii
-1528,Troilus and Cressida,TROILUS AND CRESSIDA,Tragedy,1602,William Shakespeare,front_matter,contents,ACT I,NA,NA,NA,troy
-1528,Troilus and Cressida,TROILUS AND CRESSIDA,Tragedy,1602,William Shakespeare,front_matter,contents,ACT I,NA,NA,NA,a
-1528,Troilus and Cressida,TROILUS AND CRESSIDA,Tragedy,1602,William Shakespeare,front_matter,contents,ACT I,NA,NA,NA,street
-1528,Troilus and Cressida,TROILUS AND CRESSIDA,Tragedy,1602,William Shakespeare,front_matter,contents,ACT I,Scene III,NA,NA,scene
-1528,Troilus and Cressida,TROILUS AND CRESSIDA,Tragedy,1602,William Shakespeare,front_matter,contents,ACT I,Scene III,NA,NA,iii
-1528,Troilus and Cressida,TROILUS AND CRESSIDA,Tragedy,1602,William Shakespeare,front_matter,contents,ACT I,NA,NA,NA,the
-1528,Troilus and Cressida,TROILUS AND CRESSIDA,Tragedy,1602,William Shakespeare,front_matter,contents,ACT I,NA,NA,NA,grecian
-1528,Troilus and Cressida,TROILUS AND CRESSIDA,Tragedy,1602,William Shakespeare,front_matter,contents,ACT I,NA,NA,NA,camp
-1528,Troilus and Cressida,TROILUS AND CRESSIDA,Tragedy,1602,William Shakespeare,front_matter,contents,ACT I,NA,NA,NA,before
-1528,Troilus and Cressida,TROILUS AND CRESSIDA,Tragedy,1602,William Shakespeare,front_matter,contents,ACT I,NA,NA,NA,agamemnon’s
-1528,Troilus and Cressida,TROILUS AND CRESSIDA,Tragedy,1602,William Shakespeare,front_matter,contents,ACT I,NA,NA,NA,tent
-1528,Troilus and Cressida,TROILUS AND CRESSIDA,Tragedy,1602,William Shakespeare,front_matter,contents,ACT II,NA,NA,NA,act
-1528,Troilus and Cressida,TROILUS AND CRESSIDA,Tragedy,1602,William Shakespeare,front_matter,contents,ACT II,NA,NA,NA,ii
-1528,Troilus and Cressida,TROILUS AND CRESSIDA,Tragedy,1602,William Shakespeare,front_matter,contents,ACT II,Scene I,NA,NA,scene
-1528,Troilus and Cressida,TROILUS AND CRESSIDA,Tragedy,1602,William Shakespeare,front_matter,contents,ACT II,Scene I,NA,NA,i
-1528,Troilus and Cressida,TROILUS AND CRESSIDA,Tragedy,1602,William Shakespeare,front_matter,contents,ACT II,NA,NA,NA,the
-1528,Troilus and Cressida,TROILUS AND CRESSIDA,Tragedy,1602,William Shakespeare,front_matter,contents,ACT II,NA,NA,NA,grecian
-1528,Troilus and Cressida,TROILUS AND CRESSIDA,Tragedy,1602,William Shakespeare,front_matter,contents,ACT II,NA,NA,NA,camp
-1528,Troilus and Cressida,TROILUS AND CRESSIDA,Tragedy,1602,William Shakespeare,front_matter,contents,ACT II,Scene II,NA,NA,scene
-1528,Troilus and Cressida,TROILUS AND CRESSIDA,Tragedy,1602,William Shakespeare,front_matter,contents,ACT II,Scene II,NA,NA,ii
-1528,Troilus and Cressida,TROILUS AND CRESSIDA,Tragedy,1602,William Shakespeare,front_matter,contents,ACT II,NA,NA,NA,troy
-1528,Troilus and Cressida,TROILUS AND CRESSIDA,Tragedy,1602,William Shakespeare,front_matter,contents,ACT II,NA,NA,NA,priam’s
-1528,Troilus and Cressida,TROILUS AND CRESSIDA,Tragedy,1602,William Shakespeare,front_matter,contents,ACT II,NA,NA,NA,palace
-1528,Troilus and Cressida,TROILUS AND CRESSIDA,Tragedy,1602,William Shakespeare,front_matter,contents,ACT II,Scene III,NA,NA,scene
-1528,Troilus and Cressida,TROILUS AND CRESSIDA,Tragedy,1602,William Shakespeare,front_matter,contents,ACT II,Scene III,NA,NA,iii
-1528,Troilus and Cressida,TROILUS AND CRESSIDA,Tragedy,1602,William Shakespeare,front_matter,contents,ACT II,NA,NA,NA,the
-1528,Troilus and Cressida,TROILUS AND CRESSIDA,Tragedy,1602,William Shakespeare,front_matter,contents,ACT II,NA,NA,NA,grecian
-1528,Troilus and Cressida,TROILUS AND CRESSIDA,Tragedy,1602,William Shakespeare,front_matter,contents,ACT II,NA,NA,NA,camp
-1528,Troilus and Cressida,TROILUS AND CRESSIDA,Tragedy,1602,William Shakespeare,front_matter,contents,ACT II,NA,NA,NA,before
-1528,Troilus and Cressida,TROILUS AND CRESSIDA,Tragedy,1602,William Shakespeare,front_matter,contents,ACT II,NA,NA,NA,the
-1528,Troilus and Cressida,TROILUS AND CRESSIDA,Tragedy,1602,William Shakespeare,front_matter,contents,ACT II,NA,NA,NA,tent
-1528,Troilus and Cressida,TROILUS AND CRESSIDA,Tragedy,1602,William Shakespeare,front_matter,contents,ACT II,NA,NA,NA,of
-1528,Troilus and Cressida,TROILUS AND CRESSIDA,Tragedy,1602,William Shakespeare,front_matter,contents,ACT II,NA,NA,NA,achilles
-1528,Troilus and Cressida,TROILUS AND CRESSIDA,Tragedy,1602,William Shakespeare,front_matter,contents,ACT III,NA,NA,NA,act
-1528,Troilus and Cressida,TROILUS AND CRESSIDA,Tragedy,1602,William Shakespeare,front_matter,contents,ACT III,NA,NA,NA,iii
-1528,Troilus and Cressida,TROILUS AND CRESSIDA,Tragedy,1602,William Shakespeare,front_matter,contents,ACT III,Scene I,NA,NA,scene
-1528,Troilus and Cressida,TROILUS AND CRESSIDA,Tragedy,1602,William Shakespeare,front_matter,contents,ACT III,Scene I,NA,NA,i
-1528,Troilus and Cressida,TROILUS AND CRESSIDA,Tragedy,1602,William Shakespeare,front_matter,contents,ACT III,NA,NA,NA,troy
-1528,Troilus and Cressida,TROILUS AND CRESSIDA,Tragedy,1602,William Shakespeare,front_matter,contents,ACT III,NA,NA,NA,priam’s
-1528,Troilus and Cressida,TROILUS AND CRESSIDA,Tragedy,1602,William Shakespeare,front_matter,contents,ACT III,NA,NA,NA,palace
-1528,Troilus and Cressida,TROILUS AND CRESSIDA,Tragedy,1602,William Shakespeare,front_matter,contents,ACT III,Scene II,NA,NA,scene
-1528,Troilus and Cressida,TROILUS AND CRESSIDA,Tragedy,1602,William Shakespeare,front_matter,contents,ACT III,Scene II,NA,NA,ii
-1528,Troilus and Cressida,TROILUS AND CRESSIDA,Tragedy,1602,William Shakespeare,front_matter,contents,ACT III,NA,NA,NA,troy
-1528,Troilus and Cressida,TROILUS AND CRESSIDA,Tragedy,1602,William Shakespeare,front_matter,contents,ACT III,NA,NA,NA,pandarus
-1528,Troilus and Cressida,TROILUS AND CRESSIDA,Tragedy,1602,William Shakespeare,front_matter,contents,ACT III,NA,NA,NA,orchard
-1528,Troilus and Cressida,TROILUS AND CRESSIDA,Tragedy,1602,William Shakespeare,front_matter,contents,ACT III,Scene III,NA,NA,scene
-1528,Troilus and Cressida,TROILUS AND CRESSIDA,Tragedy,1602,William Shakespeare,front_matter,contents,ACT III,Scene III,NA,NA,iii
-1528,Troilus and Cressida,TROILUS AND CRESSIDA,Tragedy,1602,William Shakespeare,front_matter,contents,ACT III,NA,NA,NA,the
-1528,Troilus and Cressida,TROILUS AND CRESSIDA,Tragedy,1602,William Shakespeare,front_matter,contents,ACT III,NA,NA,NA,greek
-1528,Troilus and Cressida,TROILUS AND CRESSIDA,Tragedy,1602,William Shakespeare,front_matter,contents,ACT III,NA,NA,NA,camp
-1528,Troilus and Cressida,TROILUS AND CRESSIDA,Tragedy,1602,William Shakespeare,front_matter,contents,ACT IV,NA,NA,NA,act
-1528,Troilus and Cressida,TROILUS AND CRESSIDA,Tragedy,1602,William Shakespeare,front_matter,contents,ACT IV,NA,NA,NA,iv
-1528,Troilus and Cressida,TROILUS AND CRESSIDA,Tragedy,1602,William Shakespeare,front_matter,contents,ACT IV,Scene I,NA,NA,scene
-1528,Troilus and Cressida,TROILUS AND CRESSIDA,Tragedy,1602,William Shakespeare,front_matter,contents,ACT IV,Scene I,NA,NA,i
-1528,Troilus and Cressida,TROILUS AND CRESSIDA,Tragedy,1602,William Shakespeare,front_matter,contents,ACT IV,NA,NA,NA,troy
-1528,Troilus and Cressida,TROILUS AND CRESSIDA,Tragedy,1602,William Shakespeare,front_matter,contents,ACT IV,NA,NA,NA,a
-1528,Troilus and Cressida,TROILUS AND CRESSIDA,Tragedy,1602,William Shakespeare,front_matter,contents,ACT IV,NA,NA,NA,street
-1528,Troilus and Cressida,TROILUS AND CRESSIDA,Tragedy,1602,William Shakespeare,front_matter,contents,ACT IV,Scene II,NA,NA,scene
-1528,Troilus and Cressida,TROILUS AND CRESSIDA,Tragedy,1602,William Shakespeare,front_matter,contents,ACT IV,Scene II,NA,NA,ii
-1528,Troilus and Cressida,TROILUS AND CRESSIDA,Tragedy,1602,William Shakespeare,front_matter,contents,ACT IV,NA,NA,NA,troy
-1528,Troilus and Cressida,TROILUS AND CRESSIDA,Tragedy,1602,William Shakespeare,front_matter,contents,ACT IV,NA,NA,NA,the
-1528,Troilus and Cressida,TROILUS AND CRESSIDA,Tragedy,1602,William Shakespeare,front_matter,contents,ACT IV,NA,NA,NA,court
-1528,Troilus and Cressida,TROILUS AND CRESSIDA,Tragedy,1602,William Shakespeare,front_matter,contents,ACT IV,NA,NA,NA,of
-1528,Troilus and Cressida,TROILUS AND CRESSIDA,Tragedy,1602,William Shakespeare,front_matter,contents,ACT IV,NA,NA,NA,pandarus
-1528,Troilus and Cressida,TROILUS AND CRESSIDA,Tragedy,1602,William Shakespeare,front_matter,contents,ACT IV,NA,NA,NA,house
-1528,Troilus and Cressida,TROILUS AND CRESSIDA,Tragedy,1602,William Shakespeare,front_matter,contents,ACT IV,Scene III,NA,NA,scene
-1528,Troilus and Cressida,TROILUS AND CRESSIDA,Tragedy,1602,William Shakespeare,front_matter,contents,ACT IV,Scene III,NA,NA,iii
-1528,Troilus and Cressida,TROILUS AND CRESSIDA,Tragedy,1602,William Shakespeare,front_matter,contents,ACT IV,NA,NA,NA,troy
-1528,Troilus and Cressida,TROILUS AND CRESSIDA,Tragedy,1602,William Shakespeare,front_matter,contents,ACT IV,NA,NA,NA,a
-1528,Troilus and Cressida,TROILUS AND CRESSIDA,Tragedy,1602,William Shakespeare,front_matter,contents,ACT IV,NA,NA,NA,street
-1528,Troilus and Cressida,TROILUS AND CRESSIDA,Tragedy,1602,William Shakespeare,front_matter,contents,ACT IV,NA,NA,NA,before
-1528,Troilus and Cressida,TROILUS AND CRESSIDA,Tragedy,1602,William Shakespeare,front_matter,contents,ACT IV,NA,NA,NA,pandarus
-1528,Troilus and Cressida,TROILUS AND CRESSIDA,Tragedy,1602,William Shakespeare,front_matter,contents,ACT IV,NA,NA,NA,house
-1528,Troilus and Cressida,TROILUS AND CRESSIDA,Tragedy,1602,William Shakespeare,front_matter,contents,ACT IV,Scene IV,NA,NA,scene
-1528,Troilus and Cressida,TROILUS AND CRESSIDA,Tragedy,1602,William Shakespeare,front_matter,contents,ACT IV,Scene IV,NA,NA,iv
-1528,Troilus and Cressida,TROILUS AND CRESSIDA,Tragedy,1602,William Shakespeare,front_matter,contents,ACT IV,NA,NA,NA,troy
-1528,Troilus and Cressida,TROILUS AND CRESSIDA,Tragedy,1602,William Shakespeare,front_matter,contents,ACT IV,NA,NA,NA,pandarus
-1528,Troilus and Cressida,TROILUS AND CRESSIDA,Tragedy,1602,William Shakespeare,front_matter,contents,ACT IV,NA,NA,NA,house
-1528,Troilus and Cressida,TROILUS AND CRESSIDA,Tragedy,1602,William Shakespeare,front_matter,contents,ACT IV,Scene V,NA,NA,scene
-1528,Troilus and Cressida,TROILUS AND CRESSIDA,Tragedy,1602,William Shakespeare,front_matter,contents,ACT IV,Scene V,NA,NA,v
-1528,Troilus and Cressida,TROILUS AND CRESSIDA,Tragedy,1602,William Shakespeare,front_matter,contents,ACT IV,NA,NA,NA,the
-1528,Troilus and Cressida,TROILUS AND CRESSIDA,Tragedy,1602,William Shakespeare,front_matter,contents,ACT IV,NA,NA,NA,grecian
-1528,Troilus and Cressida,TROILUS AND CRESSIDA,Tragedy,1602,William Shakespeare,front_matter,contents,ACT IV,NA,NA,NA,camp
-1528,Troilus and Cressida,TROILUS AND CRESSIDA,Tragedy,1602,William Shakespeare,front_matter,contents,ACT IV,NA,NA,NA,lists
-1528,Troilus and Cressida,TROILUS AND CRESSIDA,Tragedy,1602,William Shakespeare,front_matter,contents,ACT IV,NA,NA,NA,set
-1528,Troilus and Cressida,TROILUS AND CRESSIDA,Tragedy,1602,William Shakespeare,front_matter,contents,ACT IV,NA,NA,NA,out
-1528,Troilus and Cressida,TROILUS AND CRESSIDA,Tragedy,1602,William Shakespeare,front_matter,contents,ACT V,NA,NA,NA,act
-1528,Troilus and Cressida,TROILUS AND CRESSIDA,Tragedy,1602,William Shakespeare,front_matter,contents,ACT V,NA,NA,NA,v
-1528,Troilus and Cressida,TROILUS AND CRESSIDA,Tragedy,1602,William Shakespeare,front_matter,contents,ACT V,Scene I,NA,NA,scene
-1528,Troilus and Cressida,TROILUS AND CRESSIDA,Tragedy,1602,William Shakespeare,front_matter,contents,ACT V,Scene I,NA,NA,i
-1528,Troilus and Cressida,TROILUS AND CRESSIDA,Tragedy,1602,William Shakespeare,front_matter,contents,ACT V,NA,NA,NA,the
-1528,Troilus and Cressida,TROILUS AND CRESSIDA,Tragedy,1602,William Shakespeare,front_matter,contents,ACT V,NA,NA,NA,grecian
-1528,Troilus and Cressida,TROILUS AND CRESSIDA,Tragedy,1602,William Shakespeare,front_matter,contents,ACT V,NA,NA,NA,camp
-1528,Troilus and Cressida,TROILUS AND CRESSIDA,Tragedy,1602,William Shakespeare,front_matter,contents,ACT V,NA,NA,NA,before
-1528,Troilus and Cressida,TROILUS AND CRESSIDA,Tragedy,1602,William Shakespeare,front_matter,contents,ACT V,NA,NA,NA,the
-1528,Troilus and Cressida,TROILUS AND CRESSIDA,Tragedy,1602,William Shakespeare,front_matter,contents,ACT V,NA,NA,NA,tent
-1528,Troilus and Cressida,TROILUS AND CRESSIDA,Tragedy,1602,William Shakespeare,front_matter,contents,ACT V,NA,NA,NA,of
-1528,Troilus and Cressida,TROILUS AND CRESSIDA,Tragedy,1602,William Shakespeare,front_matter,contents,ACT V,NA,NA,NA,achilles
-1528,Troilus and Cressida,TROILUS AND CRESSIDA,Tragedy,1602,William Shakespeare,front_matter,contents,ACT V,Scene II,NA,NA,scene
-1528,Troilus and Cressida,TROILUS AND CRESSIDA,Tragedy,1602,William Shakespeare,front_matter,contents,ACT V,Scene II,NA,NA,ii
-1528,Troilus and Cressida,TROILUS AND CRESSIDA,Tragedy,1602,William Shakespeare,front_matter,contents,ACT V,NA,NA,NA,the
-1528,Troilus and Cressida,TROILUS AND CRESSIDA,Tragedy,1602,William Shakespeare,front_matter,contents,ACT V,NA,NA,NA,grecian
-1528,Troilus and Cressida,TROILUS AND CRESSIDA,Tragedy,1602,William Shakespeare,front_matter,contents,ACT V,NA,NA,NA,camp
-1528,Troilus and Cressida,TROILUS AND CRESSIDA,Tragedy,1602,William Shakespeare,front_matter,contents,ACT V,NA,NA,NA,before
-1528,Troilus and Cressida,TROILUS AND CRESSIDA,Tragedy,1602,William Shakespeare,front_matter,contents,ACT V,NA,NA,NA,calchas
-1528,Troilus and Cressida,TROILUS AND CRESSIDA,Tragedy,1602,William Shakespeare,front_matter,contents,ACT V,NA,NA,NA,tent
-1528,Troilus and Cressida,TROILUS AND CRESSIDA,Tragedy,1602,William Shakespeare,front_matter,contents,ACT V,Scene III,NA,NA,scene
-1528,Troilus and Cressida,TROILUS AND CRESSIDA,Tragedy,1602,William Shakespeare,front_matter,contents,ACT V,Scene III,NA,NA,iii
-1528,Troilus and Cressida,TROILUS AND CRESSIDA,Tragedy,1602,William Shakespeare,front_matter,contents,ACT V,NA,NA,NA,troy
-1528,Troilus and Cressida,TROILUS AND CRESSIDA,Tragedy,1602,William Shakespeare,front_matter,contents,ACT V,NA,NA,NA,before
-1528,Troilus and Cressida,TROILUS AND CRESSIDA,Tragedy,1602,William Shakespeare,front_matter,contents,ACT V,NA,NA,NA,priam’s
-1528,Troilus and Cressida,TROILUS AND CRESSIDA,Tragedy,1602,William Shakespeare,front_matter,contents,ACT V,NA,NA,NA,palace
-1528,Troilus and Cressida,TROILUS AND CRESSIDA,Tragedy,1602,William Shakespeare,front_matter,contents,ACT V,Scene IV,NA,NA,scene
-1528,Troilus and Cressida,TROILUS AND CRESSIDA,Tragedy,1602,William Shakespeare,front_matter,contents,ACT V,Scene IV,NA,NA,iv
-1528,Troilus and Cressida,TROILUS AND CRESSIDA,Tragedy,1602,William Shakespeare,front_matter,contents,ACT V,NA,NA,NA,the
-1528,Troilus and Cressida,TROILUS AND CRESSIDA,Tragedy,1602,William Shakespeare,front_matter,contents,ACT V,NA,NA,NA,plain
-1528,Troilus and Cressida,TROILUS AND CRESSIDA,Tragedy,1602,William Shakespeare,front_matter,contents,ACT V,NA,NA,NA,between
-1528,Troilus and Cressida,TROILUS AND CRESSIDA,Tragedy,1602,William Shakespeare,front_matter,contents,ACT V,NA,NA,NA,troy
-1528,Troilus and Cressida,TROILUS AND CRESSIDA,Tragedy,1602,William Shakespeare,front_matter,contents,ACT V,NA,NA,NA,and
-1528,Troilus and Cressida,TROILUS AND CRESSIDA,Tragedy,1602,William Shakespeare,front_matter,contents,ACT V,NA,NA,NA,the
-1528,Troilus and Cressida,TROILUS AND CRESSIDA,Tragedy,1602,William Shakespeare,front_matter,contents,ACT V,NA,NA,NA,grecian
-1528,Troilus and Cressida,TROILUS AND CRESSIDA,Tragedy,1602,William Shakespeare,front_matter,contents,ACT V,NA,NA,NA,camp
-1528,Troilus and Cressida,TROILUS AND CRESSIDA,Tragedy,1602,William Shakespeare,front_matter,contents,ACT V,Scene V,NA,NA,scene
-1528,Troilus and Cressida,TROILUS AND CRESSIDA,Tragedy,1602,William Shakespeare,front_matter,contents,ACT V,Scene V,NA,NA,v
-1528,Troilus and Cressida,TROILUS AND CRESSIDA,Tragedy,1602,William Shakespeare,front_matter,contents,ACT V,NA,NA,NA,another
-1528,Troilus and Cressida,TROILUS AND CRESSIDA,Tragedy,1602,William Shakespeare,front_matter,contents,ACT V,NA,NA,NA,part
-1528,Troilus and Cressida,TROILUS AND CRESSIDA,Tragedy,1602,William Shakespeare,front_matter,contents,ACT V,NA,NA,NA,of
-1528,Troilus and Cressida,TROILUS AND CRESSIDA,Tragedy,1602,William Shakespeare,front_matter,contents,ACT V,NA,NA,NA,the
-1528,Troilus and Cressida,TROILUS AND CRESSIDA,Tragedy,1602,William Shakespeare,front_matter,contents,ACT V,NA,NA,NA,plain
-1528,Troilus and Cressida,TROILUS AND CRESSIDA,Tragedy,1602,William Shakespeare,front_matter,contents,ACT V,Scene VI,NA,NA,scene
-1528,Troilus and Cressida,TROILUS AND CRESSIDA,Tragedy,1602,William Shakespeare,front_matter,contents,ACT V,Scene VI,NA,NA,vi
-1528,Troilus and Cressida,TROILUS AND CRESSIDA,Tragedy,1602,William Shakespeare,front_matter,contents,ACT V,NA,NA,NA,another
-1528,Troilus and Cressida,TROILUS AND CRESSIDA,Tragedy,1602,William Shakespeare,front_matter,contents,ACT V,NA,NA,NA,part
-1528,Troilus and Cressida,TROILUS AND CRESSIDA,Tragedy,1602,William Shakespeare,front_matter,contents,ACT V,NA,NA,NA,of
-1528,Troilus and Cressida,TROILUS AND CRESSIDA,Tragedy,1602,William Shakespeare,front_matter,contents,ACT V,NA,NA,NA,the
-1528,Troilus and Cressida,TROILUS AND CRESSIDA,Tragedy,1602,William Shakespeare,front_matter,contents,ACT V,NA,NA,NA,plain
-1528,Troilus and Cressida,TROILUS AND CRESSIDA,Tragedy,1602,William Shakespeare,front_matter,contents,ACT V,Scene VII,NA,NA,scene
-1528,Troilus and Cressida,TROILUS AND CRESSIDA,Tragedy,1602,William Shakespeare,front_matter,contents,ACT V,Scene VII,NA,NA,vii
-1528,Troilus and Cressida,TROILUS AND CRESSIDA,Tragedy,1602,William Shakespeare,front_matter,contents,ACT V,NA,NA,NA,another
-1528,Troilus and Cressida,TROILUS AND CRESSIDA,Tragedy,1602,William Shakespeare,front_matter,contents,ACT V,NA,NA,NA,part
-1528,Troilus and Cressida,TROILUS AND CRESSIDA,Tragedy,1602,William Shakespeare,front_matter,contents,ACT V,NA,NA,NA,of
-1528,Troilus and Cressida,TROILUS AND CRESSIDA,Tragedy,1602,William Shakespeare,front_matter,contents,ACT V,NA,NA,NA,the
-1528,Troilus and Cressida,TROILUS AND CRESSIDA,Tragedy,1602,William Shakespeare,front_matter,contents,ACT V,NA,NA,NA,plain
-1528,Troilus and Cressida,TROILUS AND CRESSIDA,Tragedy,1602,William Shakespeare,front_matter,contents,ACT V,Scene VIII,NA,NA,scene
-1528,Troilus and Cressida,TROILUS AND CRESSIDA,Tragedy,1602,William Shakespeare,front_matter,contents,ACT V,Scene VIII,NA,NA,viii
-1528,Troilus and Cressida,TROILUS AND CRESSIDA,Tragedy,1602,William Shakespeare,front_matter,contents,ACT V,NA,NA,NA,another
-1528,Troilus and Cressida,TROILUS AND CRESSIDA,Tragedy,1602,William Shakespeare,front_matter,contents,ACT V,NA,NA,NA,part
-1528,Troilus and Cressida,TROILUS AND CRESSIDA,Tragedy,1602,William Shakespeare,front_matter,contents,ACT V,NA,NA,NA,of
-1528,Troilus and Cressida,TROILUS AND CRESSIDA,Tragedy,1602,William Shakespeare,front_matter,contents,ACT V,NA,NA,NA,the
-1528,Troilus and Cressida,TROILUS AND CRESSIDA,Tragedy,1602,William Shakespeare,front_matter,contents,ACT V,NA,NA,NA,plain
-1528,Troilus and Cressida,TROILUS AND CRESSIDA,Tragedy,1602,William Shakespeare,front_matter,contents,ACT V,Scene IX,NA,NA,scene
-1528,Troilus and Cressida,TROILUS AND CRESSIDA,Tragedy,1602,William Shakespeare,front_matter,contents,ACT V,Scene IX,NA,NA,ix
-1528,Troilus and Cressida,TROILUS AND CRESSIDA,Tragedy,1602,William Shakespeare,front_matter,contents,ACT V,NA,NA,NA,another
-1528,Troilus and Cressida,TROILUS AND CRESSIDA,Tragedy,1602,William Shakespeare,front_matter,contents,ACT V,NA,NA,NA,part
-1528,Troilus and Cressida,TROILUS AND CRESSIDA,Tragedy,1602,William Shakespeare,front_matter,contents,ACT V,NA,NA,NA,of
-1528,Troilus and Cressida,TROILUS AND CRESSIDA,Tragedy,1602,William Shakespeare,front_matter,contents,ACT V,NA,NA,NA,the
-1528,Troilus and Cressida,TROILUS AND CRESSIDA,Tragedy,1602,William Shakespeare,front_matter,contents,ACT V,NA,NA,NA,plain
-1528,Troilus and Cressida,TROILUS AND CRESSIDA,Tragedy,1602,William Shakespeare,front_matter,contents,ACT V,Scene X,NA,NA,scene
-1528,Troilus and Cressida,TROILUS AND CRESSIDA,Tragedy,1602,William Shakespeare,front_matter,contents,ACT V,Scene X,NA,NA,x
-1528,Troilus and Cressida,TROILUS AND CRESSIDA,Tragedy,1602,William Shakespeare,front_matter,contents,ACT V,NA,NA,NA,another
-1528,Troilus and Cressida,TROILUS AND CRESSIDA,Tragedy,1602,William Shakespeare,front_matter,contents,ACT V,NA,NA,NA,part
-1528,Troilus and Cressida,TROILUS AND CRESSIDA,Tragedy,1602,William Shakespeare,front_matter,contents,ACT V,NA,NA,NA,of
-1528,Troilus and Cressida,TROILUS AND CRESSIDA,Tragedy,1602,William Shakespeare,front_matter,contents,ACT V,NA,NA,NA,the
-1528,Troilus and Cressida,TROILUS AND CRESSIDA,Tragedy,1602,William Shakespeare,front_matter,contents,ACT V,NA,NA,NA,plain
-1528,Troilus and Cressida,TROILUS AND CRESSIDA,Tragedy,1602,William Shakespeare,front_matter,dramatis_header,NA,NA,NA,NA,dramatis
-1528,Troilus and Cressida,TROILUS AND CRESSIDA,Tragedy,1602,William Shakespeare,front_matter,dramatis_header,NA,NA,NA,NA,personæ
-1528,Troilus and Cressida,TROILUS AND CRESSIDA,Tragedy,1602,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,priam
-1528,Troilus and Cressida,TROILUS AND CRESSIDA,Tragedy,1602,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,king
-1528,Troilus and Cressida,TROILUS AND CRESSIDA,Tragedy,1602,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,of
-1528,Troilus and Cressida,TROILUS AND CRESSIDA,Tragedy,1602,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,troy
-1528,Troilus and Cressida,TROILUS AND CRESSIDA,Tragedy,1602,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,his
-1528,Troilus and Cressida,TROILUS AND CRESSIDA,Tragedy,1602,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,sons
-1528,Troilus and Cressida,TROILUS AND CRESSIDA,Tragedy,1602,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,hector
-1528,Troilus and Cressida,TROILUS AND CRESSIDA,Tragedy,1602,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,troilus
-1528,Troilus and Cressida,TROILUS AND CRESSIDA,Tragedy,1602,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,paris
-1528,Troilus and Cressida,TROILUS AND CRESSIDA,Tragedy,1602,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,deiphobus
-1528,Troilus and Cressida,TROILUS AND CRESSIDA,Tragedy,1602,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,helenus
-1528,Troilus and Cressida,TROILUS AND CRESSIDA,Tragedy,1602,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,margarelon
-1528,Troilus and Cressida,TROILUS AND CRESSIDA,Tragedy,1602,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,a
-1528,Troilus and Cressida,TROILUS AND CRESSIDA,Tragedy,1602,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,bastard
-1528,Troilus and Cressida,TROILUS AND CRESSIDA,Tragedy,1602,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,son
-1528,Troilus and Cressida,TROILUS AND CRESSIDA,Tragedy,1602,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,of
-1528,Troilus and Cressida,TROILUS AND CRESSIDA,Tragedy,1602,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,priam
-1528,Troilus and Cressida,TROILUS AND CRESSIDA,Tragedy,1602,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,trojan
-1528,Troilus and Cressida,TROILUS AND CRESSIDA,Tragedy,1602,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,commanders
-1528,Troilus and Cressida,TROILUS AND CRESSIDA,Tragedy,1602,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,aeneas
-1528,Troilus and Cressida,TROILUS AND CRESSIDA,Tragedy,1602,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,antenor
-1528,Troilus and Cressida,TROILUS AND CRESSIDA,Tragedy,1602,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,calchas
-1528,Troilus and Cressida,TROILUS AND CRESSIDA,Tragedy,1602,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,a
-1528,Troilus and Cressida,TROILUS AND CRESSIDA,Tragedy,1602,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,trojan
-1528,Troilus and Cressida,TROILUS AND CRESSIDA,Tragedy,1602,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,priest
-1528,Troilus and Cressida,TROILUS AND CRESSIDA,Tragedy,1602,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,taking
-1528,Troilus and Cressida,TROILUS AND CRESSIDA,Tragedy,1602,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,part
-1528,Troilus and Cressida,TROILUS AND CRESSIDA,Tragedy,1602,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,with
-1528,Troilus and Cressida,TROILUS AND CRESSIDA,Tragedy,1602,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,the
-1528,Troilus and Cressida,TROILUS AND CRESSIDA,Tragedy,1602,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,greeks
-1528,Troilus and Cressida,TROILUS AND CRESSIDA,Tragedy,1602,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,pandarus
-1528,Troilus and Cressida,TROILUS AND CRESSIDA,Tragedy,1602,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,uncle
-1528,Troilus and Cressida,TROILUS AND CRESSIDA,Tragedy,1602,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,to
-1528,Troilus and Cressida,TROILUS AND CRESSIDA,Tragedy,1602,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,cressida
-1528,Troilus and Cressida,TROILUS AND CRESSIDA,Tragedy,1602,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,agamemnon
-1528,Troilus and Cressida,TROILUS AND CRESSIDA,Tragedy,1602,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,the
-1528,Troilus and Cressida,TROILUS AND CRESSIDA,Tragedy,1602,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,greek
-1528,Troilus and Cressida,TROILUS AND CRESSIDA,Tragedy,1602,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,general
-1528,Troilus and Cressida,TROILUS AND CRESSIDA,Tragedy,1602,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,menelaus
-1528,Troilus and Cressida,TROILUS AND CRESSIDA,Tragedy,1602,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,his
-1528,Troilus and Cressida,TROILUS AND CRESSIDA,Tragedy,1602,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,brother
-1528,Troilus and Cressida,TROILUS AND CRESSIDA,Tragedy,1602,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,greek
-1528,Troilus and Cressida,TROILUS AND CRESSIDA,Tragedy,1602,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,commanders
-1528,Troilus and Cressida,TROILUS AND CRESSIDA,Tragedy,1602,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,achilles
-1528,Troilus and Cressida,TROILUS AND CRESSIDA,Tragedy,1602,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,ajax
-1528,Troilus and Cressida,TROILUS AND CRESSIDA,Tragedy,1602,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,ulysses
-1528,Troilus and Cressida,TROILUS AND CRESSIDA,Tragedy,1602,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,nestor
-1528,Troilus and Cressida,TROILUS AND CRESSIDA,Tragedy,1602,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,diomedes
-1528,Troilus and Cressida,TROILUS AND CRESSIDA,Tragedy,1602,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,patroclus
-1528,Troilus and Cressida,TROILUS AND CRESSIDA,Tragedy,1602,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,thersites
-1528,Troilus and Cressida,TROILUS AND CRESSIDA,Tragedy,1602,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,a
-1528,Troilus and Cressida,TROILUS AND CRESSIDA,Tragedy,1602,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,deformed
-1528,Troilus and Cressida,TROILUS AND CRESSIDA,Tragedy,1602,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,and
-1528,Troilus and Cressida,TROILUS AND CRESSIDA,Tragedy,1602,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,scurrilous
-1528,Troilus and Cressida,TROILUS AND CRESSIDA,Tragedy,1602,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,greek
-1528,Troilus and Cressida,TROILUS AND CRESSIDA,Tragedy,1602,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,alexander
-1528,Troilus and Cressida,TROILUS AND CRESSIDA,Tragedy,1602,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,servant
-1528,Troilus and Cressida,TROILUS AND CRESSIDA,Tragedy,1602,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,to
-1528,Troilus and Cressida,TROILUS AND CRESSIDA,Tragedy,1602,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,cressida
-1528,Troilus and Cressida,TROILUS AND CRESSIDA,Tragedy,1602,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,servant
-1528,Troilus and Cressida,TROILUS AND CRESSIDA,Tragedy,1602,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,to
-1528,Troilus and Cressida,TROILUS AND CRESSIDA,Tragedy,1602,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,troilus
-1528,Troilus and Cressida,TROILUS AND CRESSIDA,Tragedy,1602,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,servant
-1528,Troilus and Cressida,TROILUS AND CRESSIDA,Tragedy,1602,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,to
-1528,Troilus and Cressida,TROILUS AND CRESSIDA,Tragedy,1602,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,paris
-1528,Troilus and Cressida,TROILUS AND CRESSIDA,Tragedy,1602,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,servant
-1528,Troilus and Cressida,TROILUS AND CRESSIDA,Tragedy,1602,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,to
-1528,Troilus and Cressida,TROILUS AND CRESSIDA,Tragedy,1602,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,diomedes
-1528,Troilus and Cressida,TROILUS AND CRESSIDA,Tragedy,1602,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,helen
-1528,Troilus and Cressida,TROILUS AND CRESSIDA,Tragedy,1602,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,wife
-1528,Troilus and Cressida,TROILUS AND CRESSIDA,Tragedy,1602,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,to
-1528,Troilus and Cressida,TROILUS AND CRESSIDA,Tragedy,1602,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,menelaus
-1528,Troilus and Cressida,TROILUS AND CRESSIDA,Tragedy,1602,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,andromache
-1528,Troilus and Cressida,TROILUS AND CRESSIDA,Tragedy,1602,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,wife
-1528,Troilus and Cressida,TROILUS AND CRESSIDA,Tragedy,1602,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,to
-1528,Troilus and Cressida,TROILUS AND CRESSIDA,Tragedy,1602,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,hector
-1528,Troilus and Cressida,TROILUS AND CRESSIDA,Tragedy,1602,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,cassandra
-1528,Troilus and Cressida,TROILUS AND CRESSIDA,Tragedy,1602,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,daughter
-1528,Troilus and Cressida,TROILUS AND CRESSIDA,Tragedy,1602,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,to
-1528,Troilus and Cressida,TROILUS AND CRESSIDA,Tragedy,1602,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,priam
-1528,Troilus and Cressida,TROILUS AND CRESSIDA,Tragedy,1602,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,a
-1528,Troilus and Cressida,TROILUS AND CRESSIDA,Tragedy,1602,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,prophetess
-1528,Troilus and Cressida,TROILUS AND CRESSIDA,Tragedy,1602,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,cressida
-1528,Troilus and Cressida,TROILUS AND CRESSIDA,Tragedy,1602,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,daughter
-1528,Troilus and Cressida,TROILUS AND CRESSIDA,Tragedy,1602,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,to
-1528,Troilus and Cressida,TROILUS AND CRESSIDA,Tragedy,1602,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,calchas
-1528,Troilus and Cressida,TROILUS AND CRESSIDA,Tragedy,1602,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,trojan
-1528,Troilus and Cressida,TROILUS AND CRESSIDA,Tragedy,1602,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,and
-1528,Troilus and Cressida,TROILUS AND CRESSIDA,Tragedy,1602,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,greek
-1528,Troilus and Cressida,TROILUS AND CRESSIDA,Tragedy,1602,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,soldiers
-1528,Troilus and Cressida,TROILUS AND CRESSIDA,Tragedy,1602,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,and
-1528,Troilus and Cressida,TROILUS AND CRESSIDA,Tragedy,1602,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,attendants
-1528,Troilus and Cressida,TROILUS AND CRESSIDA,Tragedy,1602,William Shakespeare,front_matter,scene_description,NA,NA,NA,NA,scene
-1528,Troilus and Cressida,TROILUS AND CRESSIDA,Tragedy,1602,William Shakespeare,front_matter,scene_description,NA,NA,NA,NA,troy
-1528,Troilus and Cressida,TROILUS AND CRESSIDA,Tragedy,1602,William Shakespeare,front_matter,scene_description,NA,NA,NA,NA,and
-1528,Troilus and Cressida,TROILUS AND CRESSIDA,Tragedy,1602,William Shakespeare,front_matter,scene_description,NA,NA,NA,NA,the
-1528,Troilus and Cressida,TROILUS AND CRESSIDA,Tragedy,1602,William Shakespeare,front_matter,scene_description,NA,NA,NA,NA,greek
-1528,Troilus and Cressida,TROILUS AND CRESSIDA,Tragedy,1602,William Shakespeare,front_matter,scene_description,NA,NA,NA,NA,camp
-1528,Troilus and Cressida,TROILUS AND CRESSIDA,Tragedy,1602,William Shakespeare,front_matter,scene_description,NA,NA,NA,NA,before
-1528,Troilus and Cressida,TROILUS AND CRESSIDA,Tragedy,1602,William Shakespeare,front_matter,scene_description,NA,NA,NA,NA,it
-1528,Troilus and Cressida,TROILUS AND CRESSIDA,Tragedy,1602,William Shakespeare,front_matter,scene_description,NA,NA,NA,NA,prologue
-1528,Troilus and Cressida,TROILUS AND CRESSIDA,Tragedy,1602,William Shakespeare,front_matter,scene_description,NA,NA,NA,NA,in
-1528,Troilus and Cressida,TROILUS AND CRESSIDA,Tragedy,1602,William Shakespeare,front_matter,scene_description,NA,NA,NA,NA,troy
-1528,Troilus and Cressida,TROILUS AND CRESSIDA,Tragedy,1602,William Shakespeare,front_matter,scene_description,NA,NA,NA,NA,there
-1528,Troilus and Cressida,TROILUS AND CRESSIDA,Tragedy,1602,William Shakespeare,front_matter,scene_description,NA,NA,NA,NA,lies
-1528,Troilus and Cressida,TROILUS AND CRESSIDA,Tragedy,1602,William Shakespeare,front_matter,scene_description,NA,NA,NA,NA,the
-1528,Troilus and Cressida,TROILUS AND CRESSIDA,Tragedy,1602,William Shakespeare,front_matter,scene_description,NA,NA,NA,NA,scene
-1528,Troilus and Cressida,TROILUS AND CRESSIDA,Tragedy,1602,William Shakespeare,front_matter,scene_description,NA,NA,NA,NA,from
-1528,Troilus and Cressida,TROILUS AND CRESSIDA,Tragedy,1602,William Shakespeare,front_matter,scene_description,NA,NA,NA,NA,isles
-1528,Troilus and Cressida,TROILUS AND CRESSIDA,Tragedy,1602,William Shakespeare,front_matter,scene_description,NA,NA,NA,NA,of
-1528,Troilus and Cressida,TROILUS AND CRESSIDA,Tragedy,1602,William Shakespeare,front_matter,scene_description,NA,NA,NA,NA,greece
-1528,Troilus and Cressida,TROILUS AND CRESSIDA,Tragedy,1602,William Shakespeare,front_matter,scene_description,NA,NA,NA,NA,the
-1528,Troilus and Cressida,TROILUS AND CRESSIDA,Tragedy,1602,William Shakespeare,front_matter,scene_description,NA,NA,NA,NA,princes
-1528,Troilus and Cressida,TROILUS AND CRESSIDA,Tragedy,1602,William Shakespeare,front_matter,scene_description,NA,NA,NA,NA,orgulous
-1528,Troilus and Cressida,TROILUS AND CRESSIDA,Tragedy,1602,William Shakespeare,front_matter,scene_description,NA,NA,NA,NA,their
-1528,Troilus and Cressida,TROILUS AND CRESSIDA,Tragedy,1602,William Shakespeare,front_matter,scene_description,NA,NA,NA,NA,high
-1528,Troilus and Cressida,TROILUS AND CRESSIDA,Tragedy,1602,William Shakespeare,front_matter,scene_description,NA,NA,NA,NA,blood
-1528,Troilus and Cressida,TROILUS AND CRESSIDA,Tragedy,1602,William Shakespeare,front_matter,scene_description,NA,NA,NA,NA,chaf’d
-1528,Troilus and Cressida,TROILUS AND CRESSIDA,Tragedy,1602,William Shakespeare,front_matter,scene_description,NA,NA,NA,NA,have
-1528,Troilus and Cressida,TROILUS AND CRESSIDA,Tragedy,1602,William Shakespeare,front_matter,scene_description,NA,NA,NA,NA,to
-1528,Troilus and Cressida,TROILUS AND CRESSIDA,Tragedy,1602,William Shakespeare,front_matter,scene_description,NA,NA,NA,NA,the
-1528,Troilus and Cressida,TROILUS AND CRESSIDA,Tragedy,1602,William Shakespeare,front_matter,scene_description,NA,NA,NA,NA,port
-1528,Troilus and Cressida,TROILUS AND CRESSIDA,Tragedy,1602,William Shakespeare,front_matter,scene_description,NA,NA,NA,NA,of
-1528,Troilus and Cressida,TROILUS AND CRESSIDA,Tragedy,1602,William Shakespeare,front_matter,scene_description,NA,NA,NA,NA,athens
-1528,Troilus and Cressida,TROILUS AND CRESSIDA,Tragedy,1602,William Shakespeare,front_matter,scene_description,NA,NA,NA,NA,sent
-1528,Troilus and Cressida,TROILUS AND CRESSIDA,Tragedy,1602,William Shakespeare,front_matter,scene_description,NA,NA,NA,NA,their
-1528,Troilus and Cressida,TROILUS AND CRESSIDA,Tragedy,1602,William Shakespeare,front_matter,scene_description,NA,NA,NA,NA,ships
-1528,Troilus and Cressida,TROILUS AND CRESSIDA,Tragedy,1602,William Shakespeare,front_matter,scene_description,NA,NA,NA,NA,fraught
-1528,Troilus and Cressida,TROILUS AND CRESSIDA,Tragedy,1602,William Shakespeare,front_matter,scene_description,NA,NA,NA,NA,with
-1528,Troilus and Cressida,TROILUS AND CRESSIDA,Tragedy,1602,William Shakespeare,front_matter,scene_description,NA,NA,NA,NA,the
-1528,Troilus and Cressida,TROILUS AND CRESSIDA,Tragedy,1602,William Shakespeare,front_matter,scene_description,NA,NA,NA,NA,ministers
-1528,Troilus and Cressida,TROILUS AND CRESSIDA,Tragedy,1602,William Shakespeare,front_matter,scene_description,NA,NA,NA,NA,and
-1528,Troilus and Cressida,TROILUS AND CRESSIDA,Tragedy,1602,William Shakespeare,front_matter,scene_description,NA,NA,NA,NA,instruments
-1528,Troilus and Cressida,TROILUS AND CRESSIDA,Tragedy,1602,William Shakespeare,front_matter,scene_description,NA,NA,NA,NA,of
-1528,Troilus and Cressida,TROILUS AND CRESSIDA,Tragedy,1602,William Shakespeare,front_matter,scene_description,NA,NA,NA,NA,cruel
-1528,Troilus and Cressida,TROILUS AND CRESSIDA,Tragedy,1602,William Shakespeare,front_matter,scene_description,NA,NA,NA,NA,war
-1528,Troilus and Cressida,TROILUS AND CRESSIDA,Tragedy,1602,William Shakespeare,front_matter,scene_description,NA,NA,NA,NA,sixty
-1528,Troilus and Cressida,TROILUS AND CRESSIDA,Tragedy,1602,William Shakespeare,front_matter,scene_description,NA,NA,NA,NA,and
-1528,Troilus and Cressida,TROILUS AND CRESSIDA,Tragedy,1602,William Shakespeare,front_matter,scene_description,NA,NA,NA,NA,nine
-1528,Troilus and Cressida,TROILUS AND CRESSIDA,Tragedy,1602,William Shakespeare,front_matter,scene_description,NA,NA,NA,NA,that
-1528,Troilus and Cressida,TROILUS AND CRESSIDA,Tragedy,1602,William Shakespeare,front_matter,scene_description,NA,NA,NA,NA,wore
-1528,Troilus and Cressida,TROILUS AND CRESSIDA,Tragedy,1602,William Shakespeare,front_matter,scene_description,NA,NA,NA,NA,their
-1528,Troilus and Cressida,TROILUS AND CRESSIDA,Tragedy,1602,William Shakespeare,front_matter,scene_description,NA,NA,NA,NA,crownets
-1528,Troilus and Cressida,TROILUS AND CRESSIDA,Tragedy,1602,William Shakespeare,front_matter,scene_description,NA,NA,NA,NA,regal
-1528,Troilus and Cressida,TROILUS AND CRESSIDA,Tragedy,1602,William Shakespeare,front_matter,scene_description,NA,NA,NA,NA,from
-1528,Troilus and Cressida,TROILUS AND CRESSIDA,Tragedy,1602,William Shakespeare,front_matter,scene_description,NA,NA,NA,NA,the
-1528,Troilus and Cressida,TROILUS AND CRESSIDA,Tragedy,1602,William Shakespeare,front_matter,scene_description,NA,NA,NA,NA,athenian
-1528,Troilus and Cressida,TROILUS AND CRESSIDA,Tragedy,1602,William Shakespeare,front_matter,scene_description,NA,NA,NA,NA,bay
-1528,Troilus and Cressida,TROILUS AND CRESSIDA,Tragedy,1602,William Shakespeare,front_matter,scene_description,NA,NA,NA,NA,put
-1528,Troilus and Cressida,TROILUS AND CRESSIDA,Tragedy,1602,William Shakespeare,front_matter,scene_description,NA,NA,NA,NA,forth
-1528,Troilus and Cressida,TROILUS AND CRESSIDA,Tragedy,1602,William Shakespeare,front_matter,scene_description,NA,NA,NA,NA,toward
-1528,Troilus and Cressida,TROILUS AND CRESSIDA,Tragedy,1602,William Shakespeare,front_matter,scene_description,NA,NA,NA,NA,phrygia
-1528,Troilus and Cressida,TROILUS AND CRESSIDA,Tragedy,1602,William Shakespeare,front_matter,scene_description,NA,NA,NA,NA,and
-1528,Troilus and Cressida,TROILUS AND CRESSIDA,Tragedy,1602,William Shakespeare,front_matter,scene_description,NA,NA,NA,NA,their
-1528,Troilus and Cressida,TROILUS AND CRESSIDA,Tragedy,1602,William Shakespeare,front_matter,scene_description,NA,NA,NA,NA,vow
-1528,Troilus and Cressida,TROILUS AND CRESSIDA,Tragedy,1602,William Shakespeare,front_matter,scene_description,NA,NA,NA,NA,is
-1528,Troilus and Cressida,TROILUS AND CRESSIDA,Tragedy,1602,William Shakespeare,front_matter,scene_description,NA,NA,NA,NA,made
-1528,Troilus and Cressida,TROILUS AND CRESSIDA,Tragedy,1602,William Shakespeare,front_matter,scene_description,NA,NA,NA,NA,to
-1528,Troilus and Cressida,TROILUS AND CRESSIDA,Tragedy,1602,William Shakespeare,front_matter,scene_description,NA,NA,NA,NA,ransack
-1528,Troilus and Cressida,TROILUS AND CRESSIDA,Tragedy,1602,William Shakespeare,front_matter,scene_description,NA,NA,NA,NA,troy
-1528,Troilus and Cressida,TROILUS AND CRESSIDA,Tragedy,1602,William Shakespeare,front_matter,scene_description,NA,NA,NA,NA,within
-1528,Troilus and Cressida,TROILUS AND CRESSIDA,Tragedy,1602,William Shakespeare,front_matter,scene_description,NA,NA,NA,NA,whose
-1528,Troilus and Cressida,TROILUS AND CRESSIDA,Tragedy,1602,William Shakespeare,front_matter,scene_description,NA,NA,NA,NA,strong
-1528,Troilus and Cressida,TROILUS AND CRESSIDA,Tragedy,1602,William Shakespeare,front_matter,scene_description,NA,NA,NA,NA,immures
-1528,Troilus and Cressida,TROILUS AND CRESSIDA,Tragedy,1602,William Shakespeare,front_matter,scene_description,NA,NA,NA,NA,the
-1528,Troilus and Cressida,TROILUS AND CRESSIDA,Tragedy,1602,William Shakespeare,front_matter,scene_description,NA,NA,NA,NA,ravish’d
-1528,Troilus and Cressida,TROILUS AND CRESSIDA,Tragedy,1602,William Shakespeare,front_matter,scene_description,NA,NA,NA,NA,helen
-1528,Troilus and Cressida,TROILUS AND CRESSIDA,Tragedy,1602,William Shakespeare,front_matter,scene_description,NA,NA,NA,NA,menelaus
-1528,Troilus and Cressida,TROILUS AND CRESSIDA,Tragedy,1602,William Shakespeare,front_matter,scene_description,NA,NA,NA,NA,queen
-1528,Troilus and Cressida,TROILUS AND CRESSIDA,Tragedy,1602,William Shakespeare,front_matter,scene_description,NA,NA,NA,NA,with
-1528,Troilus and Cressida,TROILUS AND CRESSIDA,Tragedy,1602,William Shakespeare,front_matter,scene_description,NA,NA,NA,NA,wanton
-1528,Troilus and Cressida,TROILUS AND CRESSIDA,Tragedy,1602,William Shakespeare,front_matter,scene_description,NA,NA,NA,NA,paris
-1528,Troilus and Cressida,TROILUS AND CRESSIDA,Tragedy,1602,William Shakespeare,front_matter,scene_description,NA,NA,NA,NA,sleeps
-1528,Troilus and Cressida,TROILUS AND CRESSIDA,Tragedy,1602,William Shakespeare,front_matter,scene_description,NA,NA,NA,NA,and
-1528,Troilus and Cressida,TROILUS AND CRESSIDA,Tragedy,1602,William Shakespeare,front_matter,scene_description,NA,NA,NA,NA,that’s
-1528,Troilus and Cressida,TROILUS AND CRESSIDA,Tragedy,1602,William Shakespeare,front_matter,scene_description,NA,NA,NA,NA,the
-1528,Troilus and Cressida,TROILUS AND CRESSIDA,Tragedy,1602,William Shakespeare,front_matter,scene_description,NA,NA,NA,NA,quarrel
-1528,Troilus and Cressida,TROILUS AND CRESSIDA,Tragedy,1602,William Shakespeare,front_matter,scene_description,NA,NA,NA,NA,to
-1528,Troilus and Cressida,TROILUS AND CRESSIDA,Tragedy,1602,William Shakespeare,front_matter,scene_description,NA,NA,NA,NA,tenedos
-1528,Troilus and Cressida,TROILUS AND CRESSIDA,Tragedy,1602,William Shakespeare,front_matter,scene_description,NA,NA,NA,NA,they
-1528,Troilus and Cressida,TROILUS AND CRESSIDA,Tragedy,1602,William Shakespeare,front_matter,scene_description,NA,NA,NA,NA,come
-1528,Troilus and Cressida,TROILUS AND CRESSIDA,Tragedy,1602,William Shakespeare,front_matter,scene_description,NA,NA,NA,NA,and
-1528,Troilus and Cressida,TROILUS AND CRESSIDA,Tragedy,1602,William Shakespeare,front_matter,scene_description,NA,NA,NA,NA,the
-1528,Troilus and Cressida,TROILUS AND CRESSIDA,Tragedy,1602,William Shakespeare,front_matter,scene_description,NA,NA,NA,NA,deep
-1528,Troilus and Cressida,TROILUS AND CRESSIDA,Tragedy,1602,William Shakespeare,front_matter,scene_description,NA,NA,NA,NA,drawing
-1528,Troilus and Cressida,TROILUS AND CRESSIDA,Tragedy,1602,William Shakespeare,front_matter,scene_description,NA,NA,NA,NA,barks
-1528,Troilus and Cressida,TROILUS AND CRESSIDA,Tragedy,1602,William Shakespeare,front_matter,scene_description,NA,NA,NA,NA,do
-1528,Troilus and Cressida,TROILUS AND CRESSIDA,Tragedy,1602,William Shakespeare,front_matter,scene_description,NA,NA,NA,NA,there
-1528,Troilus and Cressida,TROILUS AND CRESSIDA,Tragedy,1602,William Shakespeare,front_matter,scene_description,NA,NA,NA,NA,disgorge
-1528,Troilus and Cressida,TROILUS AND CRESSIDA,Tragedy,1602,William Shakespeare,front_matter,scene_description,NA,NA,NA,NA,their
-1528,Troilus and Cressida,TROILUS AND CRESSIDA,Tragedy,1602,William Shakespeare,front_matter,scene_description,NA,NA,NA,NA,war
-1528,Troilus and Cressida,TROILUS AND CRESSIDA,Tragedy,1602,William Shakespeare,front_matter,scene_description,NA,NA,NA,NA,like
-1528,Troilus and Cressida,TROILUS AND CRESSIDA,Tragedy,1602,William Shakespeare,front_matter,scene_description,NA,NA,NA,NA,fraughtage
-1528,Troilus and Cressida,TROILUS AND CRESSIDA,Tragedy,1602,William Shakespeare,front_matter,scene_description,NA,NA,NA,NA,now
-1528,Troilus and Cressida,TROILUS AND CRESSIDA,Tragedy,1602,William Shakespeare,front_matter,scene_description,NA,NA,NA,NA,on
-1528,Troilus and Cressida,TROILUS AND CRESSIDA,Tragedy,1602,William Shakespeare,front_matter,scene_description,NA,NA,NA,NA,dardan
-1528,Troilus and Cressida,TROILUS AND CRESSIDA,Tragedy,1602,William Shakespeare,front_matter,scene_description,NA,NA,NA,NA,plains
-1528,Troilus and Cressida,TROILUS AND CRESSIDA,Tragedy,1602,William Shakespeare,front_matter,scene_description,NA,NA,NA,NA,the
-1528,Troilus and Cressida,TROILUS AND CRESSIDA,Tragedy,1602,William Shakespeare,front_matter,scene_description,NA,NA,NA,NA,fresh
-1528,Troilus and Cressida,TROILUS AND CRESSIDA,Tragedy,1602,William Shakespeare,front_matter,scene_description,NA,NA,NA,NA,and
-1528,Troilus and Cressida,TROILUS AND CRESSIDA,Tragedy,1602,William Shakespeare,front_matter,scene_description,NA,NA,NA,NA,yet
-1528,Troilus and Cressida,TROILUS AND CRESSIDA,Tragedy,1602,William Shakespeare,front_matter,scene_description,NA,NA,NA,NA,unbruised
-1528,Troilus and Cressida,TROILUS AND CRESSIDA,Tragedy,1602,William Shakespeare,front_matter,scene_description,NA,NA,NA,NA,greeks
-1528,Troilus and Cressida,TROILUS AND CRESSIDA,Tragedy,1602,William Shakespeare,front_matter,scene_description,NA,NA,NA,NA,do
-1528,Troilus and Cressida,TROILUS AND CRESSIDA,Tragedy,1602,William Shakespeare,front_matter,scene_description,NA,NA,NA,NA,pitch
-1528,Troilus and Cressida,TROILUS AND CRESSIDA,Tragedy,1602,William Shakespeare,front_matter,scene_description,NA,NA,NA,NA,their
-1528,Troilus and Cressida,TROILUS AND CRESSIDA,Tragedy,1602,William Shakespeare,front_matter,scene_description,NA,NA,NA,NA,brave
-1528,Troilus and Cressida,TROILUS AND CRESSIDA,Tragedy,1602,William Shakespeare,front_matter,scene_description,NA,NA,NA,NA,pavilions
-1528,Troilus and Cressida,TROILUS AND CRESSIDA,Tragedy,1602,William Shakespeare,front_matter,scene_description,NA,NA,NA,NA,priam’s
-1528,Troilus and Cressida,TROILUS AND CRESSIDA,Tragedy,1602,William Shakespeare,front_matter,scene_description,NA,NA,NA,NA,six
-1528,Troilus and Cressida,TROILUS AND CRESSIDA,Tragedy,1602,William Shakespeare,front_matter,scene_description,NA,NA,NA,NA,gated
-1528,Troilus and Cressida,TROILUS AND CRESSIDA,Tragedy,1602,William Shakespeare,front_matter,scene_description,NA,NA,NA,NA,city
-1528,Troilus and Cressida,TROILUS AND CRESSIDA,Tragedy,1602,William Shakespeare,front_matter,scene_description,NA,NA,NA,NA,dardan
-1528,Troilus and Cressida,TROILUS AND CRESSIDA,Tragedy,1602,William Shakespeare,front_matter,scene_description,NA,NA,NA,NA,and
-1528,Troilus and Cressida,TROILUS AND CRESSIDA,Tragedy,1602,William Shakespeare,front_matter,scene_description,NA,NA,NA,NA,tymbria
-1528,Troilus and Cressida,TROILUS AND CRESSIDA,Tragedy,1602,William Shakespeare,front_matter,scene_description,NA,NA,NA,NA,ilias
-1528,Troilus and Cressida,TROILUS AND CRESSIDA,Tragedy,1602,William Shakespeare,front_matter,scene_description,NA,NA,NA,NA,chetas
-1528,Troilus and Cressida,TROILUS AND CRESSIDA,Tragedy,1602,William Shakespeare,front_matter,scene_description,NA,NA,NA,NA,troien
-1528,Troilus and Cressida,TROILUS AND CRESSIDA,Tragedy,1602,William Shakespeare,front_matter,scene_description,NA,NA,NA,NA,and
-1528,Troilus and Cressida,TROILUS AND CRESSIDA,Tragedy,1602,William Shakespeare,front_matter,scene_description,NA,NA,NA,NA,antenorides
-1528,Troilus and Cressida,TROILUS AND CRESSIDA,Tragedy,1602,William Shakespeare,front_matter,scene_description,NA,NA,NA,NA,with
-1528,Troilus and Cressida,TROILUS AND CRESSIDA,Tragedy,1602,William Shakespeare,front_matter,scene_description,NA,NA,NA,NA,massy
-1528,Troilus and Cressida,TROILUS AND CRESSIDA,Tragedy,1602,William Shakespeare,front_matter,scene_description,NA,NA,NA,NA,staples
-1528,Troilus and Cressida,TROILUS AND CRESSIDA,Tragedy,1602,William Shakespeare,front_matter,scene_description,NA,NA,NA,NA,and
-1528,Troilus and Cressida,TROILUS AND CRESSIDA,Tragedy,1602,William Shakespeare,front_matter,scene_description,NA,NA,NA,NA,corresponsive
-1528,Troilus and Cressida,TROILUS AND CRESSIDA,Tragedy,1602,William Shakespeare,front_matter,scene_description,NA,NA,NA,NA,and
-1528,Troilus and Cressida,TROILUS AND CRESSIDA,Tragedy,1602,William Shakespeare,front_matter,scene_description,NA,NA,NA,NA,fulfilling
-1528,Troilus and Cressida,TROILUS AND CRESSIDA,Tragedy,1602,William Shakespeare,front_matter,scene_description,NA,NA,NA,NA,bolts
-1528,Troilus and Cressida,TROILUS AND CRESSIDA,Tragedy,1602,William Shakespeare,front_matter,scene_description,NA,NA,NA,NA,stir
-1528,Troilus and Cressida,TROILUS AND CRESSIDA,Tragedy,1602,William Shakespeare,front_matter,scene_description,NA,NA,NA,NA,up
-1528,Troilus and Cressida,TROILUS AND CRESSIDA,Tragedy,1602,William Shakespeare,front_matter,scene_description,NA,NA,NA,NA,the
-1528,Troilus and Cressida,TROILUS AND CRESSIDA,Tragedy,1602,William Shakespeare,front_matter,scene_description,NA,NA,NA,NA,sons
-1528,Troilus and Cressida,TROILUS AND CRESSIDA,Tragedy,1602,William Shakespeare,front_matter,scene_description,NA,NA,NA,NA,of
-1528,Troilus and Cressida,TROILUS AND CRESSIDA,Tragedy,1602,William Shakespeare,front_matter,scene_description,NA,NA,NA,NA,troy
-1528,Troilus and Cressida,TROILUS AND CRESSIDA,Tragedy,1602,William Shakespeare,front_matter,scene_description,NA,NA,NA,NA,now
-1528,Troilus and Cressida,TROILUS AND CRESSIDA,Tragedy,1602,William Shakespeare,front_matter,scene_description,NA,NA,NA,NA,expectation
-1528,Troilus and Cressida,TROILUS AND CRESSIDA,Tragedy,1602,William Shakespeare,front_matter,scene_description,NA,NA,NA,NA,tickling
-1528,Troilus and Cressida,TROILUS AND CRESSIDA,Tragedy,1602,William Shakespeare,front_matter,scene_description,NA,NA,NA,NA,skittish
-1528,Troilus and Cressida,TROILUS AND CRESSIDA,Tragedy,1602,William Shakespeare,front_matter,scene_description,NA,NA,NA,NA,spirits
-1528,Troilus and Cressida,TROILUS AND CRESSIDA,Tragedy,1602,William Shakespeare,front_matter,scene_description,NA,NA,NA,NA,on
-1528,Troilus and Cressida,TROILUS AND CRESSIDA,Tragedy,1602,William Shakespeare,front_matter,scene_description,NA,NA,NA,NA,one
-1528,Troilus and Cressida,TROILUS AND CRESSIDA,Tragedy,1602,William Shakespeare,front_matter,scene_description,NA,NA,NA,NA,and
-1528,Troilus and Cressida,TROILUS AND CRESSIDA,Tragedy,1602,William Shakespeare,front_matter,scene_description,NA,NA,NA,NA,other
-1528,Troilus and Cressida,TROILUS AND CRESSIDA,Tragedy,1602,William Shakespeare,front_matter,scene_description,NA,NA,NA,NA,side
-1528,Troilus and Cressida,TROILUS AND CRESSIDA,Tragedy,1602,William Shakespeare,front_matter,scene_description,NA,NA,NA,NA,trojan
-1528,Troilus and Cressida,TROILUS AND CRESSIDA,Tragedy,1602,William Shakespeare,front_matter,scene_description,NA,NA,NA,NA,and
-1528,Troilus and Cressida,TROILUS AND CRESSIDA,Tragedy,1602,William Shakespeare,front_matter,scene_description,NA,NA,NA,NA,greek
-1528,Troilus and Cressida,TROILUS AND CRESSIDA,Tragedy,1602,William Shakespeare,front_matter,scene_description,NA,NA,NA,NA,sets
-1528,Troilus and Cressida,TROILUS AND CRESSIDA,Tragedy,1602,William Shakespeare,front_matter,scene_description,NA,NA,NA,NA,all
-1528,Troilus and Cressida,TROILUS AND CRESSIDA,Tragedy,1602,William Shakespeare,front_matter,scene_description,NA,NA,NA,NA,on
-1528,Troilus and Cressida,TROILUS AND CRESSIDA,Tragedy,1602,William Shakespeare,front_matter,scene_description,NA,NA,NA,NA,hazard
-1528,Troilus and Cressida,TROILUS AND CRESSIDA,Tragedy,1602,William Shakespeare,front_matter,scene_description,NA,NA,NA,NA,and
-1528,Troilus and Cressida,TROILUS AND CRESSIDA,Tragedy,1602,William Shakespeare,front_matter,scene_description,NA,NA,NA,NA,hither
-1528,Troilus and Cressida,TROILUS AND CRESSIDA,Tragedy,1602,William Shakespeare,front_matter,scene_description,NA,NA,NA,NA,am
-1528,Troilus and Cressida,TROILUS AND CRESSIDA,Tragedy,1602,William Shakespeare,front_matter,scene_description,NA,NA,NA,NA,i
-1528,Troilus and Cressida,TROILUS AND CRESSIDA,Tragedy,1602,William Shakespeare,front_matter,scene_description,NA,NA,NA,NA,come
-1528,Troilus and Cressida,TROILUS AND CRESSIDA,Tragedy,1602,William Shakespeare,front_matter,scene_description,NA,NA,NA,NA,a
-1528,Troilus and Cressida,TROILUS AND CRESSIDA,Tragedy,1602,William Shakespeare,front_matter,scene_description,NA,NA,NA,NA,prologue
-1528,Troilus and Cressida,TROILUS AND CRESSIDA,Tragedy,1602,William Shakespeare,front_matter,scene_description,NA,NA,NA,NA,arm’d
-1528,Troilus and Cressida,TROILUS AND CRESSIDA,Tragedy,1602,William Shakespeare,front_matter,scene_description,NA,NA,NA,NA,but
-1528,Troilus and Cressida,TROILUS AND CRESSIDA,Tragedy,1602,William Shakespeare,front_matter,scene_description,NA,NA,NA,NA,not
-1528,Troilus and Cressida,TROILUS AND CRESSIDA,Tragedy,1602,William Shakespeare,front_matter,scene_description,NA,NA,NA,NA,in
-1528,Troilus and Cressida,TROILUS AND CRESSIDA,Tragedy,1602,William Shakespeare,front_matter,scene_description,NA,NA,NA,NA,confidence
-1528,Troilus and Cressida,TROILUS AND CRESSIDA,Tragedy,1602,William Shakespeare,front_matter,scene_description,NA,NA,NA,NA,of
-1528,Troilus and Cressida,TROILUS AND CRESSIDA,Tragedy,1602,William Shakespeare,front_matter,scene_description,NA,NA,NA,NA,author’s
-1528,Troilus and Cressida,TROILUS AND CRESSIDA,Tragedy,1602,William Shakespeare,front_matter,scene_description,NA,NA,NA,NA,pen
-1528,Troilus and Cressida,TROILUS AND CRESSIDA,Tragedy,1602,William Shakespeare,front_matter,scene_description,NA,NA,NA,NA,or
-1528,Troilus and Cressida,TROILUS AND CRESSIDA,Tragedy,1602,William Shakespeare,front_matter,scene_description,NA,NA,NA,NA,actor’s
-1528,Troilus and Cressida,TROILUS AND CRESSIDA,Tragedy,1602,William Shakespeare,front_matter,scene_description,NA,NA,NA,NA,voice
-1528,Troilus and Cressida,TROILUS AND CRESSIDA,Tragedy,1602,William Shakespeare,front_matter,scene_description,NA,NA,NA,NA,but
-1528,Troilus and Cressida,TROILUS AND CRESSIDA,Tragedy,1602,William Shakespeare,front_matter,scene_description,NA,NA,NA,NA,suited
-1528,Troilus and Cressida,TROILUS AND CRESSIDA,Tragedy,1602,William Shakespeare,front_matter,scene_description,NA,NA,NA,NA,in
-1528,Troilus and Cressida,TROILUS AND CRESSIDA,Tragedy,1602,William Shakespeare,front_matter,scene_description,NA,NA,NA,NA,like
-1528,Troilus and Cressida,TROILUS AND CRESSIDA,Tragedy,1602,William Shakespeare,front_matter,scene_description,NA,NA,NA,NA,conditions
-1528,Troilus and Cressida,TROILUS AND CRESSIDA,Tragedy,1602,William Shakespeare,front_matter,scene_description,NA,NA,NA,NA,as
-1528,Troilus and Cressida,TROILUS AND CRESSIDA,Tragedy,1602,William Shakespeare,front_matter,scene_description,NA,NA,NA,NA,our
-1528,Troilus and Cressida,TROILUS AND CRESSIDA,Tragedy,1602,William Shakespeare,front_matter,scene_description,NA,NA,NA,NA,argument
-1528,Troilus and Cressida,TROILUS AND CRESSIDA,Tragedy,1602,William Shakespeare,front_matter,scene_description,NA,NA,NA,NA,to
-1528,Troilus and Cressida,TROILUS AND CRESSIDA,Tragedy,1602,William Shakespeare,front_matter,scene_description,NA,NA,NA,NA,tell
-1528,Troilus and Cressida,TROILUS AND CRESSIDA,Tragedy,1602,William Shakespeare,front_matter,scene_description,NA,NA,NA,NA,you
-1528,Troilus and Cressida,TROILUS AND CRESSIDA,Tragedy,1602,William Shakespeare,front_matter,scene_description,NA,NA,NA,NA,fair
-1528,Troilus and Cressida,TROILUS AND CRESSIDA,Tragedy,1602,William Shakespeare,front_matter,scene_description,NA,NA,NA,NA,beholders
-1528,Troilus and Cressida,TROILUS AND CRESSIDA,Tragedy,1602,William Shakespeare,front_matter,scene_description,NA,NA,NA,NA,that
-1528,Troilus and Cressida,TROILUS AND CRESSIDA,Tragedy,1602,William Shakespeare,front_matter,scene_description,NA,NA,NA,NA,our
-1528,Troilus and Cressida,TROILUS AND CRESSIDA,Tragedy,1602,William Shakespeare,front_matter,scene_description,NA,NA,NA,NA,play
-1528,Troilus and Cressida,TROILUS AND CRESSIDA,Tragedy,1602,William Shakespeare,front_matter,scene_description,NA,NA,NA,NA,leaps
-1528,Troilus and Cressida,TROILUS AND CRESSIDA,Tragedy,1602,William Shakespeare,front_matter,scene_description,NA,NA,NA,NA,o’er
-1528,Troilus and Cressida,TROILUS AND CRESSIDA,Tragedy,1602,William Shakespeare,front_matter,scene_description,NA,NA,NA,NA,the
-1528,Troilus and Cressida,TROILUS AND CRESSIDA,Tragedy,1602,William Shakespeare,front_matter,scene_description,NA,NA,NA,NA,vaunt
-1528,Troilus and Cressida,TROILUS AND CRESSIDA,Tragedy,1602,William Shakespeare,front_matter,scene_description,NA,NA,NA,NA,and
-1528,Troilus and Cressida,TROILUS AND CRESSIDA,Tragedy,1602,William Shakespeare,front_matter,scene_description,NA,NA,NA,NA,firstlings
-1528,Troilus and Cressida,TROILUS AND CRESSIDA,Tragedy,1602,William Shakespeare,front_matter,scene_description,NA,NA,NA,NA,of
-1528,Troilus and Cressida,TROILUS AND CRESSIDA,Tragedy,1602,William Shakespeare,front_matter,scene_description,NA,NA,NA,NA,those
-1528,Troilus and Cressida,TROILUS AND CRESSIDA,Tragedy,1602,William Shakespeare,front_matter,scene_description,NA,NA,NA,NA,broils
-1528,Troilus and Cressida,TROILUS AND CRESSIDA,Tragedy,1602,William Shakespeare,front_matter,scene_description,NA,NA,NA,NA,beginning
-1528,Troilus and Cressida,TROILUS AND CRESSIDA,Tragedy,1602,William Shakespeare,front_matter,scene_description,NA,NA,NA,NA,in
-1528,Troilus and Cressida,TROILUS AND CRESSIDA,Tragedy,1602,William Shakespeare,front_matter,scene_description,NA,NA,NA,NA,the
-1528,Troilus and Cressida,TROILUS AND CRESSIDA,Tragedy,1602,William Shakespeare,front_matter,scene_description,NA,NA,NA,NA,middle
-1528,Troilus and Cressida,TROILUS AND CRESSIDA,Tragedy,1602,William Shakespeare,front_matter,scene_description,NA,NA,NA,NA,starting
-1528,Troilus and Cressida,TROILUS AND CRESSIDA,Tragedy,1602,William Shakespeare,front_matter,scene_description,NA,NA,NA,NA,thence
-1528,Troilus and Cressida,TROILUS AND CRESSIDA,Tragedy,1602,William Shakespeare,front_matter,scene_description,NA,NA,NA,NA,away
-1528,Troilus and Cressida,TROILUS AND CRESSIDA,Tragedy,1602,William Shakespeare,front_matter,scene_description,NA,NA,NA,NA,to
-1528,Troilus and Cressida,TROILUS AND CRESSIDA,Tragedy,1602,William Shakespeare,front_matter,scene_description,NA,NA,NA,NA,what
-1528,Troilus and Cressida,TROILUS AND CRESSIDA,Tragedy,1602,William Shakespeare,front_matter,scene_description,NA,NA,NA,NA,may
-1528,Troilus and Cressida,TROILUS AND CRESSIDA,Tragedy,1602,William Shakespeare,front_matter,scene_description,NA,NA,NA,NA,be
-1528,Troilus and Cressida,TROILUS AND CRESSIDA,Tragedy,1602,William Shakespeare,front_matter,scene_description,NA,NA,NA,NA,digested
-1528,Troilus and Cressida,TROILUS AND CRESSIDA,Tragedy,1602,William Shakespeare,front_matter,scene_description,NA,NA,NA,NA,in
-1528,Troilus and Cressida,TROILUS AND CRESSIDA,Tragedy,1602,William Shakespeare,front_matter,scene_description,NA,NA,NA,NA,a
-1528,Troilus and Cressida,TROILUS AND CRESSIDA,Tragedy,1602,William Shakespeare,front_matter,scene_description,NA,NA,NA,NA,play
-1528,Troilus and Cressida,TROILUS AND CRESSIDA,Tragedy,1602,William Shakespeare,front_matter,scene_description,NA,NA,NA,NA,like
-1528,Troilus and Cressida,TROILUS AND CRESSIDA,Tragedy,1602,William Shakespeare,front_matter,scene_description,NA,NA,NA,NA,or
-1528,Troilus and Cressida,TROILUS AND CRESSIDA,Tragedy,1602,William Shakespeare,front_matter,scene_description,NA,NA,NA,NA,find
-1528,Troilus and Cressida,TROILUS AND CRESSIDA,Tragedy,1602,William Shakespeare,front_matter,scene_description,NA,NA,NA,NA,fault
-1528,Troilus and Cressida,TROILUS AND CRESSIDA,Tragedy,1602,William Shakespeare,front_matter,scene_description,NA,NA,NA,NA,do
-1528,Troilus and Cressida,TROILUS AND CRESSIDA,Tragedy,1602,William Shakespeare,front_matter,scene_description,NA,NA,NA,NA,as
-1528,Troilus and Cressida,TROILUS AND CRESSIDA,Tragedy,1602,William Shakespeare,front_matter,scene_description,NA,NA,NA,NA,your
-1528,Troilus and Cressida,TROILUS AND CRESSIDA,Tragedy,1602,William Shakespeare,front_matter,scene_description,NA,NA,NA,NA,pleasures
-1528,Troilus and Cressida,TROILUS AND CRESSIDA,Tragedy,1602,William Shakespeare,front_matter,scene_description,NA,NA,NA,NA,are
-1528,Troilus and Cressida,TROILUS AND CRESSIDA,Tragedy,1602,William Shakespeare,front_matter,scene_description,NA,NA,NA,NA,now
-1528,Troilus and Cressida,TROILUS AND CRESSIDA,Tragedy,1602,William Shakespeare,front_matter,scene_description,NA,NA,NA,NA,good
-1528,Troilus and Cressida,TROILUS AND CRESSIDA,Tragedy,1602,William Shakespeare,front_matter,scene_description,NA,NA,NA,NA,or
-1528,Troilus and Cressida,TROILUS AND CRESSIDA,Tragedy,1602,William Shakespeare,front_matter,scene_description,NA,NA,NA,NA,bad
-1528,Troilus and Cressida,TROILUS AND CRESSIDA,Tragedy,1602,William Shakespeare,front_matter,scene_description,NA,NA,NA,NA,tis
-1528,Troilus and Cressida,TROILUS AND CRESSIDA,Tragedy,1602,William Shakespeare,front_matter,scene_description,NA,NA,NA,NA,but
-1528,Troilus and Cressida,TROILUS AND CRESSIDA,Tragedy,1602,William Shakespeare,front_matter,scene_description,NA,NA,NA,NA,the
-1528,Troilus and Cressida,TROILUS AND CRESSIDA,Tragedy,1602,William Shakespeare,front_matter,scene_description,NA,NA,NA,NA,chance
-1528,Troilus and Cressida,TROILUS AND CRESSIDA,Tragedy,1602,William Shakespeare,front_matter,scene_description,NA,NA,NA,NA,of
-1528,Troilus and Cressida,TROILUS AND CRESSIDA,Tragedy,1602,William Shakespeare,front_matter,scene_description,NA,NA,NA,NA,war
-1528,Troilus and Cressida,TROILUS AND CRESSIDA,Tragedy,1602,William Shakespeare,contents,reference,ACT I,NA,NA,NA,act
-1528,Troilus and Cressida,TROILUS AND CRESSIDA,Tragedy,1602,William Shakespeare,contents,reference,ACT I,NA,NA,NA,i
-1528,Troilus and Cressida,TROILUS AND CRESSIDA,Tragedy,1602,William Shakespeare,contents,reference,ACT I,SCENE I,NA,NA,scene
-1528,Troilus and Cressida,TROILUS AND CRESSIDA,Tragedy,1602,William Shakespeare,contents,reference,ACT I,SCENE I,NA,NA,i
-1528,Troilus and Cressida,TROILUS AND CRESSIDA,Tragedy,1602,William Shakespeare,contents,reference,ACT I,SCENE I,NA,NA,troy
-1528,Troilus and Cressida,TROILUS AND CRESSIDA,Tragedy,1602,William Shakespeare,contents,reference,ACT I,SCENE I,NA,NA,before
-1528,Troilus and Cressida,TROILUS AND CRESSIDA,Tragedy,1602,William Shakespeare,contents,reference,ACT I,SCENE I,NA,NA,priam’s
-1528,Troilus and Cressida,TROILUS AND CRESSIDA,Tragedy,1602,William Shakespeare,contents,reference,ACT I,SCENE I,NA,NA,palace
 1528,Troilus and Cressida,TROILUS AND CRESSIDA,Tragedy,1602,William Shakespeare,contents,directions,ACT I,SCENE I,NA,NA,enter
 1528,Troilus and Cressida,TROILUS AND CRESSIDA,Tragedy,1602,William Shakespeare,contents,directions,ACT I,SCENE I,NA,NA,troilus
 1528,Troilus and Cressida,TROILUS AND CRESSIDA,Tragedy,1602,William Shakespeare,contents,directions,ACT I,SCENE I,NA,NA,armed
@@ -1463,11 +943,6 @@ gutenberg_id,short_title,gutenberg_title,genre,year,author,section,class,act,sce
 1528,Troilus and Cressida,TROILUS AND CRESSIDA,Tragedy,1602,William Shakespeare,contents,dialogue,ACT I,SCENE I,TROILUS,112,then
 1528,Troilus and Cressida,TROILUS AND CRESSIDA,Tragedy,1602,William Shakespeare,contents,dialogue,ACT I,SCENE I,TROILUS,112,together
 1528,Troilus and Cressida,TROILUS AND CRESSIDA,Tragedy,1602,William Shakespeare,contents,directions,ACT I,SCENE I,NA,NA,exeunt
-1528,Troilus and Cressida,TROILUS AND CRESSIDA,Tragedy,1602,William Shakespeare,contents,reference,ACT I,SCENE II,NA,NA,scene
-1528,Troilus and Cressida,TROILUS AND CRESSIDA,Tragedy,1602,William Shakespeare,contents,reference,ACT I,SCENE II,NA,NA,ii
-1528,Troilus and Cressida,TROILUS AND CRESSIDA,Tragedy,1602,William Shakespeare,contents,reference,ACT I,SCENE II,NA,NA,troy
-1528,Troilus and Cressida,TROILUS AND CRESSIDA,Tragedy,1602,William Shakespeare,contents,reference,ACT I,SCENE II,NA,NA,a
-1528,Troilus and Cressida,TROILUS AND CRESSIDA,Tragedy,1602,William Shakespeare,contents,reference,ACT I,SCENE II,NA,NA,street
 1528,Troilus and Cressida,TROILUS AND CRESSIDA,Tragedy,1602,William Shakespeare,contents,directions,ACT I,SCENE II,NA,NA,enter
 1528,Troilus and Cressida,TROILUS AND CRESSIDA,Tragedy,1602,William Shakespeare,contents,directions,ACT I,SCENE II,NA,NA,cressida
 1528,Troilus and Cressida,TROILUS AND CRESSIDA,Tragedy,1602,William Shakespeare,contents,directions,ACT I,SCENE II,NA,NA,and
@@ -3641,14 +3116,6 @@ gutenberg_id,short_title,gutenberg_title,genre,year,author,section,class,act,sce
 1528,Troilus and Cressida,TROILUS AND CRESSIDA,Tragedy,1602,William Shakespeare,contents,dialogue,ACT I,SCENE II,CRESSIDA,359,eyes
 1528,Troilus and Cressida,TROILUS AND CRESSIDA,Tragedy,1602,William Shakespeare,contents,dialogue,ACT I,SCENE II,CRESSIDA,359,appear
 1528,Troilus and Cressida,TROILUS AND CRESSIDA,Tragedy,1602,William Shakespeare,contents,directions,ACT I,SCENE II,NA,NA,exit
-1528,Troilus and Cressida,TROILUS AND CRESSIDA,Tragedy,1602,William Shakespeare,contents,reference,ACT I,SCENE III,NA,NA,scene
-1528,Troilus and Cressida,TROILUS AND CRESSIDA,Tragedy,1602,William Shakespeare,contents,reference,ACT I,SCENE III,NA,NA,iii
-1528,Troilus and Cressida,TROILUS AND CRESSIDA,Tragedy,1602,William Shakespeare,contents,reference,ACT I,SCENE III,NA,NA,the
-1528,Troilus and Cressida,TROILUS AND CRESSIDA,Tragedy,1602,William Shakespeare,contents,reference,ACT I,SCENE III,NA,NA,grecian
-1528,Troilus and Cressida,TROILUS AND CRESSIDA,Tragedy,1602,William Shakespeare,contents,reference,ACT I,SCENE III,NA,NA,camp
-1528,Troilus and Cressida,TROILUS AND CRESSIDA,Tragedy,1602,William Shakespeare,contents,reference,ACT I,SCENE III,NA,NA,before
-1528,Troilus and Cressida,TROILUS AND CRESSIDA,Tragedy,1602,William Shakespeare,contents,reference,ACT I,SCENE III,NA,NA,agamemnon’s
-1528,Troilus and Cressida,TROILUS AND CRESSIDA,Tragedy,1602,William Shakespeare,contents,reference,ACT I,SCENE III,NA,NA,tent
 1528,Troilus and Cressida,TROILUS AND CRESSIDA,Tragedy,1602,William Shakespeare,contents,directions,ACT I,SCENE III,NA,NA,sennet
 1528,Troilus and Cressida,TROILUS AND CRESSIDA,Tragedy,1602,William Shakespeare,contents,directions,ACT I,SCENE III,NA,NA,enter
 1528,Troilus and Cressida,TROILUS AND CRESSIDA,Tragedy,1602,William Shakespeare,contents,directions,ACT I,SCENE III,NA,NA,agamemnon
@@ -6602,13 +6069,6 @@ gutenberg_id,short_title,gutenberg_title,genre,year,author,section,class,act,sce
 1528,Troilus and Cressida,TROILUS AND CRESSIDA,Tragedy,1602,William Shakespeare,contents,dialogue,ACT I,SCENE III,NESTOR,754,their
 1528,Troilus and Cressida,TROILUS AND CRESSIDA,Tragedy,1602,William Shakespeare,contents,dialogue,ACT I,SCENE III,NESTOR,754,bone
 1528,Troilus and Cressida,TROILUS AND CRESSIDA,Tragedy,1602,William Shakespeare,contents,directions,ACT I,SCENE III,NA,NA,exeunt
-1528,Troilus and Cressida,TROILUS AND CRESSIDA,Tragedy,1602,William Shakespeare,contents,reference,ACT II,SCENE III,NA,NA,act
-1528,Troilus and Cressida,TROILUS AND CRESSIDA,Tragedy,1602,William Shakespeare,contents,reference,ACT II,SCENE III,NA,NA,ii
-1528,Troilus and Cressida,TROILUS AND CRESSIDA,Tragedy,1602,William Shakespeare,contents,reference,ACT II,SCENE I,NA,NA,scene
-1528,Troilus and Cressida,TROILUS AND CRESSIDA,Tragedy,1602,William Shakespeare,contents,reference,ACT II,SCENE I,NA,NA,i
-1528,Troilus and Cressida,TROILUS AND CRESSIDA,Tragedy,1602,William Shakespeare,contents,reference,ACT II,SCENE I,NA,NA,the
-1528,Troilus and Cressida,TROILUS AND CRESSIDA,Tragedy,1602,William Shakespeare,contents,reference,ACT II,SCENE I,NA,NA,grecian
-1528,Troilus and Cressida,TROILUS AND CRESSIDA,Tragedy,1602,William Shakespeare,contents,reference,ACT II,SCENE I,NA,NA,camp
 1528,Troilus and Cressida,TROILUS AND CRESSIDA,Tragedy,1602,William Shakespeare,contents,directions,ACT II,SCENE I,NA,NA,enter
 1528,Troilus and Cressida,TROILUS AND CRESSIDA,Tragedy,1602,William Shakespeare,contents,directions,ACT II,SCENE I,NA,NA,ajax
 1528,Troilus and Cressida,TROILUS AND CRESSIDA,Tragedy,1602,William Shakespeare,contents,directions,ACT II,SCENE I,NA,NA,and
@@ -7494,11 +6954,6 @@ gutenberg_id,short_title,gutenberg_title,genre,year,author,section,class,act,sce
 1528,Troilus and Cressida,TROILUS AND CRESSIDA,Tragedy,1602,William Shakespeare,contents,dialogue,ACT II,SCENE I,AJAX,866,of
 1528,Troilus and Cressida,TROILUS AND CRESSIDA,Tragedy,1602,William Shakespeare,contents,dialogue,ACT II,SCENE I,AJAX,866,it
 1528,Troilus and Cressida,TROILUS AND CRESSIDA,Tragedy,1602,William Shakespeare,contents,directions,ACT II,SCENE I,NA,NA,exeunt
-1528,Troilus and Cressida,TROILUS AND CRESSIDA,Tragedy,1602,William Shakespeare,contents,reference,ACT II,SCENE II,NA,NA,scene
-1528,Troilus and Cressida,TROILUS AND CRESSIDA,Tragedy,1602,William Shakespeare,contents,reference,ACT II,SCENE II,NA,NA,ii
-1528,Troilus and Cressida,TROILUS AND CRESSIDA,Tragedy,1602,William Shakespeare,contents,reference,ACT II,SCENE II,NA,NA,troy
-1528,Troilus and Cressida,TROILUS AND CRESSIDA,Tragedy,1602,William Shakespeare,contents,reference,ACT II,SCENE II,NA,NA,priam’s
-1528,Troilus and Cressida,TROILUS AND CRESSIDA,Tragedy,1602,William Shakespeare,contents,reference,ACT II,SCENE II,NA,NA,palace
 1528,Troilus and Cressida,TROILUS AND CRESSIDA,Tragedy,1602,William Shakespeare,contents,directions,ACT II,SCENE II,NA,NA,enter
 1528,Troilus and Cressida,TROILUS AND CRESSIDA,Tragedy,1602,William Shakespeare,contents,directions,ACT II,SCENE II,NA,NA,priam
 1528,Troilus and Cressida,TROILUS AND CRESSIDA,Tragedy,1602,William Shakespeare,contents,directions,ACT II,SCENE II,NA,NA,hector
@@ -9163,16 +8618,6 @@ gutenberg_id,short_title,gutenberg_title,genre,year,author,section,class,act,sce
 1528,Troilus and Cressida,TROILUS AND CRESSIDA,Tragedy,1602,William Shakespeare,contents,dialogue,ACT II,SCENE II,HECTOR,1084,wake
 1528,Troilus and Cressida,TROILUS AND CRESSIDA,Tragedy,1602,William Shakespeare,contents,dialogue,ACT II,SCENE II,HECTOR,1084,him
 1528,Troilus and Cressida,TROILUS AND CRESSIDA,Tragedy,1602,William Shakespeare,contents,directions,ACT II,SCENE II,NA,NA,exeunt
-1528,Troilus and Cressida,TROILUS AND CRESSIDA,Tragedy,1602,William Shakespeare,contents,reference,ACT II,SCENE III,NA,NA,scene
-1528,Troilus and Cressida,TROILUS AND CRESSIDA,Tragedy,1602,William Shakespeare,contents,reference,ACT II,SCENE III,NA,NA,iii
-1528,Troilus and Cressida,TROILUS AND CRESSIDA,Tragedy,1602,William Shakespeare,contents,reference,ACT II,SCENE III,NA,NA,the
-1528,Troilus and Cressida,TROILUS AND CRESSIDA,Tragedy,1602,William Shakespeare,contents,reference,ACT II,SCENE III,NA,NA,grecian
-1528,Troilus and Cressida,TROILUS AND CRESSIDA,Tragedy,1602,William Shakespeare,contents,reference,ACT II,SCENE III,NA,NA,camp
-1528,Troilus and Cressida,TROILUS AND CRESSIDA,Tragedy,1602,William Shakespeare,contents,reference,ACT II,SCENE III,NA,NA,before
-1528,Troilus and Cressida,TROILUS AND CRESSIDA,Tragedy,1602,William Shakespeare,contents,reference,ACT II,SCENE III,NA,NA,the
-1528,Troilus and Cressida,TROILUS AND CRESSIDA,Tragedy,1602,William Shakespeare,contents,reference,ACT II,SCENE III,NA,NA,tent
-1528,Troilus and Cressida,TROILUS AND CRESSIDA,Tragedy,1602,William Shakespeare,contents,reference,ACT II,SCENE III,NA,NA,of
-1528,Troilus and Cressida,TROILUS AND CRESSIDA,Tragedy,1602,William Shakespeare,contents,reference,ACT II,SCENE III,NA,NA,achilles
 1528,Troilus and Cressida,TROILUS AND CRESSIDA,Tragedy,1602,William Shakespeare,contents,directions,ACT II,SCENE III,NA,NA,enter
 1528,Troilus and Cressida,TROILUS AND CRESSIDA,Tragedy,1602,William Shakespeare,contents,directions,ACT II,SCENE III,NA,NA,thersites
 1528,Troilus and Cressida,TROILUS AND CRESSIDA,Tragedy,1602,William Shakespeare,contents,directions,ACT II,SCENE III,NA,NA,solus
@@ -11171,13 +10616,6 @@ gutenberg_id,short_title,gutenberg_title,genre,year,author,section,class,act,sce
 1528,Troilus and Cressida,TROILUS AND CRESSIDA,Tragedy,1602,William Shakespeare,contents,dialogue,ACT II,SCENE III,AGAMEMNON,1325,draw
 1528,Troilus and Cressida,TROILUS AND CRESSIDA,Tragedy,1602,William Shakespeare,contents,dialogue,ACT II,SCENE III,AGAMEMNON,1325,deep
 1528,Troilus and Cressida,TROILUS AND CRESSIDA,Tragedy,1602,William Shakespeare,contents,directions,ACT II,SCENE III,NA,NA,exeunt
-1528,Troilus and Cressida,TROILUS AND CRESSIDA,Tragedy,1602,William Shakespeare,contents,reference,ACT III,SCENE III,NA,NA,act
-1528,Troilus and Cressida,TROILUS AND CRESSIDA,Tragedy,1602,William Shakespeare,contents,reference,ACT III,SCENE III,NA,NA,iii
-1528,Troilus and Cressida,TROILUS AND CRESSIDA,Tragedy,1602,William Shakespeare,contents,reference,ACT III,SCENE I,NA,NA,scene
-1528,Troilus and Cressida,TROILUS AND CRESSIDA,Tragedy,1602,William Shakespeare,contents,reference,ACT III,SCENE I,NA,NA,i
-1528,Troilus and Cressida,TROILUS AND CRESSIDA,Tragedy,1602,William Shakespeare,contents,reference,ACT III,SCENE I,NA,NA,troy
-1528,Troilus and Cressida,TROILUS AND CRESSIDA,Tragedy,1602,William Shakespeare,contents,reference,ACT III,SCENE I,NA,NA,priam’s
-1528,Troilus and Cressida,TROILUS AND CRESSIDA,Tragedy,1602,William Shakespeare,contents,reference,ACT III,SCENE I,NA,NA,palace
 1528,Troilus and Cressida,TROILUS AND CRESSIDA,Tragedy,1602,William Shakespeare,contents,directions,ACT III,SCENE I,NA,NA,music
 1528,Troilus and Cressida,TROILUS AND CRESSIDA,Tragedy,1602,William Shakespeare,contents,directions,ACT III,SCENE I,NA,NA,sounds
 1528,Troilus and Cressida,TROILUS AND CRESSIDA,Tragedy,1602,William Shakespeare,contents,directions,ACT III,SCENE I,NA,NA,within
@@ -12244,11 +11682,6 @@ gutenberg_id,short_title,gutenberg_title,genre,year,author,section,class,act,sce
 1528,Troilus and Cressida,TROILUS AND CRESSIDA,Tragedy,1602,William Shakespeare,contents,dialogue,ACT III,SCENE I,PARIS,1455,love
 1528,Troilus and Cressida,TROILUS AND CRESSIDA,Tragedy,1602,William Shakespeare,contents,dialogue,ACT III,SCENE I,PARIS,1455,thee
 1528,Troilus and Cressida,TROILUS AND CRESSIDA,Tragedy,1602,William Shakespeare,contents,directions,ACT III,SCENE I,NA,NA,exeunt
-1528,Troilus and Cressida,TROILUS AND CRESSIDA,Tragedy,1602,William Shakespeare,contents,reference,ACT III,SCENE II,NA,NA,scene
-1528,Troilus and Cressida,TROILUS AND CRESSIDA,Tragedy,1602,William Shakespeare,contents,reference,ACT III,SCENE II,NA,NA,ii
-1528,Troilus and Cressida,TROILUS AND CRESSIDA,Tragedy,1602,William Shakespeare,contents,reference,ACT III,SCENE II,NA,NA,troy
-1528,Troilus and Cressida,TROILUS AND CRESSIDA,Tragedy,1602,William Shakespeare,contents,reference,ACT III,SCENE II,NA,NA,pandarus
-1528,Troilus and Cressida,TROILUS AND CRESSIDA,Tragedy,1602,William Shakespeare,contents,reference,ACT III,SCENE II,NA,NA,orchard
 1528,Troilus and Cressida,TROILUS AND CRESSIDA,Tragedy,1602,William Shakespeare,contents,directions,ACT III,SCENE II,NA,NA,enter
 1528,Troilus and Cressida,TROILUS AND CRESSIDA,Tragedy,1602,William Shakespeare,contents,directions,ACT III,SCENE II,NA,NA,pandarus
 1528,Troilus and Cressida,TROILUS AND CRESSIDA,Tragedy,1602,William Shakespeare,contents,directions,ACT III,SCENE II,NA,NA,and
@@ -13923,11 +13356,6 @@ gutenberg_id,short_title,gutenberg_title,genre,year,author,section,class,act,sce
 1528,Troilus and Cressida,TROILUS AND CRESSIDA,Tragedy,1602,William Shakespeare,contents,dialogue,ACT III,SCENE II,PANDARUS,1641,this
 1528,Troilus and Cressida,TROILUS AND CRESSIDA,Tragedy,1602,William Shakespeare,contents,dialogue,ACT III,SCENE II,PANDARUS,1641,gear
 1528,Troilus and Cressida,TROILUS AND CRESSIDA,Tragedy,1602,William Shakespeare,contents,directions,ACT III,SCENE II,NA,NA,exit
-1528,Troilus and Cressida,TROILUS AND CRESSIDA,Tragedy,1602,William Shakespeare,contents,reference,ACT III,SCENE III,NA,NA,scene
-1528,Troilus and Cressida,TROILUS AND CRESSIDA,Tragedy,1602,William Shakespeare,contents,reference,ACT III,SCENE III,NA,NA,iii
-1528,Troilus and Cressida,TROILUS AND CRESSIDA,Tragedy,1602,William Shakespeare,contents,reference,ACT III,SCENE III,NA,NA,the
-1528,Troilus and Cressida,TROILUS AND CRESSIDA,Tragedy,1602,William Shakespeare,contents,reference,ACT III,SCENE III,NA,NA,greek
-1528,Troilus and Cressida,TROILUS AND CRESSIDA,Tragedy,1602,William Shakespeare,contents,reference,ACT III,SCENE III,NA,NA,camp
 1528,Troilus and Cressida,TROILUS AND CRESSIDA,Tragedy,1602,William Shakespeare,contents,directions,ACT III,SCENE III,NA,NA,flourish
 1528,Troilus and Cressida,TROILUS AND CRESSIDA,Tragedy,1602,William Shakespeare,contents,directions,ACT III,SCENE III,NA,NA,enter
 1528,Troilus and Cressida,TROILUS AND CRESSIDA,Tragedy,1602,William Shakespeare,contents,directions,ACT III,SCENE III,NA,NA,agamemnon
@@ -16305,13 +15733,6 @@ gutenberg_id,short_title,gutenberg_title,genre,year,author,section,class,act,sce
 1528,Troilus and Cressida,TROILUS AND CRESSIDA,Tragedy,1602,William Shakespeare,contents,dialogue,ACT III,SCENE III,THERSITES,1948,valiant
 1528,Troilus and Cressida,TROILUS AND CRESSIDA,Tragedy,1602,William Shakespeare,contents,dialogue,ACT III,SCENE III,THERSITES,1949,ignorance
 1528,Troilus and Cressida,TROILUS AND CRESSIDA,Tragedy,1602,William Shakespeare,contents,directions,ACT III,SCENE III,NA,NA,exit
-1528,Troilus and Cressida,TROILUS AND CRESSIDA,Tragedy,1602,William Shakespeare,contents,reference,ACT IV,SCENE III,NA,NA,act
-1528,Troilus and Cressida,TROILUS AND CRESSIDA,Tragedy,1602,William Shakespeare,contents,reference,ACT IV,SCENE III,NA,NA,iv
-1528,Troilus and Cressida,TROILUS AND CRESSIDA,Tragedy,1602,William Shakespeare,contents,reference,ACT IV,SCENE I,NA,NA,scene
-1528,Troilus and Cressida,TROILUS AND CRESSIDA,Tragedy,1602,William Shakespeare,contents,reference,ACT IV,SCENE I,NA,NA,i
-1528,Troilus and Cressida,TROILUS AND CRESSIDA,Tragedy,1602,William Shakespeare,contents,reference,ACT IV,SCENE I,NA,NA,troy
-1528,Troilus and Cressida,TROILUS AND CRESSIDA,Tragedy,1602,William Shakespeare,contents,reference,ACT IV,SCENE I,NA,NA,a
-1528,Troilus and Cressida,TROILUS AND CRESSIDA,Tragedy,1602,William Shakespeare,contents,reference,ACT IV,SCENE I,NA,NA,street
 1528,Troilus and Cressida,TROILUS AND CRESSIDA,Tragedy,1602,William Shakespeare,contents,directions,ACT IV,SCENE I,NA,NA,enter
 1528,Troilus and Cressida,TROILUS AND CRESSIDA,Tragedy,1602,William Shakespeare,contents,directions,ACT IV,SCENE I,NA,NA,at
 1528,Troilus and Cressida,TROILUS AND CRESSIDA,Tragedy,1602,William Shakespeare,contents,directions,ACT IV,SCENE I,NA,NA,one
@@ -16959,14 +16380,6 @@ gutenberg_id,short_title,gutenberg_title,genre,year,author,section,class,act,sce
 1528,Troilus and Cressida,TROILUS AND CRESSIDA,Tragedy,1602,William Shakespeare,contents,dialogue,ACT IV,SCENE I,PARIS,2033,our
 1528,Troilus and Cressida,TROILUS AND CRESSIDA,Tragedy,1602,William Shakespeare,contents,dialogue,ACT IV,SCENE I,PARIS,2033,way
 1528,Troilus and Cressida,TROILUS AND CRESSIDA,Tragedy,1602,William Shakespeare,contents,directions,ACT IV,SCENE I,NA,NA,exeunt
-1528,Troilus and Cressida,TROILUS AND CRESSIDA,Tragedy,1602,William Shakespeare,contents,reference,ACT IV,SCENE II,NA,NA,scene
-1528,Troilus and Cressida,TROILUS AND CRESSIDA,Tragedy,1602,William Shakespeare,contents,reference,ACT IV,SCENE II,NA,NA,ii
-1528,Troilus and Cressida,TROILUS AND CRESSIDA,Tragedy,1602,William Shakespeare,contents,reference,ACT IV,SCENE II,NA,NA,troy
-1528,Troilus and Cressida,TROILUS AND CRESSIDA,Tragedy,1602,William Shakespeare,contents,reference,ACT IV,SCENE II,NA,NA,the
-1528,Troilus and Cressida,TROILUS AND CRESSIDA,Tragedy,1602,William Shakespeare,contents,reference,ACT IV,SCENE II,NA,NA,court
-1528,Troilus and Cressida,TROILUS AND CRESSIDA,Tragedy,1602,William Shakespeare,contents,reference,ACT IV,SCENE II,NA,NA,of
-1528,Troilus and Cressida,TROILUS AND CRESSIDA,Tragedy,1602,William Shakespeare,contents,reference,ACT IV,SCENE II,NA,NA,pandarus
-1528,Troilus and Cressida,TROILUS AND CRESSIDA,Tragedy,1602,William Shakespeare,contents,reference,ACT IV,SCENE II,NA,NA,house
 1528,Troilus and Cressida,TROILUS AND CRESSIDA,Tragedy,1602,William Shakespeare,contents,directions,ACT IV,SCENE II,NA,NA,enter
 1528,Troilus and Cressida,TROILUS AND CRESSIDA,Tragedy,1602,William Shakespeare,contents,directions,ACT IV,SCENE II,NA,NA,troilus
 1528,Troilus and Cressida,TROILUS AND CRESSIDA,Tragedy,1602,William Shakespeare,contents,directions,ACT IV,SCENE II,NA,NA,and
@@ -17850,14 +17263,6 @@ gutenberg_id,short_title,gutenberg_title,genre,year,author,section,class,act,sce
 1528,Troilus and Cressida,TROILUS AND CRESSIDA,Tragedy,1602,William Shakespeare,contents,dialogue,ACT IV,SCENE II,CRESSIDA,2141,from
 1528,Troilus and Cressida,TROILUS AND CRESSIDA,Tragedy,1602,William Shakespeare,contents,dialogue,ACT IV,SCENE II,CRESSIDA,2141,troy
 1528,Troilus and Cressida,TROILUS AND CRESSIDA,Tragedy,1602,William Shakespeare,contents,directions,ACT IV,SCENE II,NA,NA,exeunt
-1528,Troilus and Cressida,TROILUS AND CRESSIDA,Tragedy,1602,William Shakespeare,contents,reference,ACT IV,SCENE III,NA,NA,scene
-1528,Troilus and Cressida,TROILUS AND CRESSIDA,Tragedy,1602,William Shakespeare,contents,reference,ACT IV,SCENE III,NA,NA,iii
-1528,Troilus and Cressida,TROILUS AND CRESSIDA,Tragedy,1602,William Shakespeare,contents,reference,ACT IV,SCENE III,NA,NA,troy
-1528,Troilus and Cressida,TROILUS AND CRESSIDA,Tragedy,1602,William Shakespeare,contents,reference,ACT IV,SCENE III,NA,NA,a
-1528,Troilus and Cressida,TROILUS AND CRESSIDA,Tragedy,1602,William Shakespeare,contents,reference,ACT IV,SCENE III,NA,NA,street
-1528,Troilus and Cressida,TROILUS AND CRESSIDA,Tragedy,1602,William Shakespeare,contents,reference,ACT IV,SCENE III,NA,NA,before
-1528,Troilus and Cressida,TROILUS AND CRESSIDA,Tragedy,1602,William Shakespeare,contents,reference,ACT IV,SCENE III,NA,NA,pandarus
-1528,Troilus and Cressida,TROILUS AND CRESSIDA,Tragedy,1602,William Shakespeare,contents,reference,ACT IV,SCENE III,NA,NA,house
 1528,Troilus and Cressida,TROILUS AND CRESSIDA,Tragedy,1602,William Shakespeare,contents,directions,ACT IV,SCENE III,NA,NA,enter
 1528,Troilus and Cressida,TROILUS AND CRESSIDA,Tragedy,1602,William Shakespeare,contents,directions,ACT IV,SCENE III,NA,NA,paris
 1528,Troilus and Cressida,TROILUS AND CRESSIDA,Tragedy,1602,William Shakespeare,contents,directions,ACT IV,SCENE III,NA,NA,troilus
@@ -17962,11 +17367,6 @@ gutenberg_id,short_title,gutenberg_title,genre,year,author,section,class,act,sce
 1528,Troilus and Cressida,TROILUS AND CRESSIDA,Tragedy,1602,William Shakespeare,contents,dialogue,ACT IV,SCENE III,PARIS,2154,my
 1528,Troilus and Cressida,TROILUS AND CRESSIDA,Tragedy,1602,William Shakespeare,contents,dialogue,ACT IV,SCENE III,PARIS,2154,lords
 1528,Troilus and Cressida,TROILUS AND CRESSIDA,Tragedy,1602,William Shakespeare,contents,directions,ACT IV,SCENE III,NA,NA,exeunt
-1528,Troilus and Cressida,TROILUS AND CRESSIDA,Tragedy,1602,William Shakespeare,contents,reference,ACT IV,SCENE IV,NA,NA,scene
-1528,Troilus and Cressida,TROILUS AND CRESSIDA,Tragedy,1602,William Shakespeare,contents,reference,ACT IV,SCENE IV,NA,NA,iv
-1528,Troilus and Cressida,TROILUS AND CRESSIDA,Tragedy,1602,William Shakespeare,contents,reference,ACT IV,SCENE IV,NA,NA,troy
-1528,Troilus and Cressida,TROILUS AND CRESSIDA,Tragedy,1602,William Shakespeare,contents,reference,ACT IV,SCENE IV,NA,NA,pandarus
-1528,Troilus and Cressida,TROILUS AND CRESSIDA,Tragedy,1602,William Shakespeare,contents,reference,ACT IV,SCENE IV,NA,NA,house
 1528,Troilus and Cressida,TROILUS AND CRESSIDA,Tragedy,1602,William Shakespeare,contents,directions,ACT IV,SCENE IV,NA,NA,enter
 1528,Troilus and Cressida,TROILUS AND CRESSIDA,Tragedy,1602,William Shakespeare,contents,directions,ACT IV,SCENE IV,NA,NA,pandarus
 1528,Troilus and Cressida,TROILUS AND CRESSIDA,Tragedy,1602,William Shakespeare,contents,directions,ACT IV,SCENE IV,NA,NA,and
@@ -19148,14 +18548,6 @@ gutenberg_id,short_title,gutenberg_title,genre,year,author,section,class,act,sce
 1528,Troilus and Cressida,TROILUS AND CRESSIDA,Tragedy,1602,William Shakespeare,contents,dialogue,ACT IV,SCENE IV,AENEAS,2311,single
 1528,Troilus and Cressida,TROILUS AND CRESSIDA,Tragedy,1602,William Shakespeare,contents,dialogue,ACT IV,SCENE IV,AENEAS,2311,chivalry
 1528,Troilus and Cressida,TROILUS AND CRESSIDA,Tragedy,1602,William Shakespeare,contents,directions,ACT IV,SCENE IV,NA,NA,exeunt
-1528,Troilus and Cressida,TROILUS AND CRESSIDA,Tragedy,1602,William Shakespeare,contents,reference,ACT IV,SCENE V,NA,NA,scene
-1528,Troilus and Cressida,TROILUS AND CRESSIDA,Tragedy,1602,William Shakespeare,contents,reference,ACT IV,SCENE V,NA,NA,v
-1528,Troilus and Cressida,TROILUS AND CRESSIDA,Tragedy,1602,William Shakespeare,contents,reference,ACT IV,SCENE V,NA,NA,the
-1528,Troilus and Cressida,TROILUS AND CRESSIDA,Tragedy,1602,William Shakespeare,contents,reference,ACT IV,SCENE V,NA,NA,grecian
-1528,Troilus and Cressida,TROILUS AND CRESSIDA,Tragedy,1602,William Shakespeare,contents,reference,ACT IV,SCENE V,NA,NA,camp
-1528,Troilus and Cressida,TROILUS AND CRESSIDA,Tragedy,1602,William Shakespeare,contents,reference,ACT IV,SCENE V,NA,NA,lists
-1528,Troilus and Cressida,TROILUS AND CRESSIDA,Tragedy,1602,William Shakespeare,contents,reference,ACT IV,SCENE V,NA,NA,set
-1528,Troilus and Cressida,TROILUS AND CRESSIDA,Tragedy,1602,William Shakespeare,contents,reference,ACT IV,SCENE V,NA,NA,out
 1528,Troilus and Cressida,TROILUS AND CRESSIDA,Tragedy,1602,William Shakespeare,contents,directions,ACT IV,SCENE V,NA,NA,enter
 1528,Troilus and Cressida,TROILUS AND CRESSIDA,Tragedy,1602,William Shakespeare,contents,directions,ACT IV,SCENE V,NA,NA,ajax
 1528,Troilus and Cressida,TROILUS AND CRESSIDA,Tragedy,1602,William Shakespeare,contents,directions,ACT IV,SCENE V,NA,NA,armed
@@ -21514,18 +20906,6 @@ gutenberg_id,short_title,gutenberg_title,genre,year,author,section,class,act,sce
 1528,Troilus and Cressida,TROILUS AND CRESSIDA,Tragedy,1602,William Shakespeare,contents,dialogue,ACT IV,SCENE V,TROILUS,2635,fortune’s
 1528,Troilus and Cressida,TROILUS AND CRESSIDA,Tragedy,1602,William Shakespeare,contents,dialogue,ACT IV,SCENE V,TROILUS,2635,tooth
 1528,Troilus and Cressida,TROILUS AND CRESSIDA,Tragedy,1602,William Shakespeare,contents,directions,ACT IV,SCENE V,NA,NA,exeunt
-1528,Troilus and Cressida,TROILUS AND CRESSIDA,Tragedy,1602,William Shakespeare,contents,reference,ACT V,SCENE V,NA,NA,act
-1528,Troilus and Cressida,TROILUS AND CRESSIDA,Tragedy,1602,William Shakespeare,contents,reference,ACT V,SCENE V,NA,NA,v
-1528,Troilus and Cressida,TROILUS AND CRESSIDA,Tragedy,1602,William Shakespeare,contents,reference,ACT V,SCENE I,NA,NA,scene
-1528,Troilus and Cressida,TROILUS AND CRESSIDA,Tragedy,1602,William Shakespeare,contents,reference,ACT V,SCENE I,NA,NA,i
-1528,Troilus and Cressida,TROILUS AND CRESSIDA,Tragedy,1602,William Shakespeare,contents,reference,ACT V,SCENE I,NA,NA,the
-1528,Troilus and Cressida,TROILUS AND CRESSIDA,Tragedy,1602,William Shakespeare,contents,reference,ACT V,SCENE I,NA,NA,grecian
-1528,Troilus and Cressida,TROILUS AND CRESSIDA,Tragedy,1602,William Shakespeare,contents,reference,ACT V,SCENE I,NA,NA,camp
-1528,Troilus and Cressida,TROILUS AND CRESSIDA,Tragedy,1602,William Shakespeare,contents,reference,ACT V,SCENE I,NA,NA,before
-1528,Troilus and Cressida,TROILUS AND CRESSIDA,Tragedy,1602,William Shakespeare,contents,reference,ACT V,SCENE I,NA,NA,the
-1528,Troilus and Cressida,TROILUS AND CRESSIDA,Tragedy,1602,William Shakespeare,contents,reference,ACT V,SCENE I,NA,NA,tent
-1528,Troilus and Cressida,TROILUS AND CRESSIDA,Tragedy,1602,William Shakespeare,contents,reference,ACT V,SCENE I,NA,NA,of
-1528,Troilus and Cressida,TROILUS AND CRESSIDA,Tragedy,1602,William Shakespeare,contents,reference,ACT V,SCENE I,NA,NA,achilles
 1528,Troilus and Cressida,TROILUS AND CRESSIDA,Tragedy,1602,William Shakespeare,contents,directions,ACT V,SCENE I,NA,NA,enter
 1528,Troilus and Cressida,TROILUS AND CRESSIDA,Tragedy,1602,William Shakespeare,contents,directions,ACT V,SCENE I,NA,NA,achilles
 1528,Troilus and Cressida,TROILUS AND CRESSIDA,Tragedy,1602,William Shakespeare,contents,directions,ACT V,SCENE I,NA,NA,and
@@ -22341,14 +21721,6 @@ gutenberg_id,short_title,gutenberg_title,genre,year,author,section,class,act,sce
 1528,Troilus and Cressida,TROILUS AND CRESSIDA,Tragedy,1602,William Shakespeare,contents,dialogue,ACT V,SCENE I,THERSITES,2727,incontinent
 1528,Troilus and Cressida,TROILUS AND CRESSIDA,Tragedy,1602,William Shakespeare,contents,dialogue,ACT V,SCENE I,THERSITES,2727,varlets
 1528,Troilus and Cressida,TROILUS AND CRESSIDA,Tragedy,1602,William Shakespeare,contents,directions,ACT V,SCENE I,NA,NA,exit
-1528,Troilus and Cressida,TROILUS AND CRESSIDA,Tragedy,1602,William Shakespeare,contents,reference,ACT V,SCENE II,NA,NA,scene
-1528,Troilus and Cressida,TROILUS AND CRESSIDA,Tragedy,1602,William Shakespeare,contents,reference,ACT V,SCENE II,NA,NA,ii
-1528,Troilus and Cressida,TROILUS AND CRESSIDA,Tragedy,1602,William Shakespeare,contents,reference,ACT V,SCENE II,NA,NA,the
-1528,Troilus and Cressida,TROILUS AND CRESSIDA,Tragedy,1602,William Shakespeare,contents,reference,ACT V,SCENE II,NA,NA,grecian
-1528,Troilus and Cressida,TROILUS AND CRESSIDA,Tragedy,1602,William Shakespeare,contents,reference,ACT V,SCENE II,NA,NA,camp
-1528,Troilus and Cressida,TROILUS AND CRESSIDA,Tragedy,1602,William Shakespeare,contents,reference,ACT V,SCENE II,NA,NA,before
-1528,Troilus and Cressida,TROILUS AND CRESSIDA,Tragedy,1602,William Shakespeare,contents,reference,ACT V,SCENE II,NA,NA,calchas
-1528,Troilus and Cressida,TROILUS AND CRESSIDA,Tragedy,1602,William Shakespeare,contents,reference,ACT V,SCENE II,NA,NA,tent
 1528,Troilus and Cressida,TROILUS AND CRESSIDA,Tragedy,1602,William Shakespeare,contents,directions,ACT V,SCENE II,NA,NA,enter
 1528,Troilus and Cressida,TROILUS AND CRESSIDA,Tragedy,1602,William Shakespeare,contents,directions,ACT V,SCENE II,NA,NA,diomedes
 1528,Troilus and Cressida,TROILUS AND CRESSIDA,Tragedy,1602,William Shakespeare,contents,dialogue,ACT V,SCENE II,DIOMEDES,2728,what
@@ -23829,12 +23201,6 @@ gutenberg_id,short_title,gutenberg_title,genre,year,author,section,class,act,sce
 1528,Troilus and Cressida,TROILUS AND CRESSIDA,Tragedy,1602,William Shakespeare,contents,dialogue,ACT V,SCENE II,TROILUS,2941,take
 1528,Troilus and Cressida,TROILUS AND CRESSIDA,Tragedy,1602,William Shakespeare,contents,dialogue,ACT V,SCENE II,TROILUS,2941,them
 1528,Troilus and Cressida,TROILUS AND CRESSIDA,Tragedy,1602,William Shakespeare,contents,directions,ACT V,SCENE II,NA,NA,exit
-1528,Troilus and Cressida,TROILUS AND CRESSIDA,Tragedy,1602,William Shakespeare,contents,reference,ACT V,SCENE III,NA,NA,scene
-1528,Troilus and Cressida,TROILUS AND CRESSIDA,Tragedy,1602,William Shakespeare,contents,reference,ACT V,SCENE III,NA,NA,iii
-1528,Troilus and Cressida,TROILUS AND CRESSIDA,Tragedy,1602,William Shakespeare,contents,reference,ACT V,SCENE III,NA,NA,troy
-1528,Troilus and Cressida,TROILUS AND CRESSIDA,Tragedy,1602,William Shakespeare,contents,reference,ACT V,SCENE III,NA,NA,before
-1528,Troilus and Cressida,TROILUS AND CRESSIDA,Tragedy,1602,William Shakespeare,contents,reference,ACT V,SCENE III,NA,NA,priam’s
-1528,Troilus and Cressida,TROILUS AND CRESSIDA,Tragedy,1602,William Shakespeare,contents,reference,ACT V,SCENE III,NA,NA,palace
 1528,Troilus and Cressida,TROILUS AND CRESSIDA,Tragedy,1602,William Shakespeare,contents,directions,ACT V,SCENE III,NA,NA,enter
 1528,Troilus and Cressida,TROILUS AND CRESSIDA,Tragedy,1602,William Shakespeare,contents,directions,ACT V,SCENE III,NA,NA,hector
 1528,Troilus and Cressida,TROILUS AND CRESSIDA,Tragedy,1602,William Shakespeare,contents,directions,ACT V,SCENE III,NA,NA,and
@@ -24751,16 +24117,6 @@ gutenberg_id,short_title,gutenberg_title,genre,year,author,section,class,act,sce
 1528,Troilus and Cressida,TROILUS AND CRESSIDA,Tragedy,1602,William Shakespeare,contents,dialogue,ACT V,SCENE III,TROILUS,3062,deeds
 1528,Troilus and Cressida,TROILUS AND CRESSIDA,Tragedy,1602,William Shakespeare,contents,directions,ACT V,SCENE III,NA,NA,exeunt
 1528,Troilus and Cressida,TROILUS AND CRESSIDA,Tragedy,1602,William Shakespeare,contents,directions,ACT V,SCENE III,NA,NA,severally
-1528,Troilus and Cressida,TROILUS AND CRESSIDA,Tragedy,1602,William Shakespeare,contents,reference,ACT V,SCENE IV,NA,NA,scene
-1528,Troilus and Cressida,TROILUS AND CRESSIDA,Tragedy,1602,William Shakespeare,contents,reference,ACT V,SCENE IV,NA,NA,iv
-1528,Troilus and Cressida,TROILUS AND CRESSIDA,Tragedy,1602,William Shakespeare,contents,reference,ACT V,SCENE IV,NA,NA,the
-1528,Troilus and Cressida,TROILUS AND CRESSIDA,Tragedy,1602,William Shakespeare,contents,reference,ACT V,SCENE IV,NA,NA,plain
-1528,Troilus and Cressida,TROILUS AND CRESSIDA,Tragedy,1602,William Shakespeare,contents,reference,ACT V,SCENE IV,NA,NA,between
-1528,Troilus and Cressida,TROILUS AND CRESSIDA,Tragedy,1602,William Shakespeare,contents,reference,ACT V,SCENE IV,NA,NA,troy
-1528,Troilus and Cressida,TROILUS AND CRESSIDA,Tragedy,1602,William Shakespeare,contents,reference,ACT V,SCENE IV,NA,NA,and
-1528,Troilus and Cressida,TROILUS AND CRESSIDA,Tragedy,1602,William Shakespeare,contents,reference,ACT V,SCENE IV,NA,NA,the
-1528,Troilus and Cressida,TROILUS AND CRESSIDA,Tragedy,1602,William Shakespeare,contents,reference,ACT V,SCENE IV,NA,NA,grecian
-1528,Troilus and Cressida,TROILUS AND CRESSIDA,Tragedy,1602,William Shakespeare,contents,reference,ACT V,SCENE IV,NA,NA,camp
 1528,Troilus and Cressida,TROILUS AND CRESSIDA,Tragedy,1602,William Shakespeare,contents,directions,ACT V,SCENE IV,NA,NA,alarums
 1528,Troilus and Cressida,TROILUS AND CRESSIDA,Tragedy,1602,William Shakespeare,contents,directions,ACT V,SCENE IV,NA,NA,excursions
 1528,Troilus and Cressida,TROILUS AND CRESSIDA,Tragedy,1602,William Shakespeare,contents,directions,ACT V,SCENE IV,NA,NA,enter
@@ -25062,13 +24418,6 @@ gutenberg_id,short_title,gutenberg_title,genre,year,author,section,class,act,sce
 1528,Troilus and Cressida,TROILUS AND CRESSIDA,Tragedy,1602,William Shakespeare,contents,dialogue,ACT V,SCENE IV,THERSITES,3091,seek
 1528,Troilus and Cressida,TROILUS AND CRESSIDA,Tragedy,1602,William Shakespeare,contents,dialogue,ACT V,SCENE IV,THERSITES,3091,them
 1528,Troilus and Cressida,TROILUS AND CRESSIDA,Tragedy,1602,William Shakespeare,contents,directions,ACT V,SCENE IV,NA,NA,exit
-1528,Troilus and Cressida,TROILUS AND CRESSIDA,Tragedy,1602,William Shakespeare,contents,reference,ACT V,SCENE V,NA,NA,scene
-1528,Troilus and Cressida,TROILUS AND CRESSIDA,Tragedy,1602,William Shakespeare,contents,reference,ACT V,SCENE V,NA,NA,v
-1528,Troilus and Cressida,TROILUS AND CRESSIDA,Tragedy,1602,William Shakespeare,contents,reference,ACT V,SCENE V,NA,NA,another
-1528,Troilus and Cressida,TROILUS AND CRESSIDA,Tragedy,1602,William Shakespeare,contents,reference,ACT V,SCENE V,NA,NA,part
-1528,Troilus and Cressida,TROILUS AND CRESSIDA,Tragedy,1602,William Shakespeare,contents,reference,ACT V,SCENE V,NA,NA,of
-1528,Troilus and Cressida,TROILUS AND CRESSIDA,Tragedy,1602,William Shakespeare,contents,reference,ACT V,SCENE V,NA,NA,the
-1528,Troilus and Cressida,TROILUS AND CRESSIDA,Tragedy,1602,William Shakespeare,contents,reference,ACT V,SCENE V,NA,NA,plain
 1528,Troilus and Cressida,TROILUS AND CRESSIDA,Tragedy,1602,William Shakespeare,contents,directions,ACT V,SCENE V,NA,NA,enter
 1528,Troilus and Cressida,TROILUS AND CRESSIDA,Tragedy,1602,William Shakespeare,contents,directions,ACT V,SCENE V,NA,NA,diomedes
 1528,Troilus and Cressida,TROILUS AND CRESSIDA,Tragedy,1602,William Shakespeare,contents,directions,ACT V,SCENE V,NA,NA,and
@@ -25423,13 +24772,6 @@ gutenberg_id,short_title,gutenberg_title,genre,year,author,section,class,act,sce
 1528,Troilus and Cressida,TROILUS AND CRESSIDA,Tragedy,1602,William Shakespeare,contents,dialogue,ACT V,SCENE V,ACHILLES,3141,but
 1528,Troilus and Cressida,TROILUS AND CRESSIDA,Tragedy,1602,William Shakespeare,contents,dialogue,ACT V,SCENE V,ACHILLES,3141,hector
 1528,Troilus and Cressida,TROILUS AND CRESSIDA,Tragedy,1602,William Shakespeare,contents,directions,ACT V,SCENE V,NA,NA,exeunt
-1528,Troilus and Cressida,TROILUS AND CRESSIDA,Tragedy,1602,William Shakespeare,contents,reference,ACT V,SCENE VI,NA,NA,scene
-1528,Troilus and Cressida,TROILUS AND CRESSIDA,Tragedy,1602,William Shakespeare,contents,reference,ACT V,SCENE VI,NA,NA,vi
-1528,Troilus and Cressida,TROILUS AND CRESSIDA,Tragedy,1602,William Shakespeare,contents,reference,ACT V,SCENE VI,NA,NA,another
-1528,Troilus and Cressida,TROILUS AND CRESSIDA,Tragedy,1602,William Shakespeare,contents,reference,ACT V,SCENE VI,NA,NA,part
-1528,Troilus and Cressida,TROILUS AND CRESSIDA,Tragedy,1602,William Shakespeare,contents,reference,ACT V,SCENE VI,NA,NA,of
-1528,Troilus and Cressida,TROILUS AND CRESSIDA,Tragedy,1602,William Shakespeare,contents,reference,ACT V,SCENE VI,NA,NA,the
-1528,Troilus and Cressida,TROILUS AND CRESSIDA,Tragedy,1602,William Shakespeare,contents,reference,ACT V,SCENE VI,NA,NA,plain
 1528,Troilus and Cressida,TROILUS AND CRESSIDA,Tragedy,1602,William Shakespeare,contents,directions,ACT V,SCENE VI,NA,NA,enter
 1528,Troilus and Cressida,TROILUS AND CRESSIDA,Tragedy,1602,William Shakespeare,contents,directions,ACT V,SCENE VI,NA,NA,ajax
 1528,Troilus and Cressida,TROILUS AND CRESSIDA,Tragedy,1602,William Shakespeare,contents,dialogue,ACT V,SCENE VI,AJAX,3142,troilus
@@ -25705,13 +25047,6 @@ gutenberg_id,short_title,gutenberg_title,genre,year,author,section,class,act,sce
 1528,Troilus and Cressida,TROILUS AND CRESSIDA,Tragedy,1602,William Shakespeare,contents,dialogue,ACT V,SCENE VI,HECTOR,3175,thy
 1528,Troilus and Cressida,TROILUS AND CRESSIDA,Tragedy,1602,William Shakespeare,contents,dialogue,ACT V,SCENE VI,HECTOR,3175,hide
 1528,Troilus and Cressida,TROILUS AND CRESSIDA,Tragedy,1602,William Shakespeare,contents,directions,ACT V,SCENE VI,NA,NA,exeunt
-1528,Troilus and Cressida,TROILUS AND CRESSIDA,Tragedy,1602,William Shakespeare,contents,reference,ACT V,SCENE VII,NA,NA,scene
-1528,Troilus and Cressida,TROILUS AND CRESSIDA,Tragedy,1602,William Shakespeare,contents,reference,ACT V,SCENE VII,NA,NA,vii
-1528,Troilus and Cressida,TROILUS AND CRESSIDA,Tragedy,1602,William Shakespeare,contents,reference,ACT V,SCENE VII,NA,NA,another
-1528,Troilus and Cressida,TROILUS AND CRESSIDA,Tragedy,1602,William Shakespeare,contents,reference,ACT V,SCENE VII,NA,NA,part
-1528,Troilus and Cressida,TROILUS AND CRESSIDA,Tragedy,1602,William Shakespeare,contents,reference,ACT V,SCENE VII,NA,NA,of
-1528,Troilus and Cressida,TROILUS AND CRESSIDA,Tragedy,1602,William Shakespeare,contents,reference,ACT V,SCENE VII,NA,NA,the
-1528,Troilus and Cressida,TROILUS AND CRESSIDA,Tragedy,1602,William Shakespeare,contents,reference,ACT V,SCENE VII,NA,NA,plain
 1528,Troilus and Cressida,TROILUS AND CRESSIDA,Tragedy,1602,William Shakespeare,contents,directions,ACT V,SCENE VII,NA,NA,enter
 1528,Troilus and Cressida,TROILUS AND CRESSIDA,Tragedy,1602,William Shakespeare,contents,directions,ACT V,SCENE VII,NA,NA,achilles
 1528,Troilus and Cressida,TROILUS AND CRESSIDA,Tragedy,1602,William Shakespeare,contents,directions,ACT V,SCENE VII,NA,NA,with
@@ -25900,13 +25235,6 @@ gutenberg_id,short_title,gutenberg_title,genre,year,author,section,class,act,sce
 1528,Troilus and Cressida,TROILUS AND CRESSIDA,Tragedy,1602,William Shakespeare,contents,dialogue,ACT V,SCENE VII,MARGARELON,3195,thee
 1528,Troilus and Cressida,TROILUS AND CRESSIDA,Tragedy,1602,William Shakespeare,contents,dialogue,ACT V,SCENE VII,MARGARELON,3195,coward
 1528,Troilus and Cressida,TROILUS AND CRESSIDA,Tragedy,1602,William Shakespeare,contents,directions,ACT V,SCENE VII,NA,NA,exit
-1528,Troilus and Cressida,TROILUS AND CRESSIDA,Tragedy,1602,William Shakespeare,contents,reference,ACT V,SCENE VIII,NA,NA,scene
-1528,Troilus and Cressida,TROILUS AND CRESSIDA,Tragedy,1602,William Shakespeare,contents,reference,ACT V,SCENE VIII,NA,NA,viii
-1528,Troilus and Cressida,TROILUS AND CRESSIDA,Tragedy,1602,William Shakespeare,contents,reference,ACT V,SCENE VIII,NA,NA,another
-1528,Troilus and Cressida,TROILUS AND CRESSIDA,Tragedy,1602,William Shakespeare,contents,reference,ACT V,SCENE VIII,NA,NA,part
-1528,Troilus and Cressida,TROILUS AND CRESSIDA,Tragedy,1602,William Shakespeare,contents,reference,ACT V,SCENE VIII,NA,NA,of
-1528,Troilus and Cressida,TROILUS AND CRESSIDA,Tragedy,1602,William Shakespeare,contents,reference,ACT V,SCENE VIII,NA,NA,the
-1528,Troilus and Cressida,TROILUS AND CRESSIDA,Tragedy,1602,William Shakespeare,contents,reference,ACT V,SCENE VIII,NA,NA,plain
 1528,Troilus and Cressida,TROILUS AND CRESSIDA,Tragedy,1602,William Shakespeare,contents,directions,ACT V,SCENE VIII,NA,NA,enter
 1528,Troilus and Cressida,TROILUS AND CRESSIDA,Tragedy,1602,William Shakespeare,contents,directions,ACT V,SCENE VIII,NA,NA,hector
 1528,Troilus and Cressida,TROILUS AND CRESSIDA,Tragedy,1602,William Shakespeare,contents,dialogue,ACT V,SCENE VIII,HECTOR,3196,most
@@ -26101,13 +25429,6 @@ gutenberg_id,short_title,gutenberg_title,genre,year,author,section,class,act,sce
 1528,Troilus and Cressida,TROILUS AND CRESSIDA,Tragedy,1602,William Shakespeare,contents,dialogue,ACT V,SCENE VIII,ACHILLES,3217,trojan
 1528,Troilus and Cressida,TROILUS AND CRESSIDA,Tragedy,1602,William Shakespeare,contents,dialogue,ACT V,SCENE VIII,ACHILLES,3217,trail
 1528,Troilus and Cressida,TROILUS AND CRESSIDA,Tragedy,1602,William Shakespeare,contents,directions,ACT V,SCENE VIII,NA,NA,exeunt
-1528,Troilus and Cressida,TROILUS AND CRESSIDA,Tragedy,1602,William Shakespeare,contents,reference,ACT V,SCENE IX,NA,NA,scene
-1528,Troilus and Cressida,TROILUS AND CRESSIDA,Tragedy,1602,William Shakespeare,contents,reference,ACT V,SCENE IX,NA,NA,ix
-1528,Troilus and Cressida,TROILUS AND CRESSIDA,Tragedy,1602,William Shakespeare,contents,reference,ACT V,SCENE IX,NA,NA,another
-1528,Troilus and Cressida,TROILUS AND CRESSIDA,Tragedy,1602,William Shakespeare,contents,reference,ACT V,SCENE IX,NA,NA,part
-1528,Troilus and Cressida,TROILUS AND CRESSIDA,Tragedy,1602,William Shakespeare,contents,reference,ACT V,SCENE IX,NA,NA,of
-1528,Troilus and Cressida,TROILUS AND CRESSIDA,Tragedy,1602,William Shakespeare,contents,reference,ACT V,SCENE IX,NA,NA,the
-1528,Troilus and Cressida,TROILUS AND CRESSIDA,Tragedy,1602,William Shakespeare,contents,reference,ACT V,SCENE IX,NA,NA,plain
 1528,Troilus and Cressida,TROILUS AND CRESSIDA,Tragedy,1602,William Shakespeare,contents,directions,ACT V,SCENE IX,NA,NA,sound
 1528,Troilus and Cressida,TROILUS AND CRESSIDA,Tragedy,1602,William Shakespeare,contents,directions,ACT V,SCENE IX,NA,NA,retreat
 1528,Troilus and Cressida,TROILUS AND CRESSIDA,Tragedy,1602,William Shakespeare,contents,directions,ACT V,SCENE IX,NA,NA,shout
@@ -26196,13 +25517,6 @@ gutenberg_id,short_title,gutenberg_title,genre,year,author,section,class,act,sce
 1528,Troilus and Cressida,TROILUS AND CRESSIDA,Tragedy,1602,William Shakespeare,contents,dialogue,ACT V,SCENE IX,AGAMEMNON,3227,are
 1528,Troilus and Cressida,TROILUS AND CRESSIDA,Tragedy,1602,William Shakespeare,contents,dialogue,ACT V,SCENE IX,AGAMEMNON,3227,ended
 1528,Troilus and Cressida,TROILUS AND CRESSIDA,Tragedy,1602,William Shakespeare,contents,directions,ACT V,SCENE IX,NA,NA,exeunt
-1528,Troilus and Cressida,TROILUS AND CRESSIDA,Tragedy,1602,William Shakespeare,contents,reference,ACT V,SCENE X,NA,NA,scene
-1528,Troilus and Cressida,TROILUS AND CRESSIDA,Tragedy,1602,William Shakespeare,contents,reference,ACT V,SCENE X,NA,NA,x
-1528,Troilus and Cressida,TROILUS AND CRESSIDA,Tragedy,1602,William Shakespeare,contents,reference,ACT V,SCENE X,NA,NA,another
-1528,Troilus and Cressida,TROILUS AND CRESSIDA,Tragedy,1602,William Shakespeare,contents,reference,ACT V,SCENE X,NA,NA,part
-1528,Troilus and Cressida,TROILUS AND CRESSIDA,Tragedy,1602,William Shakespeare,contents,reference,ACT V,SCENE X,NA,NA,of
-1528,Troilus and Cressida,TROILUS AND CRESSIDA,Tragedy,1602,William Shakespeare,contents,reference,ACT V,SCENE X,NA,NA,the
-1528,Troilus and Cressida,TROILUS AND CRESSIDA,Tragedy,1602,William Shakespeare,contents,reference,ACT V,SCENE X,NA,NA,plain
 1528,Troilus and Cressida,TROILUS AND CRESSIDA,Tragedy,1602,William Shakespeare,contents,directions,ACT V,SCENE X,NA,NA,enter
 1528,Troilus and Cressida,TROILUS AND CRESSIDA,Tragedy,1602,William Shakespeare,contents,directions,ACT V,SCENE X,NA,NA,aeneas
 1528,Troilus and Cressida,TROILUS AND CRESSIDA,Tragedy,1602,William Shakespeare,contents,directions,ACT V,SCENE X,NA,NA,paris

@@ -1,380 +1,4 @@
 gutenberg_id,short_title,gutenberg_title,genre,year,author,section,class,act,scene,character,line_number,word
-1533,Macbeth,MACBETH,Tragedy,1606,William Shakespeare,front_matter,title,NA,NA,NA,NA,macbeth
-1533,Macbeth,MACBETH,Tragedy,1606,William Shakespeare,front_matter,author,NA,NA,NA,NA,by
-1533,Macbeth,MACBETH,Tragedy,1606,William Shakespeare,front_matter,author,NA,NA,NA,NA,william
-1533,Macbeth,MACBETH,Tragedy,1606,William Shakespeare,front_matter,author,NA,NA,NA,NA,shakespeare
-1533,Macbeth,MACBETH,Tragedy,1606,William Shakespeare,front_matter,contents_header,NA,NA,NA,NA,contents
-1533,Macbeth,MACBETH,Tragedy,1606,William Shakespeare,front_matter,contents,ACT I,NA,NA,NA,act
-1533,Macbeth,MACBETH,Tragedy,1606,William Shakespeare,front_matter,contents,ACT I,NA,NA,NA,i
-1533,Macbeth,MACBETH,Tragedy,1606,William Shakespeare,front_matter,contents,ACT I,Scene I,NA,NA,scene
-1533,Macbeth,MACBETH,Tragedy,1606,William Shakespeare,front_matter,contents,ACT I,Scene I,NA,NA,i
-1533,Macbeth,MACBETH,Tragedy,1606,William Shakespeare,front_matter,contents,ACT I,Scene I,NA,NA,an
-1533,Macbeth,MACBETH,Tragedy,1606,William Shakespeare,front_matter,contents,ACT I,Scene I,NA,NA,open
-1533,Macbeth,MACBETH,Tragedy,1606,William Shakespeare,front_matter,contents,ACT I,Scene I,NA,NA,place
-1533,Macbeth,MACBETH,Tragedy,1606,William Shakespeare,front_matter,contents,ACT I,Scene II,NA,NA,scene
-1533,Macbeth,MACBETH,Tragedy,1606,William Shakespeare,front_matter,contents,ACT I,Scene II,NA,NA,ii
-1533,Macbeth,MACBETH,Tragedy,1606,William Shakespeare,front_matter,contents,ACT I,Scene II,NA,NA,a
-1533,Macbeth,MACBETH,Tragedy,1606,William Shakespeare,front_matter,contents,ACT I,Scene II,NA,NA,camp
-1533,Macbeth,MACBETH,Tragedy,1606,William Shakespeare,front_matter,contents,ACT I,Scene II,NA,NA,near
-1533,Macbeth,MACBETH,Tragedy,1606,William Shakespeare,front_matter,contents,ACT I,Scene II,NA,NA,forres
-1533,Macbeth,MACBETH,Tragedy,1606,William Shakespeare,front_matter,contents,ACT I,Scene III,NA,NA,scene
-1533,Macbeth,MACBETH,Tragedy,1606,William Shakespeare,front_matter,contents,ACT I,Scene III,NA,NA,iii
-1533,Macbeth,MACBETH,Tragedy,1606,William Shakespeare,front_matter,contents,ACT I,Scene III,NA,NA,a
-1533,Macbeth,MACBETH,Tragedy,1606,William Shakespeare,front_matter,contents,ACT I,Scene III,NA,NA,heath
-1533,Macbeth,MACBETH,Tragedy,1606,William Shakespeare,front_matter,contents,ACT I,Scene IV,NA,NA,scene
-1533,Macbeth,MACBETH,Tragedy,1606,William Shakespeare,front_matter,contents,ACT I,Scene IV,NA,NA,iv
-1533,Macbeth,MACBETH,Tragedy,1606,William Shakespeare,front_matter,contents,ACT I,Scene IV,NA,NA,forres
-1533,Macbeth,MACBETH,Tragedy,1606,William Shakespeare,front_matter,contents,ACT I,Scene IV,NA,NA,a
-1533,Macbeth,MACBETH,Tragedy,1606,William Shakespeare,front_matter,contents,ACT I,Scene IV,NA,NA,room
-1533,Macbeth,MACBETH,Tragedy,1606,William Shakespeare,front_matter,contents,ACT I,Scene IV,NA,NA,in
-1533,Macbeth,MACBETH,Tragedy,1606,William Shakespeare,front_matter,contents,ACT I,Scene IV,NA,NA,the
-1533,Macbeth,MACBETH,Tragedy,1606,William Shakespeare,front_matter,contents,ACT I,Scene IV,NA,NA,palace
-1533,Macbeth,MACBETH,Tragedy,1606,William Shakespeare,front_matter,contents,ACT I,Scene V,NA,NA,scene
-1533,Macbeth,MACBETH,Tragedy,1606,William Shakespeare,front_matter,contents,ACT I,Scene V,NA,NA,v
-1533,Macbeth,MACBETH,Tragedy,1606,William Shakespeare,front_matter,contents,ACT I,Scene V,NA,NA,inverness
-1533,Macbeth,MACBETH,Tragedy,1606,William Shakespeare,front_matter,contents,ACT I,Scene V,NA,NA,a
-1533,Macbeth,MACBETH,Tragedy,1606,William Shakespeare,front_matter,contents,ACT I,Scene V,NA,NA,room
-1533,Macbeth,MACBETH,Tragedy,1606,William Shakespeare,front_matter,contents,ACT I,Scene V,NA,NA,in
-1533,Macbeth,MACBETH,Tragedy,1606,William Shakespeare,front_matter,contents,ACT I,Scene V,NA,NA,macbeth’s
-1533,Macbeth,MACBETH,Tragedy,1606,William Shakespeare,front_matter,contents,ACT I,Scene V,NA,NA,castle
-1533,Macbeth,MACBETH,Tragedy,1606,William Shakespeare,front_matter,contents,ACT I,Scene VI,NA,NA,scene
-1533,Macbeth,MACBETH,Tragedy,1606,William Shakespeare,front_matter,contents,ACT I,Scene VI,NA,NA,vi
-1533,Macbeth,MACBETH,Tragedy,1606,William Shakespeare,front_matter,contents,ACT I,Scene VI,NA,NA,the
-1533,Macbeth,MACBETH,Tragedy,1606,William Shakespeare,front_matter,contents,ACT I,Scene VI,NA,NA,same
-1533,Macbeth,MACBETH,Tragedy,1606,William Shakespeare,front_matter,contents,ACT I,Scene VI,NA,NA,before
-1533,Macbeth,MACBETH,Tragedy,1606,William Shakespeare,front_matter,contents,ACT I,Scene VI,NA,NA,the
-1533,Macbeth,MACBETH,Tragedy,1606,William Shakespeare,front_matter,contents,ACT I,Scene VI,NA,NA,castle
-1533,Macbeth,MACBETH,Tragedy,1606,William Shakespeare,front_matter,contents,ACT I,Scene VII,NA,NA,scene
-1533,Macbeth,MACBETH,Tragedy,1606,William Shakespeare,front_matter,contents,ACT I,Scene VII,NA,NA,vii
-1533,Macbeth,MACBETH,Tragedy,1606,William Shakespeare,front_matter,contents,ACT I,Scene VII,NA,NA,the
-1533,Macbeth,MACBETH,Tragedy,1606,William Shakespeare,front_matter,contents,ACT I,Scene VII,NA,NA,same
-1533,Macbeth,MACBETH,Tragedy,1606,William Shakespeare,front_matter,contents,ACT I,Scene VII,NA,NA,a
-1533,Macbeth,MACBETH,Tragedy,1606,William Shakespeare,front_matter,contents,ACT I,Scene VII,NA,NA,lobby
-1533,Macbeth,MACBETH,Tragedy,1606,William Shakespeare,front_matter,contents,ACT I,Scene VII,NA,NA,in
-1533,Macbeth,MACBETH,Tragedy,1606,William Shakespeare,front_matter,contents,ACT I,Scene VII,NA,NA,the
-1533,Macbeth,MACBETH,Tragedy,1606,William Shakespeare,front_matter,contents,ACT I,Scene VII,NA,NA,castle
-1533,Macbeth,MACBETH,Tragedy,1606,William Shakespeare,front_matter,contents,ACT II,NA,NA,NA,act
-1533,Macbeth,MACBETH,Tragedy,1606,William Shakespeare,front_matter,contents,ACT II,NA,NA,NA,ii
-1533,Macbeth,MACBETH,Tragedy,1606,William Shakespeare,front_matter,contents,ACT II,Scene I,NA,NA,scene
-1533,Macbeth,MACBETH,Tragedy,1606,William Shakespeare,front_matter,contents,ACT II,Scene I,NA,NA,i
-1533,Macbeth,MACBETH,Tragedy,1606,William Shakespeare,front_matter,contents,ACT II,Scene I,NA,NA,inverness
-1533,Macbeth,MACBETH,Tragedy,1606,William Shakespeare,front_matter,contents,ACT II,Scene I,NA,NA,court
-1533,Macbeth,MACBETH,Tragedy,1606,William Shakespeare,front_matter,contents,ACT II,Scene I,NA,NA,within
-1533,Macbeth,MACBETH,Tragedy,1606,William Shakespeare,front_matter,contents,ACT II,Scene I,NA,NA,the
-1533,Macbeth,MACBETH,Tragedy,1606,William Shakespeare,front_matter,contents,ACT II,Scene I,NA,NA,castle
-1533,Macbeth,MACBETH,Tragedy,1606,William Shakespeare,front_matter,contents,ACT II,Scene II,NA,NA,scene
-1533,Macbeth,MACBETH,Tragedy,1606,William Shakespeare,front_matter,contents,ACT II,Scene II,NA,NA,ii
-1533,Macbeth,MACBETH,Tragedy,1606,William Shakespeare,front_matter,contents,ACT II,Scene II,NA,NA,the
-1533,Macbeth,MACBETH,Tragedy,1606,William Shakespeare,front_matter,contents,ACT II,Scene II,NA,NA,same
-1533,Macbeth,MACBETH,Tragedy,1606,William Shakespeare,front_matter,contents,ACT II,Scene III,NA,NA,scene
-1533,Macbeth,MACBETH,Tragedy,1606,William Shakespeare,front_matter,contents,ACT II,Scene III,NA,NA,iii
-1533,Macbeth,MACBETH,Tragedy,1606,William Shakespeare,front_matter,contents,ACT II,Scene III,NA,NA,the
-1533,Macbeth,MACBETH,Tragedy,1606,William Shakespeare,front_matter,contents,ACT II,Scene III,NA,NA,same
-1533,Macbeth,MACBETH,Tragedy,1606,William Shakespeare,front_matter,contents,ACT II,Scene IV,NA,NA,scene
-1533,Macbeth,MACBETH,Tragedy,1606,William Shakespeare,front_matter,contents,ACT II,Scene IV,NA,NA,iv
-1533,Macbeth,MACBETH,Tragedy,1606,William Shakespeare,front_matter,contents,ACT II,Scene IV,NA,NA,the
-1533,Macbeth,MACBETH,Tragedy,1606,William Shakespeare,front_matter,contents,ACT II,Scene IV,NA,NA,same
-1533,Macbeth,MACBETH,Tragedy,1606,William Shakespeare,front_matter,contents,ACT II,Scene IV,NA,NA,without
-1533,Macbeth,MACBETH,Tragedy,1606,William Shakespeare,front_matter,contents,ACT II,Scene IV,NA,NA,the
-1533,Macbeth,MACBETH,Tragedy,1606,William Shakespeare,front_matter,contents,ACT II,Scene IV,NA,NA,castle
-1533,Macbeth,MACBETH,Tragedy,1606,William Shakespeare,front_matter,contents,ACT III,NA,NA,NA,act
-1533,Macbeth,MACBETH,Tragedy,1606,William Shakespeare,front_matter,contents,ACT III,NA,NA,NA,iii
-1533,Macbeth,MACBETH,Tragedy,1606,William Shakespeare,front_matter,contents,ACT III,Scene I,NA,NA,scene
-1533,Macbeth,MACBETH,Tragedy,1606,William Shakespeare,front_matter,contents,ACT III,Scene I,NA,NA,i
-1533,Macbeth,MACBETH,Tragedy,1606,William Shakespeare,front_matter,contents,ACT III,Scene I,NA,NA,forres
-1533,Macbeth,MACBETH,Tragedy,1606,William Shakespeare,front_matter,contents,ACT III,Scene I,NA,NA,a
-1533,Macbeth,MACBETH,Tragedy,1606,William Shakespeare,front_matter,contents,ACT III,Scene I,NA,NA,room
-1533,Macbeth,MACBETH,Tragedy,1606,William Shakespeare,front_matter,contents,ACT III,Scene I,NA,NA,in
-1533,Macbeth,MACBETH,Tragedy,1606,William Shakespeare,front_matter,contents,ACT III,Scene I,NA,NA,the
-1533,Macbeth,MACBETH,Tragedy,1606,William Shakespeare,front_matter,contents,ACT III,Scene I,NA,NA,palace
-1533,Macbeth,MACBETH,Tragedy,1606,William Shakespeare,front_matter,contents,ACT III,Scene II,NA,NA,scene
-1533,Macbeth,MACBETH,Tragedy,1606,William Shakespeare,front_matter,contents,ACT III,Scene II,NA,NA,ii
-1533,Macbeth,MACBETH,Tragedy,1606,William Shakespeare,front_matter,contents,ACT III,Scene II,NA,NA,the
-1533,Macbeth,MACBETH,Tragedy,1606,William Shakespeare,front_matter,contents,ACT III,Scene II,NA,NA,same
-1533,Macbeth,MACBETH,Tragedy,1606,William Shakespeare,front_matter,contents,ACT III,Scene II,NA,NA,another
-1533,Macbeth,MACBETH,Tragedy,1606,William Shakespeare,front_matter,contents,ACT III,Scene II,NA,NA,room
-1533,Macbeth,MACBETH,Tragedy,1606,William Shakespeare,front_matter,contents,ACT III,Scene II,NA,NA,in
-1533,Macbeth,MACBETH,Tragedy,1606,William Shakespeare,front_matter,contents,ACT III,Scene II,NA,NA,the
-1533,Macbeth,MACBETH,Tragedy,1606,William Shakespeare,front_matter,contents,ACT III,Scene II,NA,NA,palace
-1533,Macbeth,MACBETH,Tragedy,1606,William Shakespeare,front_matter,contents,ACT III,Scene III,NA,NA,scene
-1533,Macbeth,MACBETH,Tragedy,1606,William Shakespeare,front_matter,contents,ACT III,Scene III,NA,NA,iii
-1533,Macbeth,MACBETH,Tragedy,1606,William Shakespeare,front_matter,contents,ACT III,Scene III,NA,NA,the
-1533,Macbeth,MACBETH,Tragedy,1606,William Shakespeare,front_matter,contents,ACT III,Scene III,NA,NA,same
-1533,Macbeth,MACBETH,Tragedy,1606,William Shakespeare,front_matter,contents,ACT III,Scene III,NA,NA,a
-1533,Macbeth,MACBETH,Tragedy,1606,William Shakespeare,front_matter,contents,ACT III,Scene III,NA,NA,park
-1533,Macbeth,MACBETH,Tragedy,1606,William Shakespeare,front_matter,contents,ACT III,Scene III,NA,NA,or
-1533,Macbeth,MACBETH,Tragedy,1606,William Shakespeare,front_matter,contents,ACT III,Scene III,NA,NA,lawn
-1533,Macbeth,MACBETH,Tragedy,1606,William Shakespeare,front_matter,contents,ACT III,Scene III,NA,NA,with
-1533,Macbeth,MACBETH,Tragedy,1606,William Shakespeare,front_matter,contents,ACT III,Scene III,NA,NA,a
-1533,Macbeth,MACBETH,Tragedy,1606,William Shakespeare,front_matter,contents,ACT III,Scene III,NA,NA,gate
-1533,Macbeth,MACBETH,Tragedy,1606,William Shakespeare,front_matter,contents,ACT III,Scene III,NA,NA,leading
-1533,Macbeth,MACBETH,Tragedy,1606,William Shakespeare,front_matter,contents,ACT III,Scene III,NA,NA,to
-1533,Macbeth,MACBETH,Tragedy,1606,William Shakespeare,front_matter,contents,ACT III,Scene III,NA,NA,the
-1533,Macbeth,MACBETH,Tragedy,1606,William Shakespeare,front_matter,contents,ACT III,Scene III,NA,NA,palace
-1533,Macbeth,MACBETH,Tragedy,1606,William Shakespeare,front_matter,contents,ACT III,Scene IV,NA,NA,scene
-1533,Macbeth,MACBETH,Tragedy,1606,William Shakespeare,front_matter,contents,ACT III,Scene IV,NA,NA,iv
-1533,Macbeth,MACBETH,Tragedy,1606,William Shakespeare,front_matter,contents,ACT III,Scene IV,NA,NA,the
-1533,Macbeth,MACBETH,Tragedy,1606,William Shakespeare,front_matter,contents,ACT III,Scene IV,NA,NA,same
-1533,Macbeth,MACBETH,Tragedy,1606,William Shakespeare,front_matter,contents,ACT III,Scene IV,NA,NA,a
-1533,Macbeth,MACBETH,Tragedy,1606,William Shakespeare,front_matter,contents,ACT III,Scene IV,NA,NA,room
-1533,Macbeth,MACBETH,Tragedy,1606,William Shakespeare,front_matter,contents,ACT III,Scene IV,NA,NA,of
-1533,Macbeth,MACBETH,Tragedy,1606,William Shakespeare,front_matter,contents,ACT III,Scene IV,NA,NA,state
-1533,Macbeth,MACBETH,Tragedy,1606,William Shakespeare,front_matter,contents,ACT III,Scene IV,NA,NA,in
-1533,Macbeth,MACBETH,Tragedy,1606,William Shakespeare,front_matter,contents,ACT III,Scene IV,NA,NA,the
-1533,Macbeth,MACBETH,Tragedy,1606,William Shakespeare,front_matter,contents,ACT III,Scene IV,NA,NA,palace
-1533,Macbeth,MACBETH,Tragedy,1606,William Shakespeare,front_matter,contents,ACT III,Scene V,NA,NA,scene
-1533,Macbeth,MACBETH,Tragedy,1606,William Shakespeare,front_matter,contents,ACT III,Scene V,NA,NA,v
-1533,Macbeth,MACBETH,Tragedy,1606,William Shakespeare,front_matter,contents,ACT III,Scene V,NA,NA,the
-1533,Macbeth,MACBETH,Tragedy,1606,William Shakespeare,front_matter,contents,ACT III,Scene V,NA,NA,heath
-1533,Macbeth,MACBETH,Tragedy,1606,William Shakespeare,front_matter,contents,ACT III,Scene VI,NA,NA,scene
-1533,Macbeth,MACBETH,Tragedy,1606,William Shakespeare,front_matter,contents,ACT III,Scene VI,NA,NA,vi
-1533,Macbeth,MACBETH,Tragedy,1606,William Shakespeare,front_matter,contents,ACT III,Scene VI,NA,NA,forres
-1533,Macbeth,MACBETH,Tragedy,1606,William Shakespeare,front_matter,contents,ACT III,Scene VI,NA,NA,a
-1533,Macbeth,MACBETH,Tragedy,1606,William Shakespeare,front_matter,contents,ACT III,Scene VI,NA,NA,room
-1533,Macbeth,MACBETH,Tragedy,1606,William Shakespeare,front_matter,contents,ACT III,Scene VI,NA,NA,in
-1533,Macbeth,MACBETH,Tragedy,1606,William Shakespeare,front_matter,contents,ACT III,Scene VI,NA,NA,the
-1533,Macbeth,MACBETH,Tragedy,1606,William Shakespeare,front_matter,contents,ACT III,Scene VI,NA,NA,palace
-1533,Macbeth,MACBETH,Tragedy,1606,William Shakespeare,front_matter,contents,ACT IV,NA,NA,NA,act
-1533,Macbeth,MACBETH,Tragedy,1606,William Shakespeare,front_matter,contents,ACT IV,NA,NA,NA,iv
-1533,Macbeth,MACBETH,Tragedy,1606,William Shakespeare,front_matter,contents,ACT IV,Scene I,NA,NA,scene
-1533,Macbeth,MACBETH,Tragedy,1606,William Shakespeare,front_matter,contents,ACT IV,Scene I,NA,NA,i
-1533,Macbeth,MACBETH,Tragedy,1606,William Shakespeare,front_matter,contents,ACT IV,Scene I,NA,NA,a
-1533,Macbeth,MACBETH,Tragedy,1606,William Shakespeare,front_matter,contents,ACT IV,Scene I,NA,NA,dark
-1533,Macbeth,MACBETH,Tragedy,1606,William Shakespeare,front_matter,contents,ACT IV,Scene I,NA,NA,cave
-1533,Macbeth,MACBETH,Tragedy,1606,William Shakespeare,front_matter,contents,ACT IV,Scene I,NA,NA,in
-1533,Macbeth,MACBETH,Tragedy,1606,William Shakespeare,front_matter,contents,ACT IV,Scene I,NA,NA,the
-1533,Macbeth,MACBETH,Tragedy,1606,William Shakespeare,front_matter,contents,ACT IV,Scene I,NA,NA,middle
-1533,Macbeth,MACBETH,Tragedy,1606,William Shakespeare,front_matter,contents,ACT IV,Scene I,NA,NA,a
-1533,Macbeth,MACBETH,Tragedy,1606,William Shakespeare,front_matter,contents,ACT IV,Scene I,NA,NA,cauldron
-1533,Macbeth,MACBETH,Tragedy,1606,William Shakespeare,front_matter,contents,ACT IV,Scene I,NA,NA,boiling
-1533,Macbeth,MACBETH,Tragedy,1606,William Shakespeare,front_matter,contents,ACT IV,Scene II,NA,NA,scene
-1533,Macbeth,MACBETH,Tragedy,1606,William Shakespeare,front_matter,contents,ACT IV,Scene II,NA,NA,ii
-1533,Macbeth,MACBETH,Tragedy,1606,William Shakespeare,front_matter,contents,ACT IV,Scene II,NA,NA,fife
-1533,Macbeth,MACBETH,Tragedy,1606,William Shakespeare,front_matter,contents,ACT IV,Scene II,NA,NA,a
-1533,Macbeth,MACBETH,Tragedy,1606,William Shakespeare,front_matter,contents,ACT IV,Scene II,NA,NA,room
-1533,Macbeth,MACBETH,Tragedy,1606,William Shakespeare,front_matter,contents,ACT IV,Scene II,NA,NA,in
-1533,Macbeth,MACBETH,Tragedy,1606,William Shakespeare,front_matter,contents,ACT IV,Scene II,NA,NA,macduff’s
-1533,Macbeth,MACBETH,Tragedy,1606,William Shakespeare,front_matter,contents,ACT IV,Scene II,NA,NA,castle
-1533,Macbeth,MACBETH,Tragedy,1606,William Shakespeare,front_matter,contents,ACT IV,Scene III,NA,NA,scene
-1533,Macbeth,MACBETH,Tragedy,1606,William Shakespeare,front_matter,contents,ACT IV,Scene III,NA,NA,iii
-1533,Macbeth,MACBETH,Tragedy,1606,William Shakespeare,front_matter,contents,ACT IV,Scene III,NA,NA,england
-1533,Macbeth,MACBETH,Tragedy,1606,William Shakespeare,front_matter,contents,ACT IV,Scene III,NA,NA,before
-1533,Macbeth,MACBETH,Tragedy,1606,William Shakespeare,front_matter,contents,ACT IV,Scene III,NA,NA,the
-1533,Macbeth,MACBETH,Tragedy,1606,William Shakespeare,front_matter,contents,ACT IV,Scene III,NA,NA,king’s
-1533,Macbeth,MACBETH,Tragedy,1606,William Shakespeare,front_matter,contents,ACT IV,Scene III,NA,NA,palace
-1533,Macbeth,MACBETH,Tragedy,1606,William Shakespeare,front_matter,contents,ACT V,NA,NA,NA,act
-1533,Macbeth,MACBETH,Tragedy,1606,William Shakespeare,front_matter,contents,ACT V,NA,NA,NA,v
-1533,Macbeth,MACBETH,Tragedy,1606,William Shakespeare,front_matter,contents,ACT V,Scene I,NA,NA,scene
-1533,Macbeth,MACBETH,Tragedy,1606,William Shakespeare,front_matter,contents,ACT V,Scene I,NA,NA,i
-1533,Macbeth,MACBETH,Tragedy,1606,William Shakespeare,front_matter,contents,ACT V,Scene I,NA,NA,dunsinane
-1533,Macbeth,MACBETH,Tragedy,1606,William Shakespeare,front_matter,contents,ACT V,Scene I,NA,NA,a
-1533,Macbeth,MACBETH,Tragedy,1606,William Shakespeare,front_matter,contents,ACT V,Scene I,NA,NA,room
-1533,Macbeth,MACBETH,Tragedy,1606,William Shakespeare,front_matter,contents,ACT V,Scene I,NA,NA,in
-1533,Macbeth,MACBETH,Tragedy,1606,William Shakespeare,front_matter,contents,ACT V,Scene I,NA,NA,the
-1533,Macbeth,MACBETH,Tragedy,1606,William Shakespeare,front_matter,contents,ACT V,Scene I,NA,NA,castle
-1533,Macbeth,MACBETH,Tragedy,1606,William Shakespeare,front_matter,contents,ACT V,Scene II,NA,NA,scene
-1533,Macbeth,MACBETH,Tragedy,1606,William Shakespeare,front_matter,contents,ACT V,Scene II,NA,NA,ii
-1533,Macbeth,MACBETH,Tragedy,1606,William Shakespeare,front_matter,contents,ACT V,Scene II,NA,NA,the
-1533,Macbeth,MACBETH,Tragedy,1606,William Shakespeare,front_matter,contents,ACT V,Scene II,NA,NA,country
-1533,Macbeth,MACBETH,Tragedy,1606,William Shakespeare,front_matter,contents,ACT V,Scene II,NA,NA,near
-1533,Macbeth,MACBETH,Tragedy,1606,William Shakespeare,front_matter,contents,ACT V,Scene II,NA,NA,dunsinane
-1533,Macbeth,MACBETH,Tragedy,1606,William Shakespeare,front_matter,contents,ACT V,Scene III,NA,NA,scene
-1533,Macbeth,MACBETH,Tragedy,1606,William Shakespeare,front_matter,contents,ACT V,Scene III,NA,NA,iii
-1533,Macbeth,MACBETH,Tragedy,1606,William Shakespeare,front_matter,contents,ACT V,Scene III,NA,NA,dunsinane
-1533,Macbeth,MACBETH,Tragedy,1606,William Shakespeare,front_matter,contents,ACT V,Scene III,NA,NA,a
-1533,Macbeth,MACBETH,Tragedy,1606,William Shakespeare,front_matter,contents,ACT V,Scene III,NA,NA,room
-1533,Macbeth,MACBETH,Tragedy,1606,William Shakespeare,front_matter,contents,ACT V,Scene III,NA,NA,in
-1533,Macbeth,MACBETH,Tragedy,1606,William Shakespeare,front_matter,contents,ACT V,Scene III,NA,NA,the
-1533,Macbeth,MACBETH,Tragedy,1606,William Shakespeare,front_matter,contents,ACT V,Scene III,NA,NA,castle
-1533,Macbeth,MACBETH,Tragedy,1606,William Shakespeare,front_matter,contents,ACT V,Scene IV,NA,NA,scene
-1533,Macbeth,MACBETH,Tragedy,1606,William Shakespeare,front_matter,contents,ACT V,Scene IV,NA,NA,iv
-1533,Macbeth,MACBETH,Tragedy,1606,William Shakespeare,front_matter,contents,ACT V,Scene IV,NA,NA,country
-1533,Macbeth,MACBETH,Tragedy,1606,William Shakespeare,front_matter,contents,ACT V,Scene IV,NA,NA,near
-1533,Macbeth,MACBETH,Tragedy,1606,William Shakespeare,front_matter,contents,ACT V,Scene IV,NA,NA,dunsinane
-1533,Macbeth,MACBETH,Tragedy,1606,William Shakespeare,front_matter,contents,ACT V,Scene IV,NA,NA,a
-1533,Macbeth,MACBETH,Tragedy,1606,William Shakespeare,front_matter,contents,ACT V,Scene IV,NA,NA,wood
-1533,Macbeth,MACBETH,Tragedy,1606,William Shakespeare,front_matter,contents,ACT V,Scene IV,NA,NA,in
-1533,Macbeth,MACBETH,Tragedy,1606,William Shakespeare,front_matter,contents,ACT V,Scene IV,NA,NA,view
-1533,Macbeth,MACBETH,Tragedy,1606,William Shakespeare,front_matter,contents,ACT V,Scene V,NA,NA,scene
-1533,Macbeth,MACBETH,Tragedy,1606,William Shakespeare,front_matter,contents,ACT V,Scene V,NA,NA,v
-1533,Macbeth,MACBETH,Tragedy,1606,William Shakespeare,front_matter,contents,ACT V,Scene V,NA,NA,dunsinane
-1533,Macbeth,MACBETH,Tragedy,1606,William Shakespeare,front_matter,contents,ACT V,Scene V,NA,NA,within
-1533,Macbeth,MACBETH,Tragedy,1606,William Shakespeare,front_matter,contents,ACT V,Scene V,NA,NA,the
-1533,Macbeth,MACBETH,Tragedy,1606,William Shakespeare,front_matter,contents,ACT V,Scene V,NA,NA,castle
-1533,Macbeth,MACBETH,Tragedy,1606,William Shakespeare,front_matter,contents,ACT V,Scene VI,NA,NA,scene
-1533,Macbeth,MACBETH,Tragedy,1606,William Shakespeare,front_matter,contents,ACT V,Scene VI,NA,NA,vi
-1533,Macbeth,MACBETH,Tragedy,1606,William Shakespeare,front_matter,contents,ACT V,Scene VI,NA,NA,the
-1533,Macbeth,MACBETH,Tragedy,1606,William Shakespeare,front_matter,contents,ACT V,Scene VI,NA,NA,same
-1533,Macbeth,MACBETH,Tragedy,1606,William Shakespeare,front_matter,contents,ACT V,Scene VI,NA,NA,a
-1533,Macbeth,MACBETH,Tragedy,1606,William Shakespeare,front_matter,contents,ACT V,Scene VI,NA,NA,plain
-1533,Macbeth,MACBETH,Tragedy,1606,William Shakespeare,front_matter,contents,ACT V,Scene VI,NA,NA,before
-1533,Macbeth,MACBETH,Tragedy,1606,William Shakespeare,front_matter,contents,ACT V,Scene VI,NA,NA,the
-1533,Macbeth,MACBETH,Tragedy,1606,William Shakespeare,front_matter,contents,ACT V,Scene VI,NA,NA,castle
-1533,Macbeth,MACBETH,Tragedy,1606,William Shakespeare,front_matter,contents,ACT V,Scene VII,NA,NA,scene
-1533,Macbeth,MACBETH,Tragedy,1606,William Shakespeare,front_matter,contents,ACT V,Scene VII,NA,NA,vii
-1533,Macbeth,MACBETH,Tragedy,1606,William Shakespeare,front_matter,contents,ACT V,Scene VII,NA,NA,the
-1533,Macbeth,MACBETH,Tragedy,1606,William Shakespeare,front_matter,contents,ACT V,Scene VII,NA,NA,same
-1533,Macbeth,MACBETH,Tragedy,1606,William Shakespeare,front_matter,contents,ACT V,Scene VII,NA,NA,another
-1533,Macbeth,MACBETH,Tragedy,1606,William Shakespeare,front_matter,contents,ACT V,Scene VII,NA,NA,part
-1533,Macbeth,MACBETH,Tragedy,1606,William Shakespeare,front_matter,contents,ACT V,Scene VII,NA,NA,of
-1533,Macbeth,MACBETH,Tragedy,1606,William Shakespeare,front_matter,contents,ACT V,Scene VII,NA,NA,the
-1533,Macbeth,MACBETH,Tragedy,1606,William Shakespeare,front_matter,contents,ACT V,Scene VII,NA,NA,plain
-1533,Macbeth,MACBETH,Tragedy,1606,William Shakespeare,front_matter,contents,ACT V,Scene VIII,NA,NA,scene
-1533,Macbeth,MACBETH,Tragedy,1606,William Shakespeare,front_matter,contents,ACT V,Scene VIII,NA,NA,viii
-1533,Macbeth,MACBETH,Tragedy,1606,William Shakespeare,front_matter,contents,ACT V,Scene VIII,NA,NA,the
-1533,Macbeth,MACBETH,Tragedy,1606,William Shakespeare,front_matter,contents,ACT V,Scene VIII,NA,NA,same
-1533,Macbeth,MACBETH,Tragedy,1606,William Shakespeare,front_matter,contents,ACT V,Scene VIII,NA,NA,another
-1533,Macbeth,MACBETH,Tragedy,1606,William Shakespeare,front_matter,contents,ACT V,Scene VIII,NA,NA,part
-1533,Macbeth,MACBETH,Tragedy,1606,William Shakespeare,front_matter,contents,ACT V,Scene VIII,NA,NA,of
-1533,Macbeth,MACBETH,Tragedy,1606,William Shakespeare,front_matter,contents,ACT V,Scene VIII,NA,NA,the
-1533,Macbeth,MACBETH,Tragedy,1606,William Shakespeare,front_matter,contents,ACT V,Scene VIII,NA,NA,field
-1533,Macbeth,MACBETH,Tragedy,1606,William Shakespeare,front_matter,dramatis_header,NA,NA,NA,NA,dramatis
-1533,Macbeth,MACBETH,Tragedy,1606,William Shakespeare,front_matter,dramatis_header,NA,NA,NA,NA,personæ
-1533,Macbeth,MACBETH,Tragedy,1606,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,duncan
-1533,Macbeth,MACBETH,Tragedy,1606,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,king
-1533,Macbeth,MACBETH,Tragedy,1606,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,of
-1533,Macbeth,MACBETH,Tragedy,1606,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,scotland
-1533,Macbeth,MACBETH,Tragedy,1606,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,malcolm
-1533,Macbeth,MACBETH,Tragedy,1606,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,his
-1533,Macbeth,MACBETH,Tragedy,1606,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,son
-1533,Macbeth,MACBETH,Tragedy,1606,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,donalbain
-1533,Macbeth,MACBETH,Tragedy,1606,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,his
-1533,Macbeth,MACBETH,Tragedy,1606,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,son
-1533,Macbeth,MACBETH,Tragedy,1606,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,macbeth
-1533,Macbeth,MACBETH,Tragedy,1606,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,general
-1533,Macbeth,MACBETH,Tragedy,1606,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,in
-1533,Macbeth,MACBETH,Tragedy,1606,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,the
-1533,Macbeth,MACBETH,Tragedy,1606,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,king’s
-1533,Macbeth,MACBETH,Tragedy,1606,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,army
-1533,Macbeth,MACBETH,Tragedy,1606,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,banquo
-1533,Macbeth,MACBETH,Tragedy,1606,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,general
-1533,Macbeth,MACBETH,Tragedy,1606,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,in
-1533,Macbeth,MACBETH,Tragedy,1606,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,the
-1533,Macbeth,MACBETH,Tragedy,1606,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,king’s
-1533,Macbeth,MACBETH,Tragedy,1606,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,army
-1533,Macbeth,MACBETH,Tragedy,1606,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,macduff
-1533,Macbeth,MACBETH,Tragedy,1606,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,nobleman
-1533,Macbeth,MACBETH,Tragedy,1606,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,of
-1533,Macbeth,MACBETH,Tragedy,1606,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,scotland
-1533,Macbeth,MACBETH,Tragedy,1606,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,lennox
-1533,Macbeth,MACBETH,Tragedy,1606,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,nobleman
-1533,Macbeth,MACBETH,Tragedy,1606,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,of
-1533,Macbeth,MACBETH,Tragedy,1606,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,scotland
-1533,Macbeth,MACBETH,Tragedy,1606,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,ross
-1533,Macbeth,MACBETH,Tragedy,1606,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,nobleman
-1533,Macbeth,MACBETH,Tragedy,1606,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,of
-1533,Macbeth,MACBETH,Tragedy,1606,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,scotland
-1533,Macbeth,MACBETH,Tragedy,1606,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,menteith
-1533,Macbeth,MACBETH,Tragedy,1606,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,nobleman
-1533,Macbeth,MACBETH,Tragedy,1606,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,of
-1533,Macbeth,MACBETH,Tragedy,1606,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,scotland
-1533,Macbeth,MACBETH,Tragedy,1606,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,angus
-1533,Macbeth,MACBETH,Tragedy,1606,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,nobleman
-1533,Macbeth,MACBETH,Tragedy,1606,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,of
-1533,Macbeth,MACBETH,Tragedy,1606,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,scotland
-1533,Macbeth,MACBETH,Tragedy,1606,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,caithness
-1533,Macbeth,MACBETH,Tragedy,1606,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,nobleman
-1533,Macbeth,MACBETH,Tragedy,1606,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,of
-1533,Macbeth,MACBETH,Tragedy,1606,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,scotland
-1533,Macbeth,MACBETH,Tragedy,1606,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,fleance
-1533,Macbeth,MACBETH,Tragedy,1606,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,son
-1533,Macbeth,MACBETH,Tragedy,1606,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,to
-1533,Macbeth,MACBETH,Tragedy,1606,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,banquo
-1533,Macbeth,MACBETH,Tragedy,1606,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,siward
-1533,Macbeth,MACBETH,Tragedy,1606,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,earl
-1533,Macbeth,MACBETH,Tragedy,1606,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,of
-1533,Macbeth,MACBETH,Tragedy,1606,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,northumberland
-1533,Macbeth,MACBETH,Tragedy,1606,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,general
-1533,Macbeth,MACBETH,Tragedy,1606,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,of
-1533,Macbeth,MACBETH,Tragedy,1606,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,the
-1533,Macbeth,MACBETH,Tragedy,1606,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,english
-1533,Macbeth,MACBETH,Tragedy,1606,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,forces
-1533,Macbeth,MACBETH,Tragedy,1606,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,young
-1533,Macbeth,MACBETH,Tragedy,1606,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,siward
-1533,Macbeth,MACBETH,Tragedy,1606,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,his
-1533,Macbeth,MACBETH,Tragedy,1606,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,son
-1533,Macbeth,MACBETH,Tragedy,1606,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,seyton
-1533,Macbeth,MACBETH,Tragedy,1606,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,an
-1533,Macbeth,MACBETH,Tragedy,1606,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,officer
-1533,Macbeth,MACBETH,Tragedy,1606,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,attending
-1533,Macbeth,MACBETH,Tragedy,1606,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,on
-1533,Macbeth,MACBETH,Tragedy,1606,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,macbeth
-1533,Macbeth,MACBETH,Tragedy,1606,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,boy
-1533,Macbeth,MACBETH,Tragedy,1606,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,son
-1533,Macbeth,MACBETH,Tragedy,1606,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,to
-1533,Macbeth,MACBETH,Tragedy,1606,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,macduff
-1533,Macbeth,MACBETH,Tragedy,1606,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,an
-1533,Macbeth,MACBETH,Tragedy,1606,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,english
-1533,Macbeth,MACBETH,Tragedy,1606,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,doctor
-1533,Macbeth,MACBETH,Tragedy,1606,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,a
-1533,Macbeth,MACBETH,Tragedy,1606,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,scottish
-1533,Macbeth,MACBETH,Tragedy,1606,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,doctor
-1533,Macbeth,MACBETH,Tragedy,1606,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,a
-1533,Macbeth,MACBETH,Tragedy,1606,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,soldier
-1533,Macbeth,MACBETH,Tragedy,1606,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,a
-1533,Macbeth,MACBETH,Tragedy,1606,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,porter
-1533,Macbeth,MACBETH,Tragedy,1606,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,an
-1533,Macbeth,MACBETH,Tragedy,1606,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,old
-1533,Macbeth,MACBETH,Tragedy,1606,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,man
-1533,Macbeth,MACBETH,Tragedy,1606,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,lady
-1533,Macbeth,MACBETH,Tragedy,1606,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,macbeth
-1533,Macbeth,MACBETH,Tragedy,1606,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,lady
-1533,Macbeth,MACBETH,Tragedy,1606,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,macduff
-1533,Macbeth,MACBETH,Tragedy,1606,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,gentlewoman
-1533,Macbeth,MACBETH,Tragedy,1606,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,attending
-1533,Macbeth,MACBETH,Tragedy,1606,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,on
-1533,Macbeth,MACBETH,Tragedy,1606,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,lady
-1533,Macbeth,MACBETH,Tragedy,1606,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,macbeth
-1533,Macbeth,MACBETH,Tragedy,1606,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,hecate
-1533,Macbeth,MACBETH,Tragedy,1606,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,and
-1533,Macbeth,MACBETH,Tragedy,1606,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,three
-1533,Macbeth,MACBETH,Tragedy,1606,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,witches
-1533,Macbeth,MACBETH,Tragedy,1606,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,lords
-1533,Macbeth,MACBETH,Tragedy,1606,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,gentlemen
-1533,Macbeth,MACBETH,Tragedy,1606,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,officers
-1533,Macbeth,MACBETH,Tragedy,1606,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,soldiers
-1533,Macbeth,MACBETH,Tragedy,1606,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,murderers
-1533,Macbeth,MACBETH,Tragedy,1606,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,attendants
-1533,Macbeth,MACBETH,Tragedy,1606,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,and
-1533,Macbeth,MACBETH,Tragedy,1606,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,messengers
-1533,Macbeth,MACBETH,Tragedy,1606,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,the
-1533,Macbeth,MACBETH,Tragedy,1606,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,ghost
-1533,Macbeth,MACBETH,Tragedy,1606,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,of
-1533,Macbeth,MACBETH,Tragedy,1606,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,banquo
-1533,Macbeth,MACBETH,Tragedy,1606,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,and
-1533,Macbeth,MACBETH,Tragedy,1606,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,several
-1533,Macbeth,MACBETH,Tragedy,1606,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,other
-1533,Macbeth,MACBETH,Tragedy,1606,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,apparitions
-1533,Macbeth,MACBETH,Tragedy,1606,William Shakespeare,front_matter,scene_description,NA,NA,NA,NA,scene
-1533,Macbeth,MACBETH,Tragedy,1606,William Shakespeare,front_matter,scene_description,NA,NA,NA,NA,in
-1533,Macbeth,MACBETH,Tragedy,1606,William Shakespeare,front_matter,scene_description,NA,NA,NA,NA,the
-1533,Macbeth,MACBETH,Tragedy,1606,William Shakespeare,front_matter,scene_description,NA,NA,NA,NA,end
-1533,Macbeth,MACBETH,Tragedy,1606,William Shakespeare,front_matter,scene_description,NA,NA,NA,NA,of
-1533,Macbeth,MACBETH,Tragedy,1606,William Shakespeare,front_matter,scene_description,NA,NA,NA,NA,the
-1533,Macbeth,MACBETH,Tragedy,1606,William Shakespeare,front_matter,scene_description,NA,NA,NA,NA,fourth
-1533,Macbeth,MACBETH,Tragedy,1606,William Shakespeare,front_matter,scene_description,NA,NA,NA,NA,act
-1533,Macbeth,MACBETH,Tragedy,1606,William Shakespeare,front_matter,scene_description,NA,NA,NA,NA,in
-1533,Macbeth,MACBETH,Tragedy,1606,William Shakespeare,front_matter,scene_description,NA,NA,NA,NA,england
-1533,Macbeth,MACBETH,Tragedy,1606,William Shakespeare,front_matter,scene_description,NA,NA,NA,NA,through
-1533,Macbeth,MACBETH,Tragedy,1606,William Shakespeare,front_matter,scene_description,NA,NA,NA,NA,the
-1533,Macbeth,MACBETH,Tragedy,1606,William Shakespeare,front_matter,scene_description,NA,NA,NA,NA,rest
-1533,Macbeth,MACBETH,Tragedy,1606,William Shakespeare,front_matter,scene_description,NA,NA,NA,NA,of
-1533,Macbeth,MACBETH,Tragedy,1606,William Shakespeare,front_matter,scene_description,NA,NA,NA,NA,the
-1533,Macbeth,MACBETH,Tragedy,1606,William Shakespeare,front_matter,scene_description,NA,NA,NA,NA,play
-1533,Macbeth,MACBETH,Tragedy,1606,William Shakespeare,front_matter,scene_description,NA,NA,NA,NA,in
-1533,Macbeth,MACBETH,Tragedy,1606,William Shakespeare,front_matter,scene_description,NA,NA,NA,NA,scotland
-1533,Macbeth,MACBETH,Tragedy,1606,William Shakespeare,front_matter,scene_description,NA,NA,NA,NA,and
-1533,Macbeth,MACBETH,Tragedy,1606,William Shakespeare,front_matter,scene_description,NA,NA,NA,NA,chiefly
-1533,Macbeth,MACBETH,Tragedy,1606,William Shakespeare,front_matter,scene_description,NA,NA,NA,NA,at
-1533,Macbeth,MACBETH,Tragedy,1606,William Shakespeare,front_matter,scene_description,NA,NA,NA,NA,macbeth’s
-1533,Macbeth,MACBETH,Tragedy,1606,William Shakespeare,front_matter,scene_description,NA,NA,NA,NA,castle
-1533,Macbeth,MACBETH,Tragedy,1606,William Shakespeare,contents,reference,ACT I,NA,NA,NA,act
-1533,Macbeth,MACBETH,Tragedy,1606,William Shakespeare,contents,reference,ACT I,NA,NA,NA,i
-1533,Macbeth,MACBETH,Tragedy,1606,William Shakespeare,contents,reference,ACT I,SCENE I,NA,NA,scene
-1533,Macbeth,MACBETH,Tragedy,1606,William Shakespeare,contents,reference,ACT I,SCENE I,NA,NA,i
-1533,Macbeth,MACBETH,Tragedy,1606,William Shakespeare,contents,reference,ACT I,SCENE I,NA,NA,an
-1533,Macbeth,MACBETH,Tragedy,1606,William Shakespeare,contents,reference,ACT I,SCENE I,NA,NA,open
-1533,Macbeth,MACBETH,Tragedy,1606,William Shakespeare,contents,reference,ACT I,SCENE I,NA,NA,place
 1533,Macbeth,MACBETH,Tragedy,1606,William Shakespeare,contents,directions,ACT I,SCENE I,NA,NA,thunder
 1533,Macbeth,MACBETH,Tragedy,1606,William Shakespeare,contents,directions,ACT I,SCENE I,NA,NA,and
 1533,Macbeth,MACBETH,Tragedy,1606,William Shakespeare,contents,directions,ACT I,SCENE I,NA,NA,lightning
@@ -443,12 +67,6 @@ gutenberg_id,short_title,gutenberg_title,genre,year,author,section,class,act,sce
 1533,Macbeth,MACBETH,Tragedy,1606,William Shakespeare,contents,dialogue,ACT I,SCENE I,ALL,13,filthy
 1533,Macbeth,MACBETH,Tragedy,1606,William Shakespeare,contents,dialogue,ACT I,SCENE I,ALL,13,air
 1533,Macbeth,MACBETH,Tragedy,1606,William Shakespeare,contents,directions,ACT I,SCENE I,NA,NA,exeunt
-1533,Macbeth,MACBETH,Tragedy,1606,William Shakespeare,contents,reference,ACT I,SCENE II,NA,NA,scene
-1533,Macbeth,MACBETH,Tragedy,1606,William Shakespeare,contents,reference,ACT I,SCENE II,NA,NA,ii
-1533,Macbeth,MACBETH,Tragedy,1606,William Shakespeare,contents,reference,ACT I,SCENE II,NA,NA,a
-1533,Macbeth,MACBETH,Tragedy,1606,William Shakespeare,contents,reference,ACT I,SCENE II,NA,NA,camp
-1533,Macbeth,MACBETH,Tragedy,1606,William Shakespeare,contents,reference,ACT I,SCENE II,NA,NA,near
-1533,Macbeth,MACBETH,Tragedy,1606,William Shakespeare,contents,reference,ACT I,SCENE II,NA,NA,forres
 1533,Macbeth,MACBETH,Tragedy,1606,William Shakespeare,contents,directions,ACT I,SCENE II,NA,NA,alarum
 1533,Macbeth,MACBETH,Tragedy,1606,William Shakespeare,contents,directions,ACT I,SCENE II,NA,NA,within
 1533,Macbeth,MACBETH,Tragedy,1606,William Shakespeare,contents,directions,ACT I,SCENE II,NA,NA,enter
@@ -957,10 +575,6 @@ gutenberg_id,short_title,gutenberg_title,genre,year,author,section,class,act,sce
 1533,Macbeth,MACBETH,Tragedy,1606,William Shakespeare,contents,dialogue,ACT I,SCENE II,DUNCAN,90,hath
 1533,Macbeth,MACBETH,Tragedy,1606,William Shakespeare,contents,dialogue,ACT I,SCENE II,DUNCAN,90,won
 1533,Macbeth,MACBETH,Tragedy,1606,William Shakespeare,contents,directions,ACT I,SCENE II,NA,NA,exeunt
-1533,Macbeth,MACBETH,Tragedy,1606,William Shakespeare,contents,reference,ACT I,SCENE III,NA,NA,scene
-1533,Macbeth,MACBETH,Tragedy,1606,William Shakespeare,contents,reference,ACT I,SCENE III,NA,NA,iii
-1533,Macbeth,MACBETH,Tragedy,1606,William Shakespeare,contents,reference,ACT I,SCENE III,NA,NA,a
-1533,Macbeth,MACBETH,Tragedy,1606,William Shakespeare,contents,reference,ACT I,SCENE III,NA,NA,heath
 1533,Macbeth,MACBETH,Tragedy,1606,William Shakespeare,contents,directions,ACT I,SCENE III,NA,NA,thunder
 1533,Macbeth,MACBETH,Tragedy,1606,William Shakespeare,contents,directions,ACT I,SCENE III,NA,NA,enter
 1533,Macbeth,MACBETH,Tragedy,1606,William Shakespeare,contents,directions,ACT I,SCENE III,NA,NA,the
@@ -2133,14 +1747,6 @@ gutenberg_id,short_title,gutenberg_title,genre,year,author,section,class,act,sce
 1533,Macbeth,MACBETH,Tragedy,1606,William Shakespeare,contents,dialogue,ACT I,SCENE III,MACBETH,259,come
 1533,Macbeth,MACBETH,Tragedy,1606,William Shakespeare,contents,dialogue,ACT I,SCENE III,MACBETH,259,friends
 1533,Macbeth,MACBETH,Tragedy,1606,William Shakespeare,contents,directions,ACT I,SCENE III,NA,NA,exeunt
-1533,Macbeth,MACBETH,Tragedy,1606,William Shakespeare,contents,reference,ACT I,SCENE IV,NA,NA,scene
-1533,Macbeth,MACBETH,Tragedy,1606,William Shakespeare,contents,reference,ACT I,SCENE IV,NA,NA,iv
-1533,Macbeth,MACBETH,Tragedy,1606,William Shakespeare,contents,reference,ACT I,SCENE IV,NA,NA,forres
-1533,Macbeth,MACBETH,Tragedy,1606,William Shakespeare,contents,reference,ACT I,SCENE IV,NA,NA,a
-1533,Macbeth,MACBETH,Tragedy,1606,William Shakespeare,contents,reference,ACT I,SCENE IV,NA,NA,room
-1533,Macbeth,MACBETH,Tragedy,1606,William Shakespeare,contents,reference,ACT I,SCENE IV,NA,NA,in
-1533,Macbeth,MACBETH,Tragedy,1606,William Shakespeare,contents,reference,ACT I,SCENE IV,NA,NA,the
-1533,Macbeth,MACBETH,Tragedy,1606,William Shakespeare,contents,reference,ACT I,SCENE IV,NA,NA,palace
 1533,Macbeth,MACBETH,Tragedy,1606,William Shakespeare,contents,directions,ACT I,SCENE IV,NA,NA,flourish
 1533,Macbeth,MACBETH,Tragedy,1606,William Shakespeare,contents,directions,ACT I,SCENE IV,NA,NA,enter
 1533,Macbeth,MACBETH,Tragedy,1606,William Shakespeare,contents,directions,ACT I,SCENE IV,NA,NA,duncan
@@ -2626,14 +2232,6 @@ gutenberg_id,short_title,gutenberg_title,genre,year,author,section,class,act,sce
 1533,Macbeth,MACBETH,Tragedy,1606,William Shakespeare,contents,dialogue,ACT I,SCENE IV,DUNCAN,324,kinsman
 1533,Macbeth,MACBETH,Tragedy,1606,William Shakespeare,contents,directions,ACT I,SCENE IV,NA,NA,flourish
 1533,Macbeth,MACBETH,Tragedy,1606,William Shakespeare,contents,directions,ACT I,SCENE IV,NA,NA,exeunt
-1533,Macbeth,MACBETH,Tragedy,1606,William Shakespeare,contents,reference,ACT I,SCENE V,NA,NA,scene
-1533,Macbeth,MACBETH,Tragedy,1606,William Shakespeare,contents,reference,ACT I,SCENE V,NA,NA,v
-1533,Macbeth,MACBETH,Tragedy,1606,William Shakespeare,contents,reference,ACT I,SCENE V,NA,NA,inverness
-1533,Macbeth,MACBETH,Tragedy,1606,William Shakespeare,contents,reference,ACT I,SCENE V,NA,NA,a
-1533,Macbeth,MACBETH,Tragedy,1606,William Shakespeare,contents,reference,ACT I,SCENE V,NA,NA,room
-1533,Macbeth,MACBETH,Tragedy,1606,William Shakespeare,contents,reference,ACT I,SCENE V,NA,NA,in
-1533,Macbeth,MACBETH,Tragedy,1606,William Shakespeare,contents,reference,ACT I,SCENE V,NA,NA,macbeth’s
-1533,Macbeth,MACBETH,Tragedy,1606,William Shakespeare,contents,reference,ACT I,SCENE V,NA,NA,castle
 1533,Macbeth,MACBETH,Tragedy,1606,William Shakespeare,contents,directions,ACT I,SCENE V,NA,NA,enter
 1533,Macbeth,MACBETH,Tragedy,1606,William Shakespeare,contents,directions,ACT I,SCENE V,NA,NA,lady
 1533,Macbeth,MACBETH,Tragedy,1606,William Shakespeare,contents,directions,ACT I,SCENE V,NA,NA,macbeth
@@ -3251,13 +2849,6 @@ gutenberg_id,short_title,gutenberg_title,genre,year,author,section,class,act,sce
 1533,Macbeth,MACBETH,Tragedy,1606,William Shakespeare,contents,dialogue,ACT I,SCENE V,LADY MACBETH,402,to
 1533,Macbeth,MACBETH,Tragedy,1606,William Shakespeare,contents,dialogue,ACT I,SCENE V,LADY MACBETH,402,me
 1533,Macbeth,MACBETH,Tragedy,1606,William Shakespeare,contents,directions,ACT I,SCENE V,NA,NA,exeunt
-1533,Macbeth,MACBETH,Tragedy,1606,William Shakespeare,contents,reference,ACT I,SCENE VI,NA,NA,scene
-1533,Macbeth,MACBETH,Tragedy,1606,William Shakespeare,contents,reference,ACT I,SCENE VI,NA,NA,vi
-1533,Macbeth,MACBETH,Tragedy,1606,William Shakespeare,contents,reference,ACT I,SCENE VI,NA,NA,the
-1533,Macbeth,MACBETH,Tragedy,1606,William Shakespeare,contents,reference,ACT I,SCENE VI,NA,NA,same
-1533,Macbeth,MACBETH,Tragedy,1606,William Shakespeare,contents,reference,ACT I,SCENE VI,NA,NA,before
-1533,Macbeth,MACBETH,Tragedy,1606,William Shakespeare,contents,reference,ACT I,SCENE VI,NA,NA,the
-1533,Macbeth,MACBETH,Tragedy,1606,William Shakespeare,contents,reference,ACT I,SCENE VI,NA,NA,castle
 1533,Macbeth,MACBETH,Tragedy,1606,William Shakespeare,contents,directions,ACT I,SCENE VI,NA,NA,hautboys
 1533,Macbeth,MACBETH,Tragedy,1606,William Shakespeare,contents,directions,ACT I,SCENE VI,NA,NA,servants
 1533,Macbeth,MACBETH,Tragedy,1606,William Shakespeare,contents,directions,ACT I,SCENE VI,NA,NA,of
@@ -3532,15 +3123,6 @@ gutenberg_id,short_title,gutenberg_title,genre,year,author,section,class,act,sce
 1533,Macbeth,MACBETH,Tragedy,1606,William Shakespeare,contents,dialogue,ACT I,SCENE VI,DUNCAN,439,leave
 1533,Macbeth,MACBETH,Tragedy,1606,William Shakespeare,contents,dialogue,ACT I,SCENE VI,DUNCAN,439,hostess
 1533,Macbeth,MACBETH,Tragedy,1606,William Shakespeare,contents,directions,ACT I,SCENE VI,NA,NA,exeunt
-1533,Macbeth,MACBETH,Tragedy,1606,William Shakespeare,contents,reference,ACT I,SCENE VII,NA,NA,scene
-1533,Macbeth,MACBETH,Tragedy,1606,William Shakespeare,contents,reference,ACT I,SCENE VII,NA,NA,vii
-1533,Macbeth,MACBETH,Tragedy,1606,William Shakespeare,contents,reference,ACT I,SCENE VII,NA,NA,the
-1533,Macbeth,MACBETH,Tragedy,1606,William Shakespeare,contents,reference,ACT I,SCENE VII,NA,NA,same
-1533,Macbeth,MACBETH,Tragedy,1606,William Shakespeare,contents,reference,ACT I,SCENE VII,NA,NA,a
-1533,Macbeth,MACBETH,Tragedy,1606,William Shakespeare,contents,reference,ACT I,SCENE VII,NA,NA,lobby
-1533,Macbeth,MACBETH,Tragedy,1606,William Shakespeare,contents,reference,ACT I,SCENE VII,NA,NA,in
-1533,Macbeth,MACBETH,Tragedy,1606,William Shakespeare,contents,reference,ACT I,SCENE VII,NA,NA,the
-1533,Macbeth,MACBETH,Tragedy,1606,William Shakespeare,contents,reference,ACT I,SCENE VII,NA,NA,castle
 1533,Macbeth,MACBETH,Tragedy,1606,William Shakespeare,contents,directions,ACT I,SCENE VII,NA,NA,hautboys
 1533,Macbeth,MACBETH,Tragedy,1606,William Shakespeare,contents,directions,ACT I,SCENE VII,NA,NA,and
 1533,Macbeth,MACBETH,Tragedy,1606,William Shakespeare,contents,directions,ACT I,SCENE VII,NA,NA,torches
@@ -4257,15 +3839,6 @@ gutenberg_id,short_title,gutenberg_title,genre,year,author,section,class,act,sce
 1533,Macbeth,MACBETH,Tragedy,1606,William Shakespeare,contents,dialogue,ACT I,SCENE VII,MACBETH,531,doth
 1533,Macbeth,MACBETH,Tragedy,1606,William Shakespeare,contents,dialogue,ACT I,SCENE VII,MACBETH,531,know
 1533,Macbeth,MACBETH,Tragedy,1606,William Shakespeare,contents,directions,ACT I,SCENE VII,NA,NA,exeunt
-1533,Macbeth,MACBETH,Tragedy,1606,William Shakespeare,contents,reference,ACT II,SCENE VII,NA,NA,act
-1533,Macbeth,MACBETH,Tragedy,1606,William Shakespeare,contents,reference,ACT II,SCENE VII,NA,NA,ii
-1533,Macbeth,MACBETH,Tragedy,1606,William Shakespeare,contents,reference,ACT II,SCENE I,NA,NA,scene
-1533,Macbeth,MACBETH,Tragedy,1606,William Shakespeare,contents,reference,ACT II,SCENE I,NA,NA,i
-1533,Macbeth,MACBETH,Tragedy,1606,William Shakespeare,contents,reference,ACT II,SCENE I,NA,NA,inverness
-1533,Macbeth,MACBETH,Tragedy,1606,William Shakespeare,contents,reference,ACT II,SCENE I,NA,NA,court
-1533,Macbeth,MACBETH,Tragedy,1606,William Shakespeare,contents,reference,ACT II,SCENE I,NA,NA,within
-1533,Macbeth,MACBETH,Tragedy,1606,William Shakespeare,contents,reference,ACT II,SCENE I,NA,NA,the
-1533,Macbeth,MACBETH,Tragedy,1606,William Shakespeare,contents,reference,ACT II,SCENE I,NA,NA,castle
 1533,Macbeth,MACBETH,Tragedy,1606,William Shakespeare,contents,directions,ACT II,SCENE I,NA,NA,enter
 1533,Macbeth,MACBETH,Tragedy,1606,William Shakespeare,contents,directions,ACT II,SCENE I,NA,NA,banquo
 1533,Macbeth,MACBETH,Tragedy,1606,William Shakespeare,contents,directions,ACT II,SCENE I,NA,NA,and
@@ -4814,10 +4387,6 @@ gutenberg_id,short_title,gutenberg_title,genre,year,author,section,class,act,sce
 1533,Macbeth,MACBETH,Tragedy,1606,William Shakespeare,contents,dialogue,ACT II,SCENE I,MACBETH,602,to
 1533,Macbeth,MACBETH,Tragedy,1606,William Shakespeare,contents,dialogue,ACT II,SCENE I,MACBETH,602,hell
 1533,Macbeth,MACBETH,Tragedy,1606,William Shakespeare,contents,directions,ACT II,SCENE I,NA,NA,exit
-1533,Macbeth,MACBETH,Tragedy,1606,William Shakespeare,contents,reference,ACT II,SCENE II,NA,NA,scene
-1533,Macbeth,MACBETH,Tragedy,1606,William Shakespeare,contents,reference,ACT II,SCENE II,NA,NA,ii
-1533,Macbeth,MACBETH,Tragedy,1606,William Shakespeare,contents,reference,ACT II,SCENE II,NA,NA,the
-1533,Macbeth,MACBETH,Tragedy,1606,William Shakespeare,contents,reference,ACT II,SCENE II,NA,NA,same
 1533,Macbeth,MACBETH,Tragedy,1606,William Shakespeare,contents,directions,ACT II,SCENE II,NA,NA,enter
 1533,Macbeth,MACBETH,Tragedy,1606,William Shakespeare,contents,directions,ACT II,SCENE II,NA,NA,lady
 1533,Macbeth,MACBETH,Tragedy,1606,William Shakespeare,contents,directions,ACT II,SCENE II,NA,NA,macbeth
@@ -5456,10 +5025,6 @@ gutenberg_id,short_title,gutenberg_title,genre,year,author,section,class,act,sce
 1533,Macbeth,MACBETH,Tragedy,1606,William Shakespeare,contents,dialogue,ACT II,SCENE II,MACBETH,685,thou
 1533,Macbeth,MACBETH,Tragedy,1606,William Shakespeare,contents,dialogue,ACT II,SCENE II,MACBETH,685,couldst
 1533,Macbeth,MACBETH,Tragedy,1606,William Shakespeare,contents,directions,ACT II,SCENE II,NA,NA,exeunt
-1533,Macbeth,MACBETH,Tragedy,1606,William Shakespeare,contents,reference,ACT II,SCENE III,NA,NA,scene
-1533,Macbeth,MACBETH,Tragedy,1606,William Shakespeare,contents,reference,ACT II,SCENE III,NA,NA,iii
-1533,Macbeth,MACBETH,Tragedy,1606,William Shakespeare,contents,reference,ACT II,SCENE III,NA,NA,the
-1533,Macbeth,MACBETH,Tragedy,1606,William Shakespeare,contents,reference,ACT II,SCENE III,NA,NA,same
 1533,Macbeth,MACBETH,Tragedy,1606,William Shakespeare,contents,directions,ACT II,SCENE III,NA,NA,enter
 1533,Macbeth,MACBETH,Tragedy,1606,William Shakespeare,contents,directions,ACT II,SCENE III,NA,NA,a
 1533,Macbeth,MACBETH,Tragedy,1606,William Shakespeare,contents,directions,ACT II,SCENE III,NA,NA,porter
@@ -6674,13 +6239,6 @@ gutenberg_id,short_title,gutenberg_title,genre,year,author,section,class,act,sce
 1533,Macbeth,MACBETH,Tragedy,1606,William Shakespeare,contents,dialogue,ACT II,SCENE III,MALCOLM,843,mercy
 1533,Macbeth,MACBETH,Tragedy,1606,William Shakespeare,contents,dialogue,ACT II,SCENE III,MALCOLM,843,left
 1533,Macbeth,MACBETH,Tragedy,1606,William Shakespeare,contents,directions,ACT II,SCENE III,NA,NA,exeunt
-1533,Macbeth,MACBETH,Tragedy,1606,William Shakespeare,contents,reference,ACT II,SCENE IV,NA,NA,scene
-1533,Macbeth,MACBETH,Tragedy,1606,William Shakespeare,contents,reference,ACT II,SCENE IV,NA,NA,iv
-1533,Macbeth,MACBETH,Tragedy,1606,William Shakespeare,contents,reference,ACT II,SCENE IV,NA,NA,the
-1533,Macbeth,MACBETH,Tragedy,1606,William Shakespeare,contents,reference,ACT II,SCENE IV,NA,NA,same
-1533,Macbeth,MACBETH,Tragedy,1606,William Shakespeare,contents,reference,ACT II,SCENE IV,NA,NA,without
-1533,Macbeth,MACBETH,Tragedy,1606,William Shakespeare,contents,reference,ACT II,SCENE IV,NA,NA,the
-1533,Macbeth,MACBETH,Tragedy,1606,William Shakespeare,contents,reference,ACT II,SCENE IV,NA,NA,castle
 1533,Macbeth,MACBETH,Tragedy,1606,William Shakespeare,contents,directions,ACT II,SCENE IV,NA,NA,enter
 1533,Macbeth,MACBETH,Tragedy,1606,William Shakespeare,contents,directions,ACT II,SCENE IV,NA,NA,ross
 1533,Macbeth,MACBETH,Tragedy,1606,William Shakespeare,contents,directions,ACT II,SCENE IV,NA,NA,and
@@ -7014,16 +6572,6 @@ gutenberg_id,short_title,gutenberg_title,genre,year,author,section,class,act,sce
 1533,Macbeth,MACBETH,Tragedy,1606,William Shakespeare,contents,dialogue,ACT II,SCENE IV,OLD MAN,895,of
 1533,Macbeth,MACBETH,Tragedy,1606,William Shakespeare,contents,dialogue,ACT II,SCENE IV,OLD MAN,895,foes
 1533,Macbeth,MACBETH,Tragedy,1606,William Shakespeare,contents,directions,ACT II,SCENE IV,NA,NA,exeunt
-1533,Macbeth,MACBETH,Tragedy,1606,William Shakespeare,contents,reference,ACT III,SCENE IV,NA,NA,act
-1533,Macbeth,MACBETH,Tragedy,1606,William Shakespeare,contents,reference,ACT III,SCENE IV,NA,NA,iii
-1533,Macbeth,MACBETH,Tragedy,1606,William Shakespeare,contents,reference,ACT III,SCENE I,NA,NA,scene
-1533,Macbeth,MACBETH,Tragedy,1606,William Shakespeare,contents,reference,ACT III,SCENE I,NA,NA,i
-1533,Macbeth,MACBETH,Tragedy,1606,William Shakespeare,contents,reference,ACT III,SCENE I,NA,NA,forres
-1533,Macbeth,MACBETH,Tragedy,1606,William Shakespeare,contents,reference,ACT III,SCENE I,NA,NA,a
-1533,Macbeth,MACBETH,Tragedy,1606,William Shakespeare,contents,reference,ACT III,SCENE I,NA,NA,room
-1533,Macbeth,MACBETH,Tragedy,1606,William Shakespeare,contents,reference,ACT III,SCENE I,NA,NA,in
-1533,Macbeth,MACBETH,Tragedy,1606,William Shakespeare,contents,reference,ACT III,SCENE I,NA,NA,the
-1533,Macbeth,MACBETH,Tragedy,1606,William Shakespeare,contents,reference,ACT III,SCENE I,NA,NA,palace
 1533,Macbeth,MACBETH,Tragedy,1606,William Shakespeare,contents,directions,ACT III,SCENE I,NA,NA,enter
 1533,Macbeth,MACBETH,Tragedy,1606,William Shakespeare,contents,directions,ACT III,SCENE I,NA,NA,banquo
 1533,Macbeth,MACBETH,Tragedy,1606,William Shakespeare,contents,dialogue,ACT III,SCENE I,BANQUO,896,thou
@@ -8208,15 +7756,6 @@ gutenberg_id,short_title,gutenberg_title,genre,year,author,section,class,act,sce
 1533,Macbeth,MACBETH,Tragedy,1606,William Shakespeare,contents,dialogue,ACT III,SCENE I,MACBETH,1053,out
 1533,Macbeth,MACBETH,Tragedy,1606,William Shakespeare,contents,dialogue,ACT III,SCENE I,MACBETH,1053,tonight
 1533,Macbeth,MACBETH,Tragedy,1606,William Shakespeare,contents,directions,ACT III,SCENE I,NA,NA,exit
-1533,Macbeth,MACBETH,Tragedy,1606,William Shakespeare,contents,reference,ACT III,SCENE II,NA,NA,scene
-1533,Macbeth,MACBETH,Tragedy,1606,William Shakespeare,contents,reference,ACT III,SCENE II,NA,NA,ii
-1533,Macbeth,MACBETH,Tragedy,1606,William Shakespeare,contents,reference,ACT III,SCENE II,NA,NA,the
-1533,Macbeth,MACBETH,Tragedy,1606,William Shakespeare,contents,reference,ACT III,SCENE II,NA,NA,same
-1533,Macbeth,MACBETH,Tragedy,1606,William Shakespeare,contents,reference,ACT III,SCENE II,NA,NA,another
-1533,Macbeth,MACBETH,Tragedy,1606,William Shakespeare,contents,reference,ACT III,SCENE II,NA,NA,room
-1533,Macbeth,MACBETH,Tragedy,1606,William Shakespeare,contents,reference,ACT III,SCENE II,NA,NA,in
-1533,Macbeth,MACBETH,Tragedy,1606,William Shakespeare,contents,reference,ACT III,SCENE II,NA,NA,the
-1533,Macbeth,MACBETH,Tragedy,1606,William Shakespeare,contents,reference,ACT III,SCENE II,NA,NA,palace
 1533,Macbeth,MACBETH,Tragedy,1606,William Shakespeare,contents,directions,ACT III,SCENE II,NA,NA,enter
 1533,Macbeth,MACBETH,Tragedy,1606,William Shakespeare,contents,directions,ACT III,SCENE II,NA,NA,lady
 1533,Macbeth,MACBETH,Tragedy,1606,William Shakespeare,contents,directions,ACT III,SCENE II,NA,NA,macbeth
@@ -8670,21 +8209,6 @@ gutenberg_id,short_title,gutenberg_title,genre,year,author,section,class,act,sce
 1533,Macbeth,MACBETH,Tragedy,1606,William Shakespeare,contents,dialogue,ACT III,SCENE II,MACBETH,1115,with
 1533,Macbeth,MACBETH,Tragedy,1606,William Shakespeare,contents,dialogue,ACT III,SCENE II,MACBETH,1115,me
 1533,Macbeth,MACBETH,Tragedy,1606,William Shakespeare,contents,directions,ACT III,SCENE II,NA,NA,exeunt
-1533,Macbeth,MACBETH,Tragedy,1606,William Shakespeare,contents,reference,ACT III,SCENE III,NA,NA,scene
-1533,Macbeth,MACBETH,Tragedy,1606,William Shakespeare,contents,reference,ACT III,SCENE III,NA,NA,iii
-1533,Macbeth,MACBETH,Tragedy,1606,William Shakespeare,contents,reference,ACT III,SCENE III,NA,NA,the
-1533,Macbeth,MACBETH,Tragedy,1606,William Shakespeare,contents,reference,ACT III,SCENE III,NA,NA,same
-1533,Macbeth,MACBETH,Tragedy,1606,William Shakespeare,contents,reference,ACT III,SCENE III,NA,NA,a
-1533,Macbeth,MACBETH,Tragedy,1606,William Shakespeare,contents,reference,ACT III,SCENE III,NA,NA,park
-1533,Macbeth,MACBETH,Tragedy,1606,William Shakespeare,contents,reference,ACT III,SCENE III,NA,NA,or
-1533,Macbeth,MACBETH,Tragedy,1606,William Shakespeare,contents,reference,ACT III,SCENE III,NA,NA,lawn
-1533,Macbeth,MACBETH,Tragedy,1606,William Shakespeare,contents,reference,ACT III,SCENE III,NA,NA,with
-1533,Macbeth,MACBETH,Tragedy,1606,William Shakespeare,contents,reference,ACT III,SCENE III,NA,NA,a
-1533,Macbeth,MACBETH,Tragedy,1606,William Shakespeare,contents,reference,ACT III,SCENE III,NA,NA,gate
-1533,Macbeth,MACBETH,Tragedy,1606,William Shakespeare,contents,reference,ACT III,SCENE III,NA,NA,leading
-1533,Macbeth,MACBETH,Tragedy,1606,William Shakespeare,contents,reference,ACT III,SCENE III,NA,NA,to
-1533,Macbeth,MACBETH,Tragedy,1606,William Shakespeare,contents,reference,ACT III,SCENE III,NA,NA,the
-1533,Macbeth,MACBETH,Tragedy,1606,William Shakespeare,contents,reference,ACT III,SCENE III,NA,NA,palace
 1533,Macbeth,MACBETH,Tragedy,1606,William Shakespeare,contents,directions,ACT III,SCENE III,NA,NA,enter
 1533,Macbeth,MACBETH,Tragedy,1606,William Shakespeare,contents,directions,ACT III,SCENE III,NA,NA,three
 1533,Macbeth,MACBETH,Tragedy,1606,William Shakespeare,contents,directions,ACT III,SCENE III,NA,NA,murderers
@@ -8880,17 +8404,6 @@ gutenberg_id,short_title,gutenberg_title,genre,year,author,section,class,act,sce
 1533,Macbeth,MACBETH,Tragedy,1606,William Shakespeare,contents,dialogue,ACT III,SCENE III,FIRST MURDERER,1146,is
 1533,Macbeth,MACBETH,Tragedy,1606,William Shakespeare,contents,dialogue,ACT III,SCENE III,FIRST MURDERER,1146,done
 1533,Macbeth,MACBETH,Tragedy,1606,William Shakespeare,contents,directions,ACT III,SCENE III,NA,NA,exeunt
-1533,Macbeth,MACBETH,Tragedy,1606,William Shakespeare,contents,reference,ACT III,SCENE IV,NA,NA,scene
-1533,Macbeth,MACBETH,Tragedy,1606,William Shakespeare,contents,reference,ACT III,SCENE IV,NA,NA,iv
-1533,Macbeth,MACBETH,Tragedy,1606,William Shakespeare,contents,reference,ACT III,SCENE IV,NA,NA,the
-1533,Macbeth,MACBETH,Tragedy,1606,William Shakespeare,contents,reference,ACT III,SCENE IV,NA,NA,same
-1533,Macbeth,MACBETH,Tragedy,1606,William Shakespeare,contents,reference,ACT III,SCENE IV,NA,NA,a
-1533,Macbeth,MACBETH,Tragedy,1606,William Shakespeare,contents,reference,ACT III,SCENE IV,NA,NA,room
-1533,Macbeth,MACBETH,Tragedy,1606,William Shakespeare,contents,reference,ACT III,SCENE IV,NA,NA,of
-1533,Macbeth,MACBETH,Tragedy,1606,William Shakespeare,contents,reference,ACT III,SCENE IV,NA,NA,state
-1533,Macbeth,MACBETH,Tragedy,1606,William Shakespeare,contents,reference,ACT III,SCENE IV,NA,NA,in
-1533,Macbeth,MACBETH,Tragedy,1606,William Shakespeare,contents,reference,ACT III,SCENE IV,NA,NA,the
-1533,Macbeth,MACBETH,Tragedy,1606,William Shakespeare,contents,reference,ACT III,SCENE IV,NA,NA,palace
 1533,Macbeth,MACBETH,Tragedy,1606,William Shakespeare,contents,directions,ACT III,SCENE IV,NA,NA,a
 1533,Macbeth,MACBETH,Tragedy,1606,William Shakespeare,contents,directions,ACT III,SCENE IV,NA,NA,banquet
 1533,Macbeth,MACBETH,Tragedy,1606,William Shakespeare,contents,directions,ACT III,SCENE IV,NA,NA,prepared
@@ -10127,10 +9640,6 @@ gutenberg_id,short_title,gutenberg_title,genre,year,author,section,class,act,sce
 1533,Macbeth,MACBETH,Tragedy,1606,William Shakespeare,contents,dialogue,ACT III,SCENE IV,MACBETH,1316,in
 1533,Macbeth,MACBETH,Tragedy,1606,William Shakespeare,contents,dialogue,ACT III,SCENE IV,MACBETH,1316,deed
 1533,Macbeth,MACBETH,Tragedy,1606,William Shakespeare,contents,directions,ACT III,SCENE IV,NA,NA,exeunt
-1533,Macbeth,MACBETH,Tragedy,1606,William Shakespeare,contents,reference,ACT III,SCENE V,NA,NA,scene
-1533,Macbeth,MACBETH,Tragedy,1606,William Shakespeare,contents,reference,ACT III,SCENE V,NA,NA,v
-1533,Macbeth,MACBETH,Tragedy,1606,William Shakespeare,contents,reference,ACT III,SCENE V,NA,NA,the
-1533,Macbeth,MACBETH,Tragedy,1606,William Shakespeare,contents,reference,ACT III,SCENE V,NA,NA,heath
 1533,Macbeth,MACBETH,Tragedy,1606,William Shakespeare,contents,directions,ACT III,SCENE V,NA,NA,thunder
 1533,Macbeth,MACBETH,Tragedy,1606,William Shakespeare,contents,directions,ACT III,SCENE V,NA,NA,enter
 1533,Macbeth,MACBETH,Tragedy,1606,William Shakespeare,contents,directions,ACT III,SCENE V,NA,NA,the
@@ -10395,14 +9904,6 @@ gutenberg_id,short_title,gutenberg_title,genre,year,author,section,class,act,sce
 1533,Macbeth,MACBETH,Tragedy,1606,William Shakespeare,contents,dialogue,ACT III,SCENE V,FIRST WITCH,1352,back
 1533,Macbeth,MACBETH,Tragedy,1606,William Shakespeare,contents,dialogue,ACT III,SCENE V,FIRST WITCH,1352,again
 1533,Macbeth,MACBETH,Tragedy,1606,William Shakespeare,contents,directions,ACT III,SCENE V,NA,NA,exeunt
-1533,Macbeth,MACBETH,Tragedy,1606,William Shakespeare,contents,reference,ACT III,SCENE VI,NA,NA,scene
-1533,Macbeth,MACBETH,Tragedy,1606,William Shakespeare,contents,reference,ACT III,SCENE VI,NA,NA,vi
-1533,Macbeth,MACBETH,Tragedy,1606,William Shakespeare,contents,reference,ACT III,SCENE VI,NA,NA,forres
-1533,Macbeth,MACBETH,Tragedy,1606,William Shakespeare,contents,reference,ACT III,SCENE VI,NA,NA,a
-1533,Macbeth,MACBETH,Tragedy,1606,William Shakespeare,contents,reference,ACT III,SCENE VI,NA,NA,room
-1533,Macbeth,MACBETH,Tragedy,1606,William Shakespeare,contents,reference,ACT III,SCENE VI,NA,NA,in
-1533,Macbeth,MACBETH,Tragedy,1606,William Shakespeare,contents,reference,ACT III,SCENE VI,NA,NA,the
-1533,Macbeth,MACBETH,Tragedy,1606,William Shakespeare,contents,reference,ACT III,SCENE VI,NA,NA,palace
 1533,Macbeth,MACBETH,Tragedy,1606,William Shakespeare,contents,directions,ACT III,SCENE VI,NA,NA,enter
 1533,Macbeth,MACBETH,Tragedy,1606,William Shakespeare,contents,directions,ACT III,SCENE VI,NA,NA,lennox
 1533,Macbeth,MACBETH,Tragedy,1606,William Shakespeare,contents,directions,ACT III,SCENE VI,NA,NA,and
@@ -10816,19 +10317,6 @@ gutenberg_id,short_title,gutenberg_title,genre,year,author,section,class,act,sce
 1533,Macbeth,MACBETH,Tragedy,1606,William Shakespeare,contents,dialogue,ACT III,SCENE VI,LORD,1405,with
 1533,Macbeth,MACBETH,Tragedy,1606,William Shakespeare,contents,dialogue,ACT III,SCENE VI,LORD,1405,him
 1533,Macbeth,MACBETH,Tragedy,1606,William Shakespeare,contents,directions,ACT III,SCENE VI,NA,NA,exeunt
-1533,Macbeth,MACBETH,Tragedy,1606,William Shakespeare,contents,reference,ACT IV,SCENE VI,NA,NA,act
-1533,Macbeth,MACBETH,Tragedy,1606,William Shakespeare,contents,reference,ACT IV,SCENE VI,NA,NA,iv
-1533,Macbeth,MACBETH,Tragedy,1606,William Shakespeare,contents,reference,ACT IV,SCENE I,NA,NA,scene
-1533,Macbeth,MACBETH,Tragedy,1606,William Shakespeare,contents,reference,ACT IV,SCENE I,NA,NA,i
-1533,Macbeth,MACBETH,Tragedy,1606,William Shakespeare,contents,reference,ACT IV,SCENE I,NA,NA,a
-1533,Macbeth,MACBETH,Tragedy,1606,William Shakespeare,contents,reference,ACT IV,SCENE I,NA,NA,dark
-1533,Macbeth,MACBETH,Tragedy,1606,William Shakespeare,contents,reference,ACT IV,SCENE I,NA,NA,cave
-1533,Macbeth,MACBETH,Tragedy,1606,William Shakespeare,contents,reference,ACT IV,SCENE I,NA,NA,in
-1533,Macbeth,MACBETH,Tragedy,1606,William Shakespeare,contents,reference,ACT IV,SCENE I,NA,NA,the
-1533,Macbeth,MACBETH,Tragedy,1606,William Shakespeare,contents,reference,ACT IV,SCENE I,NA,NA,middle
-1533,Macbeth,MACBETH,Tragedy,1606,William Shakespeare,contents,reference,ACT IV,SCENE I,NA,NA,a
-1533,Macbeth,MACBETH,Tragedy,1606,William Shakespeare,contents,reference,ACT IV,SCENE I,NA,NA,cauldron
-1533,Macbeth,MACBETH,Tragedy,1606,William Shakespeare,contents,reference,ACT IV,SCENE I,NA,NA,boiling
 1533,Macbeth,MACBETH,Tragedy,1606,William Shakespeare,contents,directions,ACT IV,SCENE I,NA,NA,thunder
 1533,Macbeth,MACBETH,Tragedy,1606,William Shakespeare,contents,directions,ACT IV,SCENE I,NA,NA,enter
 1533,Macbeth,MACBETH,Tragedy,1606,William Shakespeare,contents,directions,ACT IV,SCENE I,NA,NA,the
@@ -11999,14 +11487,6 @@ gutenberg_id,short_title,gutenberg_title,genre,year,author,section,class,act,sce
 1533,Macbeth,MACBETH,Tragedy,1606,William Shakespeare,contents,dialogue,ACT IV,SCENE I,MACBETH,1576,they
 1533,Macbeth,MACBETH,Tragedy,1606,William Shakespeare,contents,dialogue,ACT IV,SCENE I,MACBETH,1576,are
 1533,Macbeth,MACBETH,Tragedy,1606,William Shakespeare,contents,directions,ACT IV,SCENE I,NA,NA,exeunt
-1533,Macbeth,MACBETH,Tragedy,1606,William Shakespeare,contents,reference,ACT IV,SCENE II,NA,NA,scene
-1533,Macbeth,MACBETH,Tragedy,1606,William Shakespeare,contents,reference,ACT IV,SCENE II,NA,NA,ii
-1533,Macbeth,MACBETH,Tragedy,1606,William Shakespeare,contents,reference,ACT IV,SCENE II,NA,NA,fife
-1533,Macbeth,MACBETH,Tragedy,1606,William Shakespeare,contents,reference,ACT IV,SCENE II,NA,NA,a
-1533,Macbeth,MACBETH,Tragedy,1606,William Shakespeare,contents,reference,ACT IV,SCENE II,NA,NA,room
-1533,Macbeth,MACBETH,Tragedy,1606,William Shakespeare,contents,reference,ACT IV,SCENE II,NA,NA,in
-1533,Macbeth,MACBETH,Tragedy,1606,William Shakespeare,contents,reference,ACT IV,SCENE II,NA,NA,macduff’s
-1533,Macbeth,MACBETH,Tragedy,1606,William Shakespeare,contents,reference,ACT IV,SCENE II,NA,NA,castle
 1533,Macbeth,MACBETH,Tragedy,1606,William Shakespeare,contents,directions,ACT IV,SCENE II,NA,NA,enter
 1533,Macbeth,MACBETH,Tragedy,1606,William Shakespeare,contents,directions,ACT IV,SCENE II,NA,NA,lady
 1533,Macbeth,MACBETH,Tragedy,1606,William Shakespeare,contents,directions,ACT IV,SCENE II,NA,NA,macduff
@@ -12706,13 +12186,6 @@ gutenberg_id,short_title,gutenberg_title,genre,year,author,section,class,act,sce
 1533,Macbeth,MACBETH,Tragedy,1606,William Shakespeare,contents,directions,ACT IV,SCENE II,NA,NA,by
 1533,Macbeth,MACBETH,Tragedy,1606,William Shakespeare,contents,directions,ACT IV,SCENE II,NA,NA,the
 1533,Macbeth,MACBETH,Tragedy,1606,William Shakespeare,contents,directions,ACT IV,SCENE II,NA,NA,murderers
-1533,Macbeth,MACBETH,Tragedy,1606,William Shakespeare,contents,reference,ACT IV,SCENE III,NA,NA,scene
-1533,Macbeth,MACBETH,Tragedy,1606,William Shakespeare,contents,reference,ACT IV,SCENE III,NA,NA,iii
-1533,Macbeth,MACBETH,Tragedy,1606,William Shakespeare,contents,reference,ACT IV,SCENE III,NA,NA,england
-1533,Macbeth,MACBETH,Tragedy,1606,William Shakespeare,contents,reference,ACT IV,SCENE III,NA,NA,before
-1533,Macbeth,MACBETH,Tragedy,1606,William Shakespeare,contents,reference,ACT IV,SCENE III,NA,NA,the
-1533,Macbeth,MACBETH,Tragedy,1606,William Shakespeare,contents,reference,ACT IV,SCENE III,NA,NA,king’s
-1533,Macbeth,MACBETH,Tragedy,1606,William Shakespeare,contents,reference,ACT IV,SCENE III,NA,NA,palace
 1533,Macbeth,MACBETH,Tragedy,1606,William Shakespeare,contents,directions,ACT IV,SCENE III,NA,NA,enter
 1533,Macbeth,MACBETH,Tragedy,1606,William Shakespeare,contents,directions,ACT IV,SCENE III,NA,NA,malcolm
 1533,Macbeth,MACBETH,Tragedy,1606,William Shakespeare,contents,directions,ACT IV,SCENE III,NA,NA,and
@@ -14652,16 +14125,6 @@ gutenberg_id,short_title,gutenberg_title,genre,year,author,section,class,act,sce
 1533,Macbeth,MACBETH,Tragedy,1606,William Shakespeare,contents,dialogue,ACT IV,SCENE III,MALCOLM,1943,the
 1533,Macbeth,MACBETH,Tragedy,1606,William Shakespeare,contents,dialogue,ACT IV,SCENE III,MALCOLM,1943,day
 1533,Macbeth,MACBETH,Tragedy,1606,William Shakespeare,contents,directions,ACT IV,SCENE III,NA,NA,exeunt
-1533,Macbeth,MACBETH,Tragedy,1606,William Shakespeare,contents,reference,ACT V,SCENE III,NA,NA,act
-1533,Macbeth,MACBETH,Tragedy,1606,William Shakespeare,contents,reference,ACT V,SCENE III,NA,NA,v
-1533,Macbeth,MACBETH,Tragedy,1606,William Shakespeare,contents,reference,ACT V,SCENE I,NA,NA,scene
-1533,Macbeth,MACBETH,Tragedy,1606,William Shakespeare,contents,reference,ACT V,SCENE I,NA,NA,i
-1533,Macbeth,MACBETH,Tragedy,1606,William Shakespeare,contents,reference,ACT V,SCENE I,NA,NA,dunsinane
-1533,Macbeth,MACBETH,Tragedy,1606,William Shakespeare,contents,reference,ACT V,SCENE I,NA,NA,a
-1533,Macbeth,MACBETH,Tragedy,1606,William Shakespeare,contents,reference,ACT V,SCENE I,NA,NA,room
-1533,Macbeth,MACBETH,Tragedy,1606,William Shakespeare,contents,reference,ACT V,SCENE I,NA,NA,in
-1533,Macbeth,MACBETH,Tragedy,1606,William Shakespeare,contents,reference,ACT V,SCENE I,NA,NA,the
-1533,Macbeth,MACBETH,Tragedy,1606,William Shakespeare,contents,reference,ACT V,SCENE I,NA,NA,castle
 1533,Macbeth,MACBETH,Tragedy,1606,William Shakespeare,contents,directions,ACT V,SCENE I,NA,NA,enter
 1533,Macbeth,MACBETH,Tragedy,1606,William Shakespeare,contents,directions,ACT V,SCENE I,NA,NA,a
 1533,Macbeth,MACBETH,Tragedy,1606,William Shakespeare,contents,directions,ACT V,SCENE I,NA,NA,doctor
@@ -15266,12 +14729,6 @@ gutenberg_id,short_title,gutenberg_title,genre,year,author,section,class,act,sce
 1533,Macbeth,MACBETH,Tragedy,1606,William Shakespeare,contents,dialogue,ACT V,SCENE I,GENTLEWOMAN,2007,good
 1533,Macbeth,MACBETH,Tragedy,1606,William Shakespeare,contents,dialogue,ACT V,SCENE I,GENTLEWOMAN,2007,doctor
 1533,Macbeth,MACBETH,Tragedy,1606,William Shakespeare,contents,directions,ACT V,SCENE I,NA,NA,exeunt
-1533,Macbeth,MACBETH,Tragedy,1606,William Shakespeare,contents,reference,ACT V,SCENE II,NA,NA,scene
-1533,Macbeth,MACBETH,Tragedy,1606,William Shakespeare,contents,reference,ACT V,SCENE II,NA,NA,ii
-1533,Macbeth,MACBETH,Tragedy,1606,William Shakespeare,contents,reference,ACT V,SCENE II,NA,NA,the
-1533,Macbeth,MACBETH,Tragedy,1606,William Shakespeare,contents,reference,ACT V,SCENE II,NA,NA,country
-1533,Macbeth,MACBETH,Tragedy,1606,William Shakespeare,contents,reference,ACT V,SCENE II,NA,NA,near
-1533,Macbeth,MACBETH,Tragedy,1606,William Shakespeare,contents,reference,ACT V,SCENE II,NA,NA,dunsinane
 1533,Macbeth,MACBETH,Tragedy,1606,William Shakespeare,contents,directions,ACT V,SCENE II,NA,NA,enter
 1533,Macbeth,MACBETH,Tragedy,1606,William Shakespeare,contents,directions,ACT V,SCENE II,NA,NA,with
 1533,Macbeth,MACBETH,Tragedy,1606,William Shakespeare,contents,directions,ACT V,SCENE II,NA,NA,drum
@@ -15531,14 +14988,6 @@ gutenberg_id,short_title,gutenberg_title,genre,year,author,section,class,act,sce
 1533,Macbeth,MACBETH,Tragedy,1606,William Shakespeare,contents,dialogue,ACT V,SCENE II,LENNOX,2044,birnam
 1533,Macbeth,MACBETH,Tragedy,1606,William Shakespeare,contents,directions,ACT V,SCENE II,NA,NA,exeunt
 1533,Macbeth,MACBETH,Tragedy,1606,William Shakespeare,contents,directions,ACT V,SCENE II,NA,NA,marching
-1533,Macbeth,MACBETH,Tragedy,1606,William Shakespeare,contents,reference,ACT V,SCENE III,NA,NA,scene
-1533,Macbeth,MACBETH,Tragedy,1606,William Shakespeare,contents,reference,ACT V,SCENE III,NA,NA,iii
-1533,Macbeth,MACBETH,Tragedy,1606,William Shakespeare,contents,reference,ACT V,SCENE III,NA,NA,dunsinane
-1533,Macbeth,MACBETH,Tragedy,1606,William Shakespeare,contents,reference,ACT V,SCENE III,NA,NA,a
-1533,Macbeth,MACBETH,Tragedy,1606,William Shakespeare,contents,reference,ACT V,SCENE III,NA,NA,room
-1533,Macbeth,MACBETH,Tragedy,1606,William Shakespeare,contents,reference,ACT V,SCENE III,NA,NA,in
-1533,Macbeth,MACBETH,Tragedy,1606,William Shakespeare,contents,reference,ACT V,SCENE III,NA,NA,the
-1533,Macbeth,MACBETH,Tragedy,1606,William Shakespeare,contents,reference,ACT V,SCENE III,NA,NA,castle
 1533,Macbeth,MACBETH,Tragedy,1606,William Shakespeare,contents,directions,ACT V,SCENE III,NA,NA,enter
 1533,Macbeth,MACBETH,Tragedy,1606,William Shakespeare,contents,directions,ACT V,SCENE III,NA,NA,macbeth
 1533,Macbeth,MACBETH,Tragedy,1606,William Shakespeare,contents,directions,ACT V,SCENE III,NA,NA,doctor
@@ -16049,15 +15498,6 @@ gutenberg_id,short_title,gutenberg_title,genre,year,author,section,class,act,sce
 1533,Macbeth,MACBETH,Tragedy,1606,William Shakespeare,contents,dialogue,ACT V,SCENE III,DOCTOR,2115,me
 1533,Macbeth,MACBETH,Tragedy,1606,William Shakespeare,contents,dialogue,ACT V,SCENE III,DOCTOR,2115,here
 1533,Macbeth,MACBETH,Tragedy,1606,William Shakespeare,contents,directions,ACT V,SCENE III,NA,NA,exit
-1533,Macbeth,MACBETH,Tragedy,1606,William Shakespeare,contents,reference,ACT V,SCENE IV,NA,NA,scene
-1533,Macbeth,MACBETH,Tragedy,1606,William Shakespeare,contents,reference,ACT V,SCENE IV,NA,NA,iv
-1533,Macbeth,MACBETH,Tragedy,1606,William Shakespeare,contents,reference,ACT V,SCENE IV,NA,NA,country
-1533,Macbeth,MACBETH,Tragedy,1606,William Shakespeare,contents,reference,ACT V,SCENE IV,NA,NA,near
-1533,Macbeth,MACBETH,Tragedy,1606,William Shakespeare,contents,reference,ACT V,SCENE IV,NA,NA,dunsinane
-1533,Macbeth,MACBETH,Tragedy,1606,William Shakespeare,contents,reference,ACT V,SCENE IV,NA,NA,a
-1533,Macbeth,MACBETH,Tragedy,1606,William Shakespeare,contents,reference,ACT V,SCENE IV,NA,NA,wood
-1533,Macbeth,MACBETH,Tragedy,1606,William Shakespeare,contents,reference,ACT V,SCENE IV,NA,NA,in
-1533,Macbeth,MACBETH,Tragedy,1606,William Shakespeare,contents,reference,ACT V,SCENE IV,NA,NA,view
 1533,Macbeth,MACBETH,Tragedy,1606,William Shakespeare,contents,directions,ACT V,SCENE IV,NA,NA,enter
 1533,Macbeth,MACBETH,Tragedy,1606,William Shakespeare,contents,directions,ACT V,SCENE IV,NA,NA,with
 1533,Macbeth,MACBETH,Tragedy,1606,William Shakespeare,contents,directions,ACT V,SCENE IV,NA,NA,drum
@@ -16246,12 +15686,6 @@ gutenberg_id,short_title,gutenberg_title,genre,year,author,section,class,act,sce
 1533,Macbeth,MACBETH,Tragedy,1606,William Shakespeare,contents,dialogue,ACT V,SCENE IV,SIWARD,2142,war
 1533,Macbeth,MACBETH,Tragedy,1606,William Shakespeare,contents,directions,ACT V,SCENE IV,NA,NA,exeunt
 1533,Macbeth,MACBETH,Tragedy,1606,William Shakespeare,contents,directions,ACT V,SCENE IV,NA,NA,marching
-1533,Macbeth,MACBETH,Tragedy,1606,William Shakespeare,contents,reference,ACT V,SCENE V,NA,NA,scene
-1533,Macbeth,MACBETH,Tragedy,1606,William Shakespeare,contents,reference,ACT V,SCENE V,NA,NA,v
-1533,Macbeth,MACBETH,Tragedy,1606,William Shakespeare,contents,reference,ACT V,SCENE V,NA,NA,dunsinane
-1533,Macbeth,MACBETH,Tragedy,1606,William Shakespeare,contents,reference,ACT V,SCENE V,NA,NA,within
-1533,Macbeth,MACBETH,Tragedy,1606,William Shakespeare,contents,reference,ACT V,SCENE V,NA,NA,the
-1533,Macbeth,MACBETH,Tragedy,1606,William Shakespeare,contents,reference,ACT V,SCENE V,NA,NA,castle
 1533,Macbeth,MACBETH,Tragedy,1606,William Shakespeare,contents,directions,ACT V,SCENE V,NA,NA,enter
 1533,Macbeth,MACBETH,Tragedy,1606,William Shakespeare,contents,directions,ACT V,SCENE V,NA,NA,with
 1533,Macbeth,MACBETH,Tragedy,1606,William Shakespeare,contents,directions,ACT V,SCENE V,NA,NA,drum
@@ -16695,15 +16129,6 @@ gutenberg_id,short_title,gutenberg_title,genre,year,author,section,class,act,sce
 1533,Macbeth,MACBETH,Tragedy,1606,William Shakespeare,contents,dialogue,ACT V,SCENE V,MACBETH,2199,our
 1533,Macbeth,MACBETH,Tragedy,1606,William Shakespeare,contents,dialogue,ACT V,SCENE V,MACBETH,2199,back
 1533,Macbeth,MACBETH,Tragedy,1606,William Shakespeare,contents,directions,ACT V,SCENE V,NA,NA,exeunt
-1533,Macbeth,MACBETH,Tragedy,1606,William Shakespeare,contents,reference,ACT V,SCENE VI,NA,NA,scene
-1533,Macbeth,MACBETH,Tragedy,1606,William Shakespeare,contents,reference,ACT V,SCENE VI,NA,NA,vi
-1533,Macbeth,MACBETH,Tragedy,1606,William Shakespeare,contents,reference,ACT V,SCENE VI,NA,NA,the
-1533,Macbeth,MACBETH,Tragedy,1606,William Shakespeare,contents,reference,ACT V,SCENE VI,NA,NA,same
-1533,Macbeth,MACBETH,Tragedy,1606,William Shakespeare,contents,reference,ACT V,SCENE VI,NA,NA,a
-1533,Macbeth,MACBETH,Tragedy,1606,William Shakespeare,contents,reference,ACT V,SCENE VI,NA,NA,plain
-1533,Macbeth,MACBETH,Tragedy,1606,William Shakespeare,contents,reference,ACT V,SCENE VI,NA,NA,before
-1533,Macbeth,MACBETH,Tragedy,1606,William Shakespeare,contents,reference,ACT V,SCENE VI,NA,NA,the
-1533,Macbeth,MACBETH,Tragedy,1606,William Shakespeare,contents,reference,ACT V,SCENE VI,NA,NA,castle
 1533,Macbeth,MACBETH,Tragedy,1606,William Shakespeare,contents,directions,ACT V,SCENE VI,NA,NA,enter
 1533,Macbeth,MACBETH,Tragedy,1606,William Shakespeare,contents,directions,ACT V,SCENE VI,NA,NA,with
 1533,Macbeth,MACBETH,Tragedy,1606,William Shakespeare,contents,directions,ACT V,SCENE VI,NA,NA,drum
@@ -16799,15 +16224,6 @@ gutenberg_id,short_title,gutenberg_title,genre,year,author,section,class,act,sce
 1533,Macbeth,MACBETH,Tragedy,1606,William Shakespeare,contents,dialogue,ACT V,SCENE VI,MACDUFF,2210,and
 1533,Macbeth,MACBETH,Tragedy,1606,William Shakespeare,contents,dialogue,ACT V,SCENE VI,MACDUFF,2210,death
 1533,Macbeth,MACBETH,Tragedy,1606,William Shakespeare,contents,directions,ACT V,SCENE VI,NA,NA,exeunt
-1533,Macbeth,MACBETH,Tragedy,1606,William Shakespeare,contents,reference,ACT V,SCENE VII,NA,NA,scene
-1533,Macbeth,MACBETH,Tragedy,1606,William Shakespeare,contents,reference,ACT V,SCENE VII,NA,NA,vii
-1533,Macbeth,MACBETH,Tragedy,1606,William Shakespeare,contents,reference,ACT V,SCENE VII,NA,NA,the
-1533,Macbeth,MACBETH,Tragedy,1606,William Shakespeare,contents,reference,ACT V,SCENE VII,NA,NA,same
-1533,Macbeth,MACBETH,Tragedy,1606,William Shakespeare,contents,reference,ACT V,SCENE VII,NA,NA,another
-1533,Macbeth,MACBETH,Tragedy,1606,William Shakespeare,contents,reference,ACT V,SCENE VII,NA,NA,part
-1533,Macbeth,MACBETH,Tragedy,1606,William Shakespeare,contents,reference,ACT V,SCENE VII,NA,NA,of
-1533,Macbeth,MACBETH,Tragedy,1606,William Shakespeare,contents,reference,ACT V,SCENE VII,NA,NA,the
-1533,Macbeth,MACBETH,Tragedy,1606,William Shakespeare,contents,reference,ACT V,SCENE VII,NA,NA,plain
 1533,Macbeth,MACBETH,Tragedy,1606,William Shakespeare,contents,directions,ACT V,SCENE VII,NA,NA,alarums
 1533,Macbeth,MACBETH,Tragedy,1606,William Shakespeare,contents,directions,ACT V,SCENE VII,NA,NA,enter
 1533,Macbeth,MACBETH,Tragedy,1606,William Shakespeare,contents,directions,ACT V,SCENE VII,NA,NA,macbeth
@@ -17076,15 +16492,6 @@ gutenberg_id,short_title,gutenberg_title,genre,year,author,section,class,act,sce
 1533,Macbeth,MACBETH,Tragedy,1606,William Shakespeare,contents,directions,ACT V,SCENE VII,NA,NA,castle
 1533,Macbeth,MACBETH,Tragedy,1606,William Shakespeare,contents,directions,ACT V,SCENE VII,NA,NA,exeunt
 1533,Macbeth,MACBETH,Tragedy,1606,William Shakespeare,contents,directions,ACT V,SCENE VII,NA,NA,alarums
-1533,Macbeth,MACBETH,Tragedy,1606,William Shakespeare,contents,reference,ACT V,SCENE VIII,NA,NA,scene
-1533,Macbeth,MACBETH,Tragedy,1606,William Shakespeare,contents,reference,ACT V,SCENE VIII,NA,NA,viii
-1533,Macbeth,MACBETH,Tragedy,1606,William Shakespeare,contents,reference,ACT V,SCENE VIII,NA,NA,the
-1533,Macbeth,MACBETH,Tragedy,1606,William Shakespeare,contents,reference,ACT V,SCENE VIII,NA,NA,same
-1533,Macbeth,MACBETH,Tragedy,1606,William Shakespeare,contents,reference,ACT V,SCENE VIII,NA,NA,another
-1533,Macbeth,MACBETH,Tragedy,1606,William Shakespeare,contents,reference,ACT V,SCENE VIII,NA,NA,part
-1533,Macbeth,MACBETH,Tragedy,1606,William Shakespeare,contents,reference,ACT V,SCENE VIII,NA,NA,of
-1533,Macbeth,MACBETH,Tragedy,1606,William Shakespeare,contents,reference,ACT V,SCENE VIII,NA,NA,the
-1533,Macbeth,MACBETH,Tragedy,1606,William Shakespeare,contents,reference,ACT V,SCENE VIII,NA,NA,field
 1533,Macbeth,MACBETH,Tragedy,1606,William Shakespeare,contents,directions,ACT V,SCENE VIII,NA,NA,enter
 1533,Macbeth,MACBETH,Tragedy,1606,William Shakespeare,contents,directions,ACT V,SCENE VIII,NA,NA,macbeth
 1533,Macbeth,MACBETH,Tragedy,1606,William Shakespeare,contents,dialogue,ACT V,SCENE VIII,MACBETH,2246,why

@@ -1,195 +1,4 @@
 gutenberg_id,short_title,gutenberg_title,genre,year,author,section,class,act,scene,character,line_number,word
-1510,Love's Labour's Lost,LOVE’S LABOUR’S LOST,Comedy,1595,William Shakespeare,front_matter,title,NA,NA,NA,NA,love’s
-1510,Love's Labour's Lost,LOVE’S LABOUR’S LOST,Comedy,1595,William Shakespeare,front_matter,title,NA,NA,NA,NA,labour’s
-1510,Love's Labour's Lost,LOVE’S LABOUR’S LOST,Comedy,1595,William Shakespeare,front_matter,title,NA,NA,NA,NA,lost
-1510,Love's Labour's Lost,LOVE’S LABOUR’S LOST,Comedy,1595,William Shakespeare,front_matter,author,NA,NA,NA,NA,by
-1510,Love's Labour's Lost,LOVE’S LABOUR’S LOST,Comedy,1595,William Shakespeare,front_matter,author,NA,NA,NA,NA,william
-1510,Love's Labour's Lost,LOVE’S LABOUR’S LOST,Comedy,1595,William Shakespeare,front_matter,author,NA,NA,NA,NA,shakespeare
-1510,Love's Labour's Lost,LOVE’S LABOUR’S LOST,Comedy,1595,William Shakespeare,front_matter,contents_header,NA,NA,NA,NA,contents
-1510,Love's Labour's Lost,LOVE’S LABOUR’S LOST,Comedy,1595,William Shakespeare,front_matter,contents,ACT I,NA,NA,NA,act
-1510,Love's Labour's Lost,LOVE’S LABOUR’S LOST,Comedy,1595,William Shakespeare,front_matter,contents,ACT I,NA,NA,NA,i
-1510,Love's Labour's Lost,LOVE’S LABOUR’S LOST,Comedy,1595,William Shakespeare,front_matter,contents,ACT I,Scene I,NA,NA,scene
-1510,Love's Labour's Lost,LOVE’S LABOUR’S LOST,Comedy,1595,William Shakespeare,front_matter,contents,ACT I,Scene I,NA,NA,i
-1510,Love's Labour's Lost,LOVE’S LABOUR’S LOST,Comedy,1595,William Shakespeare,front_matter,contents,ACT I,Scene I,NA,NA,the
-1510,Love's Labour's Lost,LOVE’S LABOUR’S LOST,Comedy,1595,William Shakespeare,front_matter,contents,ACT I,Scene I,NA,NA,king
-1510,Love's Labour's Lost,LOVE’S LABOUR’S LOST,Comedy,1595,William Shakespeare,front_matter,contents,ACT I,Scene I,NA,NA,of
-1510,Love's Labour's Lost,LOVE’S LABOUR’S LOST,Comedy,1595,William Shakespeare,front_matter,contents,ACT I,Scene I,NA,NA,navarre’s
-1510,Love's Labour's Lost,LOVE’S LABOUR’S LOST,Comedy,1595,William Shakespeare,front_matter,contents,ACT I,Scene I,NA,NA,park
-1510,Love's Labour's Lost,LOVE’S LABOUR’S LOST,Comedy,1595,William Shakespeare,front_matter,contents,ACT I,Scene II,NA,NA,scene
-1510,Love's Labour's Lost,LOVE’S LABOUR’S LOST,Comedy,1595,William Shakespeare,front_matter,contents,ACT I,Scene II,NA,NA,ii
-1510,Love's Labour's Lost,LOVE’S LABOUR’S LOST,Comedy,1595,William Shakespeare,front_matter,contents,ACT I,Scene II,NA,NA,the
-1510,Love's Labour's Lost,LOVE’S LABOUR’S LOST,Comedy,1595,William Shakespeare,front_matter,contents,ACT I,Scene II,NA,NA,park
-1510,Love's Labour's Lost,LOVE’S LABOUR’S LOST,Comedy,1595,William Shakespeare,front_matter,contents,ACT II,NA,NA,NA,act
-1510,Love's Labour's Lost,LOVE’S LABOUR’S LOST,Comedy,1595,William Shakespeare,front_matter,contents,ACT II,NA,NA,NA,ii
-1510,Love's Labour's Lost,LOVE’S LABOUR’S LOST,Comedy,1595,William Shakespeare,front_matter,contents,ACT II,Scene I,NA,NA,scene
-1510,Love's Labour's Lost,LOVE’S LABOUR’S LOST,Comedy,1595,William Shakespeare,front_matter,contents,ACT II,Scene I,NA,NA,i
-1510,Love's Labour's Lost,LOVE’S LABOUR’S LOST,Comedy,1595,William Shakespeare,front_matter,contents,ACT II,Scene I,NA,NA,the
-1510,Love's Labour's Lost,LOVE’S LABOUR’S LOST,Comedy,1595,William Shakespeare,front_matter,contents,ACT II,Scene I,NA,NA,king
-1510,Love's Labour's Lost,LOVE’S LABOUR’S LOST,Comedy,1595,William Shakespeare,front_matter,contents,ACT II,Scene I,NA,NA,of
-1510,Love's Labour's Lost,LOVE’S LABOUR’S LOST,Comedy,1595,William Shakespeare,front_matter,contents,ACT II,Scene I,NA,NA,navarre’s
-1510,Love's Labour's Lost,LOVE’S LABOUR’S LOST,Comedy,1595,William Shakespeare,front_matter,contents,ACT II,Scene I,NA,NA,park
-1510,Love's Labour's Lost,LOVE’S LABOUR’S LOST,Comedy,1595,William Shakespeare,front_matter,contents,ACT II,Scene I,NA,NA,a
-1510,Love's Labour's Lost,LOVE’S LABOUR’S LOST,Comedy,1595,William Shakespeare,front_matter,contents,ACT II,Scene I,NA,NA,pavilion
-1510,Love's Labour's Lost,LOVE’S LABOUR’S LOST,Comedy,1595,William Shakespeare,front_matter,contents,ACT II,Scene I,NA,NA,and
-1510,Love's Labour's Lost,LOVE’S LABOUR’S LOST,Comedy,1595,William Shakespeare,front_matter,contents,ACT II,Scene I,NA,NA,tents
-1510,Love's Labour's Lost,LOVE’S LABOUR’S LOST,Comedy,1595,William Shakespeare,front_matter,contents,ACT II,Scene I,NA,NA,at
-1510,Love's Labour's Lost,LOVE’S LABOUR’S LOST,Comedy,1595,William Shakespeare,front_matter,contents,ACT II,Scene I,NA,NA,a
-1510,Love's Labour's Lost,LOVE’S LABOUR’S LOST,Comedy,1595,William Shakespeare,front_matter,contents,ACT II,Scene I,NA,NA,distance
-1510,Love's Labour's Lost,LOVE’S LABOUR’S LOST,Comedy,1595,William Shakespeare,front_matter,contents,ACT III,NA,NA,NA,act
-1510,Love's Labour's Lost,LOVE’S LABOUR’S LOST,Comedy,1595,William Shakespeare,front_matter,contents,ACT III,NA,NA,NA,iii
-1510,Love's Labour's Lost,LOVE’S LABOUR’S LOST,Comedy,1595,William Shakespeare,front_matter,contents,ACT III,Scene I,NA,NA,scene
-1510,Love's Labour's Lost,LOVE’S LABOUR’S LOST,Comedy,1595,William Shakespeare,front_matter,contents,ACT III,Scene I,NA,NA,i
-1510,Love's Labour's Lost,LOVE’S LABOUR’S LOST,Comedy,1595,William Shakespeare,front_matter,contents,ACT III,Scene I,NA,NA,the
-1510,Love's Labour's Lost,LOVE’S LABOUR’S LOST,Comedy,1595,William Shakespeare,front_matter,contents,ACT III,Scene I,NA,NA,king
-1510,Love's Labour's Lost,LOVE’S LABOUR’S LOST,Comedy,1595,William Shakespeare,front_matter,contents,ACT III,Scene I,NA,NA,of
-1510,Love's Labour's Lost,LOVE’S LABOUR’S LOST,Comedy,1595,William Shakespeare,front_matter,contents,ACT III,Scene I,NA,NA,navarre’s
-1510,Love's Labour's Lost,LOVE’S LABOUR’S LOST,Comedy,1595,William Shakespeare,front_matter,contents,ACT III,Scene I,NA,NA,park
-1510,Love's Labour's Lost,LOVE’S LABOUR’S LOST,Comedy,1595,William Shakespeare,front_matter,contents,ACT IV,NA,NA,NA,act
-1510,Love's Labour's Lost,LOVE’S LABOUR’S LOST,Comedy,1595,William Shakespeare,front_matter,contents,ACT IV,NA,NA,NA,iv
-1510,Love's Labour's Lost,LOVE’S LABOUR’S LOST,Comedy,1595,William Shakespeare,front_matter,contents,ACT IV,Scene I,NA,NA,scene
-1510,Love's Labour's Lost,LOVE’S LABOUR’S LOST,Comedy,1595,William Shakespeare,front_matter,contents,ACT IV,Scene I,NA,NA,i
-1510,Love's Labour's Lost,LOVE’S LABOUR’S LOST,Comedy,1595,William Shakespeare,front_matter,contents,ACT IV,Scene I,NA,NA,the
-1510,Love's Labour's Lost,LOVE’S LABOUR’S LOST,Comedy,1595,William Shakespeare,front_matter,contents,ACT IV,Scene I,NA,NA,king
-1510,Love's Labour's Lost,LOVE’S LABOUR’S LOST,Comedy,1595,William Shakespeare,front_matter,contents,ACT IV,Scene I,NA,NA,of
-1510,Love's Labour's Lost,LOVE’S LABOUR’S LOST,Comedy,1595,William Shakespeare,front_matter,contents,ACT IV,Scene I,NA,NA,navarre’s
-1510,Love's Labour's Lost,LOVE’S LABOUR’S LOST,Comedy,1595,William Shakespeare,front_matter,contents,ACT IV,Scene I,NA,NA,park
-1510,Love's Labour's Lost,LOVE’S LABOUR’S LOST,Comedy,1595,William Shakespeare,front_matter,contents,ACT IV,Scene II,NA,NA,scene
-1510,Love's Labour's Lost,LOVE’S LABOUR’S LOST,Comedy,1595,William Shakespeare,front_matter,contents,ACT IV,Scene II,NA,NA,ii
-1510,Love's Labour's Lost,LOVE’S LABOUR’S LOST,Comedy,1595,William Shakespeare,front_matter,contents,ACT IV,Scene II,NA,NA,the
-1510,Love's Labour's Lost,LOVE’S LABOUR’S LOST,Comedy,1595,William Shakespeare,front_matter,contents,ACT IV,Scene II,NA,NA,same
-1510,Love's Labour's Lost,LOVE’S LABOUR’S LOST,Comedy,1595,William Shakespeare,front_matter,contents,ACT IV,Scene III,NA,NA,scene
-1510,Love's Labour's Lost,LOVE’S LABOUR’S LOST,Comedy,1595,William Shakespeare,front_matter,contents,ACT IV,Scene III,NA,NA,iii
-1510,Love's Labour's Lost,LOVE’S LABOUR’S LOST,Comedy,1595,William Shakespeare,front_matter,contents,ACT IV,Scene III,NA,NA,the
-1510,Love's Labour's Lost,LOVE’S LABOUR’S LOST,Comedy,1595,William Shakespeare,front_matter,contents,ACT IV,Scene III,NA,NA,same
-1510,Love's Labour's Lost,LOVE’S LABOUR’S LOST,Comedy,1595,William Shakespeare,front_matter,contents,ACT V,NA,NA,NA,act
-1510,Love's Labour's Lost,LOVE’S LABOUR’S LOST,Comedy,1595,William Shakespeare,front_matter,contents,ACT V,NA,NA,NA,v
-1510,Love's Labour's Lost,LOVE’S LABOUR’S LOST,Comedy,1595,William Shakespeare,front_matter,contents,ACT V,Scene I,NA,NA,scene
-1510,Love's Labour's Lost,LOVE’S LABOUR’S LOST,Comedy,1595,William Shakespeare,front_matter,contents,ACT V,Scene I,NA,NA,i
-1510,Love's Labour's Lost,LOVE’S LABOUR’S LOST,Comedy,1595,William Shakespeare,front_matter,contents,ACT V,Scene I,NA,NA,the
-1510,Love's Labour's Lost,LOVE’S LABOUR’S LOST,Comedy,1595,William Shakespeare,front_matter,contents,ACT V,Scene I,NA,NA,king
-1510,Love's Labour's Lost,LOVE’S LABOUR’S LOST,Comedy,1595,William Shakespeare,front_matter,contents,ACT V,Scene I,NA,NA,of
-1510,Love's Labour's Lost,LOVE’S LABOUR’S LOST,Comedy,1595,William Shakespeare,front_matter,contents,ACT V,Scene I,NA,NA,navarre’s
-1510,Love's Labour's Lost,LOVE’S LABOUR’S LOST,Comedy,1595,William Shakespeare,front_matter,contents,ACT V,Scene I,NA,NA,park
-1510,Love's Labour's Lost,LOVE’S LABOUR’S LOST,Comedy,1595,William Shakespeare,front_matter,contents,ACT V,Scene II,NA,NA,scene
-1510,Love's Labour's Lost,LOVE’S LABOUR’S LOST,Comedy,1595,William Shakespeare,front_matter,contents,ACT V,Scene II,NA,NA,ii
-1510,Love's Labour's Lost,LOVE’S LABOUR’S LOST,Comedy,1595,William Shakespeare,front_matter,contents,ACT V,Scene II,NA,NA,the
-1510,Love's Labour's Lost,LOVE’S LABOUR’S LOST,Comedy,1595,William Shakespeare,front_matter,contents,ACT V,Scene II,NA,NA,same
-1510,Love's Labour's Lost,LOVE’S LABOUR’S LOST,Comedy,1595,William Shakespeare,front_matter,contents,ACT V,Scene II,NA,NA,before
-1510,Love's Labour's Lost,LOVE’S LABOUR’S LOST,Comedy,1595,William Shakespeare,front_matter,contents,ACT V,Scene II,NA,NA,the
-1510,Love's Labour's Lost,LOVE’S LABOUR’S LOST,Comedy,1595,William Shakespeare,front_matter,contents,ACT V,Scene II,NA,NA,princess’s
-1510,Love's Labour's Lost,LOVE’S LABOUR’S LOST,Comedy,1595,William Shakespeare,front_matter,contents,ACT V,Scene II,NA,NA,pavilion
-1510,Love's Labour's Lost,LOVE’S LABOUR’S LOST,Comedy,1595,William Shakespeare,front_matter,dramatis_header,NA,NA,NA,NA,dramatis
-1510,Love's Labour's Lost,LOVE’S LABOUR’S LOST,Comedy,1595,William Shakespeare,front_matter,dramatis_header,NA,NA,NA,NA,personæ
-1510,Love's Labour's Lost,LOVE’S LABOUR’S LOST,Comedy,1595,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,king
-1510,Love's Labour's Lost,LOVE’S LABOUR’S LOST,Comedy,1595,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,of
-1510,Love's Labour's Lost,LOVE’S LABOUR’S LOST,Comedy,1595,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,navarre
-1510,Love's Labour's Lost,LOVE’S LABOUR’S LOST,Comedy,1595,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,also
-1510,Love's Labour's Lost,LOVE’S LABOUR’S LOST,Comedy,1595,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,known
-1510,Love's Labour's Lost,LOVE’S LABOUR’S LOST,Comedy,1595,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,as
-1510,Love's Labour's Lost,LOVE’S LABOUR’S LOST,Comedy,1595,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,ferdinand
-1510,Love's Labour's Lost,LOVE’S LABOUR’S LOST,Comedy,1595,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,berowne
-1510,Love's Labour's Lost,LOVE’S LABOUR’S LOST,Comedy,1595,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,lord
-1510,Love's Labour's Lost,LOVE’S LABOUR’S LOST,Comedy,1595,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,attending
-1510,Love's Labour's Lost,LOVE’S LABOUR’S LOST,Comedy,1595,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,on
-1510,Love's Labour's Lost,LOVE’S LABOUR’S LOST,Comedy,1595,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,the
-1510,Love's Labour's Lost,LOVE’S LABOUR’S LOST,Comedy,1595,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,king
-1510,Love's Labour's Lost,LOVE’S LABOUR’S LOST,Comedy,1595,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,longaville
-1510,Love's Labour's Lost,LOVE’S LABOUR’S LOST,Comedy,1595,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,lord
-1510,Love's Labour's Lost,LOVE’S LABOUR’S LOST,Comedy,1595,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,attending
-1510,Love's Labour's Lost,LOVE’S LABOUR’S LOST,Comedy,1595,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,on
-1510,Love's Labour's Lost,LOVE’S LABOUR’S LOST,Comedy,1595,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,the
-1510,Love's Labour's Lost,LOVE’S LABOUR’S LOST,Comedy,1595,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,king
-1510,Love's Labour's Lost,LOVE’S LABOUR’S LOST,Comedy,1595,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,dumaine
-1510,Love's Labour's Lost,LOVE’S LABOUR’S LOST,Comedy,1595,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,lord
-1510,Love's Labour's Lost,LOVE’S LABOUR’S LOST,Comedy,1595,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,attending
-1510,Love's Labour's Lost,LOVE’S LABOUR’S LOST,Comedy,1595,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,on
-1510,Love's Labour's Lost,LOVE’S LABOUR’S LOST,Comedy,1595,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,the
-1510,Love's Labour's Lost,LOVE’S LABOUR’S LOST,Comedy,1595,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,king
-1510,Love's Labour's Lost,LOVE’S LABOUR’S LOST,Comedy,1595,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,the
-1510,Love's Labour's Lost,LOVE’S LABOUR’S LOST,Comedy,1595,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,princess
-1510,Love's Labour's Lost,LOVE’S LABOUR’S LOST,Comedy,1595,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,of
-1510,Love's Labour's Lost,LOVE’S LABOUR’S LOST,Comedy,1595,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,france
-1510,Love's Labour's Lost,LOVE’S LABOUR’S LOST,Comedy,1595,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,rosaline
-1510,Love's Labour's Lost,LOVE’S LABOUR’S LOST,Comedy,1595,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,lady
-1510,Love's Labour's Lost,LOVE’S LABOUR’S LOST,Comedy,1595,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,attending
-1510,Love's Labour's Lost,LOVE’S LABOUR’S LOST,Comedy,1595,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,on
-1510,Love's Labour's Lost,LOVE’S LABOUR’S LOST,Comedy,1595,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,the
-1510,Love's Labour's Lost,LOVE’S LABOUR’S LOST,Comedy,1595,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,princess
-1510,Love's Labour's Lost,LOVE’S LABOUR’S LOST,Comedy,1595,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,maria
-1510,Love's Labour's Lost,LOVE’S LABOUR’S LOST,Comedy,1595,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,lady
-1510,Love's Labour's Lost,LOVE’S LABOUR’S LOST,Comedy,1595,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,attending
-1510,Love's Labour's Lost,LOVE’S LABOUR’S LOST,Comedy,1595,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,on
-1510,Love's Labour's Lost,LOVE’S LABOUR’S LOST,Comedy,1595,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,the
-1510,Love's Labour's Lost,LOVE’S LABOUR’S LOST,Comedy,1595,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,princess
-1510,Love's Labour's Lost,LOVE’S LABOUR’S LOST,Comedy,1595,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,katharine
-1510,Love's Labour's Lost,LOVE’S LABOUR’S LOST,Comedy,1595,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,lady
-1510,Love's Labour's Lost,LOVE’S LABOUR’S LOST,Comedy,1595,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,attending
-1510,Love's Labour's Lost,LOVE’S LABOUR’S LOST,Comedy,1595,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,on
-1510,Love's Labour's Lost,LOVE’S LABOUR’S LOST,Comedy,1595,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,the
-1510,Love's Labour's Lost,LOVE’S LABOUR’S LOST,Comedy,1595,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,princess
-1510,Love's Labour's Lost,LOVE’S LABOUR’S LOST,Comedy,1595,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,boyet
-1510,Love's Labour's Lost,LOVE’S LABOUR’S LOST,Comedy,1595,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,lord
-1510,Love's Labour's Lost,LOVE’S LABOUR’S LOST,Comedy,1595,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,attending
-1510,Love's Labour's Lost,LOVE’S LABOUR’S LOST,Comedy,1595,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,on
-1510,Love's Labour's Lost,LOVE’S LABOUR’S LOST,Comedy,1595,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,the
-1510,Love's Labour's Lost,LOVE’S LABOUR’S LOST,Comedy,1595,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,princess
-1510,Love's Labour's Lost,LOVE’S LABOUR’S LOST,Comedy,1595,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,don
-1510,Love's Labour's Lost,LOVE’S LABOUR’S LOST,Comedy,1595,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,adriano
-1510,Love's Labour's Lost,LOVE’S LABOUR’S LOST,Comedy,1595,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,de
-1510,Love's Labour's Lost,LOVE’S LABOUR’S LOST,Comedy,1595,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,armado
-1510,Love's Labour's Lost,LOVE’S LABOUR’S LOST,Comedy,1595,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,a
-1510,Love's Labour's Lost,LOVE’S LABOUR’S LOST,Comedy,1595,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,fantastical
-1510,Love's Labour's Lost,LOVE’S LABOUR’S LOST,Comedy,1595,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,spaniard
-1510,Love's Labour's Lost,LOVE’S LABOUR’S LOST,Comedy,1595,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,moth
-1510,Love's Labour's Lost,LOVE’S LABOUR’S LOST,Comedy,1595,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,page
-1510,Love's Labour's Lost,LOVE’S LABOUR’S LOST,Comedy,1595,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,to
-1510,Love's Labour's Lost,LOVE’S LABOUR’S LOST,Comedy,1595,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,armado
-1510,Love's Labour's Lost,LOVE’S LABOUR’S LOST,Comedy,1595,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,jaquenetta
-1510,Love's Labour's Lost,LOVE’S LABOUR’S LOST,Comedy,1595,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,a
-1510,Love's Labour's Lost,LOVE’S LABOUR’S LOST,Comedy,1595,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,country
-1510,Love's Labour's Lost,LOVE’S LABOUR’S LOST,Comedy,1595,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,wench
-1510,Love's Labour's Lost,LOVE’S LABOUR’S LOST,Comedy,1595,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,costard
-1510,Love's Labour's Lost,LOVE’S LABOUR’S LOST,Comedy,1595,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,a
-1510,Love's Labour's Lost,LOVE’S LABOUR’S LOST,Comedy,1595,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,clown
-1510,Love's Labour's Lost,LOVE’S LABOUR’S LOST,Comedy,1595,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,dull
-1510,Love's Labour's Lost,LOVE’S LABOUR’S LOST,Comedy,1595,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,a
-1510,Love's Labour's Lost,LOVE’S LABOUR’S LOST,Comedy,1595,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,constable
-1510,Love's Labour's Lost,LOVE’S LABOUR’S LOST,Comedy,1595,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,holofernes
-1510,Love's Labour's Lost,LOVE’S LABOUR’S LOST,Comedy,1595,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,a
-1510,Love's Labour's Lost,LOVE’S LABOUR’S LOST,Comedy,1595,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,schoolmaster
-1510,Love's Labour's Lost,LOVE’S LABOUR’S LOST,Comedy,1595,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,sir
-1510,Love's Labour's Lost,LOVE’S LABOUR’S LOST,Comedy,1595,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,nathaniel
-1510,Love's Labour's Lost,LOVE’S LABOUR’S LOST,Comedy,1595,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,a
-1510,Love's Labour's Lost,LOVE’S LABOUR’S LOST,Comedy,1595,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,curate
-1510,Love's Labour's Lost,LOVE’S LABOUR’S LOST,Comedy,1595,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,a
-1510,Love's Labour's Lost,LOVE’S LABOUR’S LOST,Comedy,1595,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,forester
-1510,Love's Labour's Lost,LOVE’S LABOUR’S LOST,Comedy,1595,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,marcadé
-1510,Love's Labour's Lost,LOVE’S LABOUR’S LOST,Comedy,1595,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,a
-1510,Love's Labour's Lost,LOVE’S LABOUR’S LOST,Comedy,1595,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,messenger
-1510,Love's Labour's Lost,LOVE’S LABOUR’S LOST,Comedy,1595,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,from
-1510,Love's Labour's Lost,LOVE’S LABOUR’S LOST,Comedy,1595,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,france
-1510,Love's Labour's Lost,LOVE’S LABOUR’S LOST,Comedy,1595,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,lords
-1510,Love's Labour's Lost,LOVE’S LABOUR’S LOST,Comedy,1595,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,blackamoors
-1510,Love's Labour's Lost,LOVE’S LABOUR’S LOST,Comedy,1595,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,officers
-1510,Love's Labour's Lost,LOVE’S LABOUR’S LOST,Comedy,1595,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,and
-1510,Love's Labour's Lost,LOVE’S LABOUR’S LOST,Comedy,1595,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,others
-1510,Love's Labour's Lost,LOVE’S LABOUR’S LOST,Comedy,1595,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,attendants
-1510,Love's Labour's Lost,LOVE’S LABOUR’S LOST,Comedy,1595,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,on
-1510,Love's Labour's Lost,LOVE’S LABOUR’S LOST,Comedy,1595,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,the
-1510,Love's Labour's Lost,LOVE’S LABOUR’S LOST,Comedy,1595,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,king
-1510,Love's Labour's Lost,LOVE’S LABOUR’S LOST,Comedy,1595,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,and
-1510,Love's Labour's Lost,LOVE’S LABOUR’S LOST,Comedy,1595,William Shakespeare,front_matter,dramatis_personae,NA,NA,NA,NA,princess
-1510,Love's Labour's Lost,LOVE’S LABOUR’S LOST,Comedy,1595,William Shakespeare,front_matter,scene_description,NA,NA,NA,NA,scene
-1510,Love's Labour's Lost,LOVE’S LABOUR’S LOST,Comedy,1595,William Shakespeare,front_matter,scene_description,NA,NA,NA,NA,navarre
-1510,Love's Labour's Lost,LOVE’S LABOUR’S LOST,Comedy,1595,William Shakespeare,contents,reference,ACT I,NA,NA,NA,act
-1510,Love's Labour's Lost,LOVE’S LABOUR’S LOST,Comedy,1595,William Shakespeare,contents,reference,ACT I,NA,NA,NA,i
-1510,Love's Labour's Lost,LOVE’S LABOUR’S LOST,Comedy,1595,William Shakespeare,contents,reference,ACT I,SCENE I,NA,NA,scene
-1510,Love's Labour's Lost,LOVE’S LABOUR’S LOST,Comedy,1595,William Shakespeare,contents,reference,ACT I,SCENE I,NA,NA,i
-1510,Love's Labour's Lost,LOVE’S LABOUR’S LOST,Comedy,1595,William Shakespeare,contents,reference,ACT I,SCENE I,NA,NA,the
-1510,Love's Labour's Lost,LOVE’S LABOUR’S LOST,Comedy,1595,William Shakespeare,contents,reference,ACT I,SCENE I,NA,NA,king
-1510,Love's Labour's Lost,LOVE’S LABOUR’S LOST,Comedy,1595,William Shakespeare,contents,reference,ACT I,SCENE I,NA,NA,of
-1510,Love's Labour's Lost,LOVE’S LABOUR’S LOST,Comedy,1595,William Shakespeare,contents,reference,ACT I,SCENE I,NA,NA,navarre’s
-1510,Love's Labour's Lost,LOVE’S LABOUR’S LOST,Comedy,1595,William Shakespeare,contents,reference,ACT I,SCENE I,NA,NA,park
 1510,Love's Labour's Lost,LOVE’S LABOUR’S LOST,Comedy,1595,William Shakespeare,contents,directions,ACT I,SCENE I,NA,NA,enter
 1510,Love's Labour's Lost,LOVE’S LABOUR’S LOST,Comedy,1595,William Shakespeare,contents,directions,ACT I,SCENE I,NA,NA,ferdinand
 1510,Love's Labour's Lost,LOVE’S LABOUR’S LOST,Comedy,1595,William Shakespeare,contents,directions,ACT I,SCENE I,NA,NA,king
@@ -2552,10 +2361,6 @@ gutenberg_id,short_title,gutenberg_title,genre,year,author,section,class,act,sce
 1510,Love's Labour's Lost,LOVE’S LABOUR’S LOST,Comedy,1595,William Shakespeare,contents,dialogue,ACT I,SCENE I,COSTARD,280,down
 1510,Love's Labour's Lost,LOVE’S LABOUR’S LOST,Comedy,1595,William Shakespeare,contents,dialogue,ACT I,SCENE I,COSTARD,280,sorrow
 1510,Love's Labour's Lost,LOVE’S LABOUR’S LOST,Comedy,1595,William Shakespeare,contents,directions,ACT I,SCENE I,NA,NA,exeunt
-1510,Love's Labour's Lost,LOVE’S LABOUR’S LOST,Comedy,1595,William Shakespeare,contents,reference,ACT I,SCENE II,NA,NA,scene
-1510,Love's Labour's Lost,LOVE’S LABOUR’S LOST,Comedy,1595,William Shakespeare,contents,reference,ACT I,SCENE II,NA,NA,ii
-1510,Love's Labour's Lost,LOVE’S LABOUR’S LOST,Comedy,1595,William Shakespeare,contents,reference,ACT I,SCENE II,NA,NA,the
-1510,Love's Labour's Lost,LOVE’S LABOUR’S LOST,Comedy,1595,William Shakespeare,contents,reference,ACT I,SCENE II,NA,NA,park
 1510,Love's Labour's Lost,LOVE’S LABOUR’S LOST,Comedy,1595,William Shakespeare,contents,directions,ACT I,SCENE II,NA,NA,enter
 1510,Love's Labour's Lost,LOVE’S LABOUR’S LOST,Comedy,1595,William Shakespeare,contents,directions,ACT I,SCENE II,NA,NA,armado
 1510,Love's Labour's Lost,LOVE’S LABOUR’S LOST,Comedy,1595,William Shakespeare,contents,directions,ACT I,SCENE II,NA,NA,and
@@ -3848,22 +3653,6 @@ gutenberg_id,short_title,gutenberg_title,genre,year,author,section,class,act,sce
 1510,Love's Labour's Lost,LOVE’S LABOUR’S LOST,Comedy,1595,William Shakespeare,contents,dialogue,ACT I,SCENE II,ARMADO,423,in
 1510,Love's Labour's Lost,LOVE’S LABOUR’S LOST,Comedy,1595,William Shakespeare,contents,dialogue,ACT I,SCENE II,ARMADO,423,folio
 1510,Love's Labour's Lost,LOVE’S LABOUR’S LOST,Comedy,1595,William Shakespeare,contents,directions,ACT I,SCENE II,NA,NA,exit
-1510,Love's Labour's Lost,LOVE’S LABOUR’S LOST,Comedy,1595,William Shakespeare,contents,reference,ACT II,SCENE II,NA,NA,act
-1510,Love's Labour's Lost,LOVE’S LABOUR’S LOST,Comedy,1595,William Shakespeare,contents,reference,ACT II,SCENE II,NA,NA,ii
-1510,Love's Labour's Lost,LOVE’S LABOUR’S LOST,Comedy,1595,William Shakespeare,contents,reference,ACT II,SCENE I,NA,NA,scene
-1510,Love's Labour's Lost,LOVE’S LABOUR’S LOST,Comedy,1595,William Shakespeare,contents,reference,ACT II,SCENE I,NA,NA,i
-1510,Love's Labour's Lost,LOVE’S LABOUR’S LOST,Comedy,1595,William Shakespeare,contents,reference,ACT II,SCENE I,NA,NA,the
-1510,Love's Labour's Lost,LOVE’S LABOUR’S LOST,Comedy,1595,William Shakespeare,contents,reference,ACT II,SCENE I,NA,NA,king
-1510,Love's Labour's Lost,LOVE’S LABOUR’S LOST,Comedy,1595,William Shakespeare,contents,reference,ACT II,SCENE I,NA,NA,of
-1510,Love's Labour's Lost,LOVE’S LABOUR’S LOST,Comedy,1595,William Shakespeare,contents,reference,ACT II,SCENE I,NA,NA,navarre’s
-1510,Love's Labour's Lost,LOVE’S LABOUR’S LOST,Comedy,1595,William Shakespeare,contents,reference,ACT II,SCENE I,NA,NA,park
-1510,Love's Labour's Lost,LOVE’S LABOUR’S LOST,Comedy,1595,William Shakespeare,contents,reference,ACT II,SCENE I,NA,NA,a
-1510,Love's Labour's Lost,LOVE’S LABOUR’S LOST,Comedy,1595,William Shakespeare,contents,reference,ACT II,SCENE I,NA,NA,pavilion
-1510,Love's Labour's Lost,LOVE’S LABOUR’S LOST,Comedy,1595,William Shakespeare,contents,reference,ACT II,SCENE I,NA,NA,and
-1510,Love's Labour's Lost,LOVE’S LABOUR’S LOST,Comedy,1595,William Shakespeare,contents,reference,ACT II,SCENE I,NA,NA,tents
-1510,Love's Labour's Lost,LOVE’S LABOUR’S LOST,Comedy,1595,William Shakespeare,contents,reference,ACT II,SCENE I,NA,NA,at
-1510,Love's Labour's Lost,LOVE’S LABOUR’S LOST,Comedy,1595,William Shakespeare,contents,reference,ACT II,SCENE I,NA,NA,a
-1510,Love's Labour's Lost,LOVE’S LABOUR’S LOST,Comedy,1595,William Shakespeare,contents,reference,ACT II,SCENE I,NA,NA,distance
 1510,Love's Labour's Lost,LOVE’S LABOUR’S LOST,Comedy,1595,William Shakespeare,contents,directions,ACT II,SCENE I,NA,NA,enter
 1510,Love's Labour's Lost,LOVE’S LABOUR’S LOST,Comedy,1595,William Shakespeare,contents,directions,ACT II,SCENE I,NA,NA,the
 1510,Love's Labour's Lost,LOVE’S LABOUR’S LOST,Comedy,1595,William Shakespeare,contents,directions,ACT II,SCENE I,NA,NA,princess
@@ -5897,15 +5686,6 @@ gutenberg_id,short_title,gutenberg_title,genre,year,author,section,class,act,sce
 1510,Love's Labour's Lost,LOVE’S LABOUR’S LOST,Comedy,1595,William Shakespeare,contents,dialogue,ACT II,SCENE I,BOYET,691,for
 1510,Love's Labour's Lost,LOVE’S LABOUR’S LOST,Comedy,1595,William Shakespeare,contents,dialogue,ACT II,SCENE I,BOYET,691,me
 1510,Love's Labour's Lost,LOVE’S LABOUR’S LOST,Comedy,1595,William Shakespeare,contents,directions,ACT II,SCENE I,NA,NA,exeunt
-1510,Love's Labour's Lost,LOVE’S LABOUR’S LOST,Comedy,1595,William Shakespeare,contents,reference,ACT III,SCENE I,NA,NA,act
-1510,Love's Labour's Lost,LOVE’S LABOUR’S LOST,Comedy,1595,William Shakespeare,contents,reference,ACT III,SCENE I,NA,NA,iii
-1510,Love's Labour's Lost,LOVE’S LABOUR’S LOST,Comedy,1595,William Shakespeare,contents,reference,ACT III,SCENE I,NA,NA,scene
-1510,Love's Labour's Lost,LOVE’S LABOUR’S LOST,Comedy,1595,William Shakespeare,contents,reference,ACT III,SCENE I,NA,NA,i
-1510,Love's Labour's Lost,LOVE’S LABOUR’S LOST,Comedy,1595,William Shakespeare,contents,reference,ACT III,SCENE I,NA,NA,the
-1510,Love's Labour's Lost,LOVE’S LABOUR’S LOST,Comedy,1595,William Shakespeare,contents,reference,ACT III,SCENE I,NA,NA,king
-1510,Love's Labour's Lost,LOVE’S LABOUR’S LOST,Comedy,1595,William Shakespeare,contents,reference,ACT III,SCENE I,NA,NA,of
-1510,Love's Labour's Lost,LOVE’S LABOUR’S LOST,Comedy,1595,William Shakespeare,contents,reference,ACT III,SCENE I,NA,NA,navarre’s
-1510,Love's Labour's Lost,LOVE’S LABOUR’S LOST,Comedy,1595,William Shakespeare,contents,reference,ACT III,SCENE I,NA,NA,park
 1510,Love's Labour's Lost,LOVE’S LABOUR’S LOST,Comedy,1595,William Shakespeare,contents,directions,ACT III,SCENE I,NA,NA,enter
 1510,Love's Labour's Lost,LOVE’S LABOUR’S LOST,Comedy,1595,William Shakespeare,contents,directions,ACT III,SCENE I,NA,NA,armado
 1510,Love's Labour's Lost,LOVE’S LABOUR’S LOST,Comedy,1595,William Shakespeare,contents,directions,ACT III,SCENE I,NA,NA,the
@@ -7444,15 +7224,6 @@ gutenberg_id,short_title,gutenberg_title,genre,year,author,section,class,act,sce
 1510,Love's Labour's Lost,LOVE’S LABOUR’S LOST,Comedy,1595,William Shakespeare,contents,dialogue,ACT III,SCENE I,BEROWNE,869,some
 1510,Love's Labour's Lost,LOVE’S LABOUR’S LOST,Comedy,1595,William Shakespeare,contents,dialogue,ACT III,SCENE I,BEROWNE,869,joan
 1510,Love's Labour's Lost,LOVE’S LABOUR’S LOST,Comedy,1595,William Shakespeare,contents,directions,ACT III,SCENE I,NA,NA,exit
-1510,Love's Labour's Lost,LOVE’S LABOUR’S LOST,Comedy,1595,William Shakespeare,contents,reference,ACT IV,SCENE I,NA,NA,act
-1510,Love's Labour's Lost,LOVE’S LABOUR’S LOST,Comedy,1595,William Shakespeare,contents,reference,ACT IV,SCENE I,NA,NA,iv
-1510,Love's Labour's Lost,LOVE’S LABOUR’S LOST,Comedy,1595,William Shakespeare,contents,reference,ACT IV,SCENE I,NA,NA,scene
-1510,Love's Labour's Lost,LOVE’S LABOUR’S LOST,Comedy,1595,William Shakespeare,contents,reference,ACT IV,SCENE I,NA,NA,i
-1510,Love's Labour's Lost,LOVE’S LABOUR’S LOST,Comedy,1595,William Shakespeare,contents,reference,ACT IV,SCENE I,NA,NA,the
-1510,Love's Labour's Lost,LOVE’S LABOUR’S LOST,Comedy,1595,William Shakespeare,contents,reference,ACT IV,SCENE I,NA,NA,king
-1510,Love's Labour's Lost,LOVE’S LABOUR’S LOST,Comedy,1595,William Shakespeare,contents,reference,ACT IV,SCENE I,NA,NA,of
-1510,Love's Labour's Lost,LOVE’S LABOUR’S LOST,Comedy,1595,William Shakespeare,contents,reference,ACT IV,SCENE I,NA,NA,navarre’s
-1510,Love's Labour's Lost,LOVE’S LABOUR’S LOST,Comedy,1595,William Shakespeare,contents,reference,ACT IV,SCENE I,NA,NA,park
 1510,Love's Labour's Lost,LOVE’S LABOUR’S LOST,Comedy,1595,William Shakespeare,contents,directions,ACT IV,SCENE I,NA,NA,enter
 1510,Love's Labour's Lost,LOVE’S LABOUR’S LOST,Comedy,1595,William Shakespeare,contents,directions,ACT IV,SCENE I,NA,NA,the
 1510,Love's Labour's Lost,LOVE’S LABOUR’S LOST,Comedy,1595,William Shakespeare,contents,directions,ACT IV,SCENE I,NA,NA,princess
@@ -8805,10 +8576,6 @@ gutenberg_id,short_title,gutenberg_title,genre,year,author,section,class,act,sce
 1510,Love's Labour's Lost,LOVE’S LABOUR’S LOST,Comedy,1595,William Shakespeare,contents,dialogue,ACT IV,SCENE I,COSTARD,1017,sola
 1510,Love's Labour's Lost,LOVE’S LABOUR’S LOST,Comedy,1595,William Shakespeare,contents,dialogue,ACT IV,SCENE I,COSTARD,1017,sola
 1510,Love's Labour's Lost,LOVE’S LABOUR’S LOST,Comedy,1595,William Shakespeare,contents,directions,ACT IV,SCENE I,NA,NA,exit
-1510,Love's Labour's Lost,LOVE’S LABOUR’S LOST,Comedy,1595,William Shakespeare,contents,reference,ACT IV,SCENE II,NA,NA,scene
-1510,Love's Labour's Lost,LOVE’S LABOUR’S LOST,Comedy,1595,William Shakespeare,contents,reference,ACT IV,SCENE II,NA,NA,ii
-1510,Love's Labour's Lost,LOVE’S LABOUR’S LOST,Comedy,1595,William Shakespeare,contents,reference,ACT IV,SCENE II,NA,NA,the
-1510,Love's Labour's Lost,LOVE’S LABOUR’S LOST,Comedy,1595,William Shakespeare,contents,reference,ACT IV,SCENE II,NA,NA,same
 1510,Love's Labour's Lost,LOVE’S LABOUR’S LOST,Comedy,1595,William Shakespeare,contents,directions,ACT IV,SCENE II,NA,NA,enter
 1510,Love's Labour's Lost,LOVE’S LABOUR’S LOST,Comedy,1595,William Shakespeare,contents,directions,ACT IV,SCENE II,NA,NA,dull
 1510,Love's Labour's Lost,LOVE’S LABOUR’S LOST,Comedy,1595,William Shakespeare,contents,directions,ACT IV,SCENE II,NA,NA,holofernes
@@ -10237,10 +10004,6 @@ gutenberg_id,short_title,gutenberg_title,genre,year,author,section,class,act,sce
 1510,Love's Labour's Lost,LOVE’S LABOUR’S LOST,Comedy,1595,William Shakespeare,contents,dialogue,ACT IV,SCENE II,HOLOFERNES,1157,our
 1510,Love's Labour's Lost,LOVE’S LABOUR’S LOST,Comedy,1595,William Shakespeare,contents,dialogue,ACT IV,SCENE II,HOLOFERNES,1157,recreation
 1510,Love's Labour's Lost,LOVE’S LABOUR’S LOST,Comedy,1595,William Shakespeare,contents,directions,ACT IV,SCENE II,NA,NA,exeunt
-1510,Love's Labour's Lost,LOVE’S LABOUR’S LOST,Comedy,1595,William Shakespeare,contents,reference,ACT IV,SCENE III,NA,NA,scene
-1510,Love's Labour's Lost,LOVE’S LABOUR’S LOST,Comedy,1595,William Shakespeare,contents,reference,ACT IV,SCENE III,NA,NA,iii
-1510,Love's Labour's Lost,LOVE’S LABOUR’S LOST,Comedy,1595,William Shakespeare,contents,reference,ACT IV,SCENE III,NA,NA,the
-1510,Love's Labour's Lost,LOVE’S LABOUR’S LOST,Comedy,1595,William Shakespeare,contents,reference,ACT IV,SCENE III,NA,NA,same
 1510,Love's Labour's Lost,LOVE’S LABOUR’S LOST,Comedy,1595,William Shakespeare,contents,directions,ACT IV,SCENE III,NA,NA,enter
 1510,Love's Labour's Lost,LOVE’S LABOUR’S LOST,Comedy,1595,William Shakespeare,contents,directions,ACT IV,SCENE III,NA,NA,berowne
 1510,Love's Labour's Lost,LOVE’S LABOUR’S LOST,Comedy,1595,William Shakespeare,contents,directions,ACT IV,SCENE III,NA,NA,with
@@ -13371,15 +13134,6 @@ gutenberg_id,short_title,gutenberg_title,genre,year,author,section,class,act,sce
 1510,Love's Labour's Lost,LOVE’S LABOUR’S LOST,Comedy,1595,William Shakespeare,contents,directions,ACT IV,SCENE III,NA,NA,better
 1510,Love's Labour's Lost,LOVE’S LABOUR’S LOST,Comedy,1595,William Shakespeare,contents,directions,ACT IV,SCENE III,NA,NA,treasure
 1510,Love's Labour's Lost,LOVE’S LABOUR’S LOST,Comedy,1595,William Shakespeare,contents,directions,ACT IV,SCENE III,NA,NA,exeunt
-1510,Love's Labour's Lost,LOVE’S LABOUR’S LOST,Comedy,1595,William Shakespeare,contents,reference,ACT V,SCENE III,NA,NA,act
-1510,Love's Labour's Lost,LOVE’S LABOUR’S LOST,Comedy,1595,William Shakespeare,contents,reference,ACT V,SCENE III,NA,NA,v
-1510,Love's Labour's Lost,LOVE’S LABOUR’S LOST,Comedy,1595,William Shakespeare,contents,reference,ACT V,SCENE I,NA,NA,scene
-1510,Love's Labour's Lost,LOVE’S LABOUR’S LOST,Comedy,1595,William Shakespeare,contents,reference,ACT V,SCENE I,NA,NA,i
-1510,Love's Labour's Lost,LOVE’S LABOUR’S LOST,Comedy,1595,William Shakespeare,contents,reference,ACT V,SCENE I,NA,NA,the
-1510,Love's Labour's Lost,LOVE’S LABOUR’S LOST,Comedy,1595,William Shakespeare,contents,reference,ACT V,SCENE I,NA,NA,king
-1510,Love's Labour's Lost,LOVE’S LABOUR’S LOST,Comedy,1595,William Shakespeare,contents,reference,ACT V,SCENE I,NA,NA,of
-1510,Love's Labour's Lost,LOVE’S LABOUR’S LOST,Comedy,1595,William Shakespeare,contents,reference,ACT V,SCENE I,NA,NA,navarre’s
-1510,Love's Labour's Lost,LOVE’S LABOUR’S LOST,Comedy,1595,William Shakespeare,contents,reference,ACT V,SCENE I,NA,NA,park
 1510,Love's Labour's Lost,LOVE’S LABOUR’S LOST,Comedy,1595,William Shakespeare,contents,directions,ACT V,SCENE I,NA,NA,enter
 1510,Love's Labour's Lost,LOVE’S LABOUR’S LOST,Comedy,1595,William Shakespeare,contents,directions,ACT V,SCENE I,NA,NA,holofernes
 1510,Love's Labour's Lost,LOVE’S LABOUR’S LOST,Comedy,1595,William Shakespeare,contents,directions,ACT V,SCENE I,NA,NA,sir
@@ -14555,14 +14309,6 @@ gutenberg_id,short_title,gutenberg_title,genre,year,author,section,class,act,sce
 1510,Love's Labour's Lost,LOVE’S LABOUR’S LOST,Comedy,1595,William Shakespeare,contents,directions,ACT V,SCENE I,NA,NA,sport
 1510,Love's Labour's Lost,LOVE’S LABOUR’S LOST,Comedy,1595,William Shakespeare,contents,directions,ACT V,SCENE I,NA,NA,away
 1510,Love's Labour's Lost,LOVE’S LABOUR’S LOST,Comedy,1595,William Shakespeare,contents,directions,ACT V,SCENE I,NA,NA,exeunt
-1510,Love's Labour's Lost,LOVE’S LABOUR’S LOST,Comedy,1595,William Shakespeare,contents,reference,ACT V,SCENE II,NA,NA,scene
-1510,Love's Labour's Lost,LOVE’S LABOUR’S LOST,Comedy,1595,William Shakespeare,contents,reference,ACT V,SCENE II,NA,NA,ii
-1510,Love's Labour's Lost,LOVE’S LABOUR’S LOST,Comedy,1595,William Shakespeare,contents,reference,ACT V,SCENE II,NA,NA,the
-1510,Love's Labour's Lost,LOVE’S LABOUR’S LOST,Comedy,1595,William Shakespeare,contents,reference,ACT V,SCENE II,NA,NA,same
-1510,Love's Labour's Lost,LOVE’S LABOUR’S LOST,Comedy,1595,William Shakespeare,contents,reference,ACT V,SCENE II,NA,NA,before
-1510,Love's Labour's Lost,LOVE’S LABOUR’S LOST,Comedy,1595,William Shakespeare,contents,reference,ACT V,SCENE II,NA,NA,the
-1510,Love's Labour's Lost,LOVE’S LABOUR’S LOST,Comedy,1595,William Shakespeare,contents,reference,ACT V,SCENE II,NA,NA,princess’s
-1510,Love's Labour's Lost,LOVE’S LABOUR’S LOST,Comedy,1595,William Shakespeare,contents,reference,ACT V,SCENE II,NA,NA,pavilion
 1510,Love's Labour's Lost,LOVE’S LABOUR’S LOST,Comedy,1595,William Shakespeare,contents,directions,ACT V,SCENE II,NA,NA,enter
 1510,Love's Labour's Lost,LOVE’S LABOUR’S LOST,Comedy,1595,William Shakespeare,contents,directions,ACT V,SCENE II,NA,NA,the
 1510,Love's Labour's Lost,LOVE’S LABOUR’S LOST,Comedy,1595,William Shakespeare,contents,directions,ACT V,SCENE II,NA,NA,princess
