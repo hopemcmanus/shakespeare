@@ -111,15 +111,21 @@ for (play in play_list) {
     str_replace_all("[^a-z0-9]+", "_") %>%
     str_remove("^_|_$")
   
-  # Filter and save
+  # Save with dialogue and directions only (no references)
   all_tokens %>%
-    filter(short_title == play) %>%
-    save_filtered("by_play", filename, paste0(play, " - all tokens"))
+    filter(short_title == play, class %in% c("dialogue", "directions")) %>%
+    save_filtered("by_play", filename, paste0(play, " - dialogue and directions"))
+  
+  # Save filtered version (no stop words)
+  all_tokens %>%
+    filter(short_title == play, class %in% c("dialogue", "directions")) %>%
+    anti_join(stop_words_custom, by = "word") %>%
+    save_filtered("by_play", paste0(filename, "_filtered"), paste0(play, " - dialogue and directions, no stop words"))
   
   play_count <- play_count + 1
 }
 
-message("✓ Created ", play_count, " individual play filters\n")
+message("✓ Created ", play_count, " play filters (with and without stop words)\n")
 
 # Filter 3: By genre
 message("\n", strrep("-", 70))
@@ -194,6 +200,18 @@ all_tokens %>%
   filter(genre == "Tragedy") %>%
   anti_join(stop_words_custom, by = "word") %>%
   save_filtered("by_stopwords", "tragedies_no_stopwords", "Tragedy tokens without stop words")
+
+# Histories without stop words
+all_tokens %>%
+  filter(genre == "History") %>%
+  anti_join(stop_words_custom, by = "word") %>%
+  save_filtered("by_stopwords", "histories_no_stopwords", "History tokens without stop words")
+
+# Comedies without stop words
+all_tokens %>%
+  filter(genre == "Comedy") %>%
+  anti_join(stop_words_custom, by = "word") %>%
+  save_filtered("by_stopwords", "comedies_no_stopwords", "Comedies tokens without stop words")
 
 # Filter 6: By character (examples)
 message("\n", strrep("-", 70))
