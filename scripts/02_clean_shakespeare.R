@@ -83,6 +83,11 @@ clean_shakespeare <- function(text_lines, gutenberg_id = NA) {
   ) %>%
     filter(text != "") %>%
     mutate(
+      # Normalise curly apostrophes and quotes: convert curly to straight
+      text = text |>
+        str_replace_all("[‘’]", "'") |>
+        str_replace_all("[“”]", "\""),
+      
       # Remove underscores
       text = str_remove_all(text, "_"),
       

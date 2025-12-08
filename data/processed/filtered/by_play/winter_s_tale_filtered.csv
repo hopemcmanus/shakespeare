@@ -48,7 +48,6 @@ gutenberg_id,short_title,gutenberg_title,genre,year,author,section,class,act,sce
 1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,contents,dialogue,ACT I,SCENE I,ARCHIDAMUS,14,speak
 1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,contents,dialogue,ACT I,SCENE I,ARCHIDAMUS,14,understanding
 1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,contents,dialogue,ACT I,SCENE I,ARCHIDAMUS,14,instructs
-1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,contents,dialogue,ACT I,SCENE I,ARCHIDAMUS,14,mine
 1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,contents,dialogue,ACT I,SCENE I,ARCHIDAMUS,15,honesty
 1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,contents,dialogue,ACT I,SCENE I,ARCHIDAMUS,15,utterance
 1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,contents,dialogue,ACT I,SCENE I,CAMILLO,16,sicilia
@@ -106,7 +105,6 @@ gutenberg_id,short_title,gutenberg_title,genre,year,author,section,class,act,sce
 1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,contents,dialogue,ACT I,SCENE I,CAMILLO,29,hearts
 1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,contents,dialogue,ACT I,SCENE I,CAMILLO,29,fresh
 1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,contents,dialogue,ACT I,SCENE I,CAMILLO,30,crutches
-1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,contents,dialogue,ACT I,SCENE I,CAMILLO,30,ere
 1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,contents,dialogue,ACT I,SCENE I,CAMILLO,30,born
 1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,contents,dialogue,ACT I,SCENE I,CAMILLO,30,desire
 1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,contents,dialogue,ACT I,SCENE I,CAMILLO,30,life
@@ -120,7 +118,6 @@ gutenberg_id,short_title,gutenberg_title,genre,year,author,section,class,act,sce
 1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,contents,dialogue,ACT I,SCENE I,ARCHIDAMUS,34,desire
 1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,contents,dialogue,ACT I,SCENE I,ARCHIDAMUS,34,live
 1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,contents,dialogue,ACT I,SCENE I,ARCHIDAMUS,34,crutches
-1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,contents,dialogue,ACT I,SCENE I,ARCHIDAMUS,34,till
 1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,contents,directions,ACT I,SCENE II,NA,NA,leontes
 1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,contents,directions,ACT I,SCENE II,NA,NA,polixenes
 1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,contents,directions,ACT I,SCENE II,NA,NA,hermione
@@ -240,7 +237,6 @@ gutenberg_id,short_title,gutenberg_title,genre,year,author,section,class,act,sce
 1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,contents,dialogue,ACT I,SCENE II,HERMIONE,87,lord
 1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,contents,dialogue,ACT I,SCENE II,HERMIONE,87,stay
 1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,contents,dialogue,ACT I,SCENE II,POLIXENES,88,madam
-1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,contents,dialogue,ACT I,SCENE II,HERMIONE,89,nay
 1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,contents,dialogue,ACT I,SCENE II,POLIXENES,90,verily
 1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,contents,dialogue,ACT I,SCENE II,HERMIONE,91,verily
 1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,contents,dialogue,ACT I,SCENE II,HERMIONE,92,limber
@@ -371,7 +367,6 @@ gutenberg_id,short_title,gutenberg_title,genre,year,author,section,class,act,sce
 1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,contents,dialogue,ACT I,SCENE II,HERMIONE,151,kiss
 1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,contents,dialogue,ACT I,SCENE II,HERMIONE,151,thousand
 1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,contents,dialogue,ACT I,SCENE II,HERMIONE,151,furlongs
-1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,contents,dialogue,ACT I,SCENE II,HERMIONE,151,ere
 1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,contents,dialogue,ACT I,SCENE II,HERMIONE,152,spur
 1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,contents,dialogue,ACT I,SCENE II,HERMIONE,152,heat
 1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,contents,dialogue,ACT I,SCENE II,HERMIONE,152,acre
@@ -385,13 +380,11 @@ gutenberg_id,short_title,gutenberg_title,genre,year,author,section,class,act,sce
 1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,contents,dialogue,ACT I,SCENE II,HERMIONE,155,grace
 1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,contents,dialogue,ACT I,SCENE II,HERMIONE,156,spoke
 1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,contents,dialogue,ACT I,SCENE II,HERMIONE,156,purpose
-1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,contents,dialogue,ACT I,SCENE II,HERMIONE,157,nay
 1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,contents,dialogue,ACT I,SCENE II,HERMIONE,157,have't
 1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,contents,dialogue,ACT I,SCENE II,LEONTES,159,crabbed
 1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,contents,dialogue,ACT I,SCENE II,LEONTES,159,months
 1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,contents,dialogue,ACT I,SCENE II,LEONTES,159,sour'd
 1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,contents,dialogue,ACT I,SCENE II,LEONTES,159,death
-1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,contents,dialogue,ACT I,SCENE II,LEONTES,160,ere
 1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,contents,dialogue,ACT I,SCENE II,LEONTES,160,white
 1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,contents,dialogue,ACT I,SCENE II,LEONTES,160,hand
 1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,contents,dialogue,ACT I,SCENE II,LEONTES,161,clap
@@ -448,15 +441,12 @@ gutenberg_id,short_title,gutenberg_title,genre,year,author,section,class,act,sce
 1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,contents,dialogue,ACT I,SCENE II,LEONTES,178,brows
 1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,contents,dialogue,ACT I,SCENE II,LEONTES,178,mamillius
 1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,contents,dialogue,ACT I,SCENE II,LEONTES,179,boy
-1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,contents,dialogue,ACT I,SCENE II,MAMILLIUS,180,ay
 1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,contents,dialogue,ACT I,SCENE II,MAMILLIUS,180,lord
 1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,contents,dialogue,ACT I,SCENE II,LEONTES,181,fecks
 1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,contents,dialogue,ACT I,SCENE II,LEONTES,182,bawcock
-1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,contents,dialogue,ACT I,SCENE II,LEONTES,182,hast
 1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,contents,dialogue,ACT I,SCENE II,LEONTES,182,smutch'd
 1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,contents,dialogue,ACT I,SCENE II,LEONTES,182,nose
 1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,contents,dialogue,ACT I,SCENE II,LEONTES,183,copy
-1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,contents,dialogue,ACT I,SCENE II,LEONTES,183,mine
 1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,contents,dialogue,ACT I,SCENE II,LEONTES,183,captain
 1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,contents,dialogue,ACT I,SCENE II,LEONTES,184,neat
 1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,contents,dialogue,ACT I,SCENE II,LEONTES,184,neat
@@ -491,7 +481,6 @@ gutenberg_id,short_title,gutenberg_title,genre,year,author,section,class,act,sce
 1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,contents,dialogue,ACT I,SCENE II,LEONTES,195,fixes
 1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,contents,dialogue,ACT I,SCENE II,LEONTES,196,bourn
 1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,contents,dialogue,ACT I,SCENE II,LEONTES,196,twixt
-1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,contents,dialogue,ACT I,SCENE II,LEONTES,196,mine
 1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,contents,dialogue,ACT I,SCENE II,LEONTES,196,true
 1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,contents,dialogue,ACT I,SCENE II,LEONTES,197,boy
 1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,contents,dialogue,ACT I,SCENE II,LEONTES,197,sir
@@ -563,7 +552,6 @@ gutenberg_id,short_title,gutenberg_title,genre,year,author,section,class,act,sce
 1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,contents,dialogue,ACT I,SCENE II,LEONTES,225,kernel
 1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,contents,dialogue,ACT I,SCENE II,LEONTES,226,squash
 1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,contents,dialogue,ACT I,SCENE II,LEONTES,226,gentleman
-1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,contents,dialogue,ACT I,SCENE II,LEONTES,226,mine
 1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,contents,dialogue,ACT I,SCENE II,LEONTES,226,honest
 1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,contents,dialogue,ACT I,SCENE II,LEONTES,226,friend
 1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,contents,dialogue,ACT I,SCENE II,LEONTES,227,eggs
@@ -582,7 +570,6 @@ gutenberg_id,short_title,gutenberg_title,genre,year,author,section,class,act,sce
 1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,contents,dialogue,ACT I,SCENE II,POLIXENES,233,matter
 1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,contents,dialogue,ACT I,SCENE II,POLIXENES,234,sworn
 1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,contents,dialogue,ACT I,SCENE II,POLIXENES,234,friend
-1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,contents,dialogue,ACT I,SCENE II,POLIXENES,234,mine
 1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,contents,dialogue,ACT I,SCENE II,POLIXENES,234,enemy
 1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,contents,dialogue,ACT I,SCENE II,POLIXENES,235,parasite
 1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,contents,dialogue,ACT I,SCENE II,POLIXENES,235,soldier
@@ -662,7 +649,6 @@ gutenberg_id,short_title,gutenberg_title,genre,year,author,section,class,act,sce
 1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,contents,dialogue,ACT I,SCENE II,LEONTES,260,play
 1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,contents,dialogue,ACT I,SCENE II,LEONTES,261,deceiv'd
 1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,contents,dialogue,ACT I,SCENE II,LEONTES,261,cuckolds
-1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,contents,dialogue,ACT I,SCENE II,LEONTES,261,ere
 1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,contents,dialogue,ACT I,SCENE II,LEONTES,263,speak
 1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,contents,dialogue,ACT I,SCENE II,LEONTES,263,holds
 1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,contents,dialogue,ACT I,SCENE II,LEONTES,263,wife
@@ -675,13 +661,11 @@ gutenberg_id,short_title,gutenberg_title,genre,year,author,section,class,act,sce
 1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,contents,dialogue,ACT I,SCENE II,LEONTES,266,sir
 1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,contents,dialogue,ACT I,SCENE II,LEONTES,266,smile
 1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,contents,dialogue,ACT I,SCENE II,LEONTES,266,neighbour
-1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,contents,dialogue,ACT I,SCENE II,LEONTES,266,nay
 1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,contents,dialogue,ACT I,SCENE II,LEONTES,266,comfort
 1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,contents,dialogue,ACT I,SCENE II,LEONTES,267,whiles
 1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,contents,dialogue,ACT I,SCENE II,LEONTES,267,gates
 1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,contents,dialogue,ACT I,SCENE II,LEONTES,267,gates
 1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,contents,dialogue,ACT I,SCENE II,LEONTES,267,open'd
-1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,contents,dialogue,ACT I,SCENE II,LEONTES,268,mine
 1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,contents,dialogue,ACT I,SCENE II,LEONTES,268,despair
 1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,contents,dialogue,ACT I,SCENE II,LEONTES,269,revolted
 1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,contents,dialogue,ACT I,SCENE II,LEONTES,269,wives
@@ -712,7 +696,6 @@ gutenberg_id,short_title,gutenberg_title,genre,year,author,section,class,act,sce
 1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,contents,dialogue,ACT I,SCENE II,LEONTES,277,boy
 1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,contents,dialogue,ACT I,SCENE II,LEONTES,279,comfort
 1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,contents,dialogue,ACT I,SCENE II,LEONTES,280,camillo
-1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,contents,dialogue,ACT I,SCENE II,CAMILLO,281,ay
 1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,contents,dialogue,ACT I,SCENE II,CAMILLO,281,lord
 1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,contents,dialogue,ACT I,SCENE II,LEONTES,282,play
 1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,contents,dialogue,ACT I,SCENE II,LEONTES,282,mamillius
@@ -774,7 +757,6 @@ gutenberg_id,short_title,gutenberg_title,genre,year,author,section,class,act,sce
 1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,contents,dialogue,ACT I,SCENE II,CAMILLO,304,stays
 1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,contents,dialogue,ACT I,SCENE II,LEONTES,305,ha
 1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,contents,dialogue,ACT I,SCENE II,CAMILLO,306,stays
-1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,contents,dialogue,ACT I,SCENE II,LEONTES,307,ay
 1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,contents,dialogue,ACT I,SCENE II,CAMILLO,308,satisfy
 1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,contents,dialogue,ACT I,SCENE II,CAMILLO,308,highness
 1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,contents,dialogue,ACT I,SCENE II,CAMILLO,308,entreaties
@@ -792,7 +774,6 @@ gutenberg_id,short_title,gutenberg_title,genre,year,author,section,class,act,sce
 1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,contents,dialogue,ACT I,SCENE II,LEONTES,314,chamber
 1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,contents,dialogue,ACT I,SCENE II,LEONTES,314,counsels
 1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,contents,dialogue,ACT I,SCENE II,LEONTES,314,priest
-1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,contents,dialogue,ACT I,SCENE II,LEONTES,315,hast
 1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,contents,dialogue,ACT I,SCENE II,LEONTES,315,cleans'd
 1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,contents,dialogue,ACT I,SCENE II,LEONTES,315,bosom
 1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,contents,dialogue,ACT I,SCENE II,LEONTES,315,departed
@@ -871,7 +852,6 @@ gutenberg_id,short_title,gutenberg_title,genre,year,author,section,class,act,sce
 1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,contents,dialogue,ACT I,SCENE II,CAMILLO,344,trespass
 1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,contents,dialogue,ACT I,SCENE II,CAMILLO,345,visage
 1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,contents,dialogue,ACT I,SCENE II,CAMILLO,345,deny
-1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,contents,dialogue,ACT I,SCENE II,CAMILLO,346,mine
 1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,contents,dialogue,ACT I,SCENE II,LEONTES,347,ha
 1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,contents,dialogue,ACT I,SCENE II,LEONTES,347,camillo
 1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,contents,dialogue,ACT I,SCENE II,LEONTES,348,past
@@ -1003,12 +983,10 @@ gutenberg_id,short_title,gutenberg_title,genre,year,author,section,class,act,sce
 1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,contents,dialogue,ACT I,SCENE II,LEONTES,394,bare
 1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,contents,dialogue,ACT I,SCENE II,LEONTES,394,eyes
 1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,contents,dialogue,ACT I,SCENE II,LEONTES,395,alike
-1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,contents,dialogue,ACT I,SCENE II,LEONTES,395,mine
 1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,contents,dialogue,ACT I,SCENE II,LEONTES,395,honour
 1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,contents,dialogue,ACT I,SCENE II,LEONTES,395,profits
 1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,contents,dialogue,ACT I,SCENE II,LEONTES,396,thrifts
 1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,contents,dialogue,ACT I,SCENE II,LEONTES,397,undo
-1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,contents,dialogue,ACT I,SCENE II,LEONTES,397,ay
 1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,contents,dialogue,ACT I,SCENE II,LEONTES,398,cupbearer
 1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,contents,dialogue,ACT I,SCENE II,LEONTES,398,meaner
 1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,contents,dialogue,ACT I,SCENE II,LEONTES,398,form
@@ -1025,7 +1003,6 @@ gutenberg_id,short_title,gutenberg_title,genre,year,author,section,class,act,sce
 1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,contents,dialogue,ACT I,SCENE II,LEONTES,401,mightst
 1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,contents,dialogue,ACT I,SCENE II,LEONTES,401,bespice
 1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,contents,dialogue,ACT I,SCENE II,LEONTES,401,cup
-1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,contents,dialogue,ACT I,SCENE II,LEONTES,402,mine
 1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,contents,dialogue,ACT I,SCENE II,LEONTES,402,enemy
 1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,contents,dialogue,ACT I,SCENE II,LEONTES,402,lasting
 1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,contents,dialogue,ACT I,SCENE II,LEONTES,402,wink
@@ -1067,9 +1044,7 @@ gutenberg_id,short_title,gutenberg_title,genre,year,author,section,class,act,sce
 1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,contents,dialogue,ACT I,SCENE II,LEONTES,417,blood
 1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,contents,dialogue,ACT I,SCENE II,LEONTES,417,prince
 1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,contents,dialogue,ACT I,SCENE II,LEONTES,417,son
-1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,contents,dialogue,ACT I,SCENE II,LEONTES,418,mine
 1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,contents,dialogue,ACT I,SCENE II,LEONTES,418,love
-1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,contents,dialogue,ACT I,SCENE II,LEONTES,418,mine
 1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,contents,dialogue,ACT I,SCENE II,LEONTES,419,ripe
 1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,contents,dialogue,ACT I,SCENE II,LEONTES,419,moving
 1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,contents,dialogue,ACT I,SCENE II,LEONTES,419,to't
@@ -1091,7 +1066,6 @@ gutenberg_id,short_title,gutenberg_title,genre,year,author,section,class,act,sce
 1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,contents,dialogue,ACT I,SCENE II,CAMILLO,426,kingdoms
 1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,contents,dialogue,ACT I,SCENE II,CAMILLO,427,allied
 1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,contents,dialogue,ACT I,SCENE II,LEONTES,428,advise
-1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,contents,dialogue,ACT I,SCENE II,LEONTES,429,mine
 1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,contents,dialogue,ACT I,SCENE II,LEONTES,429,set
 1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,contents,dialogue,ACT I,SCENE II,LEONTES,430,blemish
 1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,contents,dialogue,ACT I,SCENE II,LEONTES,430,honour
@@ -1108,7 +1082,6 @@ gutenberg_id,short_title,gutenberg_title,genre,year,author,section,class,act,sce
 1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,contents,dialogue,ACT I,SCENE II,CAMILLO,436,account
 1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,contents,dialogue,ACT I,SCENE II,CAMILLO,436,servant
 1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,contents,dialogue,ACT I,SCENE II,LEONTES,438,do't
-1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,contents,dialogue,ACT I,SCENE II,LEONTES,438,hast
 1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,contents,dialogue,ACT I,SCENE II,LEONTES,438,half
 1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,contents,dialogue,ACT I,SCENE II,LEONTES,438,heart
 1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,contents,dialogue,ACT I,SCENE II,LEONTES,439,do't
@@ -1116,7 +1089,6 @@ gutenberg_id,short_title,gutenberg_title,genre,year,author,section,class,act,sce
 1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,contents,dialogue,ACT I,SCENE II,CAMILLO,440,do't
 1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,contents,dialogue,ACT I,SCENE II,CAMILLO,440,lord
 1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,contents,dialogue,ACT I,SCENE II,LEONTES,441,friendly
-1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,contents,dialogue,ACT I,SCENE II,LEONTES,441,hast
 1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,contents,dialogue,ACT I,SCENE II,LEONTES,441,advis'd
 1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,contents,dialogue,ACT I,SCENE II,CAMILLO,442,miserable
 1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,contents,dialogue,ACT I,SCENE II,CAMILLO,442,lady
@@ -1198,7 +1170,6 @@ gutenberg_id,short_title,gutenberg_title,genre,year,author,section,class,act,sce
 1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,contents,dialogue,ACT I,SCENE II,POLIXENES,475,chang'd
 1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,contents,dialogue,ACT I,SCENE II,POLIXENES,475,complexions
 1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,contents,dialogue,ACT I,SCENE II,POLIXENES,475,mirror
-1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,contents,dialogue,ACT I,SCENE II,POLIXENES,476,mine
 1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,contents,dialogue,ACT I,SCENE II,POLIXENES,476,chang'd
 1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,contents,dialogue,ACT I,SCENE II,POLIXENES,477,party
 1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,contents,dialogue,ACT I,SCENE II,POLIXENES,477,alteration
@@ -1249,7 +1220,6 @@ gutenberg_id,short_title,gutenberg_title,genre,year,author,section,class,act,sce
 1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,contents,dialogue,ACT I,SCENE II,POLIXENES,498,acknowledge
 1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,contents,dialogue,ACT I,SCENE II,POLIXENES,498,whereof
 1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,contents,dialogue,ACT I,SCENE II,POLIXENES,499,suit
-1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,contents,dialogue,ACT I,SCENE II,POLIXENES,499,mine
 1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,contents,dialogue,ACT I,SCENE II,POLIXENES,499,declare
 1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,contents,dialogue,ACT I,SCENE II,POLIXENES,500,incidency
 1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,contents,dialogue,ACT I,SCENE II,POLIXENES,500,guess
@@ -1275,7 +1245,6 @@ gutenberg_id,short_title,gutenberg_title,genre,year,author,section,class,act,sce
 1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,contents,dialogue,ACT I,SCENE II,CAMILLO,511,murder
 1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,contents,dialogue,ACT I,SCENE II,POLIXENES,512,camillo
 1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,contents,dialogue,ACT I,SCENE II,CAMILLO,513,king
-1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,contents,dialogue,ACT I,SCENE II,CAMILLO,515,nay
 1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,contents,dialogue,ACT I,SCENE II,CAMILLO,515,confidence
 1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,contents,dialogue,ACT I,SCENE II,CAMILLO,515,swears
 1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,contents,dialogue,ACT I,SCENE II,CAMILLO,516,seen't
@@ -1299,7 +1268,6 @@ gutenberg_id,short_title,gutenberg_title,genre,year,author,section,class,act,sce
 1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,contents,dialogue,ACT I,SCENE II,POLIXENES,524,arrive
 1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,contents,dialogue,ACT I,SCENE II,POLIXENES,524,approach
 1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,contents,dialogue,ACT I,SCENE II,POLIXENES,524,shunn'd
-1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,contents,dialogue,ACT I,SCENE II,POLIXENES,525,nay
 1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,contents,dialogue,ACT I,SCENE II,POLIXENES,525,hated
 1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,contents,dialogue,ACT I,SCENE II,POLIXENES,525,worse
 1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,contents,dialogue,ACT I,SCENE II,POLIXENES,525,great'st
@@ -1373,7 +1341,6 @@ gutenberg_id,short_title,gutenberg_title,genre,year,author,section,class,act,sce
 1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,contents,dialogue,ACT I,SCENE II,POLIXENES,552,hand
 1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,contents,dialogue,ACT I,SCENE II,POLIXENES,553,pilot
 1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,contents,dialogue,ACT I,SCENE II,POLIXENES,554,neighbour
-1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,contents,dialogue,ACT I,SCENE II,POLIXENES,554,mine
 1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,contents,dialogue,ACT I,SCENE II,POLIXENES,554,ships
 1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,contents,dialogue,ACT I,SCENE II,POLIXENES,554,ready
 1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,contents,dialogue,ACT I,SCENE II,POLIXENES,555,people
@@ -1410,7 +1377,6 @@ gutenberg_id,short_title,gutenberg_title,genre,year,author,section,class,act,sce
 1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,contents,dialogue,ACT I,SCENE II,POLIXENES,567,bear'st
 1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,contents,dialogue,ACT I,SCENE II,POLIXENES,567,life
 1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,contents,dialogue,ACT I,SCENE II,POLIXENES,567,avoid
-1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,contents,dialogue,ACT I,SCENE II,CAMILLO,568,mine
 1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,contents,dialogue,ACT I,SCENE II,CAMILLO,568,authority
 1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,contents,dialogue,ACT I,SCENE II,CAMILLO,568,command
 1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,contents,dialogue,ACT I,SCENE II,CAMILLO,569,keys
@@ -1455,7 +1421,6 @@ gutenberg_id,short_title,gutenberg_title,genre,year,author,section,class,act,sce
 1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,contents,dialogue,ACT II,SCENE I,MAMILLIUS,587,eyebrows
 1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,contents,dialogue,ACT II,SCENE I,FIRST LADY,588,blue
 1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,contents,dialogue,ACT II,SCENE I,FIRST LADY,588,lord
-1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,contents,dialogue,ACT II,SCENE I,MAMILLIUS,589,nay
 1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,contents,dialogue,ACT II,SCENE I,MAMILLIUS,589,mock
 1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,contents,dialogue,ACT II,SCENE I,MAMILLIUS,589,lady's
 1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,contents,dialogue,ACT II,SCENE I,MAMILLIUS,589,nose
@@ -1498,7 +1463,6 @@ gutenberg_id,short_title,gutenberg_title,genre,year,author,section,class,act,sce
 1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,contents,dialogue,ACT II,SCENE I,HERMIONE,607,fright
 1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,contents,dialogue,ACT II,SCENE I,HERMIONE,607,sprites
 1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,contents,dialogue,ACT II,SCENE I,HERMIONE,607,powerful
-1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,contents,dialogue,ACT II,SCENE I,HERMIONE,609,nay
 1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,contents,dialogue,ACT II,SCENE I,HERMIONE,609,sit
 1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,contents,dialogue,ACT II,SCENE I,MAMILLIUS,610,dwelt
 1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,contents,dialogue,ACT II,SCENE I,MAMILLIUS,610,churchyard
@@ -1507,7 +1471,6 @@ gutenberg_id,short_title,gutenberg_title,genre,year,author,section,class,act,sce
 1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,contents,dialogue,ACT II,SCENE I,MAMILLIUS,611,crickets
 1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,contents,dialogue,ACT II,SCENE I,MAMILLIUS,611,hear
 1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,contents,dialogue,ACT II,SCENE I,HERMIONE,613,give't
-1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,contents,dialogue,ACT II,SCENE I,HERMIONE,613,mine
 1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,contents,dialogue,ACT II,SCENE I,HERMIONE,613,ear
 1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,contents,directions,ACT II,SCENE I,NA,NA,leontes
 1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,contents,directions,ACT II,SCENE I,NA,NA,antigonus
@@ -1626,7 +1589,6 @@ gutenberg_id,short_title,gutenberg_title,genre,year,author,section,class,act,sce
 1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,contents,dialogue,ACT II,SCENE I,LEONTES,661,hum's
 1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,contents,dialogue,ACT II,SCENE I,LEONTES,661,ha's
 1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,contents,dialogue,ACT II,SCENE I,LEONTES,662,goodly
-1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,contents,dialogue,ACT II,SCENE I,LEONTES,663,ere
 1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,contents,dialogue,ACT II,SCENE I,LEONTES,663,honest
 1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,contents,dialogue,ACT II,SCENE I,LEONTES,664,grieve
 1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,contents,dialogue,ACT II,SCENE I,LEONTES,665,adultress
@@ -1666,7 +1628,6 @@ gutenberg_id,short_title,gutenberg_title,genre,year,author,section,class,act,sce
 1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,contents,dialogue,ACT II,SCENE I,LEONTES,683,vulgars
 1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,contents,dialogue,ACT II,SCENE I,LEONTES,683,bold'st
 1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,contents,dialogue,ACT II,SCENE I,LEONTES,683,titles
-1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,contents,dialogue,ACT II,SCENE I,LEONTES,683,ay
 1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,contents,dialogue,ACT II,SCENE I,LEONTES,683,privy
 1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,contents,dialogue,ACT II,SCENE I,LEONTES,684,late
 1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,contents,dialogue,ACT II,SCENE I,LEONTES,684,escape
@@ -1698,7 +1659,6 @@ gutenberg_id,short_title,gutenberg_title,genre,year,author,section,class,act,sce
 1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,contents,dialogue,ACT II,SCENE I,HERMIONE,697,planet
 1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,contents,dialogue,ACT II,SCENE I,HERMIONE,697,reigns
 1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,contents,dialogue,ACT II,SCENE I,HERMIONE,698,patient
-1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,contents,dialogue,ACT II,SCENE I,HERMIONE,698,till
 1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,contents,dialogue,ACT II,SCENE I,HERMIONE,698,heavens
 1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,contents,dialogue,ACT II,SCENE I,HERMIONE,699,aspect
 1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,contents,dialogue,ACT II,SCENE I,HERMIONE,699,favourable
@@ -1786,7 +1746,6 @@ gutenberg_id,short_title,gutenberg_title,genre,year,author,section,class,act,sce
 1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,contents,dialogue,ACT II,SCENE I,ANTIGONUS,732,inch
 1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,contents,dialogue,ACT II,SCENE I,ANTIGONUS,732,woman
 1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,contents,dialogue,ACT II,SCENE I,ANTIGONUS,732,world
-1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,contents,dialogue,ACT II,SCENE I,ANTIGONUS,733,ay
 1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,contents,dialogue,ACT II,SCENE I,ANTIGONUS,733,dram
 1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,contents,dialogue,ACT II,SCENE I,ANTIGONUS,733,woman's
 1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,contents,dialogue,ACT II,SCENE I,ANTIGONUS,733,flesh
@@ -1811,7 +1770,6 @@ gutenberg_id,short_title,gutenberg_title,genre,year,author,section,class,act,sce
 1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,contents,dialogue,ACT II,SCENE I,ANTIGONUS,743,true
 1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,contents,dialogue,ACT II,SCENE I,ANTIGONUS,743,pay
 1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,contents,dialogue,ACT II,SCENE I,ANTIGONUS,743,for't
-1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,contents,dialogue,ACT II,SCENE I,ANTIGONUS,743,mine
 1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,contents,dialogue,ACT II,SCENE I,ANTIGONUS,743,honour
 1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,contents,dialogue,ACT II,SCENE I,ANTIGONUS,744,geld
 1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,contents,dialogue,ACT II,SCENE I,ANTIGONUS,744,em
@@ -2135,7 +2093,6 @@ gutenberg_id,short_title,gutenberg_title,genre,year,author,section,class,act,sce
 1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,contents,dialogue,ACT II,SCENE II,PAULINA,879,trespass
 1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,contents,dialogue,ACT II,SCENE II,PAULINA,879,queen
 1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,contents,dialogue,ACT II,SCENE II,PAULINA,881,fear
-1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,contents,dialogue,ACT II,SCENE II,PAULINA,881,mine
 1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,contents,dialogue,ACT II,SCENE II,PAULINA,881,honour
 1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,contents,dialogue,ACT II,SCENE II,PAULINA,882,stand
 1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,contents,dialogue,ACT II,SCENE II,PAULINA,882,betwixt
@@ -2155,7 +2112,6 @@ gutenberg_id,short_title,gutenberg_title,genre,year,author,section,class,act,sce
 1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,contents,dialogue,ACT II,SCENE III,LEONTES,886,adultress
 1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,contents,dialogue,ACT II,SCENE III,LEONTES,886,harlot
 1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,contents,dialogue,ACT II,SCENE III,LEONTES,886,king
-1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,contents,dialogue,ACT II,SCENE III,LEONTES,887,mine
 1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,contents,dialogue,ACT II,SCENE III,LEONTES,887,arm
 1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,contents,dialogue,ACT II,SCENE III,LEONTES,887,blank
 1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,contents,dialogue,ACT II,SCENE III,LEONTES,888,level
@@ -2219,7 +2175,6 @@ gutenberg_id,short_title,gutenberg_title,genre,year,author,section,class,act,sce
 1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,contents,directions,ACT II,SCENE III,NA,NA,antigonus
 1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,contents,directions,ACT II,SCENE III,NA,NA,lords
 1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,contents,directions,ACT II,SCENE III,NA,NA,servants
-1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,contents,dialogue,ACT II,SCENE III,PAULINA,913,nay
 1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,contents,dialogue,ACT II,SCENE III,PAULINA,913,lords
 1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,contents,dialogue,ACT II,SCENE III,PAULINA,914,fear
 1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,contents,dialogue,ACT II,SCENE III,PAULINA,914,tyrannous
@@ -2271,7 +2226,6 @@ gutenberg_id,short_title,gutenberg_title,genre,year,author,section,class,act,sce
 1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,contents,dialogue,ACT II,SCENE III,ANTIGONUS,935,lord
 1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,contents,dialogue,ACT II,SCENE III,ANTIGONUS,936,displeasure's
 1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,contents,dialogue,ACT II,SCENE III,ANTIGONUS,936,peril
-1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,contents,dialogue,ACT II,SCENE III,ANTIGONUS,936,mine
 1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,contents,dialogue,ACT II,SCENE III,ANTIGONUS,937,visit
 1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,contents,dialogue,ACT II,SCENE III,LEONTES,938,canst
 1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,contents,dialogue,ACT II,SCENE III,LEONTES,938,rule
@@ -2311,7 +2265,6 @@ gutenberg_id,short_title,gutenberg_title,genre,year,author,section,class,act,sce
 1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,contents,dialogue,ACT II,SCENE III,PAULINA,958,trifles
 1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,contents,dialogue,ACT II,SCENE III,PAULINA,958,eyes
 1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,contents,dialogue,ACT II,SCENE III,PAULINA,959,hand
-1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,contents,dialogue,ACT II,SCENE III,PAULINA,959,mine
 1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,contents,dialogue,ACT II,SCENE III,PAULINA,959,accord
 1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,contents,dialogue,ACT II,SCENE III,PAULINA,960,errand
 1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,contents,dialogue,ACT II,SCENE III,PAULINA,960,queen
@@ -2394,7 +2347,6 @@ gutenberg_id,short_title,gutenberg_title,genre,year,author,section,class,act,sce
 1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,contents,dialogue,ACT II,SCENE III,LEONTES,995,husband
 1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,contents,dialogue,ACT II,SCENE III,LEONTES,996,baits
 1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,contents,dialogue,ACT II,SCENE III,LEONTES,996,brat
-1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,contents,dialogue,ACT II,SCENE III,LEONTES,996,mine
 1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,contents,dialogue,ACT II,SCENE III,LEONTES,997,issue
 1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,contents,dialogue,ACT II,SCENE III,LEONTES,997,polixenes
 1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,contents,dialogue,ACT II,SCENE III,LEONTES,998,dam
@@ -2416,7 +2368,6 @@ gutenberg_id,short_title,gutenberg_title,genre,year,author,section,class,act,sce
 1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,contents,dialogue,ACT II,SCENE III,PAULINA,1005,trick
 1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,contents,dialogue,ACT II,SCENE III,PAULINA,1005,frown
 1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,contents,dialogue,ACT II,SCENE III,PAULINA,1005,forehead
-1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,contents,dialogue,ACT II,SCENE III,PAULINA,1005,nay
 1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,contents,dialogue,ACT II,SCENE III,PAULINA,1005,valley
 1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,contents,dialogue,ACT II,SCENE III,PAULINA,1006,pretty
 1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,contents,dialogue,ACT II,SCENE III,PAULINA,1006,dimples
@@ -2430,8 +2381,6 @@ gutenberg_id,short_title,gutenberg_title,genre,year,author,section,class,act,sce
 1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,contents,dialogue,ACT II,SCENE III,PAULINA,1007,finger
 1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,contents,dialogue,ACT II,SCENE III,PAULINA,1008,goddess
 1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,contents,dialogue,ACT II,SCENE III,PAULINA,1008,nature
-1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,contents,dialogue,ACT II,SCENE III,PAULINA,1008,hast
-1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,contents,dialogue,ACT II,SCENE III,PAULINA,1009,hast
 1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,contents,dialogue,ACT II,SCENE III,PAULINA,1010,mind
 1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,contents,dialogue,ACT II,SCENE III,PAULINA,1010,mongst
 1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,contents,dialogue,ACT II,SCENE III,PAULINA,1010,colours
@@ -2496,12 +2445,10 @@ gutenberg_id,short_title,gutenberg_title,genre,year,author,section,class,act,sce
 1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,contents,dialogue,ACT II,SCENE III,PAULINA,1038,follies
 1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,contents,dialogue,ACT II,SCENE III,PAULINA,1040,farewell
 1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,contents,dialogue,ACT II,SCENE III,LEONTES,1041,traitor
-1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,contents,dialogue,ACT II,SCENE III,LEONTES,1041,hast
 1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,contents,dialogue,ACT II,SCENE III,LEONTES,1041,set
 1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,contents,dialogue,ACT II,SCENE III,LEONTES,1041,wife
 1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,contents,dialogue,ACT II,SCENE III,LEONTES,1042,child
 1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,contents,dialogue,ACT II,SCENE III,LEONTES,1042,with't
-1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,contents,dialogue,ACT II,SCENE III,LEONTES,1042,hast
 1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,contents,dialogue,ACT II,SCENE III,LEONTES,1043,heart
 1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,contents,dialogue,ACT II,SCENE III,LEONTES,1043,tender
 1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,contents,dialogue,ACT II,SCENE III,LEONTES,1043,o'er
@@ -2861,7 +2808,6 @@ gutenberg_id,short_title,gutenberg_title,genre,year,author,section,class,act,sce
 1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,contents,dialogue,ACT III,SCENE II,HERMIONE,1176,scarce
 1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,contents,dialogue,ACT III,SCENE II,HERMIONE,1176,boot
 1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,contents,dialogue,ACT III,SCENE II,HERMIONE,1177,guilty
-1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,contents,dialogue,ACT III,SCENE II,HERMIONE,1177,mine
 1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,contents,dialogue,ACT III,SCENE II,HERMIONE,1177,integrity
 1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,contents,dialogue,ACT III,SCENE II,HERMIONE,1178,counted
 1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,contents,dialogue,ACT III,SCENE II,HERMIONE,1178,falsehood
@@ -2918,7 +2864,6 @@ gutenberg_id,short_title,gutenberg_title,genre,year,author,section,class,act,sce
 1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,contents,dialogue,ACT III,SCENE II,HERMIONE,1194,spare
 1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,contents,dialogue,ACT III,SCENE II,HERMIONE,1194,honour
 1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,contents,dialogue,ACT III,SCENE II,HERMIONE,1195,derivative
-1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,contents,dialogue,ACT III,SCENE II,HERMIONE,1195,mine
 1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,contents,dialogue,ACT III,SCENE II,HERMIONE,1196,stand
 1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,contents,dialogue,ACT III,SCENE II,HERMIONE,1196,appeal
 1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,contents,dialogue,ACT III,SCENE II,HERMIONE,1197,conscience
@@ -3075,7 +3020,6 @@ gutenberg_id,short_title,gutenberg_title,genre,year,author,section,class,act,sce
 1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,contents,dialogue,ACT III,SCENE II,HERMIONE,1265,life
 1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,contents,dialogue,ACT III,SCENE II,HERMIONE,1266,prize
 1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,contents,dialogue,ACT III,SCENE II,HERMIONE,1266,straw
-1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,contents,dialogue,ACT III,SCENE II,HERMIONE,1266,mine
 1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,contents,dialogue,ACT III,SCENE II,HERMIONE,1266,honour
 1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,contents,dialogue,ACT III,SCENE II,HERMIONE,1267,free
 1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,contents,dialogue,ACT III,SCENE II,HERMIONE,1267,condemn'd
@@ -3158,10 +3102,8 @@ gutenberg_id,short_title,gutenberg_title,genre,year,author,section,class,act,sce
 1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,contents,dialogue,ACT III,SCENE II,LORDS,1294,blessed
 1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,contents,dialogue,ACT III,SCENE II,LORDS,1294,apollo
 1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,contents,dialogue,ACT III,SCENE II,HERMIONE,1295,praised
-1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,contents,dialogue,ACT III,SCENE II,LEONTES,1296,hast
 1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,contents,dialogue,ACT III,SCENE II,LEONTES,1296,read
 1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,contents,dialogue,ACT III,SCENE II,LEONTES,1296,truth
-1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,contents,dialogue,ACT III,SCENE II,OFFICER,1297,ay
 1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,contents,dialogue,ACT III,SCENE II,OFFICER,1297,lord
 1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,contents,dialogue,ACT III,SCENE II,OFFICER,1298,set
 1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,contents,dialogue,ACT III,SCENE II,LEONTES,1299,truth
@@ -3202,7 +3144,6 @@ gutenberg_id,short_title,gutenberg_title,genre,year,author,section,class,act,sce
 1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,contents,dialogue,ACT III,SCENE II,LEONTES,1314,o'ercharg'd
 1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,contents,dialogue,ACT III,SCENE II,LEONTES,1314,recover
 1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,contents,dialogue,ACT III,SCENE II,LEONTES,1315,believ'd
-1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,contents,dialogue,ACT III,SCENE II,LEONTES,1315,mine
 1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,contents,dialogue,ACT III,SCENE II,LEONTES,1315,suspicion
 1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,contents,dialogue,ACT III,SCENE II,LEONTES,1316,beseech
 1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,contents,dialogue,ACT III,SCENE II,LEONTES,1316,tenderly
@@ -3276,7 +3217,6 @@ gutenberg_id,short_title,gutenberg_title,genre,year,author,section,class,act,sce
 1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,contents,dialogue,ACT III,SCENE II,PAULINA,1342,studied
 1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,contents,dialogue,ACT III,SCENE II,PAULINA,1342,torments
 1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,contents,dialogue,ACT III,SCENE II,PAULINA,1342,tyrant
-1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,contents,dialogue,ACT III,SCENE II,PAULINA,1342,hast
 1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,contents,dialogue,ACT III,SCENE II,PAULINA,1343,wheels
 1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,contents,dialogue,ACT III,SCENE II,PAULINA,1343,racks
 1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,contents,dialogue,ACT III,SCENE II,PAULINA,1343,fires
@@ -3331,7 +3271,6 @@ gutenberg_id,short_title,gutenberg_title,genre,year,author,section,class,act,sce
 1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,contents,dialogue,ACT III,SCENE II,PAULINA,1360,shed
 1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,contents,dialogue,ACT III,SCENE II,PAULINA,1360,water
 1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,contents,dialogue,ACT III,SCENE II,PAULINA,1360,fire
-1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,contents,dialogue,ACT III,SCENE II,PAULINA,1360,ere
 1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,contents,dialogue,ACT III,SCENE II,PAULINA,1360,done't
 1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,contents,dialogue,ACT III,SCENE II,PAULINA,1361,is't
 1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,contents,dialogue,ACT III,SCENE II,PAULINA,1361,directly
@@ -3486,7 +3425,6 @@ gutenberg_id,short_title,gutenberg_title,genre,year,author,section,class,act,sce
 1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,contents,dialogue,ACT III,SCENE III,ANTIGONUS,1416,touch'd
 1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,contents,dialogue,ACT III,SCENE III,ANTIGONUS,1417,deserts
 1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,contents,dialogue,ACT III,SCENE III,ANTIGONUS,1417,bohemia
-1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,contents,dialogue,ACT III,SCENE III,MARINER,1418,ay
 1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,contents,dialogue,ACT III,SCENE III,MARINER,1418,lord
 1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,contents,dialogue,ACT III,SCENE III,MARINER,1418,fear
 1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,contents,dialogue,ACT III,SCENE III,MARINER,1419,landed
@@ -3698,7 +3636,6 @@ gutenberg_id,short_title,gutenberg_title,genre,year,author,section,class,act,sce
 1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,contents,dialogue,ACT III,SCENE III,SHEPHERD,1490,poor
 1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,contents,dialogue,ACT III,SCENE III,SHEPHERD,1491,pity
 1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,contents,dialogue,ACT III,SCENE III,SHEPHERD,1491,tarry
-1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,contents,dialogue,ACT III,SCENE III,SHEPHERD,1491,till
 1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,contents,dialogue,ACT III,SCENE III,SHEPHERD,1491,son
 1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,contents,dialogue,ACT III,SCENE III,SHEPHERD,1491,halloed
 1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,contents,dialogue,ACT III,SCENE III,SHEPHERD,1492,whoa
@@ -3880,7 +3817,6 @@ gutenberg_id,short_title,gutenberg_title,genre,year,author,section,class,act,sce
 1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,contents,dialogue,ACT IV,SCENE I,TIME,1545,o'erwhelm
 1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,contents,dialogue,ACT IV,SCENE I,TIME,1545,custom
 1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,contents,dialogue,ACT IV,SCENE I,TIME,1545,pass
-1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,contents,dialogue,ACT IV,SCENE I,TIME,1546,ere
 1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,contents,dialogue,ACT IV,SCENE I,TIME,1546,ancient'st
 1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,contents,dialogue,ACT IV,SCENE I,TIME,1547,received
 1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,contents,dialogue,ACT IV,SCENE I,TIME,1547,witness
@@ -3935,7 +3871,6 @@ gutenberg_id,short_title,gutenberg_title,genre,year,author,section,class,act,sce
 1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,contents,dialogue,ACT IV,SCENE I,TIME,1566,spent
 1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,contents,dialogue,ACT IV,SCENE I,TIME,1566,time
 1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,contents,dialogue,ACT IV,SCENE I,TIME,1566,worse
-1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,contents,dialogue,ACT IV,SCENE I,TIME,1566,ere
 1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,contents,dialogue,ACT IV,SCENE I,TIME,1567,time
 1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,contents,dialogue,ACT IV,SCENE I,TIME,1568,wishes
 1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,contents,dialogue,ACT IV,SCENE I,TIME,1568,earnestly
@@ -3977,7 +3912,6 @@ gutenberg_id,short_title,gutenberg_title,genre,year,author,section,class,act,sce
 1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,contents,dialogue,ACT IV,SCENE II,POLIXENES,1580,stay
 1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,contents,dialogue,ACT IV,SCENE II,POLIXENES,1580,execute
 1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,contents,dialogue,ACT IV,SCENE II,POLIXENES,1581,services
-1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,contents,dialogue,ACT IV,SCENE II,POLIXENES,1581,hast
 1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,contents,dialogue,ACT IV,SCENE II,POLIXENES,1581,considered
 1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,contents,dialogue,ACT IV,SCENE II,POLIXENES,1582,thankful
 1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,contents,dialogue,ACT IV,SCENE II,POLIXENES,1582,study
@@ -4197,7 +4131,6 @@ gutenberg_id,short_title,gutenberg_title,genre,year,author,section,class,act,sce
 1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,contents,dialogue,ACT IV,SCENE III,AUTOLYCUS,1642,springe
 1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,contents,dialogue,ACT IV,SCENE III,AUTOLYCUS,1642,hold
 1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,contents,dialogue,ACT IV,SCENE III,AUTOLYCUS,1642,cock's
-1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,contents,dialogue,ACT IV,SCENE III,AUTOLYCUS,1642,mine
 1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,contents,dialogue,ACT IV,SCENE III,CLOWN,1643,do't
 1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,contents,dialogue,ACT IV,SCENE III,CLOWN,1643,counters
 1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,contents,dialogue,ACT IV,SCENE III,CLOWN,1643,buy
@@ -4210,7 +4143,6 @@ gutenberg_id,short_title,gutenberg_title,genre,year,author,section,class,act,sce
 1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,contents,dialogue,ACT IV,SCENE III,CLOWN,1644,currants
 1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,contents,dialogue,ACT IV,SCENE III,CLOWN,1645,rice
 1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,contents,dialogue,ACT IV,SCENE III,CLOWN,1645,sister
-1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,contents,dialogue,ACT IV,SCENE III,CLOWN,1645,mine
 1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,contents,dialogue,ACT IV,SCENE III,CLOWN,1645,rice
 1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,contents,dialogue,ACT IV,SCENE III,CLOWN,1645,father
 1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,contents,dialogue,ACT IV,SCENE III,CLOWN,1646,mistress
@@ -4251,7 +4183,6 @@ gutenberg_id,short_title,gutenberg_title,genre,year,author,section,class,act,sce
 1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,contents,dialogue,ACT IV,SCENE III,CLOWN,1656,alack
 1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,contents,dialogue,ACT IV,SCENE III,CLOWN,1656,poor
 1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,contents,dialogue,ACT IV,SCENE III,CLOWN,1656,soul
-1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,contents,dialogue,ACT IV,SCENE III,CLOWN,1656,hast
 1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,contents,dialogue,ACT IV,SCENE III,CLOWN,1656,rags
 1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,contents,dialogue,ACT IV,SCENE III,CLOWN,1656,lay
 1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,contents,dialogue,ACT IV,SCENE III,AUTOLYCUS,1658,sir
@@ -4551,7 +4482,6 @@ gutenberg_id,short_title,gutenberg_title,genre,year,author,section,class,act,sce
 1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,contents,dialogue,ACT IV,SCENE IV,FLORIZEL,1751,chaste
 1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,contents,dialogue,ACT IV,SCENE IV,FLORIZEL,1751,desires
 1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,contents,dialogue,ACT IV,SCENE IV,FLORIZEL,1752,run
-1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,contents,dialogue,ACT IV,SCENE IV,FLORIZEL,1752,mine
 1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,contents,dialogue,ACT IV,SCENE IV,FLORIZEL,1752,honour
 1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,contents,dialogue,ACT IV,SCENE IV,FLORIZEL,1752,lusts
 1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,contents,dialogue,ACT IV,SCENE IV,FLORIZEL,1753,burn
@@ -4577,7 +4507,6 @@ gutenberg_id,short_title,gutenberg_title,genre,year,author,section,class,act,sce
 1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,contents,dialogue,ACT IV,SCENE IV,FLORIZEL,1762,feast
 1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,contents,dialogue,ACT IV,SCENE IV,FLORIZEL,1762,fair
 1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,contents,dialogue,ACT IV,SCENE IV,FLORIZEL,1763,father's
-1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,contents,dialogue,ACT IV,SCENE IV,FLORIZEL,1764,mine
 1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,contents,dialogue,ACT IV,SCENE IV,FLORIZEL,1765,constant
 1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,contents,dialogue,ACT IV,SCENE IV,FLORIZEL,1766,destiny
 1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,contents,dialogue,ACT IV,SCENE IV,FLORIZEL,1766,merry
@@ -4808,7 +4737,6 @@ gutenberg_id,short_title,gutenberg_title,genre,year,author,section,class,act,sce
 1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,contents,dialogue,ACT IV,SCENE IV,PERDITA,1856,primroses
 1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,contents,dialogue,ACT IV,SCENE IV,PERDITA,1857,die
 1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,contents,dialogue,ACT IV,SCENE IV,PERDITA,1857,unmarried
-1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,contents,dialogue,ACT IV,SCENE IV,PERDITA,1857,ere
 1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,contents,dialogue,ACT IV,SCENE IV,PERDITA,1857,behold
 1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,contents,dialogue,ACT IV,SCENE IV,PERDITA,1858,bright
 1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,contents,dialogue,ACT IV,SCENE IV,PERDITA,1858,phoebus
@@ -4840,7 +4768,6 @@ gutenberg_id,short_title,gutenberg_title,genre,year,author,section,class,act,sce
 1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,contents,dialogue,ACT IV,SCENE IV,PERDITA,1866,corse
 1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,contents,dialogue,ACT IV,SCENE IV,PERDITA,1866,buried
 1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,contents,dialogue,ACT IV,SCENE IV,PERDITA,1867,quick
-1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,contents,dialogue,ACT IV,SCENE IV,PERDITA,1867,mine
 1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,contents,dialogue,ACT IV,SCENE IV,PERDITA,1867,arms
 1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,contents,dialogue,ACT IV,SCENE IV,PERDITA,1867,flowers
 1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,contents,dialogue,ACT IV,SCENE IV,PERDITA,1868,methinks
@@ -4848,7 +4775,6 @@ gutenberg_id,short_title,gutenberg_title,genre,year,author,section,class,act,sce
 1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,contents,dialogue,ACT IV,SCENE IV,PERDITA,1869,whitsun
 1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,contents,dialogue,ACT IV,SCENE IV,PERDITA,1869,pastorals
 1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,contents,dialogue,ACT IV,SCENE IV,PERDITA,1869,robe
-1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,contents,dialogue,ACT IV,SCENE IV,PERDITA,1869,mine
 1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,contents,dialogue,ACT IV,SCENE IV,PERDITA,1870,change
 1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,contents,dialogue,ACT IV,SCENE IV,PERDITA,1870,disposition
 1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,contents,dialogue,ACT IV,SCENE IV,FLORIZEL,1872,betters
@@ -5073,7 +4999,6 @@ gutenberg_id,short_title,gutenberg_title,genre,year,author,section,class,act,sce
 1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,contents,directions,ACT IV,SCENE IV,NA,NA,servant
 1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,contents,dialogue,ACT IV,SCENE IV,CLOWN,1948,pedlars
 1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,contents,dialogue,ACT IV,SCENE IV,CLOWN,1949,sister
-1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,contents,dialogue,ACT IV,SCENE IV,PERDITA,1950,ay
 1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,contents,dialogue,ACT IV,SCENE IV,PERDITA,1950,brother
 1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,contents,directions,ACT IV,SCENE IV,NA,NA,autolycus
 1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,contents,directions,ACT IV,SCENE IV,NA,NA,singing
@@ -5177,7 +5102,6 @@ gutenberg_id,short_title,gutenberg_title,genre,year,author,section,class,act,sce
 1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,contents,dialogue,ACT IV,SCENE IV,AUTOLYCUS,1983,sir
 1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,contents,dialogue,ACT IV,SCENE IV,AUTOLYCUS,1983,parcels
 1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,contents,dialogue,ACT IV,SCENE IV,AUTOLYCUS,1983,charge
-1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,contents,dialogue,ACT IV,SCENE IV,CLOWN,1984,hast
 1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,contents,dialogue,ACT IV,SCENE IV,CLOWN,1984,ballads
 1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,contents,dialogue,ACT IV,SCENE IV,MOPSA,1985,pray
 1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,contents,dialogue,ACT IV,SCENE IV,MOPSA,1985,buy
@@ -5286,10 +5210,8 @@ gutenberg_id,short_title,gutenberg_title,genre,year,author,section,class,act,sce
 1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,contents,dialogue,ACT IV,SCENE IV,MOPSA,2025,grange
 1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,contents,dialogue,ACT IV,SCENE IV,MOPSA,2025,mill
 1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,contents,dialogue,ACT IV,SCENE IV,DORCAS,2026,ill
-1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,contents,dialogue,ACT IV,SCENE IV,DORCAS,2030,hast
 1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,contents,dialogue,ACT IV,SCENE IV,DORCAS,2030,sworn
 1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,contents,dialogue,ACT IV,SCENE IV,DORCAS,2030,love
-1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,contents,dialogue,ACT IV,SCENE IV,MOPSA,2031,hast
 1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,contents,dialogue,ACT IV,SCENE IV,MOPSA,2031,sworn
 1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,contents,dialogue,ACT IV,SCENE IV,MOPSA,2032,goest
 1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,contents,dialogue,ACT IV,SCENE IV,CLOWN,2033,song
@@ -5483,7 +5405,6 @@ gutenberg_id,short_title,gutenberg_title,genre,year,author,section,class,act,sce
 1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,contents,dialogue,ACT IV,SCENE IV,SHEPHERD,2106,daughter
 1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,contents,dialogue,ACT IV,SCENE IV,PERDITA,2108,speak
 1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,contents,dialogue,ACT IV,SCENE IV,PERDITA,2110,pattern
-1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,contents,dialogue,ACT IV,SCENE IV,PERDITA,2110,mine
 1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,contents,dialogue,ACT IV,SCENE IV,PERDITA,2110,cut
 1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,contents,dialogue,ACT IV,SCENE IV,PERDITA,2111,purity
 1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,contents,dialogue,ACT IV,SCENE IV,SHEPHERD,2112,hands
@@ -5660,7 +5581,6 @@ gutenberg_id,short_title,gutenberg_title,genre,year,author,section,class,act,sce
 1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,contents,dialogue,ACT IV,SCENE IV,PERDITA,2191,beseech
 1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,contents,dialogue,ACT IV,SCENE IV,PERDITA,2192,care
 1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,contents,dialogue,ACT IV,SCENE IV,PERDITA,2192,dream
-1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,contents,dialogue,ACT IV,SCENE IV,PERDITA,2192,mine
 1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,contents,dialogue,ACT IV,SCENE IV,PERDITA,2193,awake
 1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,contents,dialogue,ACT IV,SCENE IV,PERDITA,2193,queen
 1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,contents,dialogue,ACT IV,SCENE IV,PERDITA,2193,inch
@@ -5670,7 +5590,6 @@ gutenberg_id,short_title,gutenberg_title,genre,year,author,section,class,act,sce
 1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,contents,dialogue,ACT IV,SCENE IV,PERDITA,2194,weep
 1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,contents,dialogue,ACT IV,SCENE IV,CAMILLO,2195,father
 1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,contents,dialogue,ACT IV,SCENE IV,CAMILLO,2196,speak
-1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,contents,dialogue,ACT IV,SCENE IV,CAMILLO,2196,ere
 1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,contents,dialogue,ACT IV,SCENE IV,CAMILLO,2196,diest
 1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,contents,dialogue,ACT IV,SCENE IV,SHEPHERD,2197,speak
 1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,contents,dialogue,ACT IV,SCENE IV,SHEPHERD,2198,dare
@@ -5728,7 +5647,6 @@ gutenberg_id,short_title,gutenberg_title,genre,year,author,section,class,act,sce
 1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,contents,dialogue,ACT IV,SCENE IV,CAMILLO,2218,endure
 1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,contents,dialogue,ACT IV,SCENE IV,CAMILLO,2218,sight
 1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,contents,dialogue,ACT IV,SCENE IV,CAMILLO,2218,fear
-1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,contents,dialogue,ACT IV,SCENE IV,CAMILLO,2219,till
 1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,contents,dialogue,ACT IV,SCENE IV,CAMILLO,2219,fury
 1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,contents,dialogue,ACT IV,SCENE IV,CAMILLO,2219,highness
 1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,contents,dialogue,ACT IV,SCENE IV,CAMILLO,2219,settle
@@ -5738,7 +5656,6 @@ gutenberg_id,short_title,gutenberg_title,genre,year,author,section,class,act,sce
 1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,contents,dialogue,ACT IV,SCENE IV,PERDITA,2224,told
 1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,contents,dialogue,ACT IV,SCENE IV,PERDITA,2224,twould
 1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,contents,dialogue,ACT IV,SCENE IV,PERDITA,2225,dignity
-1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,contents,dialogue,ACT IV,SCENE IV,PERDITA,2226,till
 1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,contents,dialogue,ACT IV,SCENE IV,PERDITA,2226,twere
 1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,contents,dialogue,ACT IV,SCENE IV,FLORIZEL,2227,fail
 1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,contents,dialogue,ACT IV,SCENE IV,FLORIZEL,2228,violation
@@ -5876,7 +5793,6 @@ gutenberg_id,short_title,gutenberg_title,genre,year,author,section,class,act,sce
 1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,contents,dialogue,ACT IV,SCENE IV,CAMILLO,2283,project
 1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,contents,dialogue,ACT IV,SCENE IV,CAMILLO,2284,suffer
 1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,contents,dialogue,ACT IV,SCENE IV,CAMILLO,2284,alteration
-1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,contents,dialogue,ACT IV,SCENE IV,CAMILLO,2284,mine
 1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,contents,dialogue,ACT IV,SCENE IV,CAMILLO,2284,honour
 1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,contents,dialogue,ACT IV,SCENE IV,CAMILLO,2285,receiving
 1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,contents,dialogue,ACT IV,SCENE IV,CAMILLO,2286,highness
@@ -6039,7 +5955,6 @@ gutenberg_id,short_title,gutenberg_title,genre,year,author,section,class,act,sce
 1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,contents,dialogue,ACT IV,SCENE IV,CAMILLO,2366,royally
 1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,contents,dialogue,ACT IV,SCENE IV,CAMILLO,2366,appointed
 1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,contents,dialogue,ACT IV,SCENE IV,CAMILLO,2367,play
-1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,contents,dialogue,ACT IV,SCENE IV,CAMILLO,2367,mine
 1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,contents,dialogue,ACT IV,SCENE IV,CAMILLO,2367,instance
 1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,contents,dialogue,ACT IV,SCENE IV,CAMILLO,2367,sir
 1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,contents,dialogue,ACT IV,SCENE IV,CAMILLO,2368,word
@@ -6094,7 +6009,6 @@ gutenberg_id,short_title,gutenberg_title,genre,year,author,section,class,act,sce
 1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,contents,dialogue,ACT IV,SCENE IV,AUTOLYCUS,2377,song
 1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,contents,dialogue,ACT IV,SCENE IV,AUTOLYCUS,2377,stir
 1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,contents,dialogue,ACT IV,SCENE IV,AUTOLYCUS,2377,pettitoes
-1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,contents,dialogue,ACT IV,SCENE IV,AUTOLYCUS,2377,till
 1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,contents,dialogue,ACT IV,SCENE IV,AUTOLYCUS,2378,tune
 1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,contents,dialogue,ACT IV,SCENE IV,AUTOLYCUS,2378,words
 1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,contents,dialogue,ACT IV,SCENE IV,AUTOLYCUS,2378,drew
@@ -6139,7 +6053,6 @@ gutenberg_id,short_title,gutenberg_title,genre,year,author,section,class,act,sce
 1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,contents,dialogue,ACT IV,SCENE IV,AUTOLYCUS,2387,florizel
 1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,contents,dialogue,ACT IV,SCENE IV,AUTOLYCUS,2387,perdita
 1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,contents,dialogue,ACT IV,SCENE IV,AUTOLYCUS,2387,forward
-1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,contents,dialogue,ACT IV,SCENE IV,CAMILLO,2388,nay
 1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,contents,dialogue,ACT IV,SCENE IV,CAMILLO,2388,letters
 1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,contents,dialogue,ACT IV,SCENE IV,CAMILLO,2388,means
 1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,contents,dialogue,ACT IV,SCENE IV,CAMILLO,2389,arrive
@@ -6186,7 +6099,6 @@ gutenberg_id,short_title,gutenberg_title,genre,year,author,section,class,act,sce
 1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,contents,dialogue,ACT IV,SCENE IV,AUTOLYCUS,2406,fellow
 1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,contents,dialogue,ACT IV,SCENE IV,AUTOLYCUS,2406,sir
 1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,contents,dialogue,ACT IV,SCENE IV,AUTOLYCUS,2406,ye
-1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,contents,dialogue,ACT IV,SCENE IV,CAMILLO,2407,nay
 1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,contents,dialogue,ACT IV,SCENE IV,CAMILLO,2407,prithee
 1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,contents,dialogue,ACT IV,SCENE IV,CAMILLO,2407,dispatch
 1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,contents,dialogue,ACT IV,SCENE IV,CAMILLO,2407,gentleman
@@ -6234,7 +6146,6 @@ gutenberg_id,short_title,gutenberg_title,genre,year,author,section,class,act,sce
 1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,contents,dialogue,ACT IV,SCENE IV,FLORIZEL,2424,father
 1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,contents,dialogue,ACT IV,SCENE IV,FLORIZEL,2425,call
 1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,contents,dialogue,ACT IV,SCENE IV,FLORIZEL,2425,son
-1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,contents,directions,ACT IV,SCENE IV,NA,NA,nay
 1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,contents,directions,ACT IV,SCENE IV,NA,NA,hat
 1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,contents,directions,ACT IV,SCENE IV,NA,NA,giving
 1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,contents,directions,ACT IV,SCENE IV,NA,NA,perdita
@@ -6329,9 +6240,7 @@ gutenberg_id,short_title,gutenberg_title,genre,year,author,section,class,act,sce
 1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,contents,dialogue,ACT IV,SCENE IV,CLOWN,2452,changeling
 1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,contents,dialogue,ACT IV,SCENE IV,CLOWN,2452,flesh
 1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,contents,dialogue,ACT IV,SCENE IV,CLOWN,2452,blood
-1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,contents,dialogue,ACT IV,SCENE IV,SHEPHERD,2453,nay
 1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,contents,dialogue,ACT IV,SCENE IV,SHEPHERD,2453,hear
-1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,contents,dialogue,ACT IV,SCENE IV,CLOWN,2454,nay
 1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,contents,dialogue,ACT IV,SCENE IV,CLOWN,2454,hear
 1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,contents,dialogue,ACT IV,SCENE IV,CLOWN,2456,flesh
 1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,contents,dialogue,ACT IV,SCENE IV,CLOWN,2456,blood
@@ -6451,7 +6360,6 @@ gutenberg_id,short_title,gutenberg_title,genre,year,author,section,class,act,sce
 1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,contents,dialogue,ACT IV,SCENE IV,SHEPHERD,2493,sir
 1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,contents,dialogue,ACT IV,SCENE IV,SHEPHERD,2493,king
 1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,contents,dialogue,ACT IV,SCENE IV,AUTOLYCUS,2494,advocate
-1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,contents,dialogue,ACT IV,SCENE IV,AUTOLYCUS,2494,hast
 1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,contents,dialogue,ACT IV,SCENE IV,CLOWN,2496,advocate's
 1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,contents,dialogue,ACT IV,SCENE IV,CLOWN,2496,court
 1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,contents,dialogue,ACT IV,SCENE IV,CLOWN,2496,word
@@ -6488,7 +6396,6 @@ gutenberg_id,short_title,gutenberg_title,genre,year,author,section,class,act,sce
 1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,contents,dialogue,ACT IV,SCENE IV,SHEPHERD,2507,hour
 1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,contents,dialogue,ACT IV,SCENE IV,SHEPHERD,2508,speech
 1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,contents,dialogue,ACT IV,SCENE IV,AUTOLYCUS,2509,age
-1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,contents,dialogue,ACT IV,SCENE IV,AUTOLYCUS,2509,hast
 1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,contents,dialogue,ACT IV,SCENE IV,AUTOLYCUS,2509,lost
 1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,contents,dialogue,ACT IV,SCENE IV,AUTOLYCUS,2509,labour
 1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,contents,dialogue,ACT IV,SCENE IV,SHEPHERD,2510,sir
@@ -6562,7 +6469,6 @@ gutenberg_id,short_title,gutenberg_title,genre,year,author,section,class,act,sce
 1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,contents,dialogue,ACT IV,SCENE IV,AUTOLYCUS,2529,wasp's
 1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,contents,dialogue,ACT IV,SCENE IV,AUTOLYCUS,2529,nest
 1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,contents,dialogue,ACT IV,SCENE IV,AUTOLYCUS,2529,stand
-1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,contents,dialogue,ACT IV,SCENE IV,AUTOLYCUS,2529,till
 1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,contents,dialogue,ACT IV,SCENE IV,AUTOLYCUS,2529,quarters
 1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,contents,dialogue,ACT IV,SCENE IV,AUTOLYCUS,2530,dram
 1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,contents,dialogue,ACT IV,SCENE IV,AUTOLYCUS,2530,dead
@@ -6632,10 +6538,8 @@ gutenberg_id,short_title,gutenberg_title,genre,year,author,section,class,act,sce
 1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,contents,dialogue,ACT IV,SCENE IV,SHEPHERD,2545,gold
 1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,contents,dialogue,ACT IV,SCENE IV,SHEPHERD,2545,leave
 1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,contents,dialogue,ACT IV,SCENE IV,SHEPHERD,2546,pawn
-1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,contents,dialogue,ACT IV,SCENE IV,SHEPHERD,2546,till
 1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,contents,dialogue,ACT IV,SCENE IV,SHEPHERD,2546,bring
 1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,contents,dialogue,ACT IV,SCENE IV,AUTOLYCUS,2547,promised
-1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,contents,dialogue,ACT IV,SCENE IV,SHEPHERD,2548,ay
 1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,contents,dialogue,ACT IV,SCENE IV,SHEPHERD,2548,sir
 1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,contents,dialogue,ACT IV,SCENE IV,AUTOLYCUS,2549,moiety
 1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,contents,dialogue,ACT IV,SCENE IV,AUTOLYCUS,2549,party
@@ -6660,7 +6564,6 @@ gutenberg_id,short_title,gutenberg_title,genre,year,author,section,class,act,sce
 1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,contents,dialogue,ACT IV,SCENE IV,CLOWN,2557,performed
 1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,contents,dialogue,ACT IV,SCENE IV,CLOWN,2557,remain
 1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,contents,dialogue,ACT IV,SCENE IV,CLOWN,2557,pawn
-1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,contents,dialogue,ACT IV,SCENE IV,CLOWN,2557,till
 1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,contents,dialogue,ACT IV,SCENE IV,CLOWN,2558,brought
 1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,contents,dialogue,ACT IV,SCENE IV,AUTOLYCUS,2559,trust
 1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,contents,dialogue,ACT IV,SCENE IV,AUTOLYCUS,2559,walk
@@ -6799,7 +6702,6 @@ gutenberg_id,short_title,gutenberg_title,genre,year,author,section,class,act,sce
 1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,contents,dialogue,ACT V,SCENE I,PAULINA,2617,king
 1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,contents,dialogue,ACT V,SCENE I,PAULINA,2617,leontes
 1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,contents,dialogue,ACT V,SCENE I,PAULINA,2617,heir
-1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,contents,dialogue,ACT V,SCENE I,PAULINA,2618,till
 1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,contents,dialogue,ACT V,SCENE I,PAULINA,2618,lost
 1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,contents,dialogue,ACT V,SCENE I,PAULINA,2618,child
 1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,contents,dialogue,ACT V,SCENE I,PAULINA,2618,found
@@ -6828,7 +6730,6 @@ gutenberg_id,short_title,gutenberg_title,genre,year,author,section,class,act,sce
 1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,contents,dialogue,ACT V,SCENE I,PAULINA,2626,worthiest
 1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,contents,dialogue,ACT V,SCENE I,PAULINA,2626,successor
 1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,contents,dialogue,ACT V,SCENE I,LEONTES,2628,paulina
-1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,contents,dialogue,ACT V,SCENE I,LEONTES,2629,hast
 1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,contents,dialogue,ACT V,SCENE I,LEONTES,2629,memory
 1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,contents,dialogue,ACT V,SCENE I,LEONTES,2629,hermione
 1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,contents,dialogue,ACT V,SCENE I,LEONTES,2630,honour
@@ -6875,7 +6776,6 @@ gutenberg_id,short_title,gutenberg_title,genre,year,author,section,class,act,sce
 1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,contents,dialogue,ACT V,SCENE I,PAULINA,2650,words
 1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,contents,dialogue,ACT V,SCENE I,PAULINA,2650,follow'd
 1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,contents,dialogue,ACT V,SCENE I,PAULINA,2651,remember
-1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,contents,dialogue,ACT V,SCENE I,PAULINA,2651,mine
 1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,contents,dialogue,ACT V,SCENE I,LEONTES,2652,stars
 1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,contents,dialogue,ACT V,SCENE I,LEONTES,2652,stars
 1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,contents,dialogue,ACT V,SCENE I,LEONTES,2653,eyes
@@ -6917,11 +6817,9 @@ gutenberg_id,short_title,gutenberg_title,genre,year,author,section,class,act,sce
 1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,contents,dialogue,ACT V,SCENE I,LEONTES,2671,true
 1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,contents,dialogue,ACT V,SCENE I,LEONTES,2671,paulina
 1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,contents,dialogue,ACT V,SCENE I,LEONTES,2672,marry
-1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,contents,dialogue,ACT V,SCENE I,LEONTES,2672,till
 1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,contents,dialogue,ACT V,SCENE I,LEONTES,2672,bid'st
 1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,contents,dialogue,ACT V,SCENE I,PAULINA,2674,queen's
 1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,contents,dialogue,ACT V,SCENE I,PAULINA,2674,breath
-1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,contents,dialogue,ACT V,SCENE I,PAULINA,2675,till
 1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,contents,directions,ACT V,SCENE I,NA,NA,servant
 1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,contents,dialogue,ACT V,SCENE I,SERVANT,2676,prince
 1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,contents,dialogue,ACT V,SCENE I,SERVANT,2676,florizel
@@ -6945,7 +6843,6 @@ gutenberg_id,short_title,gutenberg_title,genre,year,author,section,class,act,sce
 1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,contents,dialogue,ACT V,SCENE I,LEONTES,2684,accident
 1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,contents,dialogue,ACT V,SCENE I,LEONTES,2684,train
 1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,contents,dialogue,ACT V,SCENE I,LEONTES,2687,princess
-1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,contents,dialogue,ACT V,SCENE I,SERVANT,2688,ay
 1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,contents,dialogue,ACT V,SCENE I,SERVANT,2688,peerless
 1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,contents,dialogue,ACT V,SCENE I,SERVANT,2688,piece
 1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,contents,dialogue,ACT V,SCENE I,SERVANT,2688,earth
@@ -7054,7 +6951,6 @@ gutenberg_id,short_title,gutenberg_title,genre,year,author,section,class,act,sce
 1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,contents,dialogue,ACT V,SCENE I,LEONTES,2734,gracious
 1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,contents,dialogue,ACT V,SCENE I,LEONTES,2734,couple
 1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,contents,dialogue,ACT V,SCENE I,LEONTES,2734,lost
-1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,contents,dialogue,ACT V,SCENE I,LEONTES,2735,mine
 1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,contents,dialogue,ACT V,SCENE I,LEONTES,2735,folly
 1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,contents,dialogue,ACT V,SCENE I,LEONTES,2735,society
 1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,contents,dialogue,ACT V,SCENE I,LEONTES,2736,amity
@@ -7225,7 +7121,6 @@ gutenberg_id,short_title,gutenberg_title,genre,year,author,section,class,act,sce
 1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,contents,dialogue,ACT V,SCENE I,FLORIZEL,2801,betray'd
 1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,contents,dialogue,ACT V,SCENE I,FLORIZEL,2802,honour
 1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,contents,dialogue,ACT V,SCENE I,FLORIZEL,2802,honesty
-1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,contents,dialogue,ACT V,SCENE I,FLORIZEL,2802,till
 1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,contents,dialogue,ACT V,SCENE I,FLORIZEL,2803,endur'd
 1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,contents,dialogue,ACT V,SCENE I,FLORIZEL,2803,weathers
 1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,contents,dialogue,ACT V,SCENE I,LORD,2804,lay
@@ -7300,7 +7195,6 @@ gutenberg_id,short_title,gutenberg_title,genre,year,author,section,class,act,sce
 1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,contents,dialogue,ACT V,SCENE I,FLORIZEL,2834,time
 1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,contents,dialogue,ACT V,SCENE I,FLORIZEL,2835,affections
 1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,contents,dialogue,ACT V,SCENE I,FLORIZEL,2836,step
-1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,contents,dialogue,ACT V,SCENE I,FLORIZEL,2836,mine
 1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,contents,dialogue,ACT V,SCENE I,FLORIZEL,2836,advocate
 1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,contents,dialogue,ACT V,SCENE I,FLORIZEL,2836,request
 1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,contents,dialogue,ACT V,SCENE I,FLORIZEL,2837,father
@@ -7570,7 +7464,6 @@ gutenberg_id,short_title,gutenberg_title,genre,year,author,section,class,act,sce
 1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,contents,dialogue,ACT V,SCENE II,THIRD GENTLEMAN,2912,prettiest
 1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,contents,dialogue,ACT V,SCENE II,THIRD GENTLEMAN,2912,touches
 1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,contents,dialogue,ACT V,SCENE II,THIRD GENTLEMAN,2912,angled
-1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,contents,dialogue,ACT V,SCENE II,THIRD GENTLEMAN,2912,mine
 1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,contents,dialogue,ACT V,SCENE II,THIRD GENTLEMAN,2913,eyes
 1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,contents,dialogue,ACT V,SCENE II,THIRD GENTLEMAN,2913,caught
 1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,contents,dialogue,ACT V,SCENE II,THIRD GENTLEMAN,2913,water
@@ -7586,7 +7479,6 @@ gutenberg_id,short_title,gutenberg_title,genre,year,author,section,class,act,sce
 1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,contents,dialogue,ACT V,SCENE II,THIRD GENTLEMAN,2915,attentiveness
 1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,contents,dialogue,ACT V,SCENE II,THIRD GENTLEMAN,2915,wounded
 1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,contents,dialogue,ACT V,SCENE II,THIRD GENTLEMAN,2916,daughter
-1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,contents,dialogue,ACT V,SCENE II,THIRD GENTLEMAN,2916,till
 1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,contents,dialogue,ACT V,SCENE II,THIRD GENTLEMAN,2916,sign
 1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,contents,dialogue,ACT V,SCENE II,THIRD GENTLEMAN,2916,dolour
 1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,contents,dialogue,ACT V,SCENE II,THIRD GENTLEMAN,2917,alas
@@ -7722,7 +7614,6 @@ gutenberg_id,short_title,gutenberg_title,genre,year,author,section,class,act,sce
 1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,contents,dialogue,ACT V,SCENE II,AUTOLYCUS,2954,sir
 1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,contents,dialogue,ACT V,SCENE II,AUTOLYCUS,2954,gentleman
 1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,contents,dialogue,ACT V,SCENE II,AUTOLYCUS,2954,born
-1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,contents,dialogue,ACT V,SCENE II,CLOWN,2955,ay
 1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,contents,dialogue,ACT V,SCENE II,CLOWN,2955,time
 1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,contents,dialogue,ACT V,SCENE II,CLOWN,2955,hours
 1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,contents,dialogue,ACT V,SCENE II,SHEPHERD,2956,boy
@@ -7752,7 +7643,6 @@ gutenberg_id,short_title,gutenberg_title,genre,year,author,section,class,act,sce
 1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,contents,dialogue,ACT V,SCENE II,SHEPHERD,2962,live
 1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,contents,dialogue,ACT V,SCENE II,SHEPHERD,2962,son
 1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,contents,dialogue,ACT V,SCENE II,SHEPHERD,2962,shed
-1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,contents,dialogue,ACT V,SCENE II,CLOWN,2963,ay
 1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,contents,dialogue,ACT V,SCENE II,CLOWN,2963,twere
 1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,contents,dialogue,ACT V,SCENE II,CLOWN,2963,hard
 1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,contents,dialogue,ACT V,SCENE II,CLOWN,2963,luck
@@ -7774,7 +7664,6 @@ gutenberg_id,short_title,gutenberg_title,genre,year,author,section,class,act,sce
 1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,contents,dialogue,ACT V,SCENE II,SHEPHERD,2968,gentlemen
 1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,contents,dialogue,ACT V,SCENE II,CLOWN,2969,amend
 1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,contents,dialogue,ACT V,SCENE II,CLOWN,2969,life
-1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,contents,dialogue,ACT V,SCENE II,AUTOLYCUS,2970,ay
 1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,contents,dialogue,ACT V,SCENE II,AUTOLYCUS,2970,worship
 1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,contents,dialogue,ACT V,SCENE II,CLOWN,2971,hand
 1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,contents,dialogue,ACT V,SCENE II,CLOWN,2971,swear
@@ -7816,7 +7705,6 @@ gutenberg_id,short_title,gutenberg_title,genre,year,author,section,class,act,sce
 1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,contents,dialogue,ACT V,SCENE II,AUTOLYCUS,2982,prove
 1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,contents,dialogue,ACT V,SCENE II,AUTOLYCUS,2982,sir
 1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,contents,dialogue,ACT V,SCENE II,AUTOLYCUS,2982,power
-1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,contents,dialogue,ACT V,SCENE II,CLOWN,2983,ay
 1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,contents,dialogue,ACT V,SCENE II,CLOWN,2983,means
 1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,contents,dialogue,ACT V,SCENE II,CLOWN,2983,prove
 1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,contents,dialogue,ACT V,SCENE II,CLOWN,2983,tall
@@ -7991,7 +7879,6 @@ gutenberg_id,short_title,gutenberg_title,genre,year,author,section,class,act,sce
 1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,contents,dialogue,ACT V,SCENE III,PAULINA,3055,image
 1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,contents,dialogue,ACT V,SCENE III,PAULINA,3056,wrought
 1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,contents,dialogue,ACT V,SCENE III,PAULINA,3056,stone
-1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,contents,dialogue,ACT V,SCENE III,PAULINA,3056,mine
 1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,contents,dialogue,ACT V,SCENE III,PAULINA,3057,show'd
 1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,contents,dialogue,ACT V,SCENE III,LEONTES,3058,draw
 1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,contents,dialogue,ACT V,SCENE III,LEONTES,3058,curtain
@@ -8109,7 +7996,6 @@ gutenberg_id,short_title,gutenberg_title,genre,year,author,section,class,act,sce
 1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,contents,dialogue,ACT V,SCENE III,PAULINA,3111,fill
 1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,contents,dialogue,ACT V,SCENE III,PAULINA,3111,grave
 1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,contents,dialogue,ACT V,SCENE III,PAULINA,3111,stir
-1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,contents,dialogue,ACT V,SCENE III,PAULINA,3111,nay
 1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,contents,dialogue,ACT V,SCENE III,PAULINA,3112,bequeath
 1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,contents,dialogue,ACT V,SCENE III,PAULINA,3112,death
 1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,contents,dialogue,ACT V,SCENE III,PAULINA,3112,numbness
@@ -8130,7 +8016,6 @@ gutenberg_id,short_title,gutenberg_title,genre,year,author,section,class,act,sce
 1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,contents,dialogue,ACT V,SCENE III,PAULINA,3117,die
 1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,contents,dialogue,ACT V,SCENE III,PAULINA,3118,kill
 1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,contents,dialogue,ACT V,SCENE III,PAULINA,3118,double
-1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,contents,dialogue,ACT V,SCENE III,PAULINA,3118,nay
 1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,contents,dialogue,ACT V,SCENE III,PAULINA,3118,hand
 1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,contents,dialogue,ACT V,SCENE III,PAULINA,3119,woo'd
 1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,contents,dialogue,ACT V,SCENE III,PAULINA,3119,age
@@ -8146,7 +8031,6 @@ gutenberg_id,short_title,gutenberg_title,genre,year,author,section,class,act,sce
 1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,contents,dialogue,ACT V,SCENE III,CAMILLO,3126,pertain
 1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,contents,dialogue,ACT V,SCENE III,CAMILLO,3126,life
 1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,contents,dialogue,ACT V,SCENE III,CAMILLO,3126,speak
-1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,contents,dialogue,ACT V,SCENE III,POLIXENES,3127,ay
 1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,contents,dialogue,ACT V,SCENE III,POLIXENES,3127,manifest
 1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,contents,dialogue,ACT V,SCENE III,POLIXENES,3127,liv'd
 1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,contents,dialogue,ACT V,SCENE III,POLIXENES,3128,stol'n
@@ -8179,8 +8063,6 @@ gutenberg_id,short_title,gutenberg_title,genre,year,author,section,class,act,sce
 1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,contents,dialogue,ACT V,SCENE III,HERMIONE,3137,graces
 1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,contents,dialogue,ACT V,SCENE III,HERMIONE,3138,daughter's
 1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,contents,dialogue,ACT V,SCENE III,HERMIONE,3138,head
-1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,contents,dialogue,ACT V,SCENE III,HERMIONE,3138,mine
-1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,contents,dialogue,ACT V,SCENE III,HERMIONE,3139,hast
 1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,contents,dialogue,ACT V,SCENE III,HERMIONE,3139,preserv'd
 1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,contents,dialogue,ACT V,SCENE III,HERMIONE,3139,liv'd
 1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,contents,dialogue,ACT V,SCENE III,HERMIONE,3139,found
@@ -8211,7 +8093,6 @@ gutenberg_id,short_title,gutenberg_title,genre,year,author,section,class,act,sce
 1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,contents,dialogue,ACT V,SCENE III,PAULINA,3150,mate
 1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,contents,dialogue,ACT V,SCENE III,PAULINA,3150,found
 1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,contents,dialogue,ACT V,SCENE III,PAULINA,3151,lament
-1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,contents,dialogue,ACT V,SCENE III,PAULINA,3151,till
 1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,contents,dialogue,ACT V,SCENE III,PAULINA,3151,lost
 1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,contents,dialogue,ACT V,SCENE III,LEONTES,3152,peace
 1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,contents,dialogue,ACT V,SCENE III,LEONTES,3152,paulina
@@ -8221,9 +8102,7 @@ gutenberg_id,short_title,gutenberg_title,genre,year,author,section,class,act,sce
 1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,contents,dialogue,ACT V,SCENE III,LEONTES,3154,wife
 1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,contents,dialogue,ACT V,SCENE III,LEONTES,3154,match
 1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,contents,dialogue,ACT V,SCENE III,LEONTES,3155,vows
-1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,contents,dialogue,ACT V,SCENE III,LEONTES,3155,hast
 1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,contents,dialogue,ACT V,SCENE III,LEONTES,3155,found
-1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,contents,dialogue,ACT V,SCENE III,LEONTES,3155,mine
 1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,contents,dialogue,ACT V,SCENE III,LEONTES,3156,question'd
 1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,contents,dialogue,ACT V,SCENE III,LEONTES,3157,dead
 1539,Winter's Tale,THE WINTER’S TALE,Comedy,1611,William Shakespeare,contents,dialogue,ACT V,SCENE III,LEONTES,3157,vain

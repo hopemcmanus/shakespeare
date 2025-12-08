@@ -2,7 +2,6 @@ gutenberg_id,short_title,gutenberg_title,genre,year,author,section,class,act,sce
 1524,Hamlet,"THE TRAGEDY OF HAMLET, PRINCE OF DENMARK",Tragedy,1600,William Shakespeare,contents,directions,ACT I,SCENE I,NA,NA,francisco
 1524,Hamlet,"THE TRAGEDY OF HAMLET, PRINCE OF DENMARK",Tragedy,1600,William Shakespeare,contents,directions,ACT I,SCENE I,NA,NA,barnardo
 1524,Hamlet,"THE TRAGEDY OF HAMLET, PRINCE OF DENMARK",Tragedy,1600,William Shakespeare,contents,directions,ACT I,SCENE I,NA,NA,sentinels
-1524,Hamlet,"THE TRAGEDY OF HAMLET, PRINCE OF DENMARK",Tragedy,1600,William Shakespeare,contents,dialogue,ACT I,SCENE I,FRANCISCO,2,nay
 1524,Hamlet,"THE TRAGEDY OF HAMLET, PRINCE OF DENMARK",Tragedy,1600,William Shakespeare,contents,dialogue,ACT I,SCENE I,FRANCISCO,2,answer
 1524,Hamlet,"THE TRAGEDY OF HAMLET, PRINCE OF DENMARK",Tragedy,1600,William Shakespeare,contents,dialogue,ACT I,SCENE I,FRANCISCO,2,stand
 1524,Hamlet,"THE TRAGEDY OF HAMLET, PRINCE OF DENMARK",Tragedy,1600,William Shakespeare,contents,dialogue,ACT I,SCENE I,FRANCISCO,2,unfold
@@ -143,7 +142,6 @@ gutenberg_id,short_title,gutenberg_title,genre,year,author,section,class,act,sce
 1524,Hamlet,"THE TRAGEDY OF HAMLET, PRINCE OF DENMARK",Tragedy,1600,William Shakespeare,contents,dialogue,ACT I,SCENE I,HORATIO,64,god
 1524,Hamlet,"THE TRAGEDY OF HAMLET, PRINCE OF DENMARK",Tragedy,1600,William Shakespeare,contents,dialogue,ACT I,SCENE I,HORATIO,65,true
 1524,Hamlet,"THE TRAGEDY OF HAMLET, PRINCE OF DENMARK",Tragedy,1600,William Shakespeare,contents,dialogue,ACT I,SCENE I,HORATIO,65,avouch
-1524,Hamlet,"THE TRAGEDY OF HAMLET, PRINCE OF DENMARK",Tragedy,1600,William Shakespeare,contents,dialogue,ACT I,SCENE I,HORATIO,66,mine
 1524,Hamlet,"THE TRAGEDY OF HAMLET, PRINCE OF DENMARK",Tragedy,1600,William Shakespeare,contents,dialogue,ACT I,SCENE I,HORATIO,66,eyes
 1524,Hamlet,"THE TRAGEDY OF HAMLET, PRINCE OF DENMARK",Tragedy,1600,William Shakespeare,contents,dialogue,ACT I,SCENE I,MARCELLUS,67,king
 1524,Hamlet,"THE TRAGEDY OF HAMLET, PRINCE OF DENMARK",Tragedy,1600,William Shakespeare,contents,dialogue,ACT I,SCENE I,HORATIO,69,armour
@@ -295,7 +293,6 @@ gutenberg_id,short_title,gutenberg_title,genre,year,author,section,class,act,sce
 1524,Hamlet,"THE TRAGEDY OF HAMLET, PRINCE OF DENMARK",Tragedy,1600,William Shakespeare,contents,dialogue,ACT I,SCENE I,HORATIO,122,eye
 1524,Hamlet,"THE TRAGEDY OF HAMLET, PRINCE OF DENMARK",Tragedy,1600,William Shakespeare,contents,dialogue,ACT I,SCENE I,HORATIO,123,palmy
 1524,Hamlet,"THE TRAGEDY OF HAMLET, PRINCE OF DENMARK",Tragedy,1600,William Shakespeare,contents,dialogue,ACT I,SCENE I,HORATIO,123,rome
-1524,Hamlet,"THE TRAGEDY OF HAMLET, PRINCE OF DENMARK",Tragedy,1600,William Shakespeare,contents,dialogue,ACT I,SCENE I,HORATIO,124,ere
 1524,Hamlet,"THE TRAGEDY OF HAMLET, PRINCE OF DENMARK",Tragedy,1600,William Shakespeare,contents,dialogue,ACT I,SCENE I,HORATIO,124,mightiest
 1524,Hamlet,"THE TRAGEDY OF HAMLET, PRINCE OF DENMARK",Tragedy,1600,William Shakespeare,contents,dialogue,ACT I,SCENE I,HORATIO,124,julius
 1524,Hamlet,"THE TRAGEDY OF HAMLET, PRINCE OF DENMARK",Tragedy,1600,William Shakespeare,contents,dialogue,ACT I,SCENE I,HORATIO,124,fell
@@ -346,7 +343,6 @@ gutenberg_id,short_title,gutenberg_title,genre,year,author,section,class,act,sce
 1524,Hamlet,"THE TRAGEDY OF HAMLET, PRINCE OF DENMARK",Tragedy,1600,William Shakespeare,contents,dialogue,ACT I,SCENE I,HORATIO,137,blast
 1524,Hamlet,"THE TRAGEDY OF HAMLET, PRINCE OF DENMARK",Tragedy,1600,William Shakespeare,contents,dialogue,ACT I,SCENE I,HORATIO,137,stay
 1524,Hamlet,"THE TRAGEDY OF HAMLET, PRINCE OF DENMARK",Tragedy,1600,William Shakespeare,contents,dialogue,ACT I,SCENE I,HORATIO,137,illusion
-1524,Hamlet,"THE TRAGEDY OF HAMLET, PRINCE OF DENMARK",Tragedy,1600,William Shakespeare,contents,dialogue,ACT I,SCENE I,HORATIO,138,hast
 1524,Hamlet,"THE TRAGEDY OF HAMLET, PRINCE OF DENMARK",Tragedy,1600,William Shakespeare,contents,dialogue,ACT I,SCENE I,HORATIO,138,sound
 1524,Hamlet,"THE TRAGEDY OF HAMLET, PRINCE OF DENMARK",Tragedy,1600,William Shakespeare,contents,dialogue,ACT I,SCENE I,HORATIO,138,voice
 1524,Hamlet,"THE TRAGEDY OF HAMLET, PRINCE OF DENMARK",Tragedy,1600,William Shakespeare,contents,dialogue,ACT I,SCENE I,HORATIO,139,speak
@@ -360,7 +356,6 @@ gutenberg_id,short_title,gutenberg_title,genre,year,author,section,class,act,sce
 1524,Hamlet,"THE TRAGEDY OF HAMLET, PRINCE OF DENMARK",Tragedy,1600,William Shakespeare,contents,dialogue,ACT I,SCENE I,HORATIO,144,foreknowing
 1524,Hamlet,"THE TRAGEDY OF HAMLET, PRINCE OF DENMARK",Tragedy,1600,William Shakespeare,contents,dialogue,ACT I,SCENE I,HORATIO,144,avoid
 1524,Hamlet,"THE TRAGEDY OF HAMLET, PRINCE OF DENMARK",Tragedy,1600,William Shakespeare,contents,dialogue,ACT I,SCENE I,HORATIO,145,speak
-1524,Hamlet,"THE TRAGEDY OF HAMLET, PRINCE OF DENMARK",Tragedy,1600,William Shakespeare,contents,dialogue,ACT I,SCENE I,HORATIO,146,hast
 1524,Hamlet,"THE TRAGEDY OF HAMLET, PRINCE OF DENMARK",Tragedy,1600,William Shakespeare,contents,dialogue,ACT I,SCENE I,HORATIO,146,uphoarded
 1524,Hamlet,"THE TRAGEDY OF HAMLET, PRINCE OF DENMARK",Tragedy,1600,William Shakespeare,contents,dialogue,ACT I,SCENE I,HORATIO,146,life
 1524,Hamlet,"THE TRAGEDY OF HAMLET, PRINCE OF DENMARK",Tragedy,1600,William Shakespeare,contents,dialogue,ACT I,SCENE I,HORATIO,147,extorted
@@ -704,11 +699,9 @@ gutenberg_id,short_title,gutenberg_title,genre,year,author,section,class,act,sce
 1524,Hamlet,"THE TRAGEDY OF HAMLET, PRINCE OF DENMARK",Tragedy,1600,William Shakespeare,contents,dialogue,ACT I,SCENE II,QUEEN,262,passing
 1524,Hamlet,"THE TRAGEDY OF HAMLET, PRINCE OF DENMARK",Tragedy,1600,William Shakespeare,contents,dialogue,ACT I,SCENE II,QUEEN,262,nature
 1524,Hamlet,"THE TRAGEDY OF HAMLET, PRINCE OF DENMARK",Tragedy,1600,William Shakespeare,contents,dialogue,ACT I,SCENE II,QUEEN,262,eternity
-1524,Hamlet,"THE TRAGEDY OF HAMLET, PRINCE OF DENMARK",Tragedy,1600,William Shakespeare,contents,dialogue,ACT I,SCENE II,HAMLET,263,ay
 1524,Hamlet,"THE TRAGEDY OF HAMLET, PRINCE OF DENMARK",Tragedy,1600,William Shakespeare,contents,dialogue,ACT I,SCENE II,HAMLET,263,madam
 1524,Hamlet,"THE TRAGEDY OF HAMLET, PRINCE OF DENMARK",Tragedy,1600,William Shakespeare,contents,dialogue,ACT I,SCENE II,HAMLET,263,common
 1524,Hamlet,"THE TRAGEDY OF HAMLET, PRINCE OF DENMARK",Tragedy,1600,William Shakespeare,contents,dialogue,ACT I,SCENE II,HAMLET,266,madam
-1524,Hamlet,"THE TRAGEDY OF HAMLET, PRINCE OF DENMARK",Tragedy,1600,William Shakespeare,contents,dialogue,ACT I,SCENE II,HAMLET,266,nay
 1524,Hamlet,"THE TRAGEDY OF HAMLET, PRINCE OF DENMARK",Tragedy,1600,William Shakespeare,contents,dialogue,ACT I,SCENE II,HAMLET,267,inky
 1524,Hamlet,"THE TRAGEDY OF HAMLET, PRINCE OF DENMARK",Tragedy,1600,William Shakespeare,contents,dialogue,ACT I,SCENE II,HAMLET,267,cloak
 1524,Hamlet,"THE TRAGEDY OF HAMLET, PRINCE OF DENMARK",Tragedy,1600,William Shakespeare,contents,dialogue,ACT I,SCENE II,HAMLET,267,mother
@@ -793,7 +786,6 @@ gutenberg_id,short_title,gutenberg_title,genre,year,author,section,class,act,sce
 1524,Hamlet,"THE TRAGEDY OF HAMLET, PRINCE OF DENMARK",Tragedy,1600,William Shakespeare,contents,dialogue,ACT I,SCENE II,KING,294,fathers
 1524,Hamlet,"THE TRAGEDY OF HAMLET, PRINCE OF DENMARK",Tragedy,1600,William Shakespeare,contents,dialogue,ACT I,SCENE II,KING,294,cried
 1524,Hamlet,"THE TRAGEDY OF HAMLET, PRINCE OF DENMARK",Tragedy,1600,William Shakespeare,contents,dialogue,ACT I,SCENE II,KING,295,corse
-1524,Hamlet,"THE TRAGEDY OF HAMLET, PRINCE OF DENMARK",Tragedy,1600,William Shakespeare,contents,dialogue,ACT I,SCENE II,KING,295,till
 1524,Hamlet,"THE TRAGEDY OF HAMLET, PRINCE OF DENMARK",Tragedy,1600,William Shakespeare,contents,dialogue,ACT I,SCENE II,KING,295,died
 1524,Hamlet,"THE TRAGEDY OF HAMLET, PRINCE OF DENMARK",Tragedy,1600,William Shakespeare,contents,dialogue,ACT I,SCENE II,KING,296,pray
 1524,Hamlet,"THE TRAGEDY OF HAMLET, PRINCE OF DENMARK",Tragedy,1600,William Shakespeare,contents,dialogue,ACT I,SCENE II,KING,296,throw
@@ -895,7 +887,6 @@ gutenberg_id,short_title,gutenberg_title,genre,year,author,section,class,act,sce
 1524,Hamlet,"THE TRAGEDY OF HAMLET, PRINCE OF DENMARK",Tragedy,1600,William Shakespeare,contents,dialogue,ACT I,SCENE II,HAMLET,327,possess
 1524,Hamlet,"THE TRAGEDY OF HAMLET, PRINCE OF DENMARK",Tragedy,1600,William Shakespeare,contents,dialogue,ACT I,SCENE II,HAMLET,328,months
 1524,Hamlet,"THE TRAGEDY OF HAMLET, PRINCE OF DENMARK",Tragedy,1600,William Shakespeare,contents,dialogue,ACT I,SCENE II,HAMLET,328,dead
-1524,Hamlet,"THE TRAGEDY OF HAMLET, PRINCE OF DENMARK",Tragedy,1600,William Shakespeare,contents,dialogue,ACT I,SCENE II,HAMLET,328,nay
 1524,Hamlet,"THE TRAGEDY OF HAMLET, PRINCE OF DENMARK",Tragedy,1600,William Shakespeare,contents,dialogue,ACT I,SCENE II,HAMLET,329,excellent
 1524,Hamlet,"THE TRAGEDY OF HAMLET, PRINCE OF DENMARK",Tragedy,1600,William Shakespeare,contents,dialogue,ACT I,SCENE II,HAMLET,329,king
 1524,Hamlet,"THE TRAGEDY OF HAMLET, PRINCE OF DENMARK",Tragedy,1600,William Shakespeare,contents,dialogue,ACT I,SCENE II,HAMLET,330,hyperion
@@ -920,7 +911,6 @@ gutenberg_id,short_title,gutenberg_title,genre,year,author,section,class,act,sce
 1524,Hamlet,"THE TRAGEDY OF HAMLET, PRINCE OF DENMARK",Tragedy,1600,William Shakespeare,contents,dialogue,ACT I,SCENE II,HAMLET,336,frailty
 1524,Hamlet,"THE TRAGEDY OF HAMLET, PRINCE OF DENMARK",Tragedy,1600,William Shakespeare,contents,dialogue,ACT I,SCENE II,HAMLET,336,woman
 1524,Hamlet,"THE TRAGEDY OF HAMLET, PRINCE OF DENMARK",Tragedy,1600,William Shakespeare,contents,dialogue,ACT I,SCENE II,HAMLET,337,month
-1524,Hamlet,"THE TRAGEDY OF HAMLET, PRINCE OF DENMARK",Tragedy,1600,William Shakespeare,contents,dialogue,ACT I,SCENE II,HAMLET,337,ere
 1524,Hamlet,"THE TRAGEDY OF HAMLET, PRINCE OF DENMARK",Tragedy,1600,William Shakespeare,contents,dialogue,ACT I,SCENE II,HAMLET,337,shoes
 1524,Hamlet,"THE TRAGEDY OF HAMLET, PRINCE OF DENMARK",Tragedy,1600,William Shakespeare,contents,dialogue,ACT I,SCENE II,HAMLET,338,poor
 1524,Hamlet,"THE TRAGEDY OF HAMLET, PRINCE OF DENMARK",Tragedy,1600,William Shakespeare,contents,dialogue,ACT I,SCENE II,HAMLET,338,father's
@@ -933,14 +923,12 @@ gutenberg_id,short_title,gutenberg_title,genre,year,author,section,class,act,sce
 1524,Hamlet,"THE TRAGEDY OF HAMLET, PRINCE OF DENMARK",Tragedy,1600,William Shakespeare,contents,dialogue,ACT I,SCENE II,HAMLET,340,reason
 1524,Hamlet,"THE TRAGEDY OF HAMLET, PRINCE OF DENMARK",Tragedy,1600,William Shakespeare,contents,dialogue,ACT I,SCENE II,HAMLET,341,mourn'd
 1524,Hamlet,"THE TRAGEDY OF HAMLET, PRINCE OF DENMARK",Tragedy,1600,William Shakespeare,contents,dialogue,ACT I,SCENE II,HAMLET,341,married
-1524,Hamlet,"THE TRAGEDY OF HAMLET, PRINCE OF DENMARK",Tragedy,1600,William Shakespeare,contents,dialogue,ACT I,SCENE II,HAMLET,341,mine
 1524,Hamlet,"THE TRAGEDY OF HAMLET, PRINCE OF DENMARK",Tragedy,1600,William Shakespeare,contents,dialogue,ACT I,SCENE II,HAMLET,341,uncle
 1524,Hamlet,"THE TRAGEDY OF HAMLET, PRINCE OF DENMARK",Tragedy,1600,William Shakespeare,contents,dialogue,ACT I,SCENE II,HAMLET,342,father's
 1524,Hamlet,"THE TRAGEDY OF HAMLET, PRINCE OF DENMARK",Tragedy,1600,William Shakespeare,contents,dialogue,ACT I,SCENE II,HAMLET,342,brother
 1524,Hamlet,"THE TRAGEDY OF HAMLET, PRINCE OF DENMARK",Tragedy,1600,William Shakespeare,contents,dialogue,ACT I,SCENE II,HAMLET,342,father
 1524,Hamlet,"THE TRAGEDY OF HAMLET, PRINCE OF DENMARK",Tragedy,1600,William Shakespeare,contents,dialogue,ACT I,SCENE II,HAMLET,343,hercules
 1524,Hamlet,"THE TRAGEDY OF HAMLET, PRINCE OF DENMARK",Tragedy,1600,William Shakespeare,contents,dialogue,ACT I,SCENE II,HAMLET,343,month
-1524,Hamlet,"THE TRAGEDY OF HAMLET, PRINCE OF DENMARK",Tragedy,1600,William Shakespeare,contents,dialogue,ACT I,SCENE II,HAMLET,344,ere
 1524,Hamlet,"THE TRAGEDY OF HAMLET, PRINCE OF DENMARK",Tragedy,1600,William Shakespeare,contents,dialogue,ACT I,SCENE II,HAMLET,344,salt
 1524,Hamlet,"THE TRAGEDY OF HAMLET, PRINCE OF DENMARK",Tragedy,1600,William Shakespeare,contents,dialogue,ACT I,SCENE II,HAMLET,344,unrighteous
 1524,Hamlet,"THE TRAGEDY OF HAMLET, PRINCE OF DENMARK",Tragedy,1600,William Shakespeare,contents,dialogue,ACT I,SCENE II,HAMLET,344,tears
@@ -996,7 +984,6 @@ gutenberg_id,short_title,gutenberg_title,genre,year,author,section,class,act,sce
 1524,Hamlet,"THE TRAGEDY OF HAMLET, PRINCE OF DENMARK",Tragedy,1600,William Shakespeare,contents,dialogue,ACT I,SCENE II,HAMLET,368,teach
 1524,Hamlet,"THE TRAGEDY OF HAMLET, PRINCE OF DENMARK",Tragedy,1600,William Shakespeare,contents,dialogue,ACT I,SCENE II,HAMLET,368,drink
 1524,Hamlet,"THE TRAGEDY OF HAMLET, PRINCE OF DENMARK",Tragedy,1600,William Shakespeare,contents,dialogue,ACT I,SCENE II,HAMLET,368,deep
-1524,Hamlet,"THE TRAGEDY OF HAMLET, PRINCE OF DENMARK",Tragedy,1600,William Shakespeare,contents,dialogue,ACT I,SCENE II,HAMLET,368,ere
 1524,Hamlet,"THE TRAGEDY OF HAMLET, PRINCE OF DENMARK",Tragedy,1600,William Shakespeare,contents,dialogue,ACT I,SCENE II,HAMLET,368,depart
 1524,Hamlet,"THE TRAGEDY OF HAMLET, PRINCE OF DENMARK",Tragedy,1600,William Shakespeare,contents,dialogue,ACT I,SCENE II,HORATIO,369,lord
 1524,Hamlet,"THE TRAGEDY OF HAMLET, PRINCE OF DENMARK",Tragedy,1600,William Shakespeare,contents,dialogue,ACT I,SCENE II,HORATIO,369,father's
@@ -1046,7 +1033,6 @@ gutenberg_id,short_title,gutenberg_title,genre,year,author,section,class,act,sce
 1524,Hamlet,"THE TRAGEDY OF HAMLET, PRINCE OF DENMARK",Tragedy,1600,William Shakespeare,contents,dialogue,ACT I,SCENE II,HORATIO,387,admiration
 1524,Hamlet,"THE TRAGEDY OF HAMLET, PRINCE OF DENMARK",Tragedy,1600,William Shakespeare,contents,dialogue,ACT I,SCENE II,HORATIO,388,attent
 1524,Hamlet,"THE TRAGEDY OF HAMLET, PRINCE OF DENMARK",Tragedy,1600,William Shakespeare,contents,dialogue,ACT I,SCENE II,HORATIO,388,ear
-1524,Hamlet,"THE TRAGEDY OF HAMLET, PRINCE OF DENMARK",Tragedy,1600,William Shakespeare,contents,dialogue,ACT I,SCENE II,HORATIO,388,till
 1524,Hamlet,"THE TRAGEDY OF HAMLET, PRINCE OF DENMARK",Tragedy,1600,William Shakespeare,contents,dialogue,ACT I,SCENE II,HORATIO,388,deliver
 1524,Hamlet,"THE TRAGEDY OF HAMLET, PRINCE OF DENMARK",Tragedy,1600,William Shakespeare,contents,dialogue,ACT I,SCENE II,HORATIO,389,witness
 1524,Hamlet,"THE TRAGEDY OF HAMLET, PRINCE OF DENMARK",Tragedy,1600,William Shakespeare,contents,dialogue,ACT I,SCENE II,HORATIO,389,gentlemen
@@ -1155,7 +1141,6 @@ gutenberg_id,short_title,gutenberg_title,genre,year,author,section,class,act,sce
 1524,Hamlet,"THE TRAGEDY OF HAMLET, PRINCE OF DENMARK",Tragedy,1600,William Shakespeare,contents,dialogue,ACT I,SCENE II,HORATIO,434,anger
 1524,Hamlet,"THE TRAGEDY OF HAMLET, PRINCE OF DENMARK",Tragedy,1600,William Shakespeare,contents,dialogue,ACT I,SCENE II,HAMLET,435,pale
 1524,Hamlet,"THE TRAGEDY OF HAMLET, PRINCE OF DENMARK",Tragedy,1600,William Shakespeare,contents,dialogue,ACT I,SCENE II,HAMLET,435,red
-1524,Hamlet,"THE TRAGEDY OF HAMLET, PRINCE OF DENMARK",Tragedy,1600,William Shakespeare,contents,dialogue,ACT I,SCENE II,HORATIO,436,nay
 1524,Hamlet,"THE TRAGEDY OF HAMLET, PRINCE OF DENMARK",Tragedy,1600,William Shakespeare,contents,dialogue,ACT I,SCENE II,HORATIO,436,pale
 1524,Hamlet,"THE TRAGEDY OF HAMLET, PRINCE OF DENMARK",Tragedy,1600,William Shakespeare,contents,dialogue,ACT I,SCENE II,HAMLET,437,fix'd
 1524,Hamlet,"THE TRAGEDY OF HAMLET, PRINCE OF DENMARK",Tragedy,1600,William Shakespeare,contents,dialogue,ACT I,SCENE II,HAMLET,437,eyes
@@ -1210,7 +1195,6 @@ gutenberg_id,short_title,gutenberg_title,genre,year,author,section,class,act,sce
 1524,Hamlet,"THE TRAGEDY OF HAMLET, PRINCE OF DENMARK",Tragedy,1600,William Shakespeare,contents,dialogue,ACT I,SCENE II,ALL,461,duty
 1524,Hamlet,"THE TRAGEDY OF HAMLET, PRINCE OF DENMARK",Tragedy,1600,William Shakespeare,contents,dialogue,ACT I,SCENE II,ALL,461,honour
 1524,Hamlet,"THE TRAGEDY OF HAMLET, PRINCE OF DENMARK",Tragedy,1600,William Shakespeare,contents,dialogue,ACT I,SCENE II,HAMLET,462,loves
-1524,Hamlet,"THE TRAGEDY OF HAMLET, PRINCE OF DENMARK",Tragedy,1600,William Shakespeare,contents,dialogue,ACT I,SCENE II,HAMLET,462,mine
 1524,Hamlet,"THE TRAGEDY OF HAMLET, PRINCE OF DENMARK",Tragedy,1600,William Shakespeare,contents,dialogue,ACT I,SCENE II,HAMLET,462,farewell
 1524,Hamlet,"THE TRAGEDY OF HAMLET, PRINCE OF DENMARK",Tragedy,1600,William Shakespeare,contents,directions,ACT I,SCENE II,NA,NA,horatio
 1524,Hamlet,"THE TRAGEDY OF HAMLET, PRINCE OF DENMARK",Tragedy,1600,William Shakespeare,contents,directions,ACT I,SCENE II,NA,NA,marcellus
@@ -1222,7 +1206,6 @@ gutenberg_id,short_title,gutenberg_title,genre,year,author,section,class,act,sce
 1524,Hamlet,"THE TRAGEDY OF HAMLET, PRINCE OF DENMARK",Tragedy,1600,William Shakespeare,contents,dialogue,ACT I,SCENE II,HAMLET,464,foul
 1524,Hamlet,"THE TRAGEDY OF HAMLET, PRINCE OF DENMARK",Tragedy,1600,William Shakespeare,contents,dialogue,ACT I,SCENE II,HAMLET,464,play
 1524,Hamlet,"THE TRAGEDY OF HAMLET, PRINCE OF DENMARK",Tragedy,1600,William Shakespeare,contents,dialogue,ACT I,SCENE II,HAMLET,464,night
-1524,Hamlet,"THE TRAGEDY OF HAMLET, PRINCE OF DENMARK",Tragedy,1600,William Shakespeare,contents,dialogue,ACT I,SCENE II,HAMLET,465,till
 1524,Hamlet,"THE TRAGEDY OF HAMLET, PRINCE OF DENMARK",Tragedy,1600,William Shakespeare,contents,dialogue,ACT I,SCENE II,HAMLET,465,sit
 1524,Hamlet,"THE TRAGEDY OF HAMLET, PRINCE OF DENMARK",Tragedy,1600,William Shakespeare,contents,dialogue,ACT I,SCENE II,HAMLET,465,soul
 1524,Hamlet,"THE TRAGEDY OF HAMLET, PRINCE OF DENMARK",Tragedy,1600,William Shakespeare,contents,dialogue,ACT I,SCENE II,HAMLET,465,foul
@@ -1416,7 +1399,6 @@ gutenberg_id,short_title,gutenberg_title,genre,year,author,section,class,act,sce
 1524,Hamlet,"THE TRAGEDY OF HAMLET, PRINCE OF DENMARK",Tragedy,1600,William Shakespeare,contents,dialogue,ACT I,SCENE III,POLONIUS,531,means
 1524,Hamlet,"THE TRAGEDY OF HAMLET, PRINCE OF DENMARK",Tragedy,1600,William Shakespeare,contents,dialogue,ACT I,SCENE III,POLONIUS,531,vulgar
 1524,Hamlet,"THE TRAGEDY OF HAMLET, PRINCE OF DENMARK",Tragedy,1600,William Shakespeare,contents,dialogue,ACT I,SCENE III,POLONIUS,532,friends
-1524,Hamlet,"THE TRAGEDY OF HAMLET, PRINCE OF DENMARK",Tragedy,1600,William Shakespeare,contents,dialogue,ACT I,SCENE III,POLONIUS,532,hast
 1524,Hamlet,"THE TRAGEDY OF HAMLET, PRINCE OF DENMARK",Tragedy,1600,William Shakespeare,contents,dialogue,ACT I,SCENE III,POLONIUS,532,adoption
 1524,Hamlet,"THE TRAGEDY OF HAMLET, PRINCE OF DENMARK",Tragedy,1600,William Shakespeare,contents,dialogue,ACT I,SCENE III,POLONIUS,533,grapple
 1524,Hamlet,"THE TRAGEDY OF HAMLET, PRINCE OF DENMARK",Tragedy,1600,William Shakespeare,contents,dialogue,ACT I,SCENE III,POLONIUS,533,soul
@@ -1548,7 +1530,6 @@ gutenberg_id,short_title,gutenberg_title,genre,year,author,section,class,act,sce
 1524,Hamlet,"THE TRAGEDY OF HAMLET, PRINCE OF DENMARK",Tragedy,1600,William Shakespeare,contents,dialogue,ACT I,SCENE III,OPHELIA,581,love
 1524,Hamlet,"THE TRAGEDY OF HAMLET, PRINCE OF DENMARK",Tragedy,1600,William Shakespeare,contents,dialogue,ACT I,SCENE III,OPHELIA,582,honourable
 1524,Hamlet,"THE TRAGEDY OF HAMLET, PRINCE OF DENMARK",Tragedy,1600,William Shakespeare,contents,dialogue,ACT I,SCENE III,OPHELIA,582,fashion
-1524,Hamlet,"THE TRAGEDY OF HAMLET, PRINCE OF DENMARK",Tragedy,1600,William Shakespeare,contents,dialogue,ACT I,SCENE III,POLONIUS,583,ay
 1524,Hamlet,"THE TRAGEDY OF HAMLET, PRINCE OF DENMARK",Tragedy,1600,William Shakespeare,contents,dialogue,ACT I,SCENE III,POLONIUS,583,fashion
 1524,Hamlet,"THE TRAGEDY OF HAMLET, PRINCE OF DENMARK",Tragedy,1600,William Shakespeare,contents,dialogue,ACT I,SCENE III,POLONIUS,583,call
 1524,Hamlet,"THE TRAGEDY OF HAMLET, PRINCE OF DENMARK",Tragedy,1600,William Shakespeare,contents,dialogue,ACT I,SCENE III,OPHELIA,584,countenance
@@ -1557,7 +1538,6 @@ gutenberg_id,short_title,gutenberg_title,genre,year,author,section,class,act,sce
 1524,Hamlet,"THE TRAGEDY OF HAMLET, PRINCE OF DENMARK",Tragedy,1600,William Shakespeare,contents,dialogue,ACT I,SCENE III,OPHELIA,585,holy
 1524,Hamlet,"THE TRAGEDY OF HAMLET, PRINCE OF DENMARK",Tragedy,1600,William Shakespeare,contents,dialogue,ACT I,SCENE III,OPHELIA,585,vows
 1524,Hamlet,"THE TRAGEDY OF HAMLET, PRINCE OF DENMARK",Tragedy,1600,William Shakespeare,contents,dialogue,ACT I,SCENE III,OPHELIA,585,heaven
-1524,Hamlet,"THE TRAGEDY OF HAMLET, PRINCE OF DENMARK",Tragedy,1600,William Shakespeare,contents,dialogue,ACT I,SCENE III,POLONIUS,586,ay
 1524,Hamlet,"THE TRAGEDY OF HAMLET, PRINCE OF DENMARK",Tragedy,1600,William Shakespeare,contents,dialogue,ACT I,SCENE III,POLONIUS,586,springes
 1524,Hamlet,"THE TRAGEDY OF HAMLET, PRINCE OF DENMARK",Tragedy,1600,William Shakespeare,contents,dialogue,ACT I,SCENE III,POLONIUS,586,catch
 1524,Hamlet,"THE TRAGEDY OF HAMLET, PRINCE OF DENMARK",Tragedy,1600,William Shakespeare,contents,dialogue,ACT I,SCENE III,POLONIUS,586,woodcocks
@@ -1663,7 +1643,6 @@ gutenberg_id,short_title,gutenberg_title,genre,year,author,section,class,act,sce
 1524,Hamlet,"THE TRAGEDY OF HAMLET, PRINCE OF DENMARK",Tragedy,1600,William Shakespeare,contents,dialogue,ACT I,SCENE IV,HAMLET,620,triumph
 1524,Hamlet,"THE TRAGEDY OF HAMLET, PRINCE OF DENMARK",Tragedy,1600,William Shakespeare,contents,dialogue,ACT I,SCENE IV,HAMLET,620,pledge
 1524,Hamlet,"THE TRAGEDY OF HAMLET, PRINCE OF DENMARK",Tragedy,1600,William Shakespeare,contents,dialogue,ACT I,SCENE IV,HORATIO,621,custom
-1524,Hamlet,"THE TRAGEDY OF HAMLET, PRINCE OF DENMARK",Tragedy,1600,William Shakespeare,contents,dialogue,ACT I,SCENE IV,HAMLET,622,ay
 1524,Hamlet,"THE TRAGEDY OF HAMLET, PRINCE OF DENMARK",Tragedy,1600,William Shakespeare,contents,dialogue,ACT I,SCENE IV,HAMLET,622,marry
 1524,Hamlet,"THE TRAGEDY OF HAMLET, PRINCE OF DENMARK",Tragedy,1600,William Shakespeare,contents,dialogue,ACT I,SCENE IV,HAMLET,622,is't
 1524,Hamlet,"THE TRAGEDY OF HAMLET, PRINCE OF DENMARK",Tragedy,1600,William Shakespeare,contents,dialogue,ACT I,SCENE IV,HAMLET,623,mind
@@ -1891,7 +1870,6 @@ gutenberg_id,short_title,gutenberg_title,genre,year,author,section,class,act,sce
 1524,Hamlet,"THE TRAGEDY OF HAMLET, PRINCE OF DENMARK",Tragedy,1600,William Shakespeare,contents,dialogue,ACT I,SCENE IV,MARCELLUS,706,denmark
 1524,Hamlet,"THE TRAGEDY OF HAMLET, PRINCE OF DENMARK",Tragedy,1600,William Shakespeare,contents,dialogue,ACT I,SCENE IV,HORATIO,707,heaven
 1524,Hamlet,"THE TRAGEDY OF HAMLET, PRINCE OF DENMARK",Tragedy,1600,William Shakespeare,contents,dialogue,ACT I,SCENE IV,HORATIO,707,direct
-1524,Hamlet,"THE TRAGEDY OF HAMLET, PRINCE OF DENMARK",Tragedy,1600,William Shakespeare,contents,dialogue,ACT I,SCENE IV,MARCELLUS,708,nay
 1524,Hamlet,"THE TRAGEDY OF HAMLET, PRINCE OF DENMARK",Tragedy,1600,William Shakespeare,contents,dialogue,ACT I,SCENE IV,MARCELLUS,708,follow
 1524,Hamlet,"THE TRAGEDY OF HAMLET, PRINCE OF DENMARK",Tragedy,1600,William Shakespeare,contents,directions,ACT I,SCENE V,NA,NA,ghost
 1524,Hamlet,"THE TRAGEDY OF HAMLET, PRINCE OF DENMARK",Tragedy,1600,William Shakespeare,contents,directions,ACT I,SCENE V,NA,NA,hamlet
@@ -1925,7 +1903,6 @@ gutenberg_id,short_title,gutenberg_title,genre,year,author,section,class,act,sce
 1524,Hamlet,"THE TRAGEDY OF HAMLET, PRINCE OF DENMARK",Tragedy,1600,William Shakespeare,contents,dialogue,ACT I,SCENE V,GHOST,723,confin'd
 1524,Hamlet,"THE TRAGEDY OF HAMLET, PRINCE OF DENMARK",Tragedy,1600,William Shakespeare,contents,dialogue,ACT I,SCENE V,GHOST,723,fast
 1524,Hamlet,"THE TRAGEDY OF HAMLET, PRINCE OF DENMARK",Tragedy,1600,William Shakespeare,contents,dialogue,ACT I,SCENE V,GHOST,723,fires
-1524,Hamlet,"THE TRAGEDY OF HAMLET, PRINCE OF DENMARK",Tragedy,1600,William Shakespeare,contents,dialogue,ACT I,SCENE V,GHOST,724,till
 1524,Hamlet,"THE TRAGEDY OF HAMLET, PRINCE OF DENMARK",Tragedy,1600,William Shakespeare,contents,dialogue,ACT I,SCENE V,GHOST,724,foul
 1524,Hamlet,"THE TRAGEDY OF HAMLET, PRINCE OF DENMARK",Tragedy,1600,William Shakespeare,contents,dialogue,ACT I,SCENE V,GHOST,724,crimes
 1524,Hamlet,"THE TRAGEDY OF HAMLET, PRINCE OF DENMARK",Tragedy,1600,William Shakespeare,contents,dialogue,ACT I,SCENE V,GHOST,724,days
@@ -2021,9 +1998,7 @@ gutenberg_id,short_title,gutenberg_title,genre,year,author,section,class,act,sce
 1524,Hamlet,"THE TRAGEDY OF HAMLET, PRINCE OF DENMARK",Tragedy,1600,William Shakespeare,contents,dialogue,ACT I,SCENE V,GHOST,753,crown
 1524,Hamlet,"THE TRAGEDY OF HAMLET, PRINCE OF DENMARK",Tragedy,1600,William Shakespeare,contents,dialogue,ACT I,SCENE V,HAMLET,754,prophetic
 1524,Hamlet,"THE TRAGEDY OF HAMLET, PRINCE OF DENMARK",Tragedy,1600,William Shakespeare,contents,dialogue,ACT I,SCENE V,HAMLET,754,soul
-1524,Hamlet,"THE TRAGEDY OF HAMLET, PRINCE OF DENMARK",Tragedy,1600,William Shakespeare,contents,dialogue,ACT I,SCENE V,HAMLET,755,mine
 1524,Hamlet,"THE TRAGEDY OF HAMLET, PRINCE OF DENMARK",Tragedy,1600,William Shakespeare,contents,dialogue,ACT I,SCENE V,HAMLET,755,uncle
-1524,Hamlet,"THE TRAGEDY OF HAMLET, PRINCE OF DENMARK",Tragedy,1600,William Shakespeare,contents,dialogue,ACT I,SCENE V,GHOST,756,ay
 1524,Hamlet,"THE TRAGEDY OF HAMLET, PRINCE OF DENMARK",Tragedy,1600,William Shakespeare,contents,dialogue,ACT I,SCENE V,GHOST,756,incestuous
 1524,Hamlet,"THE TRAGEDY OF HAMLET, PRINCE OF DENMARK",Tragedy,1600,William Shakespeare,contents,dialogue,ACT I,SCENE V,GHOST,756,adulterate
 1524,Hamlet,"THE TRAGEDY OF HAMLET, PRINCE OF DENMARK",Tragedy,1600,William Shakespeare,contents,dialogue,ACT I,SCENE V,GHOST,756,beast
@@ -2054,7 +2029,6 @@ gutenberg_id,short_title,gutenberg_title,genre,year,author,section,class,act,sce
 1524,Hamlet,"THE TRAGEDY OF HAMLET, PRINCE OF DENMARK",Tragedy,1600,William Shakespeare,contents,dialogue,ACT I,SCENE V,GHOST,765,natural
 1524,Hamlet,"THE TRAGEDY OF HAMLET, PRINCE OF DENMARK",Tragedy,1600,William Shakespeare,contents,dialogue,ACT I,SCENE V,GHOST,765,gifts
 1524,Hamlet,"THE TRAGEDY OF HAMLET, PRINCE OF DENMARK",Tragedy,1600,William Shakespeare,contents,dialogue,ACT I,SCENE V,GHOST,765,poor
-1524,Hamlet,"THE TRAGEDY OF HAMLET, PRINCE OF DENMARK",Tragedy,1600,William Shakespeare,contents,dialogue,ACT I,SCENE V,GHOST,766,mine
 1524,Hamlet,"THE TRAGEDY OF HAMLET, PRINCE OF DENMARK",Tragedy,1600,William Shakespeare,contents,dialogue,ACT I,SCENE V,GHOST,766,virtue
 1524,Hamlet,"THE TRAGEDY OF HAMLET, PRINCE OF DENMARK",Tragedy,1600,William Shakespeare,contents,dialogue,ACT I,SCENE V,GHOST,766,mov'd
 1524,Hamlet,"THE TRAGEDY OF HAMLET, PRINCE OF DENMARK",Tragedy,1600,William Shakespeare,contents,dialogue,ACT I,SCENE V,GHOST,767,lewdness
@@ -2113,7 +2087,6 @@ gutenberg_id,short_title,gutenberg_title,genre,year,author,section,class,act,sce
 1524,Hamlet,"THE TRAGEDY OF HAMLET, PRINCE OF DENMARK",Tragedy,1600,William Shakespeare,contents,dialogue,ACT I,SCENE V,GHOST,783,thin
 1524,Hamlet,"THE TRAGEDY OF HAMLET, PRINCE OF DENMARK",Tragedy,1600,William Shakespeare,contents,dialogue,ACT I,SCENE V,GHOST,783,wholesome
 1524,Hamlet,"THE TRAGEDY OF HAMLET, PRINCE OF DENMARK",Tragedy,1600,William Shakespeare,contents,dialogue,ACT I,SCENE V,GHOST,783,blood
-1524,Hamlet,"THE TRAGEDY OF HAMLET, PRINCE OF DENMARK",Tragedy,1600,William Shakespeare,contents,dialogue,ACT I,SCENE V,GHOST,783,mine
 1524,Hamlet,"THE TRAGEDY OF HAMLET, PRINCE OF DENMARK",Tragedy,1600,William Shakespeare,contents,dialogue,ACT I,SCENE V,GHOST,784,instant
 1524,Hamlet,"THE TRAGEDY OF HAMLET, PRINCE OF DENMARK",Tragedy,1600,William Shakespeare,contents,dialogue,ACT I,SCENE V,GHOST,784,tetter
 1524,Hamlet,"THE TRAGEDY OF HAMLET, PRINCE OF DENMARK",Tragedy,1600,William Shakespeare,contents,dialogue,ACT I,SCENE V,GHOST,784,bark'd
@@ -2143,7 +2116,6 @@ gutenberg_id,short_title,gutenberg_title,genre,year,author,section,class,act,sce
 1524,Hamlet,"THE TRAGEDY OF HAMLET, PRINCE OF DENMARK",Tragedy,1600,William Shakespeare,contents,dialogue,ACT I,SCENE V,GHOST,793,horrible
 1524,Hamlet,"THE TRAGEDY OF HAMLET, PRINCE OF DENMARK",Tragedy,1600,William Shakespeare,contents,dialogue,ACT I,SCENE V,GHOST,793,horrible
 1524,Hamlet,"THE TRAGEDY OF HAMLET, PRINCE OF DENMARK",Tragedy,1600,William Shakespeare,contents,dialogue,ACT I,SCENE V,GHOST,793,horrible
-1524,Hamlet,"THE TRAGEDY OF HAMLET, PRINCE OF DENMARK",Tragedy,1600,William Shakespeare,contents,dialogue,ACT I,SCENE V,GHOST,794,hast
 1524,Hamlet,"THE TRAGEDY OF HAMLET, PRINCE OF DENMARK",Tragedy,1600,William Shakespeare,contents,dialogue,ACT I,SCENE V,GHOST,794,nature
 1524,Hamlet,"THE TRAGEDY OF HAMLET, PRINCE OF DENMARK",Tragedy,1600,William Shakespeare,contents,dialogue,ACT I,SCENE V,GHOST,794,bear
 1524,Hamlet,"THE TRAGEDY OF HAMLET, PRINCE OF DENMARK",Tragedy,1600,William Shakespeare,contents,dialogue,ACT I,SCENE V,GHOST,795,royal
@@ -2194,7 +2166,6 @@ gutenberg_id,short_title,gutenberg_title,genre,year,author,section,class,act,sce
 1524,Hamlet,"THE TRAGEDY OF HAMLET, PRINCE OF DENMARK",Tragedy,1600,William Shakespeare,contents,dialogue,ACT I,SCENE V,HAMLET,808,bear
 1524,Hamlet,"THE TRAGEDY OF HAMLET, PRINCE OF DENMARK",Tragedy,1600,William Shakespeare,contents,dialogue,ACT I,SCENE V,HAMLET,808,stiffly
 1524,Hamlet,"THE TRAGEDY OF HAMLET, PRINCE OF DENMARK",Tragedy,1600,William Shakespeare,contents,dialogue,ACT I,SCENE V,HAMLET,808,remember
-1524,Hamlet,"THE TRAGEDY OF HAMLET, PRINCE OF DENMARK",Tragedy,1600,William Shakespeare,contents,dialogue,ACT I,SCENE V,HAMLET,809,ay
 1524,Hamlet,"THE TRAGEDY OF HAMLET, PRINCE OF DENMARK",Tragedy,1600,William Shakespeare,contents,dialogue,ACT I,SCENE V,HAMLET,809,poor
 1524,Hamlet,"THE TRAGEDY OF HAMLET, PRINCE OF DENMARK",Tragedy,1600,William Shakespeare,contents,dialogue,ACT I,SCENE V,HAMLET,809,ghost
 1524,Hamlet,"THE TRAGEDY OF HAMLET, PRINCE OF DENMARK",Tragedy,1600,William Shakespeare,contents,dialogue,ACT I,SCENE V,HAMLET,809,memory
@@ -2278,7 +2249,6 @@ gutenberg_id,short_title,gutenberg_title,genre,year,author,section,class,act,sce
 1524,Hamlet,"THE TRAGEDY OF HAMLET, PRINCE OF DENMARK",Tragedy,1600,William Shakespeare,contents,dialogue,ACT I,SCENE V,MARCELLUS,838,lord
 1524,Hamlet,"THE TRAGEDY OF HAMLET, PRINCE OF DENMARK",Tragedy,1600,William Shakespeare,contents,dialogue,ACT I,SCENE V,HAMLET,839,heart
 1524,Hamlet,"THE TRAGEDY OF HAMLET, PRINCE OF DENMARK",Tragedy,1600,William Shakespeare,contents,dialogue,ACT I,SCENE V,HAMLET,840,secret
-1524,Hamlet,"THE TRAGEDY OF HAMLET, PRINCE OF DENMARK",Tragedy,1600,William Shakespeare,contents,dialogue,ACT I,SCENE V,HORATIO and MARCELLUS,841,ay
 1524,Hamlet,"THE TRAGEDY OF HAMLET, PRINCE OF DENMARK",Tragedy,1600,William Shakespeare,contents,dialogue,ACT I,SCENE V,HORATIO and MARCELLUS,841,heaven
 1524,Hamlet,"THE TRAGEDY OF HAMLET, PRINCE OF DENMARK",Tragedy,1600,William Shakespeare,contents,dialogue,ACT I,SCENE V,HORATIO and MARCELLUS,841,lord
 1524,Hamlet,"THE TRAGEDY OF HAMLET, PRINCE OF DENMARK",Tragedy,1600,William Shakespeare,contents,dialogue,ACT I,SCENE V,HAMLET,842,ne'er
@@ -2331,7 +2301,6 @@ gutenberg_id,short_title,gutenberg_title,genre,year,author,section,class,act,sce
 1524,Hamlet,"THE TRAGEDY OF HAMLET, PRINCE OF DENMARK",Tragedy,1600,William Shakespeare,contents,dialogue,ACT I,SCENE V,HORATIO,864,lord
 1524,Hamlet,"THE TRAGEDY OF HAMLET, PRINCE OF DENMARK",Tragedy,1600,William Shakespeare,contents,dialogue,ACT I,SCENE V,HAMLET,865,tonight
 1524,Hamlet,"THE TRAGEDY OF HAMLET, PRINCE OF DENMARK",Tragedy,1600,William Shakespeare,contents,dialogue,ACT I,SCENE V,HORATIO and MARCELLUS,866,lord
-1524,Hamlet,"THE TRAGEDY OF HAMLET, PRINCE OF DENMARK",Tragedy,1600,William Shakespeare,contents,dialogue,ACT I,SCENE V,HAMLET,867,nay
 1524,Hamlet,"THE TRAGEDY OF HAMLET, PRINCE OF DENMARK",Tragedy,1600,William Shakespeare,contents,dialogue,ACT I,SCENE V,HAMLET,867,swear't
 1524,Hamlet,"THE TRAGEDY OF HAMLET, PRINCE OF DENMARK",Tragedy,1600,William Shakespeare,contents,dialogue,ACT I,SCENE V,HORATIO,868,faith
 1524,Hamlet,"THE TRAGEDY OF HAMLET, PRINCE OF DENMARK",Tragedy,1600,William Shakespeare,contents,dialogue,ACT I,SCENE V,HORATIO,868,lord
@@ -2445,7 +2414,6 @@ gutenberg_id,short_title,gutenberg_title,genre,year,author,section,class,act,sce
 1524,Hamlet,"THE TRAGEDY OF HAMLET, PRINCE OF DENMARK",Tragedy,1600,William Shakespeare,contents,dialogue,ACT I,SCENE V,HAMLET,913,spite
 1524,Hamlet,"THE TRAGEDY OF HAMLET, PRINCE OF DENMARK",Tragedy,1600,William Shakespeare,contents,dialogue,ACT I,SCENE V,HAMLET,914,born
 1524,Hamlet,"THE TRAGEDY OF HAMLET, PRINCE OF DENMARK",Tragedy,1600,William Shakespeare,contents,dialogue,ACT I,SCENE V,HAMLET,914,set
-1524,Hamlet,"THE TRAGEDY OF HAMLET, PRINCE OF DENMARK",Tragedy,1600,William Shakespeare,contents,dialogue,ACT I,SCENE V,HAMLET,915,nay
 1524,Hamlet,"THE TRAGEDY OF HAMLET, PRINCE OF DENMARK",Tragedy,1600,William Shakespeare,contents,directions,ACT II,SCENE I,NA,NA,polonius
 1524,Hamlet,"THE TRAGEDY OF HAMLET, PRINCE OF DENMARK",Tragedy,1600,William Shakespeare,contents,directions,ACT II,SCENE I,NA,NA,reynaldo
 1524,Hamlet,"THE TRAGEDY OF HAMLET, PRINCE OF DENMARK",Tragedy,1600,William Shakespeare,contents,dialogue,ACT II,SCENE I,POLONIUS,916,money
@@ -2483,7 +2451,6 @@ gutenberg_id,short_title,gutenberg_title,genre,year,author,section,class,act,sce
 1524,Hamlet,"THE TRAGEDY OF HAMLET, PRINCE OF DENMARK",Tragedy,1600,William Shakespeare,contents,dialogue,ACT II,SCENE I,POLONIUS,930,friends
 1524,Hamlet,"THE TRAGEDY OF HAMLET, PRINCE OF DENMARK",Tragedy,1600,William Shakespeare,contents,dialogue,ACT II,SCENE I,POLONIUS,931,mark
 1524,Hamlet,"THE TRAGEDY OF HAMLET, PRINCE OF DENMARK",Tragedy,1600,William Shakespeare,contents,dialogue,ACT II,SCENE I,POLONIUS,931,reynaldo
-1524,Hamlet,"THE TRAGEDY OF HAMLET, PRINCE OF DENMARK",Tragedy,1600,William Shakespeare,contents,dialogue,ACT II,SCENE I,REYNALDO,932,ay
 1524,Hamlet,"THE TRAGEDY OF HAMLET, PRINCE OF DENMARK",Tragedy,1600,William Shakespeare,contents,dialogue,ACT II,SCENE I,REYNALDO,932,lord
 1524,Hamlet,"THE TRAGEDY OF HAMLET, PRINCE OF DENMARK",Tragedy,1600,William Shakespeare,contents,dialogue,ACT II,SCENE I,POLONIUS,934,if't
 1524,Hamlet,"THE TRAGEDY OF HAMLET, PRINCE OF DENMARK",Tragedy,1600,William Shakespeare,contents,dialogue,ACT II,SCENE I,POLONIUS,934,wild
@@ -2504,7 +2471,6 @@ gutenberg_id,short_title,gutenberg_title,genre,year,author,section,class,act,sce
 1524,Hamlet,"THE TRAGEDY OF HAMLET, PRINCE OF DENMARK",Tragedy,1600,William Shakespeare,contents,dialogue,ACT II,SCENE I,POLONIUS,940,liberty
 1524,Hamlet,"THE TRAGEDY OF HAMLET, PRINCE OF DENMARK",Tragedy,1600,William Shakespeare,contents,dialogue,ACT II,SCENE I,REYNALDO,941,gaming
 1524,Hamlet,"THE TRAGEDY OF HAMLET, PRINCE OF DENMARK",Tragedy,1600,William Shakespeare,contents,dialogue,ACT II,SCENE I,REYNALDO,941,lord
-1524,Hamlet,"THE TRAGEDY OF HAMLET, PRINCE OF DENMARK",Tragedy,1600,William Shakespeare,contents,dialogue,ACT II,SCENE I,POLONIUS,942,ay
 1524,Hamlet,"THE TRAGEDY OF HAMLET, PRINCE OF DENMARK",Tragedy,1600,William Shakespeare,contents,dialogue,ACT II,SCENE I,POLONIUS,942,drinking
 1524,Hamlet,"THE TRAGEDY OF HAMLET, PRINCE OF DENMARK",Tragedy,1600,William Shakespeare,contents,dialogue,ACT II,SCENE I,POLONIUS,942,fencing
 1524,Hamlet,"THE TRAGEDY OF HAMLET, PRINCE OF DENMARK",Tragedy,1600,William Shakespeare,contents,dialogue,ACT II,SCENE I,POLONIUS,942,swearing
@@ -2533,7 +2499,6 @@ gutenberg_id,short_title,gutenberg_title,genre,year,author,section,class,act,sce
 1524,Hamlet,"THE TRAGEDY OF HAMLET, PRINCE OF DENMARK",Tragedy,1600,William Shakespeare,contents,dialogue,ACT II,SCENE I,POLONIUS,952,assault
 1524,Hamlet,"THE TRAGEDY OF HAMLET, PRINCE OF DENMARK",Tragedy,1600,William Shakespeare,contents,dialogue,ACT II,SCENE I,REYNALDO,953,lord
 1524,Hamlet,"THE TRAGEDY OF HAMLET, PRINCE OF DENMARK",Tragedy,1600,William Shakespeare,contents,dialogue,ACT II,SCENE I,POLONIUS,954,wherefore
-1524,Hamlet,"THE TRAGEDY OF HAMLET, PRINCE OF DENMARK",Tragedy,1600,William Shakespeare,contents,dialogue,ACT II,SCENE I,REYNALDO,955,ay
 1524,Hamlet,"THE TRAGEDY OF HAMLET, PRINCE OF DENMARK",Tragedy,1600,William Shakespeare,contents,dialogue,ACT II,SCENE I,REYNALDO,955,lord
 1524,Hamlet,"THE TRAGEDY OF HAMLET, PRINCE OF DENMARK",Tragedy,1600,William Shakespeare,contents,dialogue,ACT II,SCENE I,POLONIUS,956,marry
 1524,Hamlet,"THE TRAGEDY OF HAMLET, PRINCE OF DENMARK",Tragedy,1600,William Shakespeare,contents,dialogue,ACT II,SCENE I,POLONIUS,956,sir
@@ -2574,7 +2539,6 @@ gutenberg_id,short_title,gutenberg_title,genre,year,author,section,class,act,sce
 1524,Hamlet,"THE TRAGEDY OF HAMLET, PRINCE OF DENMARK",Tragedy,1600,William Shakespeare,contents,dialogue,ACT II,SCENE I,REYNALDO,973,gentleman
 1524,Hamlet,"THE TRAGEDY OF HAMLET, PRINCE OF DENMARK",Tragedy,1600,William Shakespeare,contents,dialogue,ACT II,SCENE I,POLONIUS,974,closes
 1524,Hamlet,"THE TRAGEDY OF HAMLET, PRINCE OF DENMARK",Tragedy,1600,William Shakespeare,contents,dialogue,ACT II,SCENE I,POLONIUS,974,consequence
-1524,Hamlet,"THE TRAGEDY OF HAMLET, PRINCE OF DENMARK",Tragedy,1600,William Shakespeare,contents,dialogue,ACT II,SCENE I,POLONIUS,974,ay
 1524,Hamlet,"THE TRAGEDY OF HAMLET, PRINCE OF DENMARK",Tragedy,1600,William Shakespeare,contents,dialogue,ACT II,SCENE I,POLONIUS,974,marry
 1524,Hamlet,"THE TRAGEDY OF HAMLET, PRINCE OF DENMARK",Tragedy,1600,William Shakespeare,contents,dialogue,ACT II,SCENE I,POLONIUS,975,closes
 1524,Hamlet,"THE TRAGEDY OF HAMLET, PRINCE OF DENMARK",Tragedy,1600,William Shakespeare,contents,dialogue,ACT II,SCENE I,POLONIUS,975,gentleman
@@ -2668,7 +2632,6 @@ gutenberg_id,short_title,gutenberg_title,genre,year,author,section,class,act,sce
 1524,Hamlet,"THE TRAGEDY OF HAMLET, PRINCE OF DENMARK",Tragedy,1600,William Shakespeare,contents,dialogue,ACT II,SCENE I,OPHELIA,1014,draw
 1524,Hamlet,"THE TRAGEDY OF HAMLET, PRINCE OF DENMARK",Tragedy,1600,William Shakespeare,contents,dialogue,ACT II,SCENE I,OPHELIA,1014,stay'd
 1524,Hamlet,"THE TRAGEDY OF HAMLET, PRINCE OF DENMARK",Tragedy,1600,William Shakespeare,contents,dialogue,ACT II,SCENE I,OPHELIA,1015,shaking
-1524,Hamlet,"THE TRAGEDY OF HAMLET, PRINCE OF DENMARK",Tragedy,1600,William Shakespeare,contents,dialogue,ACT II,SCENE I,OPHELIA,1015,mine
 1524,Hamlet,"THE TRAGEDY OF HAMLET, PRINCE OF DENMARK",Tragedy,1600,William Shakespeare,contents,dialogue,ACT II,SCENE I,OPHELIA,1015,arm
 1524,Hamlet,"THE TRAGEDY OF HAMLET, PRINCE OF DENMARK",Tragedy,1600,William Shakespeare,contents,dialogue,ACT II,SCENE I,OPHELIA,1016,thrice
 1524,Hamlet,"THE TRAGEDY OF HAMLET, PRINCE OF DENMARK",Tragedy,1600,William Shakespeare,contents,dialogue,ACT II,SCENE I,OPHELIA,1016,head
@@ -2829,7 +2792,6 @@ gutenberg_id,short_title,gutenberg_title,genre,year,author,section,class,act,sce
 1524,Hamlet,"THE TRAGEDY OF HAMLET, PRINCE OF DENMARK",Tragedy,1600,William Shakespeare,contents,dialogue,ACT II,SCENE II,GUILDENSTERN,1083,practices
 1524,Hamlet,"THE TRAGEDY OF HAMLET, PRINCE OF DENMARK",Tragedy,1600,William Shakespeare,contents,dialogue,ACT II,SCENE II,GUILDENSTERN,1084,pleasant
 1524,Hamlet,"THE TRAGEDY OF HAMLET, PRINCE OF DENMARK",Tragedy,1600,William Shakespeare,contents,dialogue,ACT II,SCENE II,GUILDENSTERN,1084,helpful
-1524,Hamlet,"THE TRAGEDY OF HAMLET, PRINCE OF DENMARK",Tragedy,1600,William Shakespeare,contents,dialogue,ACT II,SCENE II,QUEEN,1085,ay
 1524,Hamlet,"THE TRAGEDY OF HAMLET, PRINCE OF DENMARK",Tragedy,1600,William Shakespeare,contents,dialogue,ACT II,SCENE II,QUEEN,1085,amen
 1524,Hamlet,"THE TRAGEDY OF HAMLET, PRINCE OF DENMARK",Tragedy,1600,William Shakespeare,contents,directions,ACT II,SCENE II,NA,NA,rosencrantz
 1524,Hamlet,"THE TRAGEDY OF HAMLET, PRINCE OF DENMARK",Tragedy,1600,William Shakespeare,contents,directions,ACT II,SCENE II,NA,NA,guildenstern
@@ -2840,7 +2802,6 @@ gutenberg_id,short_title,gutenberg_title,genre,year,author,section,class,act,sce
 1524,Hamlet,"THE TRAGEDY OF HAMLET, PRINCE OF DENMARK",Tragedy,1600,William Shakespeare,contents,dialogue,ACT II,SCENE II,POLONIUS,1086,lord
 1524,Hamlet,"THE TRAGEDY OF HAMLET, PRINCE OF DENMARK",Tragedy,1600,William Shakespeare,contents,dialogue,ACT II,SCENE II,POLONIUS,1087,joyfully
 1524,Hamlet,"THE TRAGEDY OF HAMLET, PRINCE OF DENMARK",Tragedy,1600,William Shakespeare,contents,dialogue,ACT II,SCENE II,POLONIUS,1087,return'd
-1524,Hamlet,"THE TRAGEDY OF HAMLET, PRINCE OF DENMARK",Tragedy,1600,William Shakespeare,contents,dialogue,ACT II,SCENE II,KING,1088,hast
 1524,Hamlet,"THE TRAGEDY OF HAMLET, PRINCE OF DENMARK",Tragedy,1600,William Shakespeare,contents,dialogue,ACT II,SCENE II,KING,1088,father
 1524,Hamlet,"THE TRAGEDY OF HAMLET, PRINCE OF DENMARK",Tragedy,1600,William Shakespeare,contents,dialogue,ACT II,SCENE II,KING,1088,news
 1524,Hamlet,"THE TRAGEDY OF HAMLET, PRINCE OF DENMARK",Tragedy,1600,William Shakespeare,contents,dialogue,ACT II,SCENE II,POLONIUS,1089,lord
@@ -2854,7 +2815,6 @@ gutenberg_id,short_title,gutenberg_title,genre,year,author,section,class,act,sce
 1524,Hamlet,"THE TRAGEDY OF HAMLET, PRINCE OF DENMARK",Tragedy,1600,William Shakespeare,contents,dialogue,ACT II,SCENE II,POLONIUS,1091,gracious
 1524,Hamlet,"THE TRAGEDY OF HAMLET, PRINCE OF DENMARK",Tragedy,1600,William Shakespeare,contents,dialogue,ACT II,SCENE II,POLONIUS,1091,king
 1524,Hamlet,"THE TRAGEDY OF HAMLET, PRINCE OF DENMARK",Tragedy,1600,William Shakespeare,contents,dialogue,ACT II,SCENE II,POLONIUS,1092,brain
-1524,Hamlet,"THE TRAGEDY OF HAMLET, PRINCE OF DENMARK",Tragedy,1600,William Shakespeare,contents,dialogue,ACT II,SCENE II,POLONIUS,1092,mine
 1524,Hamlet,"THE TRAGEDY OF HAMLET, PRINCE OF DENMARK",Tragedy,1600,William Shakespeare,contents,dialogue,ACT II,SCENE II,POLONIUS,1093,hunts
 1524,Hamlet,"THE TRAGEDY OF HAMLET, PRINCE OF DENMARK",Tragedy,1600,William Shakespeare,contents,dialogue,ACT II,SCENE II,POLONIUS,1093,trail
 1524,Hamlet,"THE TRAGEDY OF HAMLET, PRINCE OF DENMARK",Tragedy,1600,William Shakespeare,contents,dialogue,ACT II,SCENE II,POLONIUS,1093,policy
@@ -3023,7 +2983,6 @@ gutenberg_id,short_title,gutenberg_title,genre,year,author,section,class,act,sce
 1524,Hamlet,"THE TRAGEDY OF HAMLET, PRINCE OF DENMARK",Tragedy,1600,William Shakespeare,contents,dialogue,ACT II,SCENE II,POLONIUS,1154,perpend
 1524,Hamlet,"THE TRAGEDY OF HAMLET, PRINCE OF DENMARK",Tragedy,1600,William Shakespeare,contents,dialogue,ACT II,SCENE II,POLONIUS,1155,daughter
 1524,Hamlet,"THE TRAGEDY OF HAMLET, PRINCE OF DENMARK",Tragedy,1600,William Shakespeare,contents,dialogue,ACT II,SCENE II,POLONIUS,1155,whilst
-1524,Hamlet,"THE TRAGEDY OF HAMLET, PRINCE OF DENMARK",Tragedy,1600,William Shakespeare,contents,dialogue,ACT II,SCENE II,POLONIUS,1155,mine
 1524,Hamlet,"THE TRAGEDY OF HAMLET, PRINCE OF DENMARK",Tragedy,1600,William Shakespeare,contents,dialogue,ACT II,SCENE II,POLONIUS,1156,duty
 1524,Hamlet,"THE TRAGEDY OF HAMLET, PRINCE OF DENMARK",Tragedy,1600,William Shakespeare,contents,dialogue,ACT II,SCENE II,POLONIUS,1156,obedience
 1524,Hamlet,"THE TRAGEDY OF HAMLET, PRINCE OF DENMARK",Tragedy,1600,William Shakespeare,contents,dialogue,ACT II,SCENE II,POLONIUS,1156,mark
@@ -3083,7 +3042,6 @@ gutenberg_id,short_title,gutenberg_title,genre,year,author,section,class,act,sce
 1524,Hamlet,"THE TRAGEDY OF HAMLET, PRINCE OF DENMARK",Tragedy,1600,William Shakespeare,contents,dialogue,ACT II,SCENE II,HAMLET,1173,fell
 1524,Hamlet,"THE TRAGEDY OF HAMLET, PRINCE OF DENMARK",Tragedy,1600,William Shakespeare,contents,dialogue,ACT II,SCENE II,HAMLET,1173,time
 1524,Hamlet,"THE TRAGEDY OF HAMLET, PRINCE OF DENMARK",Tragedy,1600,William Shakespeare,contents,dialogue,ACT II,SCENE II,HAMLET,1173,means
-1524,Hamlet,"THE TRAGEDY OF HAMLET, PRINCE OF DENMARK",Tragedy,1600,William Shakespeare,contents,dialogue,ACT II,SCENE II,HAMLET,1174,mine
 1524,Hamlet,"THE TRAGEDY OF HAMLET, PRINCE OF DENMARK",Tragedy,1600,William Shakespeare,contents,dialogue,ACT II,SCENE II,HAMLET,1174,ear
 1524,Hamlet,"THE TRAGEDY OF HAMLET, PRINCE OF DENMARK",Tragedy,1600,William Shakespeare,contents,dialogue,ACT II,SCENE II,KING,1175,receiv'd
 1524,Hamlet,"THE TRAGEDY OF HAMLET, PRINCE OF DENMARK",Tragedy,1600,William Shakespeare,contents,dialogue,ACT II,SCENE II,KING,1175,love
@@ -3193,7 +3151,6 @@ gutenberg_id,short_title,gutenberg_title,genre,year,author,section,class,act,sce
 1524,Hamlet,"THE TRAGEDY OF HAMLET, PRINCE OF DENMARK",Tragedy,1600,William Shakespeare,contents,dialogue,ACT II,SCENE II,HAMLET,1228,honest
 1524,Hamlet,"THE TRAGEDY OF HAMLET, PRINCE OF DENMARK",Tragedy,1600,William Shakespeare,contents,dialogue,ACT II,SCENE II,POLONIUS,1229,honest
 1524,Hamlet,"THE TRAGEDY OF HAMLET, PRINCE OF DENMARK",Tragedy,1600,William Shakespeare,contents,dialogue,ACT II,SCENE II,POLONIUS,1229,lord
-1524,Hamlet,"THE TRAGEDY OF HAMLET, PRINCE OF DENMARK",Tragedy,1600,William Shakespeare,contents,dialogue,ACT II,SCENE II,HAMLET,1230,ay
 1524,Hamlet,"THE TRAGEDY OF HAMLET, PRINCE OF DENMARK",Tragedy,1600,William Shakespeare,contents,dialogue,ACT II,SCENE II,HAMLET,1230,sir
 1524,Hamlet,"THE TRAGEDY OF HAMLET, PRINCE OF DENMARK",Tragedy,1600,William Shakespeare,contents,dialogue,ACT II,SCENE II,HAMLET,1230,honest
 1524,Hamlet,"THE TRAGEDY OF HAMLET, PRINCE OF DENMARK",Tragedy,1600,William Shakespeare,contents,dialogue,ACT II,SCENE II,HAMLET,1230,world
@@ -3439,7 +3396,6 @@ gutenberg_id,short_title,gutenberg_title,genre,year,author,section,class,act,sce
 1524,Hamlet,"THE TRAGEDY OF HAMLET, PRINCE OF DENMARK",Tragedy,1600,William Shakespeare,contents,dialogue,ACT II,SCENE II,HAMLET,1311,visitation
 1524,Hamlet,"THE TRAGEDY OF HAMLET, PRINCE OF DENMARK",Tragedy,1600,William Shakespeare,contents,dialogue,ACT II,SCENE II,HAMLET,1311,deal
 1524,Hamlet,"THE TRAGEDY OF HAMLET, PRINCE OF DENMARK",Tragedy,1600,William Shakespeare,contents,dialogue,ACT II,SCENE II,HAMLET,1312,justly
-1524,Hamlet,"THE TRAGEDY OF HAMLET, PRINCE OF DENMARK",Tragedy,1600,William Shakespeare,contents,dialogue,ACT II,SCENE II,HAMLET,1312,nay
 1524,Hamlet,"THE TRAGEDY OF HAMLET, PRINCE OF DENMARK",Tragedy,1600,William Shakespeare,contents,dialogue,ACT II,SCENE II,HAMLET,1312,speak
 1524,Hamlet,"THE TRAGEDY OF HAMLET, PRINCE OF DENMARK",Tragedy,1600,William Shakespeare,contents,dialogue,ACT II,SCENE II,GUILDENSTERN,1313,lord
 1524,Hamlet,"THE TRAGEDY OF HAMLET, PRINCE OF DENMARK",Tragedy,1600,William Shakespeare,contents,dialogue,ACT II,SCENE II,HAMLET,1314,purpose
@@ -3465,7 +3421,6 @@ gutenberg_id,short_title,gutenberg_title,genre,year,author,section,class,act,sce
 1524,Hamlet,"THE TRAGEDY OF HAMLET, PRINCE OF DENMARK",Tragedy,1600,William Shakespeare,contents,dialogue,ACT II,SCENE II,HAMLET,1321,withal
 1524,Hamlet,"THE TRAGEDY OF HAMLET, PRINCE OF DENMARK",Tragedy,1600,William Shakespeare,contents,dialogue,ACT II,SCENE II,HAMLET,1321,direct
 1524,Hamlet,"THE TRAGEDY OF HAMLET, PRINCE OF DENMARK",Tragedy,1600,William Shakespeare,contents,dialogue,ACT II,SCENE II,ROSENCRANTZ,1323,guildenstern
-1524,Hamlet,"THE TRAGEDY OF HAMLET, PRINCE OF DENMARK",Tragedy,1600,William Shakespeare,contents,dialogue,ACT II,SCENE II,HAMLET,1324,nay
 1524,Hamlet,"THE TRAGEDY OF HAMLET, PRINCE OF DENMARK",Tragedy,1600,William Shakespeare,contents,dialogue,ACT II,SCENE II,HAMLET,1324,eye
 1524,Hamlet,"THE TRAGEDY OF HAMLET, PRINCE OF DENMARK",Tragedy,1600,William Shakespeare,contents,dialogue,ACT II,SCENE II,HAMLET,1324,love
 1524,Hamlet,"THE TRAGEDY OF HAMLET, PRINCE OF DENMARK",Tragedy,1600,William Shakespeare,contents,dialogue,ACT II,SCENE II,HAMLET,1324,hold
@@ -3588,7 +3543,6 @@ gutenberg_id,short_title,gutenberg_title,genre,year,author,section,class,act,sce
 1524,Hamlet,"THE TRAGEDY OF HAMLET, PRINCE OF DENMARK",Tragedy,1600,William Shakespeare,contents,dialogue,ACT II,SCENE II,HAMLET,1357,city
 1524,Hamlet,"THE TRAGEDY OF HAMLET, PRINCE OF DENMARK",Tragedy,1600,William Shakespeare,contents,dialogue,ACT II,SCENE II,HAMLET,1360,grow
 1524,Hamlet,"THE TRAGEDY OF HAMLET, PRINCE OF DENMARK",Tragedy,1600,William Shakespeare,contents,dialogue,ACT II,SCENE II,HAMLET,1360,rusty
-1524,Hamlet,"THE TRAGEDY OF HAMLET, PRINCE OF DENMARK",Tragedy,1600,William Shakespeare,contents,dialogue,ACT II,SCENE II,ROSENCRANTZ,1361,nay
 1524,Hamlet,"THE TRAGEDY OF HAMLET, PRINCE OF DENMARK",Tragedy,1600,William Shakespeare,contents,dialogue,ACT II,SCENE II,ROSENCRANTZ,1361,endeavour
 1524,Hamlet,"THE TRAGEDY OF HAMLET, PRINCE OF DENMARK",Tragedy,1600,William Shakespeare,contents,dialogue,ACT II,SCENE II,ROSENCRANTZ,1361,wonted
 1524,Hamlet,"THE TRAGEDY OF HAMLET, PRINCE OF DENMARK",Tragedy,1600,William Shakespeare,contents,dialogue,ACT II,SCENE II,ROSENCRANTZ,1361,pace
@@ -3648,7 +3602,6 @@ gutenberg_id,short_title,gutenberg_title,genre,year,author,section,class,act,sce
 1524,Hamlet,"THE TRAGEDY OF HAMLET, PRINCE OF DENMARK",Tragedy,1600,William Shakespeare,contents,dialogue,ACT II,SCENE II,GUILDENSTERN,1376,brains
 1524,Hamlet,"THE TRAGEDY OF HAMLET, PRINCE OF DENMARK",Tragedy,1600,William Shakespeare,contents,dialogue,ACT II,SCENE II,HAMLET,1377,boys
 1524,Hamlet,"THE TRAGEDY OF HAMLET, PRINCE OF DENMARK",Tragedy,1600,William Shakespeare,contents,dialogue,ACT II,SCENE II,HAMLET,1377,carry
-1524,Hamlet,"THE TRAGEDY OF HAMLET, PRINCE OF DENMARK",Tragedy,1600,William Shakespeare,contents,dialogue,ACT II,SCENE II,ROSENCRANTZ,1378,ay
 1524,Hamlet,"THE TRAGEDY OF HAMLET, PRINCE OF DENMARK",Tragedy,1600,William Shakespeare,contents,dialogue,ACT II,SCENE II,ROSENCRANTZ,1378,lord
 1524,Hamlet,"THE TRAGEDY OF HAMLET, PRINCE OF DENMARK",Tragedy,1600,William Shakespeare,contents,dialogue,ACT II,SCENE II,ROSENCRANTZ,1378,hercules
 1524,Hamlet,"THE TRAGEDY OF HAMLET, PRINCE OF DENMARK",Tragedy,1600,William Shakespeare,contents,dialogue,ACT II,SCENE II,ROSENCRANTZ,1378,load
@@ -3777,7 +3730,6 @@ gutenberg_id,short_title,gutenberg_title,genre,year,author,section,class,act,sce
 1524,Hamlet,"THE TRAGEDY OF HAMLET, PRINCE OF DENMARK",Tragedy,1600,William Shakespeare,contents,dialogue,ACT II,SCENE II,POLONIUS,1418,daughter
 1524,Hamlet,"THE TRAGEDY OF HAMLET, PRINCE OF DENMARK",Tragedy,1600,William Shakespeare,contents,dialogue,ACT II,SCENE II,POLONIUS,1418,love
 1524,Hamlet,"THE TRAGEDY OF HAMLET, PRINCE OF DENMARK",Tragedy,1600,William Shakespeare,contents,dialogue,ACT II,SCENE II,POLONIUS,1418,passing
-1524,Hamlet,"THE TRAGEDY OF HAMLET, PRINCE OF DENMARK",Tragedy,1600,William Shakespeare,contents,dialogue,ACT II,SCENE II,HAMLET,1420,nay
 1524,Hamlet,"THE TRAGEDY OF HAMLET, PRINCE OF DENMARK",Tragedy,1600,William Shakespeare,contents,dialogue,ACT II,SCENE II,POLONIUS,1421,lord
 1524,Hamlet,"THE TRAGEDY OF HAMLET, PRINCE OF DENMARK",Tragedy,1600,William Shakespeare,contents,dialogue,ACT II,SCENE II,HAMLET,1423,lot
 1524,Hamlet,"THE TRAGEDY OF HAMLET, PRINCE OF DENMARK",Tragedy,1600,William Shakespeare,contents,dialogue,ACT II,SCENE II,HAMLET,1423,god
@@ -3841,7 +3793,6 @@ gutenberg_id,short_title,gutenberg_title,genre,year,author,section,class,act,sce
 1524,Hamlet,"THE TRAGEDY OF HAMLET, PRINCE OF DENMARK",Tragedy,1600,William Shakespeare,contents,dialogue,ACT II,SCENE II,HAMLET,1441,matters
 1524,Hamlet,"THE TRAGEDY OF HAMLET, PRINCE OF DENMARK",Tragedy,1600,William Shakespeare,contents,dialogue,ACT II,SCENE II,HAMLET,1441,cried
 1524,Hamlet,"THE TRAGEDY OF HAMLET, PRINCE OF DENMARK",Tragedy,1600,William Shakespeare,contents,dialogue,ACT II,SCENE II,HAMLET,1441,top
-1524,Hamlet,"THE TRAGEDY OF HAMLET, PRINCE OF DENMARK",Tragedy,1600,William Shakespeare,contents,dialogue,ACT II,SCENE II,HAMLET,1441,mine
 1524,Hamlet,"THE TRAGEDY OF HAMLET, PRINCE OF DENMARK",Tragedy,1600,William Shakespeare,contents,dialogue,ACT II,SCENE II,HAMLET,1441,excellent
 1524,Hamlet,"THE TRAGEDY OF HAMLET, PRINCE OF DENMARK",Tragedy,1600,William Shakespeare,contents,dialogue,ACT II,SCENE II,HAMLET,1442,play
 1524,Hamlet,"THE TRAGEDY OF HAMLET, PRINCE OF DENMARK",Tragedy,1600,William Shakespeare,contents,dialogue,ACT II,SCENE II,HAMLET,1442,digested
@@ -4158,7 +4109,6 @@ gutenberg_id,short_title,gutenberg_title,genre,year,author,section,class,act,sce
 1524,Hamlet,"THE TRAGEDY OF HAMLET, PRINCE OF DENMARK",Tragedy,1600,William Shakespeare,contents,dialogue,ACT II,SCENE II,HAMLET,1531,play
 1524,Hamlet,"THE TRAGEDY OF HAMLET, PRINCE OF DENMARK",Tragedy,1600,William Shakespeare,contents,dialogue,ACT II,SCENE II,HAMLET,1531,murder
 1524,Hamlet,"THE TRAGEDY OF HAMLET, PRINCE OF DENMARK",Tragedy,1600,William Shakespeare,contents,dialogue,ACT II,SCENE II,HAMLET,1531,gonzago
-1524,Hamlet,"THE TRAGEDY OF HAMLET, PRINCE OF DENMARK",Tragedy,1600,William Shakespeare,contents,dialogue,ACT II,SCENE II,FIRST PLAYER,1532,ay
 1524,Hamlet,"THE TRAGEDY OF HAMLET, PRINCE OF DENMARK",Tragedy,1600,William Shakespeare,contents,dialogue,ACT II,SCENE II,FIRST PLAYER,1532,lord
 1524,Hamlet,"THE TRAGEDY OF HAMLET, PRINCE OF DENMARK",Tragedy,1600,William Shakespeare,contents,dialogue,ACT II,SCENE II,HAMLET,1533,ha't
 1524,Hamlet,"THE TRAGEDY OF HAMLET, PRINCE OF DENMARK",Tragedy,1600,William Shakespeare,contents,dialogue,ACT II,SCENE II,HAMLET,1533,tomorrow
@@ -4171,7 +4121,6 @@ gutenberg_id,short_title,gutenberg_title,genre,year,author,section,class,act,sce
 1524,Hamlet,"THE TRAGEDY OF HAMLET, PRINCE OF DENMARK",Tragedy,1600,William Shakespeare,contents,dialogue,ACT II,SCENE II,HAMLET,1534,set
 1524,Hamlet,"THE TRAGEDY OF HAMLET, PRINCE OF DENMARK",Tragedy,1600,William Shakespeare,contents,dialogue,ACT II,SCENE II,HAMLET,1534,insert
 1524,Hamlet,"THE TRAGEDY OF HAMLET, PRINCE OF DENMARK",Tragedy,1600,William Shakespeare,contents,dialogue,ACT II,SCENE II,HAMLET,1534,in't
-1524,Hamlet,"THE TRAGEDY OF HAMLET, PRINCE OF DENMARK",Tragedy,1600,William Shakespeare,contents,dialogue,ACT II,SCENE II,FIRST PLAYER,1536,ay
 1524,Hamlet,"THE TRAGEDY OF HAMLET, PRINCE OF DENMARK",Tragedy,1600,William Shakespeare,contents,dialogue,ACT II,SCENE II,FIRST PLAYER,1536,lord
 1524,Hamlet,"THE TRAGEDY OF HAMLET, PRINCE OF DENMARK",Tragedy,1600,William Shakespeare,contents,dialogue,ACT II,SCENE II,HAMLET,1537,follow
 1524,Hamlet,"THE TRAGEDY OF HAMLET, PRINCE OF DENMARK",Tragedy,1600,William Shakespeare,contents,dialogue,ACT II,SCENE II,HAMLET,1537,lord
@@ -4181,13 +4130,11 @@ gutenberg_id,short_title,gutenberg_title,genre,year,author,section,class,act,sce
 1524,Hamlet,"THE TRAGEDY OF HAMLET, PRINCE OF DENMARK",Tragedy,1600,William Shakespeare,contents,dialogue,ACT II,SCENE II,HAMLET,1538,guildenstern
 1524,Hamlet,"THE TRAGEDY OF HAMLET, PRINCE OF DENMARK",Tragedy,1600,William Shakespeare,contents,dialogue,ACT II,SCENE II,HAMLET,1538,friends
 1524,Hamlet,"THE TRAGEDY OF HAMLET, PRINCE OF DENMARK",Tragedy,1600,William Shakespeare,contents,dialogue,ACT II,SCENE II,HAMLET,1538,leave
-1524,Hamlet,"THE TRAGEDY OF HAMLET, PRINCE OF DENMARK",Tragedy,1600,William Shakespeare,contents,dialogue,ACT II,SCENE II,HAMLET,1539,till
 1524,Hamlet,"THE TRAGEDY OF HAMLET, PRINCE OF DENMARK",Tragedy,1600,William Shakespeare,contents,dialogue,ACT II,SCENE II,HAMLET,1539,night
 1524,Hamlet,"THE TRAGEDY OF HAMLET, PRINCE OF DENMARK",Tragedy,1600,William Shakespeare,contents,dialogue,ACT II,SCENE II,HAMLET,1539,elsinore
 1524,Hamlet,"THE TRAGEDY OF HAMLET, PRINCE OF DENMARK",Tragedy,1600,William Shakespeare,contents,dialogue,ACT II,SCENE II,ROSENCRANTZ,1540,lord
 1524,Hamlet,"THE TRAGEDY OF HAMLET, PRINCE OF DENMARK",Tragedy,1600,William Shakespeare,contents,directions,ACT II,SCENE II,NA,NA,rosencrantz
 1524,Hamlet,"THE TRAGEDY OF HAMLET, PRINCE OF DENMARK",Tragedy,1600,William Shakespeare,contents,directions,ACT II,SCENE II,NA,NA,guildenstern
-1524,Hamlet,"THE TRAGEDY OF HAMLET, PRINCE OF DENMARK",Tragedy,1600,William Shakespeare,contents,dialogue,ACT II,SCENE II,HAMLET,1541,ay
 1524,Hamlet,"THE TRAGEDY OF HAMLET, PRINCE OF DENMARK",Tragedy,1600,William Shakespeare,contents,dialogue,ACT II,SCENE II,HAMLET,1541,god
 1524,Hamlet,"THE TRAGEDY OF HAMLET, PRINCE OF DENMARK",Tragedy,1600,William Shakespeare,contents,dialogue,ACT II,SCENE II,HAMLET,1541,wi
 1524,Hamlet,"THE TRAGEDY OF HAMLET, PRINCE OF DENMARK",Tragedy,1600,William Shakespeare,contents,dialogue,ACT II,SCENE II,HAMLET,1541,ye
@@ -4275,7 +4222,6 @@ gutenberg_id,short_title,gutenberg_title,genre,year,author,section,class,act,sce
 1524,Hamlet,"THE TRAGEDY OF HAMLET, PRINCE OF DENMARK",Tragedy,1600,William Shakespeare,contents,dialogue,ACT II,SCENE II,HAMLET,1569,gall
 1524,Hamlet,"THE TRAGEDY OF HAMLET, PRINCE OF DENMARK",Tragedy,1600,William Shakespeare,contents,dialogue,ACT II,SCENE II,HAMLET,1570,oppression
 1524,Hamlet,"THE TRAGEDY OF HAMLET, PRINCE OF DENMARK",Tragedy,1600,William Shakespeare,contents,dialogue,ACT II,SCENE II,HAMLET,1570,bitter
-1524,Hamlet,"THE TRAGEDY OF HAMLET, PRINCE OF DENMARK",Tragedy,1600,William Shakespeare,contents,dialogue,ACT II,SCENE II,HAMLET,1570,ere
 1524,Hamlet,"THE TRAGEDY OF HAMLET, PRINCE OF DENMARK",Tragedy,1600,William Shakespeare,contents,dialogue,ACT II,SCENE II,HAMLET,1571,fatted
 1524,Hamlet,"THE TRAGEDY OF HAMLET, PRINCE OF DENMARK",Tragedy,1600,William Shakespeare,contents,dialogue,ACT II,SCENE II,HAMLET,1571,region
 1524,Hamlet,"THE TRAGEDY OF HAMLET, PRINCE OF DENMARK",Tragedy,1600,William Shakespeare,contents,dialogue,ACT II,SCENE II,HAMLET,1571,kites
@@ -4332,7 +4278,6 @@ gutenberg_id,short_title,gutenberg_title,genre,year,author,section,class,act,sce
 1524,Hamlet,"THE TRAGEDY OF HAMLET, PRINCE OF DENMARK",Tragedy,1600,William Shakespeare,contents,dialogue,ACT II,SCENE II,HAMLET,1588,play
 1524,Hamlet,"THE TRAGEDY OF HAMLET, PRINCE OF DENMARK",Tragedy,1600,William Shakespeare,contents,dialogue,ACT II,SCENE II,HAMLET,1588,murder
 1524,Hamlet,"THE TRAGEDY OF HAMLET, PRINCE OF DENMARK",Tragedy,1600,William Shakespeare,contents,dialogue,ACT II,SCENE II,HAMLET,1588,father
-1524,Hamlet,"THE TRAGEDY OF HAMLET, PRINCE OF DENMARK",Tragedy,1600,William Shakespeare,contents,dialogue,ACT II,SCENE II,HAMLET,1589,mine
 1524,Hamlet,"THE TRAGEDY OF HAMLET, PRINCE OF DENMARK",Tragedy,1600,William Shakespeare,contents,dialogue,ACT II,SCENE II,HAMLET,1589,uncle
 1524,Hamlet,"THE TRAGEDY OF HAMLET, PRINCE OF DENMARK",Tragedy,1600,William Shakespeare,contents,dialogue,ACT II,SCENE II,HAMLET,1589,observe
 1524,Hamlet,"THE TRAGEDY OF HAMLET, PRINCE OF DENMARK",Tragedy,1600,William Shakespeare,contents,dialogue,ACT II,SCENE II,HAMLET,1590,tent
@@ -4536,7 +4481,6 @@ gutenberg_id,short_title,gutenberg_title,genre,year,author,section,class,act,sce
 1524,Hamlet,"THE TRAGEDY OF HAMLET, PRINCE OF DENMARK",Tragedy,1600,William Shakespeare,contents,dialogue,ACT III,SCENE I,HAMLET,1669,sleep
 1524,Hamlet,"THE TRAGEDY OF HAMLET, PRINCE OF DENMARK",Tragedy,1600,William Shakespeare,contents,dialogue,ACT III,SCENE I,HAMLET,1669,perchance
 1524,Hamlet,"THE TRAGEDY OF HAMLET, PRINCE OF DENMARK",Tragedy,1600,William Shakespeare,contents,dialogue,ACT III,SCENE I,HAMLET,1669,dream
-1524,Hamlet,"THE TRAGEDY OF HAMLET, PRINCE OF DENMARK",Tragedy,1600,William Shakespeare,contents,dialogue,ACT III,SCENE I,HAMLET,1669,ay
 1524,Hamlet,"THE TRAGEDY OF HAMLET, PRINCE OF DENMARK",Tragedy,1600,William Shakespeare,contents,dialogue,ACT III,SCENE I,HAMLET,1669,rub
 1524,Hamlet,"THE TRAGEDY OF HAMLET, PRINCE OF DENMARK",Tragedy,1600,William Shakespeare,contents,dialogue,ACT III,SCENE I,HAMLET,1670,sleep
 1524,Hamlet,"THE TRAGEDY OF HAMLET, PRINCE OF DENMARK",Tragedy,1600,William Shakespeare,contents,dialogue,ACT III,SCENE I,HAMLET,1670,death
@@ -4662,7 +4606,6 @@ gutenberg_id,short_title,gutenberg_title,genre,year,author,section,class,act,sce
 1524,Hamlet,"THE TRAGEDY OF HAMLET, PRINCE OF DENMARK",Tragedy,1600,William Shakespeare,contents,dialogue,ACT III,SCENE I,OPHELIA,1715,lord
 1524,Hamlet,"THE TRAGEDY OF HAMLET, PRINCE OF DENMARK",Tragedy,1600,William Shakespeare,contents,dialogue,ACT III,SCENE I,OPHELIA,1715,commerce
 1524,Hamlet,"THE TRAGEDY OF HAMLET, PRINCE OF DENMARK",Tragedy,1600,William Shakespeare,contents,dialogue,ACT III,SCENE I,OPHELIA,1715,honesty
-1524,Hamlet,"THE TRAGEDY OF HAMLET, PRINCE OF DENMARK",Tragedy,1600,William Shakespeare,contents,dialogue,ACT III,SCENE I,HAMLET,1716,ay
 1524,Hamlet,"THE TRAGEDY OF HAMLET, PRINCE OF DENMARK",Tragedy,1600,William Shakespeare,contents,dialogue,ACT III,SCENE I,HAMLET,1716,power
 1524,Hamlet,"THE TRAGEDY OF HAMLET, PRINCE OF DENMARK",Tragedy,1600,William Shakespeare,contents,dialogue,ACT III,SCENE I,HAMLET,1716,beauty
 1524,Hamlet,"THE TRAGEDY OF HAMLET, PRINCE OF DENMARK",Tragedy,1600,William Shakespeare,contents,dialogue,ACT III,SCENE I,HAMLET,1716,sooner
@@ -5042,12 +4985,10 @@ gutenberg_id,short_title,gutenberg_title,genre,year,author,section,class,act,sce
 1524,Hamlet,"THE TRAGEDY OF HAMLET, PRINCE OF DENMARK",Tragedy,1600,William Shakespeare,contents,dialogue,ACT III,SCENE II,HAMLET,1831,withal
 1524,Hamlet,"THE TRAGEDY OF HAMLET, PRINCE OF DENMARK",Tragedy,1600,William Shakespeare,contents,dialogue,ACT III,SCENE II,HORATIO,1832,dear
 1524,Hamlet,"THE TRAGEDY OF HAMLET, PRINCE OF DENMARK",Tragedy,1600,William Shakespeare,contents,dialogue,ACT III,SCENE II,HORATIO,1832,lord
-1524,Hamlet,"THE TRAGEDY OF HAMLET, PRINCE OF DENMARK",Tragedy,1600,William Shakespeare,contents,dialogue,ACT III,SCENE II,HAMLET,1833,nay
 1524,Hamlet,"THE TRAGEDY OF HAMLET, PRINCE OF DENMARK",Tragedy,1600,William Shakespeare,contents,dialogue,ACT III,SCENE II,HAMLET,1833,flatter
 1524,Hamlet,"THE TRAGEDY OF HAMLET, PRINCE OF DENMARK",Tragedy,1600,William Shakespeare,contents,dialogue,ACT III,SCENE II,HAMLET,1834,advancement
 1524,Hamlet,"THE TRAGEDY OF HAMLET, PRINCE OF DENMARK",Tragedy,1600,William Shakespeare,contents,dialogue,ACT III,SCENE II,HAMLET,1834,hope
 1524,Hamlet,"THE TRAGEDY OF HAMLET, PRINCE OF DENMARK",Tragedy,1600,William Shakespeare,contents,dialogue,ACT III,SCENE II,HAMLET,1835,revenue
-1524,Hamlet,"THE TRAGEDY OF HAMLET, PRINCE OF DENMARK",Tragedy,1600,William Shakespeare,contents,dialogue,ACT III,SCENE II,HAMLET,1835,hast
 1524,Hamlet,"THE TRAGEDY OF HAMLET, PRINCE OF DENMARK",Tragedy,1600,William Shakespeare,contents,dialogue,ACT III,SCENE II,HAMLET,1835,spirits
 1524,Hamlet,"THE TRAGEDY OF HAMLET, PRINCE OF DENMARK",Tragedy,1600,William Shakespeare,contents,dialogue,ACT III,SCENE II,HAMLET,1836,feed
 1524,Hamlet,"THE TRAGEDY OF HAMLET, PRINCE OF DENMARK",Tragedy,1600,William Shakespeare,contents,dialogue,ACT III,SCENE II,HAMLET,1836,clothe
@@ -5073,13 +5014,11 @@ gutenberg_id,short_title,gutenberg_title,genre,year,author,section,class,act,sce
 1524,Hamlet,"THE TRAGEDY OF HAMLET, PRINCE OF DENMARK",Tragedy,1600,William Shakespeare,contents,dialogue,ACT III,SCENE II,HAMLET,1841,distinguish
 1524,Hamlet,"THE TRAGEDY OF HAMLET, PRINCE OF DENMARK",Tragedy,1600,William Shakespeare,contents,dialogue,ACT III,SCENE II,HAMLET,1841,election
 1524,Hamlet,"THE TRAGEDY OF HAMLET, PRINCE OF DENMARK",Tragedy,1600,William Shakespeare,contents,dialogue,ACT III,SCENE II,HAMLET,1842,seal'd
-1524,Hamlet,"THE TRAGEDY OF HAMLET, PRINCE OF DENMARK",Tragedy,1600,William Shakespeare,contents,dialogue,ACT III,SCENE II,HAMLET,1842,hast
 1524,Hamlet,"THE TRAGEDY OF HAMLET, PRINCE OF DENMARK",Tragedy,1600,William Shakespeare,contents,dialogue,ACT III,SCENE II,HAMLET,1843,suffering
 1524,Hamlet,"THE TRAGEDY OF HAMLET, PRINCE OF DENMARK",Tragedy,1600,William Shakespeare,contents,dialogue,ACT III,SCENE II,HAMLET,1843,suffers
 1524,Hamlet,"THE TRAGEDY OF HAMLET, PRINCE OF DENMARK",Tragedy,1600,William Shakespeare,contents,dialogue,ACT III,SCENE II,HAMLET,1844,fortune's
 1524,Hamlet,"THE TRAGEDY OF HAMLET, PRINCE OF DENMARK",Tragedy,1600,William Shakespeare,contents,dialogue,ACT III,SCENE II,HAMLET,1844,buffets
 1524,Hamlet,"THE TRAGEDY OF HAMLET, PRINCE OF DENMARK",Tragedy,1600,William Shakespeare,contents,dialogue,ACT III,SCENE II,HAMLET,1844,rewards
-1524,Hamlet,"THE TRAGEDY OF HAMLET, PRINCE OF DENMARK",Tragedy,1600,William Shakespeare,contents,dialogue,ACT III,SCENE II,HAMLET,1845,hast
 1524,Hamlet,"THE TRAGEDY OF HAMLET, PRINCE OF DENMARK",Tragedy,1600,William Shakespeare,contents,dialogue,ACT III,SCENE II,HAMLET,1845,ta'en
 1524,Hamlet,"THE TRAGEDY OF HAMLET, PRINCE OF DENMARK",Tragedy,1600,William Shakespeare,contents,dialogue,ACT III,SCENE II,HAMLET,1845,equal
 1524,Hamlet,"THE TRAGEDY OF HAMLET, PRINCE OF DENMARK",Tragedy,1600,William Shakespeare,contents,dialogue,ACT III,SCENE II,HAMLET,1845,blessed
@@ -5096,7 +5035,6 @@ gutenberg_id,short_title,gutenberg_title,genre,year,author,section,class,act,sce
 1524,Hamlet,"THE TRAGEDY OF HAMLET, PRINCE OF DENMARK",Tragedy,1600,William Shakespeare,contents,dialogue,ACT III,SCENE II,HAMLET,1849,wear
 1524,Hamlet,"THE TRAGEDY OF HAMLET, PRINCE OF DENMARK",Tragedy,1600,William Shakespeare,contents,dialogue,ACT III,SCENE II,HAMLET,1850,heart's
 1524,Hamlet,"THE TRAGEDY OF HAMLET, PRINCE OF DENMARK",Tragedy,1600,William Shakespeare,contents,dialogue,ACT III,SCENE II,HAMLET,1850,core
-1524,Hamlet,"THE TRAGEDY OF HAMLET, PRINCE OF DENMARK",Tragedy,1600,William Shakespeare,contents,dialogue,ACT III,SCENE II,HAMLET,1850,ay
 1524,Hamlet,"THE TRAGEDY OF HAMLET, PRINCE OF DENMARK",Tragedy,1600,William Shakespeare,contents,dialogue,ACT III,SCENE II,HAMLET,1850,heart
 1524,Hamlet,"THE TRAGEDY OF HAMLET, PRINCE OF DENMARK",Tragedy,1600,William Shakespeare,contents,dialogue,ACT III,SCENE II,HAMLET,1850,heart
 1524,Hamlet,"THE TRAGEDY OF HAMLET, PRINCE OF DENMARK",Tragedy,1600,William Shakespeare,contents,dialogue,ACT III,SCENE II,HAMLET,1852,play
@@ -5112,7 +5050,6 @@ gutenberg_id,short_title,gutenberg_title,genre,year,author,section,class,act,sce
 1524,Hamlet,"THE TRAGEDY OF HAMLET, PRINCE OF DENMARK",Tragedy,1600,William Shakespeare,contents,dialogue,ACT III,SCENE II,HAMLET,1856,comment
 1524,Hamlet,"THE TRAGEDY OF HAMLET, PRINCE OF DENMARK",Tragedy,1600,William Shakespeare,contents,dialogue,ACT III,SCENE II,HAMLET,1856,soul
 1524,Hamlet,"THE TRAGEDY OF HAMLET, PRINCE OF DENMARK",Tragedy,1600,William Shakespeare,contents,dialogue,ACT III,SCENE II,HAMLET,1857,observe
-1524,Hamlet,"THE TRAGEDY OF HAMLET, PRINCE OF DENMARK",Tragedy,1600,William Shakespeare,contents,dialogue,ACT III,SCENE II,HAMLET,1857,mine
 1524,Hamlet,"THE TRAGEDY OF HAMLET, PRINCE OF DENMARK",Tragedy,1600,William Shakespeare,contents,dialogue,ACT III,SCENE II,HAMLET,1857,uncle
 1524,Hamlet,"THE TRAGEDY OF HAMLET, PRINCE OF DENMARK",Tragedy,1600,William Shakespeare,contents,dialogue,ACT III,SCENE II,HAMLET,1857,occulted
 1524,Hamlet,"THE TRAGEDY OF HAMLET, PRINCE OF DENMARK",Tragedy,1600,William Shakespeare,contents,dialogue,ACT III,SCENE II,HAMLET,1857,guilt
@@ -5126,7 +5063,6 @@ gutenberg_id,short_title,gutenberg_title,genre,year,author,section,class,act,sce
 1524,Hamlet,"THE TRAGEDY OF HAMLET, PRINCE OF DENMARK",Tragedy,1600,William Shakespeare,contents,dialogue,ACT III,SCENE II,HAMLET,1861,stithy
 1524,Hamlet,"THE TRAGEDY OF HAMLET, PRINCE OF DENMARK",Tragedy,1600,William Shakespeare,contents,dialogue,ACT III,SCENE II,HAMLET,1861,heedful
 1524,Hamlet,"THE TRAGEDY OF HAMLET, PRINCE OF DENMARK",Tragedy,1600,William Shakespeare,contents,dialogue,ACT III,SCENE II,HAMLET,1861,note
-1524,Hamlet,"THE TRAGEDY OF HAMLET, PRINCE OF DENMARK",Tragedy,1600,William Shakespeare,contents,dialogue,ACT III,SCENE II,HAMLET,1862,mine
 1524,Hamlet,"THE TRAGEDY OF HAMLET, PRINCE OF DENMARK",Tragedy,1600,William Shakespeare,contents,dialogue,ACT III,SCENE II,HAMLET,1862,eyes
 1524,Hamlet,"THE TRAGEDY OF HAMLET, PRINCE OF DENMARK",Tragedy,1600,William Shakespeare,contents,dialogue,ACT III,SCENE II,HAMLET,1862,rivet
 1524,Hamlet,"THE TRAGEDY OF HAMLET, PRINCE OF DENMARK",Tragedy,1600,William Shakespeare,contents,dialogue,ACT III,SCENE II,HAMLET,1863,judgements
@@ -5170,8 +5106,6 @@ gutenberg_id,short_title,gutenberg_title,genre,year,author,section,class,act,sce
 1524,Hamlet,"THE TRAGEDY OF HAMLET, PRINCE OF DENMARK",Tragedy,1600,William Shakespeare,contents,dialogue,ACT III,SCENE II,KING,1875,answer
 1524,Hamlet,"THE TRAGEDY OF HAMLET, PRINCE OF DENMARK",Tragedy,1600,William Shakespeare,contents,dialogue,ACT III,SCENE II,KING,1875,hamlet
 1524,Hamlet,"THE TRAGEDY OF HAMLET, PRINCE OF DENMARK",Tragedy,1600,William Shakespeare,contents,dialogue,ACT III,SCENE II,KING,1875,words
-1524,Hamlet,"THE TRAGEDY OF HAMLET, PRINCE OF DENMARK",Tragedy,1600,William Shakespeare,contents,dialogue,ACT III,SCENE II,KING,1875,mine
-1524,Hamlet,"THE TRAGEDY OF HAMLET, PRINCE OF DENMARK",Tragedy,1600,William Shakespeare,contents,dialogue,ACT III,SCENE II,HAMLET,1876,mine
 1524,Hamlet,"THE TRAGEDY OF HAMLET, PRINCE OF DENMARK",Tragedy,1600,William Shakespeare,contents,dialogue,ACT III,SCENE II,HAMLET,1876,polonius
 1524,Hamlet,"THE TRAGEDY OF HAMLET, PRINCE OF DENMARK",Tragedy,1600,William Shakespeare,contents,dialogue,ACT III,SCENE II,HAMLET,1876,lord
 1524,Hamlet,"THE TRAGEDY OF HAMLET, PRINCE OF DENMARK",Tragedy,1600,William Shakespeare,contents,dialogue,ACT III,SCENE II,HAMLET,1876,play'd
@@ -5193,7 +5127,6 @@ gutenberg_id,short_title,gutenberg_title,genre,year,author,section,class,act,sce
 1524,Hamlet,"THE TRAGEDY OF HAMLET, PRINCE OF DENMARK",Tragedy,1600,William Shakespeare,contents,dialogue,ACT III,SCENE II,HAMLET,1882,calf
 1524,Hamlet,"THE TRAGEDY OF HAMLET, PRINCE OF DENMARK",Tragedy,1600,William Shakespeare,contents,dialogue,ACT III,SCENE II,HAMLET,1883,players
 1524,Hamlet,"THE TRAGEDY OF HAMLET, PRINCE OF DENMARK",Tragedy,1600,William Shakespeare,contents,dialogue,ACT III,SCENE II,HAMLET,1883,ready
-1524,Hamlet,"THE TRAGEDY OF HAMLET, PRINCE OF DENMARK",Tragedy,1600,William Shakespeare,contents,dialogue,ACT III,SCENE II,ROSENCRANTZ,1884,ay
 1524,Hamlet,"THE TRAGEDY OF HAMLET, PRINCE OF DENMARK",Tragedy,1600,William Shakespeare,contents,dialogue,ACT III,SCENE II,ROSENCRANTZ,1884,lord
 1524,Hamlet,"THE TRAGEDY OF HAMLET, PRINCE OF DENMARK",Tragedy,1600,William Shakespeare,contents,dialogue,ACT III,SCENE II,ROSENCRANTZ,1884,stay
 1524,Hamlet,"THE TRAGEDY OF HAMLET, PRINCE OF DENMARK",Tragedy,1600,William Shakespeare,contents,dialogue,ACT III,SCENE II,ROSENCRANTZ,1884,patience
@@ -5215,7 +5148,6 @@ gutenberg_id,short_title,gutenberg_title,genre,year,author,section,class,act,sce
 1524,Hamlet,"THE TRAGEDY OF HAMLET, PRINCE OF DENMARK",Tragedy,1600,William Shakespeare,contents,dialogue,ACT III,SCENE II,OPHELIA,1889,lord
 1524,Hamlet,"THE TRAGEDY OF HAMLET, PRINCE OF DENMARK",Tragedy,1600,William Shakespeare,contents,dialogue,ACT III,SCENE II,HAMLET,1890,head
 1524,Hamlet,"THE TRAGEDY OF HAMLET, PRINCE OF DENMARK",Tragedy,1600,William Shakespeare,contents,dialogue,ACT III,SCENE II,HAMLET,1890,lap
-1524,Hamlet,"THE TRAGEDY OF HAMLET, PRINCE OF DENMARK",Tragedy,1600,William Shakespeare,contents,dialogue,ACT III,SCENE II,OPHELIA,1891,ay
 1524,Hamlet,"THE TRAGEDY OF HAMLET, PRINCE OF DENMARK",Tragedy,1600,William Shakespeare,contents,dialogue,ACT III,SCENE II,OPHELIA,1891,lord
 1524,Hamlet,"THE TRAGEDY OF HAMLET, PRINCE OF DENMARK",Tragedy,1600,William Shakespeare,contents,dialogue,ACT III,SCENE II,HAMLET,1892,meant
 1524,Hamlet,"THE TRAGEDY OF HAMLET, PRINCE OF DENMARK",Tragedy,1600,William Shakespeare,contents,dialogue,ACT III,SCENE II,HAMLET,1892,country
@@ -5228,7 +5160,6 @@ gutenberg_id,short_title,gutenberg_title,genre,year,author,section,class,act,sce
 1524,Hamlet,"THE TRAGEDY OF HAMLET, PRINCE OF DENMARK",Tragedy,1600,William Shakespeare,contents,dialogue,ACT III,SCENE II,OPHELIA,1895,lord
 1524,Hamlet,"THE TRAGEDY OF HAMLET, PRINCE OF DENMARK",Tragedy,1600,William Shakespeare,contents,dialogue,ACT III,SCENE II,OPHELIA,1897,merry
 1524,Hamlet,"THE TRAGEDY OF HAMLET, PRINCE OF DENMARK",Tragedy,1600,William Shakespeare,contents,dialogue,ACT III,SCENE II,OPHELIA,1897,lord
-1524,Hamlet,"THE TRAGEDY OF HAMLET, PRINCE OF DENMARK",Tragedy,1600,William Shakespeare,contents,dialogue,ACT III,SCENE II,OPHELIA,1899,ay
 1524,Hamlet,"THE TRAGEDY OF HAMLET, PRINCE OF DENMARK",Tragedy,1600,William Shakespeare,contents,dialogue,ACT III,SCENE II,OPHELIA,1899,lord
 1524,Hamlet,"THE TRAGEDY OF HAMLET, PRINCE OF DENMARK",Tragedy,1600,William Shakespeare,contents,dialogue,ACT III,SCENE II,HAMLET,1900,god
 1524,Hamlet,"THE TRAGEDY OF HAMLET, PRINCE OF DENMARK",Tragedy,1600,William Shakespeare,contents,dialogue,ACT III,SCENE II,HAMLET,1900,jig
@@ -5240,10 +5171,8 @@ gutenberg_id,short_title,gutenberg_title,genre,year,author,section,class,act,sce
 1524,Hamlet,"THE TRAGEDY OF HAMLET, PRINCE OF DENMARK",Tragedy,1600,William Shakespeare,contents,dialogue,ACT III,SCENE II,HAMLET,1901,died
 1524,Hamlet,"THE TRAGEDY OF HAMLET, PRINCE OF DENMARK",Tragedy,1600,William Shakespeare,contents,dialogue,ACT III,SCENE II,HAMLET,1901,within's
 1524,Hamlet,"THE TRAGEDY OF HAMLET, PRINCE OF DENMARK",Tragedy,1600,William Shakespeare,contents,dialogue,ACT III,SCENE II,HAMLET,1902,hours
-1524,Hamlet,"THE TRAGEDY OF HAMLET, PRINCE OF DENMARK",Tragedy,1600,William Shakespeare,contents,dialogue,ACT III,SCENE II,OPHELIA,1903,nay
 1524,Hamlet,"THE TRAGEDY OF HAMLET, PRINCE OF DENMARK",Tragedy,1600,William Shakespeare,contents,dialogue,ACT III,SCENE II,OPHELIA,1903,months
 1524,Hamlet,"THE TRAGEDY OF HAMLET, PRINCE OF DENMARK",Tragedy,1600,William Shakespeare,contents,dialogue,ACT III,SCENE II,OPHELIA,1903,lord
-1524,Hamlet,"THE TRAGEDY OF HAMLET, PRINCE OF DENMARK",Tragedy,1600,William Shakespeare,contents,dialogue,ACT III,SCENE II,HAMLET,1904,nay
 1524,Hamlet,"THE TRAGEDY OF HAMLET, PRINCE OF DENMARK",Tragedy,1600,William Shakespeare,contents,dialogue,ACT III,SCENE II,HAMLET,1904,devil
 1524,Hamlet,"THE TRAGEDY OF HAMLET, PRINCE OF DENMARK",Tragedy,1600,William Shakespeare,contents,dialogue,ACT III,SCENE II,HAMLET,1904,wear
 1524,Hamlet,"THE TRAGEDY OF HAMLET, PRINCE OF DENMARK",Tragedy,1600,William Shakespeare,contents,dialogue,ACT III,SCENE II,HAMLET,1904,black
@@ -5341,7 +5270,6 @@ gutenberg_id,short_title,gutenberg_title,genre,year,author,section,class,act,sce
 1524,Hamlet,"THE TRAGEDY OF HAMLET, PRINCE OF DENMARK",Tragedy,1600,William Shakespeare,contents,dialogue,ACT III,SCENE II,HAMLET,1923,players
 1524,Hamlet,"THE TRAGEDY OF HAMLET, PRINCE OF DENMARK",Tragedy,1600,William Shakespeare,contents,dialogue,ACT III,SCENE II,HAMLET,1923,counsel
 1524,Hamlet,"THE TRAGEDY OF HAMLET, PRINCE OF DENMARK",Tragedy,1600,William Shakespeare,contents,dialogue,ACT III,SCENE II,OPHELIA,1925,meant
-1524,Hamlet,"THE TRAGEDY OF HAMLET, PRINCE OF DENMARK",Tragedy,1600,William Shakespeare,contents,dialogue,ACT III,SCENE II,HAMLET,1926,ay
 1524,Hamlet,"THE TRAGEDY OF HAMLET, PRINCE OF DENMARK",Tragedy,1600,William Shakespeare,contents,dialogue,ACT III,SCENE II,HAMLET,1926,ashamed
 1524,Hamlet,"THE TRAGEDY OF HAMLET, PRINCE OF DENMARK",Tragedy,1600,William Shakespeare,contents,dialogue,ACT III,SCENE II,HAMLET,1927,shame
 1524,Hamlet,"THE TRAGEDY OF HAMLET, PRINCE OF DENMARK",Tragedy,1600,William Shakespeare,contents,dialogue,ACT III,SCENE II,HAMLET,1927,means
@@ -5396,7 +5324,6 @@ gutenberg_id,short_title,gutenberg_title,genre,year,author,section,class,act,sce
 1524,Hamlet,"THE TRAGEDY OF HAMLET, PRINCE OF DENMARK",Tragedy,1600,William Shakespeare,contents,dialogue,ACT III,SCENE II,PLAYER QUEEN,1941,moon
 1524,Hamlet,"THE TRAGEDY OF HAMLET, PRINCE OF DENMARK",Tragedy,1600,William Shakespeare,contents,dialogue,ACT III,SCENE II,PLAYER QUEEN,1942,count
 1524,Hamlet,"THE TRAGEDY OF HAMLET, PRINCE OF DENMARK",Tragedy,1600,William Shakespeare,contents,dialogue,ACT III,SCENE II,PLAYER QUEEN,1942,o'er
-1524,Hamlet,"THE TRAGEDY OF HAMLET, PRINCE OF DENMARK",Tragedy,1600,William Shakespeare,contents,dialogue,ACT III,SCENE II,PLAYER QUEEN,1942,ere
 1524,Hamlet,"THE TRAGEDY OF HAMLET, PRINCE OF DENMARK",Tragedy,1600,William Shakespeare,contents,dialogue,ACT III,SCENE II,PLAYER QUEEN,1942,love
 1524,Hamlet,"THE TRAGEDY OF HAMLET, PRINCE OF DENMARK",Tragedy,1600,William Shakespeare,contents,dialogue,ACT III,SCENE II,PLAYER QUEEN,1943,woe
 1524,Hamlet,"THE TRAGEDY OF HAMLET, PRINCE OF DENMARK",Tragedy,1600,William Shakespeare,contents,dialogue,ACT III,SCENE II,PLAYER QUEEN,1943,sick
@@ -5797,7 +5724,6 @@ gutenberg_id,short_title,gutenberg_title,genre,year,author,section,class,act,sce
 1524,Hamlet,"THE TRAGEDY OF HAMLET, PRINCE OF DENMARK",Tragedy,1600,William Shakespeare,contents,dialogue,ACT III,SCENE II,HAMLET,2071,history
 1524,Hamlet,"THE TRAGEDY OF HAMLET, PRINCE OF DENMARK",Tragedy,1600,William Shakespeare,contents,dialogue,ACT III,SCENE II,GUILDENSTERN,2072,king
 1524,Hamlet,"THE TRAGEDY OF HAMLET, PRINCE OF DENMARK",Tragedy,1600,William Shakespeare,contents,dialogue,ACT III,SCENE II,GUILDENSTERN,2072,sir
-1524,Hamlet,"THE TRAGEDY OF HAMLET, PRINCE OF DENMARK",Tragedy,1600,William Shakespeare,contents,dialogue,ACT III,SCENE II,HAMLET,2073,ay
 1524,Hamlet,"THE TRAGEDY OF HAMLET, PRINCE OF DENMARK",Tragedy,1600,William Shakespeare,contents,dialogue,ACT III,SCENE II,HAMLET,2073,sir
 1524,Hamlet,"THE TRAGEDY OF HAMLET, PRINCE OF DENMARK",Tragedy,1600,William Shakespeare,contents,dialogue,ACT III,SCENE II,GUILDENSTERN,2074,retirement
 1524,Hamlet,"THE TRAGEDY OF HAMLET, PRINCE OF DENMARK",Tragedy,1600,William Shakespeare,contents,dialogue,ACT III,SCENE II,GUILDENSTERN,2074,marvellous
@@ -5826,7 +5752,6 @@ gutenberg_id,short_title,gutenberg_title,genre,year,author,section,class,act,sce
 1524,Hamlet,"THE TRAGEDY OF HAMLET, PRINCE OF DENMARK",Tragedy,1600,William Shakespeare,contents,dialogue,ACT III,SCENE II,GUILDENSTERN,2083,mother
 1524,Hamlet,"THE TRAGEDY OF HAMLET, PRINCE OF DENMARK",Tragedy,1600,William Shakespeare,contents,dialogue,ACT III,SCENE II,GUILDENSTERN,2083,affliction
 1524,Hamlet,"THE TRAGEDY OF HAMLET, PRINCE OF DENMARK",Tragedy,1600,William Shakespeare,contents,dialogue,ACT III,SCENE II,GUILDENSTERN,2083,spirit
-1524,Hamlet,"THE TRAGEDY OF HAMLET, PRINCE OF DENMARK",Tragedy,1600,William Shakespeare,contents,dialogue,ACT III,SCENE II,GUILDENSTERN,2086,nay
 1524,Hamlet,"THE TRAGEDY OF HAMLET, PRINCE OF DENMARK",Tragedy,1600,William Shakespeare,contents,dialogue,ACT III,SCENE II,GUILDENSTERN,2086,lord
 1524,Hamlet,"THE TRAGEDY OF HAMLET, PRINCE OF DENMARK",Tragedy,1600,William Shakespeare,contents,dialogue,ACT III,SCENE II,GUILDENSTERN,2086,courtesy
 1524,Hamlet,"THE TRAGEDY OF HAMLET, PRINCE OF DENMARK",Tragedy,1600,William Shakespeare,contents,dialogue,ACT III,SCENE II,GUILDENSTERN,2086,breed
@@ -5864,7 +5789,6 @@ gutenberg_id,short_title,gutenberg_title,genre,year,author,section,class,act,sce
 1524,Hamlet,"THE TRAGEDY OF HAMLET, PRINCE OF DENMARK",Tragedy,1600,William Shakespeare,contents,dialogue,ACT III,SCENE II,ROSENCRANTZ,2099,desires
 1524,Hamlet,"THE TRAGEDY OF HAMLET, PRINCE OF DENMARK",Tragedy,1600,William Shakespeare,contents,dialogue,ACT III,SCENE II,ROSENCRANTZ,2099,speak
 1524,Hamlet,"THE TRAGEDY OF HAMLET, PRINCE OF DENMARK",Tragedy,1600,William Shakespeare,contents,dialogue,ACT III,SCENE II,ROSENCRANTZ,2099,closet
-1524,Hamlet,"THE TRAGEDY OF HAMLET, PRINCE OF DENMARK",Tragedy,1600,William Shakespeare,contents,dialogue,ACT III,SCENE II,ROSENCRANTZ,2099,ere
 1524,Hamlet,"THE TRAGEDY OF HAMLET, PRINCE OF DENMARK",Tragedy,1600,William Shakespeare,contents,dialogue,ACT III,SCENE II,ROSENCRANTZ,2099,bed
 1524,Hamlet,"THE TRAGEDY OF HAMLET, PRINCE OF DENMARK",Tragedy,1600,William Shakespeare,contents,dialogue,ACT III,SCENE II,HAMLET,2100,obey
 1524,Hamlet,"THE TRAGEDY OF HAMLET, PRINCE OF DENMARK",Tragedy,1600,William Shakespeare,contents,dialogue,ACT III,SCENE II,HAMLET,2100,ten
@@ -5891,7 +5815,6 @@ gutenberg_id,short_title,gutenberg_title,genre,year,author,section,class,act,sce
 1524,Hamlet,"THE TRAGEDY OF HAMLET, PRINCE OF DENMARK",Tragedy,1600,William Shakespeare,contents,dialogue,ACT III,SCENE II,ROSENCRANTZ,2107,king
 1524,Hamlet,"THE TRAGEDY OF HAMLET, PRINCE OF DENMARK",Tragedy,1600,William Shakespeare,contents,dialogue,ACT III,SCENE II,ROSENCRANTZ,2108,succession
 1524,Hamlet,"THE TRAGEDY OF HAMLET, PRINCE OF DENMARK",Tragedy,1600,William Shakespeare,contents,dialogue,ACT III,SCENE II,ROSENCRANTZ,2108,denmark
-1524,Hamlet,"THE TRAGEDY OF HAMLET, PRINCE OF DENMARK",Tragedy,1600,William Shakespeare,contents,dialogue,ACT III,SCENE II,HAMLET,2109,ay
 1524,Hamlet,"THE TRAGEDY OF HAMLET, PRINCE OF DENMARK",Tragedy,1600,William Shakespeare,contents,dialogue,ACT III,SCENE II,HAMLET,2109,sir
 1524,Hamlet,"THE TRAGEDY OF HAMLET, PRINCE OF DENMARK",Tragedy,1600,William Shakespeare,contents,dialogue,ACT III,SCENE II,HAMLET,2109,grass
 1524,Hamlet,"THE TRAGEDY OF HAMLET, PRINCE OF DENMARK",Tragedy,1600,William Shakespeare,contents,dialogue,ACT III,SCENE II,HAMLET,2109,grows
@@ -6126,7 +6049,6 @@ gutenberg_id,short_title,gutenberg_title,genre,year,author,section,class,act,sce
 1524,Hamlet,"THE TRAGEDY OF HAMLET, PRINCE OF DENMARK",Tragedy,1600,William Shakespeare,contents,dialogue,ACT III,SCENE III,POLONIUS,2189,fare
 1524,Hamlet,"THE TRAGEDY OF HAMLET, PRINCE OF DENMARK",Tragedy,1600,William Shakespeare,contents,dialogue,ACT III,SCENE III,POLONIUS,2189,liege
 1524,Hamlet,"THE TRAGEDY OF HAMLET, PRINCE OF DENMARK",Tragedy,1600,William Shakespeare,contents,dialogue,ACT III,SCENE III,POLONIUS,2190,call
-1524,Hamlet,"THE TRAGEDY OF HAMLET, PRINCE OF DENMARK",Tragedy,1600,William Shakespeare,contents,dialogue,ACT III,SCENE III,POLONIUS,2190,ere
 1524,Hamlet,"THE TRAGEDY OF HAMLET, PRINCE OF DENMARK",Tragedy,1600,William Shakespeare,contents,dialogue,ACT III,SCENE III,POLONIUS,2190,bed
 1524,Hamlet,"THE TRAGEDY OF HAMLET, PRINCE OF DENMARK",Tragedy,1600,William Shakespeare,contents,dialogue,ACT III,SCENE III,KING,2192,dear
 1524,Hamlet,"THE TRAGEDY OF HAMLET, PRINCE OF DENMARK",Tragedy,1600,William Shakespeare,contents,dialogue,ACT III,SCENE III,KING,2192,lord
@@ -6177,7 +6099,6 @@ gutenberg_id,short_title,gutenberg_title,genre,year,author,section,class,act,sce
 1524,Hamlet,"THE TRAGEDY OF HAMLET, PRINCE OF DENMARK",Tragedy,1600,William Shakespeare,contents,dialogue,ACT III,SCENE III,KING,2205,twofold
 1524,Hamlet,"THE TRAGEDY OF HAMLET, PRINCE OF DENMARK",Tragedy,1600,William Shakespeare,contents,dialogue,ACT III,SCENE III,KING,2205,force
 1524,Hamlet,"THE TRAGEDY OF HAMLET, PRINCE OF DENMARK",Tragedy,1600,William Shakespeare,contents,dialogue,ACT III,SCENE III,KING,2206,forestalled
-1524,Hamlet,"THE TRAGEDY OF HAMLET, PRINCE OF DENMARK",Tragedy,1600,William Shakespeare,contents,dialogue,ACT III,SCENE III,KING,2206,ere
 1524,Hamlet,"THE TRAGEDY OF HAMLET, PRINCE OF DENMARK",Tragedy,1600,William Shakespeare,contents,dialogue,ACT III,SCENE III,KING,2206,fall
 1524,Hamlet,"THE TRAGEDY OF HAMLET, PRINCE OF DENMARK",Tragedy,1600,William Shakespeare,contents,dialogue,ACT III,SCENE III,KING,2207,pardon'd
 1524,Hamlet,"THE TRAGEDY OF HAMLET, PRINCE OF DENMARK",Tragedy,1600,William Shakespeare,contents,dialogue,ACT III,SCENE III,KING,2208,fault
@@ -6192,7 +6113,6 @@ gutenberg_id,short_title,gutenberg_title,genre,year,author,section,class,act,sce
 1524,Hamlet,"THE TRAGEDY OF HAMLET, PRINCE OF DENMARK",Tragedy,1600,William Shakespeare,contents,dialogue,ACT III,SCENE III,KING,2211,effects
 1524,Hamlet,"THE TRAGEDY OF HAMLET, PRINCE OF DENMARK",Tragedy,1600,William Shakespeare,contents,dialogue,ACT III,SCENE III,KING,2211,murder
 1524,Hamlet,"THE TRAGEDY OF HAMLET, PRINCE OF DENMARK",Tragedy,1600,William Shakespeare,contents,dialogue,ACT III,SCENE III,KING,2212,crown
-1524,Hamlet,"THE TRAGEDY OF HAMLET, PRINCE OF DENMARK",Tragedy,1600,William Shakespeare,contents,dialogue,ACT III,SCENE III,KING,2212,mine
 1524,Hamlet,"THE TRAGEDY OF HAMLET, PRINCE OF DENMARK",Tragedy,1600,William Shakespeare,contents,dialogue,ACT III,SCENE III,KING,2212,ambition
 1524,Hamlet,"THE TRAGEDY OF HAMLET, PRINCE OF DENMARK",Tragedy,1600,William Shakespeare,contents,dialogue,ACT III,SCENE III,KING,2212,queen
 1524,Hamlet,"THE TRAGEDY OF HAMLET, PRINCE OF DENMARK",Tragedy,1600,William Shakespeare,contents,dialogue,ACT III,SCENE III,KING,2213,pardon'd
@@ -6351,7 +6271,6 @@ gutenberg_id,short_title,gutenberg_title,genre,year,author,section,class,act,sce
 1524,Hamlet,"THE TRAGEDY OF HAMLET, PRINCE OF DENMARK",Tragedy,1600,William Shakespeare,contents,dialogue,ACT III,SCENE IV,HAMLET,2263,mother
 1524,Hamlet,"THE TRAGEDY OF HAMLET, PRINCE OF DENMARK",Tragedy,1600,William Shakespeare,contents,dialogue,ACT III,SCENE IV,HAMLET,2263,matter
 1524,Hamlet,"THE TRAGEDY OF HAMLET, PRINCE OF DENMARK",Tragedy,1600,William Shakespeare,contents,dialogue,ACT III,SCENE IV,QUEEN,2264,hamlet
-1524,Hamlet,"THE TRAGEDY OF HAMLET, PRINCE OF DENMARK",Tragedy,1600,William Shakespeare,contents,dialogue,ACT III,SCENE IV,QUEEN,2264,hast
 1524,Hamlet,"THE TRAGEDY OF HAMLET, PRINCE OF DENMARK",Tragedy,1600,William Shakespeare,contents,dialogue,ACT III,SCENE IV,QUEEN,2264,father
 1524,Hamlet,"THE TRAGEDY OF HAMLET, PRINCE OF DENMARK",Tragedy,1600,William Shakespeare,contents,dialogue,ACT III,SCENE IV,QUEEN,2264,offended
 1524,Hamlet,"THE TRAGEDY OF HAMLET, PRINCE OF DENMARK",Tragedy,1600,William Shakespeare,contents,dialogue,ACT III,SCENE IV,HAMLET,2265,mother
@@ -6372,12 +6291,10 @@ gutenberg_id,short_title,gutenberg_title,genre,year,author,section,class,act,sce
 1524,Hamlet,"THE TRAGEDY OF HAMLET, PRINCE OF DENMARK",Tragedy,1600,William Shakespeare,contents,dialogue,ACT III,SCENE IV,HAMLET,2272,brother's
 1524,Hamlet,"THE TRAGEDY OF HAMLET, PRINCE OF DENMARK",Tragedy,1600,William Shakespeare,contents,dialogue,ACT III,SCENE IV,HAMLET,2272,wife
 1524,Hamlet,"THE TRAGEDY OF HAMLET, PRINCE OF DENMARK",Tragedy,1600,William Shakespeare,contents,dialogue,ACT III,SCENE IV,HAMLET,2273,mother
-1524,Hamlet,"THE TRAGEDY OF HAMLET, PRINCE OF DENMARK",Tragedy,1600,William Shakespeare,contents,dialogue,ACT III,SCENE IV,QUEEN,2274,nay
 1524,Hamlet,"THE TRAGEDY OF HAMLET, PRINCE OF DENMARK",Tragedy,1600,William Shakespeare,contents,dialogue,ACT III,SCENE IV,QUEEN,2274,set
 1524,Hamlet,"THE TRAGEDY OF HAMLET, PRINCE OF DENMARK",Tragedy,1600,William Shakespeare,contents,dialogue,ACT III,SCENE IV,QUEEN,2274,speak
 1524,Hamlet,"THE TRAGEDY OF HAMLET, PRINCE OF DENMARK",Tragedy,1600,William Shakespeare,contents,dialogue,ACT III,SCENE IV,HAMLET,2275,sit
 1524,Hamlet,"THE TRAGEDY OF HAMLET, PRINCE OF DENMARK",Tragedy,1600,William Shakespeare,contents,dialogue,ACT III,SCENE IV,HAMLET,2275,budge
-1524,Hamlet,"THE TRAGEDY OF HAMLET, PRINCE OF DENMARK",Tragedy,1600,William Shakespeare,contents,dialogue,ACT III,SCENE IV,HAMLET,2276,till
 1524,Hamlet,"THE TRAGEDY OF HAMLET, PRINCE OF DENMARK",Tragedy,1600,William Shakespeare,contents,dialogue,ACT III,SCENE IV,HAMLET,2276,set
 1524,Hamlet,"THE TRAGEDY OF HAMLET, PRINCE OF DENMARK",Tragedy,1600,William Shakespeare,contents,dialogue,ACT III,SCENE IV,HAMLET,2276,glass
 1524,Hamlet,"THE TRAGEDY OF HAMLET, PRINCE OF DENMARK",Tragedy,1600,William Shakespeare,contents,dialogue,ACT III,SCENE IV,HAMLET,2277,inmost
@@ -6395,8 +6312,6 @@ gutenberg_id,short_title,gutenberg_title,genre,year,author,section,class,act,sce
 1524,Hamlet,"THE TRAGEDY OF HAMLET, PRINCE OF DENMARK",Tragedy,1600,William Shakespeare,contents,dialogue,ACT III,SCENE IV,POLONIUS,2282,slain
 1524,Hamlet,"THE TRAGEDY OF HAMLET, PRINCE OF DENMARK",Tragedy,1600,William Shakespeare,contents,directions,ACT III,SCENE IV,NA,NA,falls
 1524,Hamlet,"THE TRAGEDY OF HAMLET, PRINCE OF DENMARK",Tragedy,1600,William Shakespeare,contents,directions,ACT III,SCENE IV,NA,NA,dies
-1524,Hamlet,"THE TRAGEDY OF HAMLET, PRINCE OF DENMARK",Tragedy,1600,William Shakespeare,contents,dialogue,ACT III,SCENE IV,QUEEN,2283,hast
-1524,Hamlet,"THE TRAGEDY OF HAMLET, PRINCE OF DENMARK",Tragedy,1600,William Shakespeare,contents,dialogue,ACT III,SCENE IV,HAMLET,2284,nay
 1524,Hamlet,"THE TRAGEDY OF HAMLET, PRINCE OF DENMARK",Tragedy,1600,William Shakespeare,contents,dialogue,ACT III,SCENE IV,HAMLET,2284,king
 1524,Hamlet,"THE TRAGEDY OF HAMLET, PRINCE OF DENMARK",Tragedy,1600,William Shakespeare,contents,directions,ACT III,SCENE IV,NA,NA,draws
 1524,Hamlet,"THE TRAGEDY OF HAMLET, PRINCE OF DENMARK",Tragedy,1600,William Shakespeare,contents,directions,ACT III,SCENE IV,NA,NA,polonius
@@ -6413,7 +6328,6 @@ gutenberg_id,short_title,gutenberg_title,genre,year,author,section,class,act,sce
 1524,Hamlet,"THE TRAGEDY OF HAMLET, PRINCE OF DENMARK",Tragedy,1600,William Shakespeare,contents,dialogue,ACT III,SCENE IV,HAMLET,2287,brother
 1524,Hamlet,"THE TRAGEDY OF HAMLET, PRINCE OF DENMARK",Tragedy,1600,William Shakespeare,contents,dialogue,ACT III,SCENE IV,QUEEN,2288,kill
 1524,Hamlet,"THE TRAGEDY OF HAMLET, PRINCE OF DENMARK",Tragedy,1600,William Shakespeare,contents,dialogue,ACT III,SCENE IV,QUEEN,2288,king
-1524,Hamlet,"THE TRAGEDY OF HAMLET, PRINCE OF DENMARK",Tragedy,1600,William Shakespeare,contents,dialogue,ACT III,SCENE IV,HAMLET,2289,ay
 1524,Hamlet,"THE TRAGEDY OF HAMLET, PRINCE OF DENMARK",Tragedy,1600,William Shakespeare,contents,dialogue,ACT III,SCENE IV,HAMLET,2289,lady
 1524,Hamlet,"THE TRAGEDY OF HAMLET, PRINCE OF DENMARK",Tragedy,1600,William Shakespeare,contents,dialogue,ACT III,SCENE IV,HAMLET,2289,word
 1524,Hamlet,"THE TRAGEDY OF HAMLET, PRINCE OF DENMARK",Tragedy,1600,William Shakespeare,contents,dialogue,ACT III,SCENE IV,HAMLET,2290,polonius
@@ -6487,7 +6401,6 @@ gutenberg_id,short_title,gutenberg_title,genre,year,author,section,class,act,sce
 1524,Hamlet,"THE TRAGEDY OF HAMLET, PRINCE OF DENMARK",Tragedy,1600,William Shakespeare,contents,dialogue,ACT III,SCENE IV,HAMLET,2310,visage
 1524,Hamlet,"THE TRAGEDY OF HAMLET, PRINCE OF DENMARK",Tragedy,1600,William Shakespeare,contents,dialogue,ACT III,SCENE IV,HAMLET,2310,doom
 1524,Hamlet,"THE TRAGEDY OF HAMLET, PRINCE OF DENMARK",Tragedy,1600,William Shakespeare,contents,dialogue,ACT III,SCENE IV,HAMLET,2311,sick
-1524,Hamlet,"THE TRAGEDY OF HAMLET, PRINCE OF DENMARK",Tragedy,1600,William Shakespeare,contents,dialogue,ACT III,SCENE IV,QUEEN,2312,ay
 1524,Hamlet,"THE TRAGEDY OF HAMLET, PRINCE OF DENMARK",Tragedy,1600,William Shakespeare,contents,dialogue,ACT III,SCENE IV,QUEEN,2313,roars
 1524,Hamlet,"THE TRAGEDY OF HAMLET, PRINCE OF DENMARK",Tragedy,1600,William Shakespeare,contents,dialogue,ACT III,SCENE IV,QUEEN,2313,loud
 1524,Hamlet,"THE TRAGEDY OF HAMLET, PRINCE OF DENMARK",Tragedy,1600,William Shakespeare,contents,dialogue,ACT III,SCENE IV,QUEEN,2313,thunders
@@ -6609,7 +6522,6 @@ gutenberg_id,short_title,gutenberg_title,genre,year,author,section,class,act,sce
 1524,Hamlet,"THE TRAGEDY OF HAMLET, PRINCE OF DENMARK",Tragedy,1600,William Shakespeare,contents,dialogue,ACT III,SCENE IV,QUEEN,2350,hamlet
 1524,Hamlet,"THE TRAGEDY OF HAMLET, PRINCE OF DENMARK",Tragedy,1600,William Shakespeare,contents,dialogue,ACT III,SCENE IV,QUEEN,2350,speak
 1524,Hamlet,"THE TRAGEDY OF HAMLET, PRINCE OF DENMARK",Tragedy,1600,William Shakespeare,contents,dialogue,ACT III,SCENE IV,QUEEN,2351,turn'st
-1524,Hamlet,"THE TRAGEDY OF HAMLET, PRINCE OF DENMARK",Tragedy,1600,William Shakespeare,contents,dialogue,ACT III,SCENE IV,QUEEN,2351,mine
 1524,Hamlet,"THE TRAGEDY OF HAMLET, PRINCE OF DENMARK",Tragedy,1600,William Shakespeare,contents,dialogue,ACT III,SCENE IV,QUEEN,2351,eyes
 1524,Hamlet,"THE TRAGEDY OF HAMLET, PRINCE OF DENMARK",Tragedy,1600,William Shakespeare,contents,dialogue,ACT III,SCENE IV,QUEEN,2351,soul
 1524,Hamlet,"THE TRAGEDY OF HAMLET, PRINCE OF DENMARK",Tragedy,1600,William Shakespeare,contents,dialogue,ACT III,SCENE IV,QUEEN,2352,black
@@ -6617,7 +6529,6 @@ gutenberg_id,short_title,gutenberg_title,genre,year,author,section,class,act,sce
 1524,Hamlet,"THE TRAGEDY OF HAMLET, PRINCE OF DENMARK",Tragedy,1600,William Shakespeare,contents,dialogue,ACT III,SCENE IV,QUEEN,2352,spots
 1524,Hamlet,"THE TRAGEDY OF HAMLET, PRINCE OF DENMARK",Tragedy,1600,William Shakespeare,contents,dialogue,ACT III,SCENE IV,QUEEN,2353,leave
 1524,Hamlet,"THE TRAGEDY OF HAMLET, PRINCE OF DENMARK",Tragedy,1600,William Shakespeare,contents,dialogue,ACT III,SCENE IV,QUEEN,2353,tinct
-1524,Hamlet,"THE TRAGEDY OF HAMLET, PRINCE OF DENMARK",Tragedy,1600,William Shakespeare,contents,dialogue,ACT III,SCENE IV,HAMLET,2354,nay
 1524,Hamlet,"THE TRAGEDY OF HAMLET, PRINCE OF DENMARK",Tragedy,1600,William Shakespeare,contents,dialogue,ACT III,SCENE IV,HAMLET,2354,live
 1524,Hamlet,"THE TRAGEDY OF HAMLET, PRINCE OF DENMARK",Tragedy,1600,William Shakespeare,contents,dialogue,ACT III,SCENE IV,HAMLET,2355,rank
 1524,Hamlet,"THE TRAGEDY OF HAMLET, PRINCE OF DENMARK",Tragedy,1600,William Shakespeare,contents,dialogue,ACT III,SCENE IV,HAMLET,2355,sweat
@@ -6632,7 +6543,6 @@ gutenberg_id,short_title,gutenberg_title,genre,year,author,section,class,act,sce
 1524,Hamlet,"THE TRAGEDY OF HAMLET, PRINCE OF DENMARK",Tragedy,1600,William Shakespeare,contents,dialogue,ACT III,SCENE IV,QUEEN,2358,speak
 1524,Hamlet,"THE TRAGEDY OF HAMLET, PRINCE OF DENMARK",Tragedy,1600,William Shakespeare,contents,dialogue,ACT III,SCENE IV,QUEEN,2359,words
 1524,Hamlet,"THE TRAGEDY OF HAMLET, PRINCE OF DENMARK",Tragedy,1600,William Shakespeare,contents,dialogue,ACT III,SCENE IV,QUEEN,2359,daggers
-1524,Hamlet,"THE TRAGEDY OF HAMLET, PRINCE OF DENMARK",Tragedy,1600,William Shakespeare,contents,dialogue,ACT III,SCENE IV,QUEEN,2359,mine
 1524,Hamlet,"THE TRAGEDY OF HAMLET, PRINCE OF DENMARK",Tragedy,1600,William Shakespeare,contents,dialogue,ACT III,SCENE IV,QUEEN,2359,ears
 1524,Hamlet,"THE TRAGEDY OF HAMLET, PRINCE OF DENMARK",Tragedy,1600,William Shakespeare,contents,dialogue,ACT III,SCENE IV,QUEEN,2360,sweet
 1524,Hamlet,"THE TRAGEDY OF HAMLET, PRINCE OF DENMARK",Tragedy,1600,William Shakespeare,contents,dialogue,ACT III,SCENE IV,QUEEN,2360,hamlet
@@ -6813,7 +6723,6 @@ gutenberg_id,short_title,gutenberg_title,genre,year,author,section,class,act,sce
 1524,Hamlet,"THE TRAGEDY OF HAMLET, PRINCE OF DENMARK",Tragedy,1600,William Shakespeare,contents,dialogue,ACT III,SCENE IV,HAMLET,2425,woo
 1524,Hamlet,"THE TRAGEDY OF HAMLET, PRINCE OF DENMARK",Tragedy,1600,William Shakespeare,contents,dialogue,ACT III,SCENE IV,HAMLET,2425,leave
 1524,Hamlet,"THE TRAGEDY OF HAMLET, PRINCE OF DENMARK",Tragedy,1600,William Shakespeare,contents,dialogue,ACT III,SCENE IV,QUEEN,2426,hamlet
-1524,Hamlet,"THE TRAGEDY OF HAMLET, PRINCE OF DENMARK",Tragedy,1600,William Shakespeare,contents,dialogue,ACT III,SCENE IV,QUEEN,2426,hast
 1524,Hamlet,"THE TRAGEDY OF HAMLET, PRINCE OF DENMARK",Tragedy,1600,William Shakespeare,contents,dialogue,ACT III,SCENE IV,QUEEN,2426,cleft
 1524,Hamlet,"THE TRAGEDY OF HAMLET, PRINCE OF DENMARK",Tragedy,1600,William Shakespeare,contents,dialogue,ACT III,SCENE IV,QUEEN,2426,heart
 1524,Hamlet,"THE TRAGEDY OF HAMLET, PRINCE OF DENMARK",Tragedy,1600,William Shakespeare,contents,dialogue,ACT III,SCENE IV,QUEEN,2426,twain
@@ -6823,7 +6732,6 @@ gutenberg_id,short_title,gutenberg_title,genre,year,author,section,class,act,sce
 1524,Hamlet,"THE TRAGEDY OF HAMLET, PRINCE OF DENMARK",Tragedy,1600,William Shakespeare,contents,dialogue,ACT III,SCENE IV,HAMLET,2428,purer
 1524,Hamlet,"THE TRAGEDY OF HAMLET, PRINCE OF DENMARK",Tragedy,1600,William Shakespeare,contents,dialogue,ACT III,SCENE IV,HAMLET,2428,half
 1524,Hamlet,"THE TRAGEDY OF HAMLET, PRINCE OF DENMARK",Tragedy,1600,William Shakespeare,contents,dialogue,ACT III,SCENE IV,HAMLET,2429,night
-1524,Hamlet,"THE TRAGEDY OF HAMLET, PRINCE OF DENMARK",Tragedy,1600,William Shakespeare,contents,dialogue,ACT III,SCENE IV,HAMLET,2429,mine
 1524,Hamlet,"THE TRAGEDY OF HAMLET, PRINCE OF DENMARK",Tragedy,1600,William Shakespeare,contents,dialogue,ACT III,SCENE IV,HAMLET,2429,uncle's
 1524,Hamlet,"THE TRAGEDY OF HAMLET, PRINCE OF DENMARK",Tragedy,1600,William Shakespeare,contents,dialogue,ACT III,SCENE IV,HAMLET,2429,bed
 1524,Hamlet,"THE TRAGEDY OF HAMLET, PRINCE OF DENMARK",Tragedy,1600,William Shakespeare,contents,dialogue,ACT III,SCENE IV,HAMLET,2430,assume
@@ -6936,7 +6844,6 @@ gutenberg_id,short_title,gutenberg_title,genre,year,author,section,class,act,sce
 1524,Hamlet,"THE TRAGEDY OF HAMLET, PRINCE OF DENMARK",Tragedy,1600,William Shakespeare,contents,dialogue,ACT III,SCENE IV,QUEEN,2469,life
 1524,Hamlet,"THE TRAGEDY OF HAMLET, PRINCE OF DENMARK",Tragedy,1600,William Shakespeare,contents,dialogue,ACT III,SCENE IV,QUEEN,2469,life
 1524,Hamlet,"THE TRAGEDY OF HAMLET, PRINCE OF DENMARK",Tragedy,1600,William Shakespeare,contents,dialogue,ACT III,SCENE IV,QUEEN,2469,breathe
-1524,Hamlet,"THE TRAGEDY OF HAMLET, PRINCE OF DENMARK",Tragedy,1600,William Shakespeare,contents,dialogue,ACT III,SCENE IV,QUEEN,2470,hast
 1524,Hamlet,"THE TRAGEDY OF HAMLET, PRINCE OF DENMARK",Tragedy,1600,William Shakespeare,contents,dialogue,ACT III,SCENE IV,HAMLET,2471,england
 1524,Hamlet,"THE TRAGEDY OF HAMLET, PRINCE OF DENMARK",Tragedy,1600,William Shakespeare,contents,dialogue,ACT III,SCENE IV,QUEEN,2472,alack
 1524,Hamlet,"THE TRAGEDY OF HAMLET, PRINCE OF DENMARK",Tragedy,1600,William Shakespeare,contents,dialogue,ACT III,SCENE IV,QUEEN,2473,forgot
@@ -7143,7 +7050,6 @@ gutenberg_id,short_title,gutenberg_title,genre,year,author,section,class,act,sce
 1524,Hamlet,"THE TRAGEDY OF HAMLET, PRINCE OF DENMARK",Tragedy,1600,William Shakespeare,contents,dialogue,ACT IV,SCENE II,ROSENCRANTZ,2542,bear
 1524,Hamlet,"THE TRAGEDY OF HAMLET, PRINCE OF DENMARK",Tragedy,1600,William Shakespeare,contents,dialogue,ACT IV,SCENE II,ROSENCRANTZ,2542,chapel
 1524,Hamlet,"THE TRAGEDY OF HAMLET, PRINCE OF DENMARK",Tragedy,1600,William Shakespeare,contents,dialogue,ACT IV,SCENE II,HAMLET,2545,counsel
-1524,Hamlet,"THE TRAGEDY OF HAMLET, PRINCE OF DENMARK",Tragedy,1600,William Shakespeare,contents,dialogue,ACT IV,SCENE II,HAMLET,2545,mine
 1524,Hamlet,"THE TRAGEDY OF HAMLET, PRINCE OF DENMARK",Tragedy,1600,William Shakespeare,contents,dialogue,ACT IV,SCENE II,HAMLET,2545,demanded
 1524,Hamlet,"THE TRAGEDY OF HAMLET, PRINCE OF DENMARK",Tragedy,1600,William Shakespeare,contents,dialogue,ACT IV,SCENE II,HAMLET,2546,sponge
 1524,Hamlet,"THE TRAGEDY OF HAMLET, PRINCE OF DENMARK",Tragedy,1600,William Shakespeare,contents,dialogue,ACT IV,SCENE II,HAMLET,2546,replication
@@ -7151,7 +7057,6 @@ gutenberg_id,short_title,gutenberg_title,genre,year,author,section,class,act,sce
 1524,Hamlet,"THE TRAGEDY OF HAMLET, PRINCE OF DENMARK",Tragedy,1600,William Shakespeare,contents,dialogue,ACT IV,SCENE II,HAMLET,2546,king
 1524,Hamlet,"THE TRAGEDY OF HAMLET, PRINCE OF DENMARK",Tragedy,1600,William Shakespeare,contents,dialogue,ACT IV,SCENE II,ROSENCRANTZ,2547,sponge
 1524,Hamlet,"THE TRAGEDY OF HAMLET, PRINCE OF DENMARK",Tragedy,1600,William Shakespeare,contents,dialogue,ACT IV,SCENE II,ROSENCRANTZ,2547,lord
-1524,Hamlet,"THE TRAGEDY OF HAMLET, PRINCE OF DENMARK",Tragedy,1600,William Shakespeare,contents,dialogue,ACT IV,SCENE II,HAMLET,2548,ay
 1524,Hamlet,"THE TRAGEDY OF HAMLET, PRINCE OF DENMARK",Tragedy,1600,William Shakespeare,contents,dialogue,ACT IV,SCENE II,HAMLET,2548,sir
 1524,Hamlet,"THE TRAGEDY OF HAMLET, PRINCE OF DENMARK",Tragedy,1600,William Shakespeare,contents,dialogue,ACT IV,SCENE II,HAMLET,2548,soaks
 1524,Hamlet,"THE TRAGEDY OF HAMLET, PRINCE OF DENMARK",Tragedy,1600,William Shakespeare,contents,dialogue,ACT IV,SCENE II,HAMLET,2548,king's
@@ -7289,7 +7194,6 @@ gutenberg_id,short_title,gutenberg_title,genre,year,author,section,class,act,sce
 1524,Hamlet,"THE TRAGEDY OF HAMLET, PRINCE OF DENMARK",Tragedy,1600,William Shakespeare,contents,dialogue,ACT IV,SCENE III,KING,2597,attendants
 1524,Hamlet,"THE TRAGEDY OF HAMLET, PRINCE OF DENMARK",Tragedy,1600,William Shakespeare,contents,dialogue,ACT IV,SCENE III,KING,2597,seek
 1524,Hamlet,"THE TRAGEDY OF HAMLET, PRINCE OF DENMARK",Tragedy,1600,William Shakespeare,contents,dialogue,ACT IV,SCENE III,HAMLET,2598,stay
-1524,Hamlet,"THE TRAGEDY OF HAMLET, PRINCE OF DENMARK",Tragedy,1600,William Shakespeare,contents,dialogue,ACT IV,SCENE III,HAMLET,2598,till
 1524,Hamlet,"THE TRAGEDY OF HAMLET, PRINCE OF DENMARK",Tragedy,1600,William Shakespeare,contents,directions,ACT IV,SCENE III,NA,NA,attendants
 1524,Hamlet,"THE TRAGEDY OF HAMLET, PRINCE OF DENMARK",Tragedy,1600,William Shakespeare,contents,dialogue,ACT IV,SCENE III,KING,2599,hamlet
 1524,Hamlet,"THE TRAGEDY OF HAMLET, PRINCE OF DENMARK",Tragedy,1600,William Shakespeare,contents,dialogue,ACT IV,SCENE III,KING,2599,deed
@@ -7298,7 +7202,6 @@ gutenberg_id,short_title,gutenberg_title,genre,year,author,section,class,act,sce
 1524,Hamlet,"THE TRAGEDY OF HAMLET, PRINCE OF DENMARK",Tragedy,1600,William Shakespeare,contents,dialogue,ACT IV,SCENE III,KING,2600,tender
 1524,Hamlet,"THE TRAGEDY OF HAMLET, PRINCE OF DENMARK",Tragedy,1600,William Shakespeare,contents,dialogue,ACT IV,SCENE III,KING,2600,dearly
 1524,Hamlet,"THE TRAGEDY OF HAMLET, PRINCE OF DENMARK",Tragedy,1600,William Shakespeare,contents,dialogue,ACT IV,SCENE III,KING,2600,grieve
-1524,Hamlet,"THE TRAGEDY OF HAMLET, PRINCE OF DENMARK",Tragedy,1600,William Shakespeare,contents,dialogue,ACT IV,SCENE III,KING,2601,hast
 1524,Hamlet,"THE TRAGEDY OF HAMLET, PRINCE OF DENMARK",Tragedy,1600,William Shakespeare,contents,dialogue,ACT IV,SCENE III,KING,2601,send
 1524,Hamlet,"THE TRAGEDY OF HAMLET, PRINCE OF DENMARK",Tragedy,1600,William Shakespeare,contents,dialogue,ACT IV,SCENE III,KING,2602,fiery
 1524,Hamlet,"THE TRAGEDY OF HAMLET, PRINCE OF DENMARK",Tragedy,1600,William Shakespeare,contents,dialogue,ACT IV,SCENE III,KING,2602,quickness
@@ -7311,7 +7214,6 @@ gutenberg_id,short_title,gutenberg_title,genre,year,author,section,class,act,sce
 1524,Hamlet,"THE TRAGEDY OF HAMLET, PRINCE OF DENMARK",Tragedy,1600,William Shakespeare,contents,dialogue,ACT IV,SCENE III,KING,2604,bent
 1524,Hamlet,"THE TRAGEDY OF HAMLET, PRINCE OF DENMARK",Tragedy,1600,William Shakespeare,contents,dialogue,ACT IV,SCENE III,KING,2605,england
 1524,Hamlet,"THE TRAGEDY OF HAMLET, PRINCE OF DENMARK",Tragedy,1600,William Shakespeare,contents,dialogue,ACT IV,SCENE III,HAMLET,2606,england
-1524,Hamlet,"THE TRAGEDY OF HAMLET, PRINCE OF DENMARK",Tragedy,1600,William Shakespeare,contents,dialogue,ACT IV,SCENE III,KING,2607,ay
 1524,Hamlet,"THE TRAGEDY OF HAMLET, PRINCE OF DENMARK",Tragedy,1600,William Shakespeare,contents,dialogue,ACT IV,SCENE III,KING,2607,hamlet
 1524,Hamlet,"THE TRAGEDY OF HAMLET, PRINCE OF DENMARK",Tragedy,1600,William Shakespeare,contents,dialogue,ACT IV,SCENE III,KING,2609,knew'st
 1524,Hamlet,"THE TRAGEDY OF HAMLET, PRINCE OF DENMARK",Tragedy,1600,William Shakespeare,contents,dialogue,ACT IV,SCENE III,KING,2609,purposes
@@ -7377,7 +7279,6 @@ gutenberg_id,short_title,gutenberg_title,genre,year,author,section,class,act,sce
 1524,Hamlet,"THE TRAGEDY OF HAMLET, PRINCE OF DENMARK",Tragedy,1600,William Shakespeare,contents,dialogue,ACT IV,SCENE III,KING,2627,blood
 1524,Hamlet,"THE TRAGEDY OF HAMLET, PRINCE OF DENMARK",Tragedy,1600,William Shakespeare,contents,dialogue,ACT IV,SCENE III,KING,2627,rages
 1524,Hamlet,"THE TRAGEDY OF HAMLET, PRINCE OF DENMARK",Tragedy,1600,William Shakespeare,contents,dialogue,ACT IV,SCENE III,KING,2628,cure
-1524,Hamlet,"THE TRAGEDY OF HAMLET, PRINCE OF DENMARK",Tragedy,1600,William Shakespeare,contents,dialogue,ACT IV,SCENE III,KING,2628,till
 1524,Hamlet,"THE TRAGEDY OF HAMLET, PRINCE OF DENMARK",Tragedy,1600,William Shakespeare,contents,dialogue,ACT IV,SCENE III,KING,2629,howe'er
 1524,Hamlet,"THE TRAGEDY OF HAMLET, PRINCE OF DENMARK",Tragedy,1600,William Shakespeare,contents,dialogue,ACT IV,SCENE III,KING,2629,haps
 1524,Hamlet,"THE TRAGEDY OF HAMLET, PRINCE OF DENMARK",Tragedy,1600,William Shakespeare,contents,dialogue,ACT IV,SCENE III,KING,2629,joys
@@ -7645,7 +7546,6 @@ gutenberg_id,short_title,gutenberg_title,genre,year,author,section,class,act,sce
 1524,Hamlet,"THE TRAGEDY OF HAMLET, PRINCE OF DENMARK",Tragedy,1600,William Shakespeare,contents,dialogue,ACT IV,SCENE V,QUEEN,2725,lady
 1524,Hamlet,"THE TRAGEDY OF HAMLET, PRINCE OF DENMARK",Tragedy,1600,William Shakespeare,contents,dialogue,ACT IV,SCENE V,QUEEN,2725,imports
 1524,Hamlet,"THE TRAGEDY OF HAMLET, PRINCE OF DENMARK",Tragedy,1600,William Shakespeare,contents,dialogue,ACT IV,SCENE V,QUEEN,2725,song
-1524,Hamlet,"THE TRAGEDY OF HAMLET, PRINCE OF DENMARK",Tragedy,1600,William Shakespeare,contents,dialogue,ACT IV,SCENE V,OPHELIA,2726,nay
 1524,Hamlet,"THE TRAGEDY OF HAMLET, PRINCE OF DENMARK",Tragedy,1600,William Shakespeare,contents,dialogue,ACT IV,SCENE V,OPHELIA,2726,pray
 1524,Hamlet,"THE TRAGEDY OF HAMLET, PRINCE OF DENMARK",Tragedy,1600,William Shakespeare,contents,dialogue,ACT IV,SCENE V,OPHELIA,2726,mark
 1524,Hamlet,"THE TRAGEDY OF HAMLET, PRINCE OF DENMARK",Tragedy,1600,William Shakespeare,contents,directions,ACT IV,SCENE V,NA,NA,sings
@@ -7658,7 +7558,6 @@ gutenberg_id,short_title,gutenberg_title,genre,year,author,section,class,act,sce
 1524,Hamlet,"THE TRAGEDY OF HAMLET, PRINCE OF DENMARK",Tragedy,1600,William Shakespeare,contents,dialogue,ACT IV,SCENE V,OPHELIA,2729,turf
 1524,Hamlet,"THE TRAGEDY OF HAMLET, PRINCE OF DENMARK",Tragedy,1600,William Shakespeare,contents,dialogue,ACT IV,SCENE V,OPHELIA,2730,heels
 1524,Hamlet,"THE TRAGEDY OF HAMLET, PRINCE OF DENMARK",Tragedy,1600,William Shakespeare,contents,dialogue,ACT IV,SCENE V,OPHELIA,2730,stone
-1524,Hamlet,"THE TRAGEDY OF HAMLET, PRINCE OF DENMARK",Tragedy,1600,William Shakespeare,contents,dialogue,ACT IV,SCENE V,QUEEN,2731,nay
 1524,Hamlet,"THE TRAGEDY OF HAMLET, PRINCE OF DENMARK",Tragedy,1600,William Shakespeare,contents,dialogue,ACT IV,SCENE V,QUEEN,2731,ophelia
 1524,Hamlet,"THE TRAGEDY OF HAMLET, PRINCE OF DENMARK",Tragedy,1600,William Shakespeare,contents,dialogue,ACT IV,SCENE V,OPHELIA,2732,pray
 1524,Hamlet,"THE TRAGEDY OF HAMLET, PRINCE OF DENMARK",Tragedy,1600,William Shakespeare,contents,dialogue,ACT IV,SCENE V,OPHELIA,2732,mark
@@ -8009,13 +7908,11 @@ gutenberg_id,short_title,gutenberg_title,genre,year,author,section,class,act,sce
 1524,Hamlet,"THE TRAGEDY OF HAMLET, PRINCE OF DENMARK",Tragedy,1600,William Shakespeare,contents,dialogue,ACT IV,SCENE V,LAERTES,2860,burn
 1524,Hamlet,"THE TRAGEDY OF HAMLET, PRINCE OF DENMARK",Tragedy,1600,William Shakespeare,contents,dialogue,ACT IV,SCENE V,LAERTES,2860,sense
 1524,Hamlet,"THE TRAGEDY OF HAMLET, PRINCE OF DENMARK",Tragedy,1600,William Shakespeare,contents,dialogue,ACT IV,SCENE V,LAERTES,2860,virtue
-1524,Hamlet,"THE TRAGEDY OF HAMLET, PRINCE OF DENMARK",Tragedy,1600,William Shakespeare,contents,dialogue,ACT IV,SCENE V,LAERTES,2860,mine
 1524,Hamlet,"THE TRAGEDY OF HAMLET, PRINCE OF DENMARK",Tragedy,1600,William Shakespeare,contents,dialogue,ACT IV,SCENE V,LAERTES,2860,eye
 1524,Hamlet,"THE TRAGEDY OF HAMLET, PRINCE OF DENMARK",Tragedy,1600,William Shakespeare,contents,dialogue,ACT IV,SCENE V,LAERTES,2861,heaven
 1524,Hamlet,"THE TRAGEDY OF HAMLET, PRINCE OF DENMARK",Tragedy,1600,William Shakespeare,contents,dialogue,ACT IV,SCENE V,LAERTES,2861,madness
 1524,Hamlet,"THE TRAGEDY OF HAMLET, PRINCE OF DENMARK",Tragedy,1600,William Shakespeare,contents,dialogue,ACT IV,SCENE V,LAERTES,2861,paid
 1524,Hamlet,"THE TRAGEDY OF HAMLET, PRINCE OF DENMARK",Tragedy,1600,William Shakespeare,contents,dialogue,ACT IV,SCENE V,LAERTES,2861,weight
-1524,Hamlet,"THE TRAGEDY OF HAMLET, PRINCE OF DENMARK",Tragedy,1600,William Shakespeare,contents,dialogue,ACT IV,SCENE V,LAERTES,2862,till
 1524,Hamlet,"THE TRAGEDY OF HAMLET, PRINCE OF DENMARK",Tragedy,1600,William Shakespeare,contents,dialogue,ACT IV,SCENE V,LAERTES,2862,scale
 1524,Hamlet,"THE TRAGEDY OF HAMLET, PRINCE OF DENMARK",Tragedy,1600,William Shakespeare,contents,dialogue,ACT IV,SCENE V,LAERTES,2862,beam
 1524,Hamlet,"THE TRAGEDY OF HAMLET, PRINCE OF DENMARK",Tragedy,1600,William Shakespeare,contents,dialogue,ACT IV,SCENE V,LAERTES,2862,rose
@@ -8209,7 +8106,6 @@ gutenberg_id,short_title,gutenberg_title,genre,year,author,section,class,act,sce
 1524,Hamlet,"THE TRAGEDY OF HAMLET, PRINCE OF DENMARK",Tragedy,1600,William Shakespeare,contents,dialogue,ACT IV,SCENE VI,HORATIO,2933,means
 1524,Hamlet,"THE TRAGEDY OF HAMLET, PRINCE OF DENMARK",Tragedy,1600,William Shakespeare,contents,dialogue,ACT IV,SCENE VI,HORATIO,2933,king
 1524,Hamlet,"THE TRAGEDY OF HAMLET, PRINCE OF DENMARK",Tragedy,1600,William Shakespeare,contents,dialogue,ACT IV,SCENE VI,HORATIO,2933,letters
-1524,Hamlet,"THE TRAGEDY OF HAMLET, PRINCE OF DENMARK",Tragedy,1600,William Shakespeare,contents,dialogue,ACT IV,SCENE VI,HORATIO,2933,ere
 1524,Hamlet,"THE TRAGEDY OF HAMLET, PRINCE OF DENMARK",Tragedy,1600,William Shakespeare,contents,dialogue,ACT IV,SCENE VI,HORATIO,2934,days
 1524,Hamlet,"THE TRAGEDY OF HAMLET, PRINCE OF DENMARK",Tragedy,1600,William Shakespeare,contents,dialogue,ACT IV,SCENE VI,HORATIO,2934,sea
 1524,Hamlet,"THE TRAGEDY OF HAMLET, PRINCE OF DENMARK",Tragedy,1600,William Shakespeare,contents,dialogue,ACT IV,SCENE VI,HORATIO,2934,pirate
@@ -8408,7 +8304,6 @@ gutenberg_id,short_title,gutenberg_title,genre,year,author,section,class,act,sce
 1524,Hamlet,"THE TRAGEDY OF HAMLET, PRINCE OF DENMARK",Tragedy,1600,William Shakespeare,contents,dialogue,ACT IV,SCENE VII,LAERTES,3010,diest
 1524,Hamlet,"THE TRAGEDY OF HAMLET, PRINCE OF DENMARK",Tragedy,1600,William Shakespeare,contents,dialogue,ACT IV,SCENE VII,KING,3011,laertes
 1524,Hamlet,"THE TRAGEDY OF HAMLET, PRINCE OF DENMARK",Tragedy,1600,William Shakespeare,contents,dialogue,ACT IV,SCENE VII,KING,3013,rul'd
-1524,Hamlet,"THE TRAGEDY OF HAMLET, PRINCE OF DENMARK",Tragedy,1600,William Shakespeare,contents,dialogue,ACT IV,SCENE VII,LAERTES,3014,ay
 1524,Hamlet,"THE TRAGEDY OF HAMLET, PRINCE OF DENMARK",Tragedy,1600,William Shakespeare,contents,dialogue,ACT IV,SCENE VII,LAERTES,3014,lord
 1524,Hamlet,"THE TRAGEDY OF HAMLET, PRINCE OF DENMARK",Tragedy,1600,William Shakespeare,contents,dialogue,ACT IV,SCENE VII,LAERTES,3015,o'errule
 1524,Hamlet,"THE TRAGEDY OF HAMLET, PRINCE OF DENMARK",Tragedy,1600,William Shakespeare,contents,dialogue,ACT IV,SCENE VII,LAERTES,3015,peace
@@ -8742,7 +8637,6 @@ gutenberg_id,short_title,gutenberg_title,genre,year,author,section,class,act,sce
 1524,Hamlet,"THE TRAGEDY OF HAMLET, PRINCE OF DENMARK",Tragedy,1600,William Shakespeare,contents,dialogue,ACT IV,SCENE VII,QUEEN,3144,native
 1524,Hamlet,"THE TRAGEDY OF HAMLET, PRINCE OF DENMARK",Tragedy,1600,William Shakespeare,contents,dialogue,ACT IV,SCENE VII,QUEEN,3144,indued
 1524,Hamlet,"THE TRAGEDY OF HAMLET, PRINCE OF DENMARK",Tragedy,1600,William Shakespeare,contents,dialogue,ACT IV,SCENE VII,QUEEN,3145,element
-1524,Hamlet,"THE TRAGEDY OF HAMLET, PRINCE OF DENMARK",Tragedy,1600,William Shakespeare,contents,dialogue,ACT IV,SCENE VII,QUEEN,3146,till
 1524,Hamlet,"THE TRAGEDY OF HAMLET, PRINCE OF DENMARK",Tragedy,1600,William Shakespeare,contents,dialogue,ACT IV,SCENE VII,QUEEN,3146,garments
 1524,Hamlet,"THE TRAGEDY OF HAMLET, PRINCE OF DENMARK",Tragedy,1600,William Shakespeare,contents,dialogue,ACT IV,SCENE VII,QUEEN,3146,heavy
 1524,Hamlet,"THE TRAGEDY OF HAMLET, PRINCE OF DENMARK",Tragedy,1600,William Shakespeare,contents,dialogue,ACT IV,SCENE VII,QUEEN,3146,drink
@@ -8758,7 +8652,6 @@ gutenberg_id,short_title,gutenberg_title,genre,year,author,section,class,act,sce
 1524,Hamlet,"THE TRAGEDY OF HAMLET, PRINCE OF DENMARK",Tragedy,1600,William Shakespeare,contents,dialogue,ACT IV,SCENE VII,QUEEN,3150,drown'd
 1524,Hamlet,"THE TRAGEDY OF HAMLET, PRINCE OF DENMARK",Tragedy,1600,William Shakespeare,contents,dialogue,ACT IV,SCENE VII,QUEEN,3150,drown'd
 1524,Hamlet,"THE TRAGEDY OF HAMLET, PRINCE OF DENMARK",Tragedy,1600,William Shakespeare,contents,dialogue,ACT IV,SCENE VII,LAERTES,3151,water
-1524,Hamlet,"THE TRAGEDY OF HAMLET, PRINCE OF DENMARK",Tragedy,1600,William Shakespeare,contents,dialogue,ACT IV,SCENE VII,LAERTES,3151,hast
 1524,Hamlet,"THE TRAGEDY OF HAMLET, PRINCE OF DENMARK",Tragedy,1600,William Shakespeare,contents,dialogue,ACT IV,SCENE VII,LAERTES,3151,poor
 1524,Hamlet,"THE TRAGEDY OF HAMLET, PRINCE OF DENMARK",Tragedy,1600,William Shakespeare,contents,dialogue,ACT IV,SCENE VII,LAERTES,3151,ophelia
 1524,Hamlet,"THE TRAGEDY OF HAMLET, PRINCE OF DENMARK",Tragedy,1600,William Shakespeare,contents,dialogue,ACT IV,SCENE VII,LAERTES,3152,forbid
@@ -8812,7 +8705,6 @@ gutenberg_id,short_title,gutenberg_title,genre,year,author,section,class,act,sce
 1524,Hamlet,"THE TRAGEDY OF HAMLET, PRINCE OF DENMARK",Tragedy,1600,William Shakespeare,contents,dialogue,ACT V,SCENE I,FIRST CLOWN,3170,argal
 1524,Hamlet,"THE TRAGEDY OF HAMLET, PRINCE OF DENMARK",Tragedy,1600,William Shakespeare,contents,dialogue,ACT V,SCENE I,FIRST CLOWN,3170,drowned
 1524,Hamlet,"THE TRAGEDY OF HAMLET, PRINCE OF DENMARK",Tragedy,1600,William Shakespeare,contents,dialogue,ACT V,SCENE I,FIRST CLOWN,3171,wittingly
-1524,Hamlet,"THE TRAGEDY OF HAMLET, PRINCE OF DENMARK",Tragedy,1600,William Shakespeare,contents,dialogue,ACT V,SCENE I,SECOND CLOWN,3172,nay
 1524,Hamlet,"THE TRAGEDY OF HAMLET, PRINCE OF DENMARK",Tragedy,1600,William Shakespeare,contents,dialogue,ACT V,SCENE I,SECOND CLOWN,3172,hear
 1524,Hamlet,"THE TRAGEDY OF HAMLET, PRINCE OF DENMARK",Tragedy,1600,William Shakespeare,contents,dialogue,ACT V,SCENE I,SECOND CLOWN,3172,goodman
 1524,Hamlet,"THE TRAGEDY OF HAMLET, PRINCE OF DENMARK",Tragedy,1600,William Shakespeare,contents,dialogue,ACT V,SCENE I,SECOND CLOWN,3172,delver
@@ -8833,7 +8725,6 @@ gutenberg_id,short_title,gutenberg_title,genre,year,author,section,class,act,sce
 1524,Hamlet,"THE TRAGEDY OF HAMLET, PRINCE OF DENMARK",Tragedy,1600,William Shakespeare,contents,dialogue,ACT V,SCENE I,FIRST CLOWN,3177,shortens
 1524,Hamlet,"THE TRAGEDY OF HAMLET, PRINCE OF DENMARK",Tragedy,1600,William Shakespeare,contents,dialogue,ACT V,SCENE I,FIRST CLOWN,3177,life
 1524,Hamlet,"THE TRAGEDY OF HAMLET, PRINCE OF DENMARK",Tragedy,1600,William Shakespeare,contents,dialogue,ACT V,SCENE I,SECOND CLOWN,3178,law
-1524,Hamlet,"THE TRAGEDY OF HAMLET, PRINCE OF DENMARK",Tragedy,1600,William Shakespeare,contents,dialogue,ACT V,SCENE I,FIRST CLOWN,3179,ay
 1524,Hamlet,"THE TRAGEDY OF HAMLET, PRINCE OF DENMARK",Tragedy,1600,William Shakespeare,contents,dialogue,ACT V,SCENE I,FIRST CLOWN,3179,marry
 1524,Hamlet,"THE TRAGEDY OF HAMLET, PRINCE OF DENMARK",Tragedy,1600,William Shakespeare,contents,dialogue,ACT V,SCENE I,FIRST CLOWN,3179,is't
 1524,Hamlet,"THE TRAGEDY OF HAMLET, PRINCE OF DENMARK",Tragedy,1600,William Shakespeare,contents,dialogue,ACT V,SCENE I,FIRST CLOWN,3179,crowner's
@@ -8907,7 +8798,6 @@ gutenberg_id,short_title,gutenberg_title,genre,year,author,section,class,act,sce
 1524,Hamlet,"THE TRAGEDY OF HAMLET, PRINCE OF DENMARK",Tragedy,1600,William Shakespeare,contents,dialogue,ACT V,SCENE I,SECOND CLOWN,3201,mason
 1524,Hamlet,"THE TRAGEDY OF HAMLET, PRINCE OF DENMARK",Tragedy,1600,William Shakespeare,contents,dialogue,ACT V,SCENE I,SECOND CLOWN,3201,shipwright
 1524,Hamlet,"THE TRAGEDY OF HAMLET, PRINCE OF DENMARK",Tragedy,1600,William Shakespeare,contents,dialogue,ACT V,SCENE I,SECOND CLOWN,3201,carpenter
-1524,Hamlet,"THE TRAGEDY OF HAMLET, PRINCE OF DENMARK",Tragedy,1600,William Shakespeare,contents,dialogue,ACT V,SCENE I,FIRST CLOWN,3202,ay
 1524,Hamlet,"THE TRAGEDY OF HAMLET, PRINCE OF DENMARK",Tragedy,1600,William Shakespeare,contents,dialogue,ACT V,SCENE I,FIRST CLOWN,3202,unyoke
 1524,Hamlet,"THE TRAGEDY OF HAMLET, PRINCE OF DENMARK",Tragedy,1600,William Shakespeare,contents,dialogue,ACT V,SCENE I,SECOND CLOWN,3203,marry
 1524,Hamlet,"THE TRAGEDY OF HAMLET, PRINCE OF DENMARK",Tragedy,1600,William Shakespeare,contents,dialogue,ACT V,SCENE I,FIRST CLOWN,3204,to't
@@ -8927,7 +8817,6 @@ gutenberg_id,short_title,gutenberg_title,genre,year,author,section,class,act,sce
 1524,Hamlet,"THE TRAGEDY OF HAMLET, PRINCE OF DENMARK",Tragedy,1600,William Shakespeare,contents,dialogue,ACT V,SCENE I,FIRST CLOWN,3208,maker
 1524,Hamlet,"THE TRAGEDY OF HAMLET, PRINCE OF DENMARK",Tragedy,1600,William Shakespeare,contents,dialogue,ACT V,SCENE I,FIRST CLOWN,3208,houses
 1524,Hamlet,"THE TRAGEDY OF HAMLET, PRINCE OF DENMARK",Tragedy,1600,William Shakespeare,contents,dialogue,ACT V,SCENE I,FIRST CLOWN,3208,makes
-1524,Hamlet,"THE TRAGEDY OF HAMLET, PRINCE OF DENMARK",Tragedy,1600,William Shakespeare,contents,dialogue,ACT V,SCENE I,FIRST CLOWN,3208,till
 1524,Hamlet,"THE TRAGEDY OF HAMLET, PRINCE OF DENMARK",Tragedy,1600,William Shakespeare,contents,dialogue,ACT V,SCENE I,FIRST CLOWN,3208,doomsday
 1524,Hamlet,"THE TRAGEDY OF HAMLET, PRINCE OF DENMARK",Tragedy,1600,William Shakespeare,contents,dialogue,ACT V,SCENE I,FIRST CLOWN,3209,yaughan
 1524,Hamlet,"THE TRAGEDY OF HAMLET, PRINCE OF DENMARK",Tragedy,1600,William Shakespeare,contents,dialogue,ACT V,SCENE I,FIRST CLOWN,3209,fetch
@@ -8999,7 +8888,6 @@ gutenberg_id,short_title,gutenberg_title,genre,year,author,section,class,act,sce
 1524,Hamlet,"THE TRAGEDY OF HAMLET, PRINCE OF DENMARK",Tragedy,1600,William Shakespeare,contents,dialogue,ACT V,SCENE I,HAMLET,3229,horse
 1524,Hamlet,"THE TRAGEDY OF HAMLET, PRINCE OF DENMARK",Tragedy,1600,William Shakespeare,contents,dialogue,ACT V,SCENE I,HAMLET,3229,meant
 1524,Hamlet,"THE TRAGEDY OF HAMLET, PRINCE OF DENMARK",Tragedy,1600,William Shakespeare,contents,dialogue,ACT V,SCENE I,HAMLET,3229,beg
-1524,Hamlet,"THE TRAGEDY OF HAMLET, PRINCE OF DENMARK",Tragedy,1600,William Shakespeare,contents,dialogue,ACT V,SCENE I,HORATIO,3230,ay
 1524,Hamlet,"THE TRAGEDY OF HAMLET, PRINCE OF DENMARK",Tragedy,1600,William Shakespeare,contents,dialogue,ACT V,SCENE I,HORATIO,3230,lord
 1524,Hamlet,"THE TRAGEDY OF HAMLET, PRINCE OF DENMARK",Tragedy,1600,William Shakespeare,contents,dialogue,ACT V,SCENE I,HAMLET,3231,e'en
 1524,Hamlet,"THE TRAGEDY OF HAMLET, PRINCE OF DENMARK",Tragedy,1600,William Shakespeare,contents,dialogue,ACT V,SCENE I,HAMLET,3231,lady
@@ -9019,7 +8907,6 @@ gutenberg_id,short_title,gutenberg_title,genre,year,author,section,class,act,sce
 1524,Hamlet,"THE TRAGEDY OF HAMLET, PRINCE OF DENMARK",Tragedy,1600,William Shakespeare,contents,dialogue,ACT V,SCENE I,HAMLET,3233,play
 1524,Hamlet,"THE TRAGEDY OF HAMLET, PRINCE OF DENMARK",Tragedy,1600,William Shakespeare,contents,dialogue,ACT V,SCENE I,HAMLET,3234,loggets
 1524,Hamlet,"THE TRAGEDY OF HAMLET, PRINCE OF DENMARK",Tragedy,1600,William Shakespeare,contents,dialogue,ACT V,SCENE I,HAMLET,3234,em
-1524,Hamlet,"THE TRAGEDY OF HAMLET, PRINCE OF DENMARK",Tragedy,1600,William Shakespeare,contents,dialogue,ACT V,SCENE I,HAMLET,3234,mine
 1524,Hamlet,"THE TRAGEDY OF HAMLET, PRINCE OF DENMARK",Tragedy,1600,William Shakespeare,contents,dialogue,ACT V,SCENE I,HAMLET,3234,ache
 1524,Hamlet,"THE TRAGEDY OF HAMLET, PRINCE OF DENMARK",Tragedy,1600,William Shakespeare,contents,dialogue,ACT V,SCENE I,HAMLET,3234,on't
 1524,Hamlet,"THE TRAGEDY OF HAMLET, PRINCE OF DENMARK",Tragedy,1600,William Shakespeare,contents,directions,ACT V,SCENE I,NA,NA,sings
@@ -9089,7 +8976,6 @@ gutenberg_id,short_title,gutenberg_title,genre,year,author,section,class,act,sce
 1524,Hamlet,"THE TRAGEDY OF HAMLET, PRINCE OF DENMARK",Tragedy,1600,William Shakespeare,contents,dialogue,ACT V,SCENE I,HAMLET,3252,parchment
 1524,Hamlet,"THE TRAGEDY OF HAMLET, PRINCE OF DENMARK",Tragedy,1600,William Shakespeare,contents,dialogue,ACT V,SCENE I,HAMLET,3252,sheep
 1524,Hamlet,"THE TRAGEDY OF HAMLET, PRINCE OF DENMARK",Tragedy,1600,William Shakespeare,contents,dialogue,ACT V,SCENE I,HAMLET,3252,skins
-1524,Hamlet,"THE TRAGEDY OF HAMLET, PRINCE OF DENMARK",Tragedy,1600,William Shakespeare,contents,dialogue,ACT V,SCENE I,HORATIO,3253,ay
 1524,Hamlet,"THE TRAGEDY OF HAMLET, PRINCE OF DENMARK",Tragedy,1600,William Shakespeare,contents,dialogue,ACT V,SCENE I,HORATIO,3253,lord
 1524,Hamlet,"THE TRAGEDY OF HAMLET, PRINCE OF DENMARK",Tragedy,1600,William Shakespeare,contents,dialogue,ACT V,SCENE I,HORATIO,3253,calf
 1524,Hamlet,"THE TRAGEDY OF HAMLET, PRINCE OF DENMARK",Tragedy,1600,William Shakespeare,contents,dialogue,ACT V,SCENE I,HORATIO,3253,skins
@@ -9101,7 +8987,6 @@ gutenberg_id,short_title,gutenberg_title,genre,year,author,section,class,act,sce
 1524,Hamlet,"THE TRAGEDY OF HAMLET, PRINCE OF DENMARK",Tragedy,1600,William Shakespeare,contents,dialogue,ACT V,SCENE I,HAMLET,3255,fellow
 1524,Hamlet,"THE TRAGEDY OF HAMLET, PRINCE OF DENMARK",Tragedy,1600,William Shakespeare,contents,dialogue,ACT V,SCENE I,HAMLET,3255,grave's
 1524,Hamlet,"THE TRAGEDY OF HAMLET, PRINCE OF DENMARK",Tragedy,1600,William Shakespeare,contents,dialogue,ACT V,SCENE I,HAMLET,3255,sir
-1524,Hamlet,"THE TRAGEDY OF HAMLET, PRINCE OF DENMARK",Tragedy,1600,William Shakespeare,contents,dialogue,ACT V,SCENE I,FIRST CLOWN,3256,mine
 1524,Hamlet,"THE TRAGEDY OF HAMLET, PRINCE OF DENMARK",Tragedy,1600,William Shakespeare,contents,dialogue,ACT V,SCENE I,FIRST CLOWN,3256,sir
 1524,Hamlet,"THE TRAGEDY OF HAMLET, PRINCE OF DENMARK",Tragedy,1600,William Shakespeare,contents,directions,ACT V,SCENE I,NA,NA,sings
 1524,Hamlet,"THE TRAGEDY OF HAMLET, PRINCE OF DENMARK",Tragedy,1600,William Shakespeare,contents,dialogue,ACT V,SCENE I,FIRST CLOWN,3257,pit
@@ -9115,7 +9000,6 @@ gutenberg_id,short_title,gutenberg_title,genre,year,author,section,class,act,sce
 1524,Hamlet,"THE TRAGEDY OF HAMLET, PRINCE OF DENMARK",Tragedy,1600,William Shakespeare,contents,dialogue,ACT V,SCENE I,FIRST CLOWN,3260,sir
 1524,Hamlet,"THE TRAGEDY OF HAMLET, PRINCE OF DENMARK",Tragedy,1600,William Shakespeare,contents,dialogue,ACT V,SCENE I,FIRST CLOWN,3261,lie
 1524,Hamlet,"THE TRAGEDY OF HAMLET, PRINCE OF DENMARK",Tragedy,1600,William Shakespeare,contents,dialogue,ACT V,SCENE I,FIRST CLOWN,3261,in't
-1524,Hamlet,"THE TRAGEDY OF HAMLET, PRINCE OF DENMARK",Tragedy,1600,William Shakespeare,contents,dialogue,ACT V,SCENE I,FIRST CLOWN,3261,mine
 1524,Hamlet,"THE TRAGEDY OF HAMLET, PRINCE OF DENMARK",Tragedy,1600,William Shakespeare,contents,dialogue,ACT V,SCENE I,HAMLET,3262,lie
 1524,Hamlet,"THE TRAGEDY OF HAMLET, PRINCE OF DENMARK",Tragedy,1600,William Shakespeare,contents,dialogue,ACT V,SCENE I,HAMLET,3262,in't
 1524,Hamlet,"THE TRAGEDY OF HAMLET, PRINCE OF DENMARK",Tragedy,1600,William Shakespeare,contents,dialogue,ACT V,SCENE I,HAMLET,3262,in't
@@ -9153,7 +9037,6 @@ gutenberg_id,short_title,gutenberg_title,genre,year,author,section,class,act,sce
 1524,Hamlet,"THE TRAGEDY OF HAMLET, PRINCE OF DENMARK",Tragedy,1600,William Shakespeare,contents,dialogue,ACT V,SCENE I,HAMLET,3274,courtier
 1524,Hamlet,"THE TRAGEDY OF HAMLET, PRINCE OF DENMARK",Tragedy,1600,William Shakespeare,contents,dialogue,ACT V,SCENE I,HAMLET,3274,galls
 1524,Hamlet,"THE TRAGEDY OF HAMLET, PRINCE OF DENMARK",Tragedy,1600,William Shakespeare,contents,dialogue,ACT V,SCENE I,HAMLET,3274,kibe
-1524,Hamlet,"THE TRAGEDY OF HAMLET, PRINCE OF DENMARK",Tragedy,1600,William Shakespeare,contents,dialogue,ACT V,SCENE I,HAMLET,3274,hast
 1524,Hamlet,"THE TRAGEDY OF HAMLET, PRINCE OF DENMARK",Tragedy,1600,William Shakespeare,contents,dialogue,ACT V,SCENE I,HAMLET,3275,grave
 1524,Hamlet,"THE TRAGEDY OF HAMLET, PRINCE OF DENMARK",Tragedy,1600,William Shakespeare,contents,dialogue,ACT V,SCENE I,HAMLET,3275,maker
 1524,Hamlet,"THE TRAGEDY OF HAMLET, PRINCE OF DENMARK",Tragedy,1600,William Shakespeare,contents,dialogue,ACT V,SCENE I,FIRST CLOWN,3276,days
@@ -9169,7 +9052,6 @@ gutenberg_id,short_title,gutenberg_title,genre,year,author,section,class,act,sce
 1524,Hamlet,"THE TRAGEDY OF HAMLET, PRINCE OF DENMARK",Tragedy,1600,William Shakespeare,contents,dialogue,ACT V,SCENE I,FIRST CLOWN,3280,born
 1524,Hamlet,"THE TRAGEDY OF HAMLET, PRINCE OF DENMARK",Tragedy,1600,William Shakespeare,contents,dialogue,ACT V,SCENE I,FIRST CLOWN,3280,mad
 1524,Hamlet,"THE TRAGEDY OF HAMLET, PRINCE OF DENMARK",Tragedy,1600,William Shakespeare,contents,dialogue,ACT V,SCENE I,FIRST CLOWN,3280,england
-1524,Hamlet,"THE TRAGEDY OF HAMLET, PRINCE OF DENMARK",Tragedy,1600,William Shakespeare,contents,dialogue,ACT V,SCENE I,HAMLET,3281,ay
 1524,Hamlet,"THE TRAGEDY OF HAMLET, PRINCE OF DENMARK",Tragedy,1600,William Shakespeare,contents,dialogue,ACT V,SCENE I,HAMLET,3281,marry
 1524,Hamlet,"THE TRAGEDY OF HAMLET, PRINCE OF DENMARK",Tragedy,1600,William Shakespeare,contents,dialogue,ACT V,SCENE I,HAMLET,3281,england
 1524,Hamlet,"THE TRAGEDY OF HAMLET, PRINCE OF DENMARK",Tragedy,1600,William Shakespeare,contents,dialogue,ACT V,SCENE I,FIRST CLOWN,3282,mad
@@ -9192,7 +9074,6 @@ gutenberg_id,short_title,gutenberg_title,genre,year,author,section,class,act,sce
 1524,Hamlet,"THE TRAGEDY OF HAMLET, PRINCE OF DENMARK",Tragedy,1600,William Shakespeare,contents,dialogue,ACT V,SCENE I,FIRST CLOWN,3291,thirty
 1524,Hamlet,"THE TRAGEDY OF HAMLET, PRINCE OF DENMARK",Tragedy,1600,William Shakespeare,contents,dialogue,ACT V,SCENE I,HAMLET,3293,lie
 1524,Hamlet,"THE TRAGEDY OF HAMLET, PRINCE OF DENMARK",Tragedy,1600,William Shakespeare,contents,dialogue,ACT V,SCENE I,HAMLET,3293,th'earth
-1524,Hamlet,"THE TRAGEDY OF HAMLET, PRINCE OF DENMARK",Tragedy,1600,William Shakespeare,contents,dialogue,ACT V,SCENE I,HAMLET,3293,ere
 1524,Hamlet,"THE TRAGEDY OF HAMLET, PRINCE OF DENMARK",Tragedy,1600,William Shakespeare,contents,dialogue,ACT V,SCENE I,HAMLET,3293,rot
 1524,Hamlet,"THE TRAGEDY OF HAMLET, PRINCE OF DENMARK",Tragedy,1600,William Shakespeare,contents,dialogue,ACT V,SCENE I,FIRST CLOWN,3294,faith
 1524,Hamlet,"THE TRAGEDY OF HAMLET, PRINCE OF DENMARK",Tragedy,1600,William Shakespeare,contents,dialogue,ACT V,SCENE I,FIRST CLOWN,3294,rotten
@@ -9223,7 +9104,6 @@ gutenberg_id,short_title,gutenberg_title,genre,year,author,section,class,act,sce
 1524,Hamlet,"THE TRAGEDY OF HAMLET, PRINCE OF DENMARK",Tragedy,1600,William Shakespeare,contents,dialogue,ACT V,SCENE I,FIRST CLOWN,3303,whoreson
 1524,Hamlet,"THE TRAGEDY OF HAMLET, PRINCE OF DENMARK",Tragedy,1600,William Shakespeare,contents,dialogue,ACT V,SCENE I,FIRST CLOWN,3303,mad
 1524,Hamlet,"THE TRAGEDY OF HAMLET, PRINCE OF DENMARK",Tragedy,1600,William Shakespeare,contents,dialogue,ACT V,SCENE I,FIRST CLOWN,3303,fellow's
-1524,Hamlet,"THE TRAGEDY OF HAMLET, PRINCE OF DENMARK",Tragedy,1600,William Shakespeare,contents,dialogue,ACT V,SCENE I,HAMLET,3304,nay
 1524,Hamlet,"THE TRAGEDY OF HAMLET, PRINCE OF DENMARK",Tragedy,1600,William Shakespeare,contents,dialogue,ACT V,SCENE I,FIRST CLOWN,3305,pestilence
 1524,Hamlet,"THE TRAGEDY OF HAMLET, PRINCE OF DENMARK",Tragedy,1600,William Shakespeare,contents,dialogue,ACT V,SCENE I,FIRST CLOWN,3305,mad
 1524,Hamlet,"THE TRAGEDY OF HAMLET, PRINCE OF DENMARK",Tragedy,1600,William Shakespeare,contents,dialogue,ACT V,SCENE I,FIRST CLOWN,3305,rogue
@@ -9302,7 +9182,6 @@ gutenberg_id,short_title,gutenberg_title,genre,year,author,section,class,act,sce
 1524,Hamlet,"THE TRAGEDY OF HAMLET, PRINCE OF DENMARK",Tragedy,1600,William Shakespeare,contents,dialogue,ACT V,SCENE I,HAMLET,3325,noble
 1524,Hamlet,"THE TRAGEDY OF HAMLET, PRINCE OF DENMARK",Tragedy,1600,William Shakespeare,contents,dialogue,ACT V,SCENE I,HAMLET,3325,dust
 1524,Hamlet,"THE TRAGEDY OF HAMLET, PRINCE OF DENMARK",Tragedy,1600,William Shakespeare,contents,dialogue,ACT V,SCENE I,HAMLET,3325,alexander
-1524,Hamlet,"THE TRAGEDY OF HAMLET, PRINCE OF DENMARK",Tragedy,1600,William Shakespeare,contents,dialogue,ACT V,SCENE I,HAMLET,3325,till
 1524,Hamlet,"THE TRAGEDY OF HAMLET, PRINCE OF DENMARK",Tragedy,1600,William Shakespeare,contents,dialogue,ACT V,SCENE I,HAMLET,3325,stopping
 1524,Hamlet,"THE TRAGEDY OF HAMLET, PRINCE OF DENMARK",Tragedy,1600,William Shakespeare,contents,dialogue,ACT V,SCENE I,HAMLET,3325,bung
 1524,Hamlet,"THE TRAGEDY OF HAMLET, PRINCE OF DENMARK",Tragedy,1600,William Shakespeare,contents,dialogue,ACT V,SCENE I,HAMLET,3325,hole
@@ -9394,7 +9273,6 @@ gutenberg_id,short_title,gutenberg_title,genre,year,author,section,class,act,sce
 1524,Hamlet,"THE TRAGEDY OF HAMLET, PRINCE OF DENMARK",Tragedy,1600,William Shakespeare,contents,dialogue,ACT V,SCENE I,PRIEST,3349,ground
 1524,Hamlet,"THE TRAGEDY OF HAMLET, PRINCE OF DENMARK",Tragedy,1600,William Shakespeare,contents,dialogue,ACT V,SCENE I,PRIEST,3349,unsanctified
 1524,Hamlet,"THE TRAGEDY OF HAMLET, PRINCE OF DENMARK",Tragedy,1600,William Shakespeare,contents,dialogue,ACT V,SCENE I,PRIEST,3349,lodg'd
-1524,Hamlet,"THE TRAGEDY OF HAMLET, PRINCE OF DENMARK",Tragedy,1600,William Shakespeare,contents,dialogue,ACT V,SCENE I,PRIEST,3350,till
 1524,Hamlet,"THE TRAGEDY OF HAMLET, PRINCE OF DENMARK",Tragedy,1600,William Shakespeare,contents,dialogue,ACT V,SCENE I,PRIEST,3350,trumpet
 1524,Hamlet,"THE TRAGEDY OF HAMLET, PRINCE OF DENMARK",Tragedy,1600,William Shakespeare,contents,dialogue,ACT V,SCENE I,PRIEST,3350,charitable
 1524,Hamlet,"THE TRAGEDY OF HAMLET, PRINCE OF DENMARK",Tragedy,1600,William Shakespeare,contents,dialogue,ACT V,SCENE I,PRIEST,3350,prayers
@@ -9467,9 +9345,7 @@ gutenberg_id,short_title,gutenberg_title,genre,year,author,section,class,act,sce
 1524,Hamlet,"THE TRAGEDY OF HAMLET, PRINCE OF DENMARK",Tragedy,1600,William Shakespeare,contents,dialogue,ACT V,SCENE I,LAERTES,3373,depriv'd
 1524,Hamlet,"THE TRAGEDY OF HAMLET, PRINCE OF DENMARK",Tragedy,1600,William Shakespeare,contents,dialogue,ACT V,SCENE I,LAERTES,3373,hold
 1524,Hamlet,"THE TRAGEDY OF HAMLET, PRINCE OF DENMARK",Tragedy,1600,William Shakespeare,contents,dialogue,ACT V,SCENE I,LAERTES,3373,earth
-1524,Hamlet,"THE TRAGEDY OF HAMLET, PRINCE OF DENMARK",Tragedy,1600,William Shakespeare,contents,dialogue,ACT V,SCENE I,LAERTES,3374,till
 1524,Hamlet,"THE TRAGEDY OF HAMLET, PRINCE OF DENMARK",Tragedy,1600,William Shakespeare,contents,dialogue,ACT V,SCENE I,LAERTES,3374,caught
-1524,Hamlet,"THE TRAGEDY OF HAMLET, PRINCE OF DENMARK",Tragedy,1600,William Shakespeare,contents,dialogue,ACT V,SCENE I,LAERTES,3374,mine
 1524,Hamlet,"THE TRAGEDY OF HAMLET, PRINCE OF DENMARK",Tragedy,1600,William Shakespeare,contents,dialogue,ACT V,SCENE I,LAERTES,3374,arms
 1524,Hamlet,"THE TRAGEDY OF HAMLET, PRINCE OF DENMARK",Tragedy,1600,William Shakespeare,contents,directions,ACT V,SCENE I,NA,NA,leaps
 1524,Hamlet,"THE TRAGEDY OF HAMLET, PRINCE OF DENMARK",Tragedy,1600,William Shakespeare,contents,directions,ACT V,SCENE I,NA,NA,grave
@@ -9477,7 +9353,6 @@ gutenberg_id,short_title,gutenberg_title,genre,year,author,section,class,act,sce
 1524,Hamlet,"THE TRAGEDY OF HAMLET, PRINCE OF DENMARK",Tragedy,1600,William Shakespeare,contents,dialogue,ACT V,SCENE I,LAERTES,3375,dust
 1524,Hamlet,"THE TRAGEDY OF HAMLET, PRINCE OF DENMARK",Tragedy,1600,William Shakespeare,contents,dialogue,ACT V,SCENE I,LAERTES,3375,quick
 1524,Hamlet,"THE TRAGEDY OF HAMLET, PRINCE OF DENMARK",Tragedy,1600,William Shakespeare,contents,dialogue,ACT V,SCENE I,LAERTES,3375,dead
-1524,Hamlet,"THE TRAGEDY OF HAMLET, PRINCE OF DENMARK",Tragedy,1600,William Shakespeare,contents,dialogue,ACT V,SCENE I,LAERTES,3376,till
 1524,Hamlet,"THE TRAGEDY OF HAMLET, PRINCE OF DENMARK",Tragedy,1600,William Shakespeare,contents,dialogue,ACT V,SCENE I,LAERTES,3376,flat
 1524,Hamlet,"THE TRAGEDY OF HAMLET, PRINCE OF DENMARK",Tragedy,1600,William Shakespeare,contents,dialogue,ACT V,SCENE I,LAERTES,3376,mountain
 1524,Hamlet,"THE TRAGEDY OF HAMLET, PRINCE OF DENMARK",Tragedy,1600,William Shakespeare,contents,dialogue,ACT V,SCENE I,LAERTES,3377,o'ertop
@@ -9571,7 +9446,6 @@ gutenberg_id,short_title,gutenberg_title,genre,year,author,section,class,act,sce
 1524,Hamlet,"THE TRAGEDY OF HAMLET, PRINCE OF DENMARK",Tragedy,1600,William Shakespeare,contents,dialogue,ACT V,SCENE I,HAMLET,3409,throw
 1524,Hamlet,"THE TRAGEDY OF HAMLET, PRINCE OF DENMARK",Tragedy,1600,William Shakespeare,contents,dialogue,ACT V,SCENE I,HAMLET,3410,millions
 1524,Hamlet,"THE TRAGEDY OF HAMLET, PRINCE OF DENMARK",Tragedy,1600,William Shakespeare,contents,dialogue,ACT V,SCENE I,HAMLET,3410,acres
-1524,Hamlet,"THE TRAGEDY OF HAMLET, PRINCE OF DENMARK",Tragedy,1600,William Shakespeare,contents,dialogue,ACT V,SCENE I,HAMLET,3410,till
 1524,Hamlet,"THE TRAGEDY OF HAMLET, PRINCE OF DENMARK",Tragedy,1600,William Shakespeare,contents,dialogue,ACT V,SCENE I,HAMLET,3410,ground
 1524,Hamlet,"THE TRAGEDY OF HAMLET, PRINCE OF DENMARK",Tragedy,1600,William Shakespeare,contents,dialogue,ACT V,SCENE I,HAMLET,3411,singeing
 1524,Hamlet,"THE TRAGEDY OF HAMLET, PRINCE OF DENMARK",Tragedy,1600,William Shakespeare,contents,dialogue,ACT V,SCENE I,HAMLET,3411,pate
@@ -9579,7 +9453,6 @@ gutenberg_id,short_title,gutenberg_title,genre,year,author,section,class,act,sce
 1524,Hamlet,"THE TRAGEDY OF HAMLET, PRINCE OF DENMARK",Tragedy,1600,William Shakespeare,contents,dialogue,ACT V,SCENE I,HAMLET,3411,zone
 1524,Hamlet,"THE TRAGEDY OF HAMLET, PRINCE OF DENMARK",Tragedy,1600,William Shakespeare,contents,dialogue,ACT V,SCENE I,HAMLET,3412,ossa
 1524,Hamlet,"THE TRAGEDY OF HAMLET, PRINCE OF DENMARK",Tragedy,1600,William Shakespeare,contents,dialogue,ACT V,SCENE I,HAMLET,3412,wart
-1524,Hamlet,"THE TRAGEDY OF HAMLET, PRINCE OF DENMARK",Tragedy,1600,William Shakespeare,contents,dialogue,ACT V,SCENE I,HAMLET,3412,nay
 1524,Hamlet,"THE TRAGEDY OF HAMLET, PRINCE OF DENMARK",Tragedy,1600,William Shakespeare,contents,dialogue,ACT V,SCENE I,HAMLET,3412,thou'lt
 1524,Hamlet,"THE TRAGEDY OF HAMLET, PRINCE OF DENMARK",Tragedy,1600,William Shakespeare,contents,dialogue,ACT V,SCENE I,HAMLET,3412,mouth
 1524,Hamlet,"THE TRAGEDY OF HAMLET, PRINCE OF DENMARK",Tragedy,1600,William Shakespeare,contents,dialogue,ACT V,SCENE I,HAMLET,3413,rant
@@ -9628,7 +9501,6 @@ gutenberg_id,short_title,gutenberg_title,genre,year,author,section,class,act,sce
 1524,Hamlet,"THE TRAGEDY OF HAMLET, PRINCE OF DENMARK",Tragedy,1600,William Shakespeare,contents,dialogue,ACT V,SCENE I,KING,3429,hour
 1524,Hamlet,"THE TRAGEDY OF HAMLET, PRINCE OF DENMARK",Tragedy,1600,William Shakespeare,contents,dialogue,ACT V,SCENE I,KING,3429,quiet
 1524,Hamlet,"THE TRAGEDY OF HAMLET, PRINCE OF DENMARK",Tragedy,1600,William Shakespeare,contents,dialogue,ACT V,SCENE I,KING,3429,shortly
-1524,Hamlet,"THE TRAGEDY OF HAMLET, PRINCE OF DENMARK",Tragedy,1600,William Shakespeare,contents,dialogue,ACT V,SCENE I,KING,3430,till
 1524,Hamlet,"THE TRAGEDY OF HAMLET, PRINCE OF DENMARK",Tragedy,1600,William Shakespeare,contents,dialogue,ACT V,SCENE I,KING,3430,patience
 1524,Hamlet,"THE TRAGEDY OF HAMLET, PRINCE OF DENMARK",Tragedy,1600,William Shakespeare,contents,dialogue,ACT V,SCENE I,KING,3430,proceeding
 1524,Hamlet,"THE TRAGEDY OF HAMLET, PRINCE OF DENMARK",Tragedy,1600,William Shakespeare,contents,directions,ACT V,SCENE II,NA,NA,hamlet
@@ -9671,7 +9543,6 @@ gutenberg_id,short_title,gutenberg_title,genre,year,author,section,class,act,sce
 1524,Hamlet,"THE TRAGEDY OF HAMLET, PRINCE OF DENMARK",Tragedy,1600,William Shakespeare,contents,dialogue,ACT V,SCENE II,HAMLET,3446,packet
 1524,Hamlet,"THE TRAGEDY OF HAMLET, PRINCE OF DENMARK",Tragedy,1600,William Shakespeare,contents,dialogue,ACT V,SCENE II,HAMLET,3446,fine
 1524,Hamlet,"THE TRAGEDY OF HAMLET, PRINCE OF DENMARK",Tragedy,1600,William Shakespeare,contents,dialogue,ACT V,SCENE II,HAMLET,3446,withdrew
-1524,Hamlet,"THE TRAGEDY OF HAMLET, PRINCE OF DENMARK",Tragedy,1600,William Shakespeare,contents,dialogue,ACT V,SCENE II,HAMLET,3447,mine
 1524,Hamlet,"THE TRAGEDY OF HAMLET, PRINCE OF DENMARK",Tragedy,1600,William Shakespeare,contents,dialogue,ACT V,SCENE II,HAMLET,3447,bold
 1524,Hamlet,"THE TRAGEDY OF HAMLET, PRINCE OF DENMARK",Tragedy,1600,William Shakespeare,contents,dialogue,ACT V,SCENE II,HAMLET,3448,fears
 1524,Hamlet,"THE TRAGEDY OF HAMLET, PRINCE OF DENMARK",Tragedy,1600,William Shakespeare,contents,dialogue,ACT V,SCENE II,HAMLET,3448,forgetting
@@ -9736,7 +9607,6 @@ gutenberg_id,short_title,gutenberg_title,genre,year,author,section,class,act,sce
 1524,Hamlet,"THE TRAGEDY OF HAMLET, PRINCE OF DENMARK",Tragedy,1600,William Shakespeare,contents,dialogue,ACT V,SCENE II,HAMLET,3468,service
 1524,Hamlet,"THE TRAGEDY OF HAMLET, PRINCE OF DENMARK",Tragedy,1600,William Shakespeare,contents,dialogue,ACT V,SCENE II,HAMLET,3469,effect
 1524,Hamlet,"THE TRAGEDY OF HAMLET, PRINCE OF DENMARK",Tragedy,1600,William Shakespeare,contents,dialogue,ACT V,SCENE II,HAMLET,3469,wrote
-1524,Hamlet,"THE TRAGEDY OF HAMLET, PRINCE OF DENMARK",Tragedy,1600,William Shakespeare,contents,dialogue,ACT V,SCENE II,HORATIO,3470,ay
 1524,Hamlet,"THE TRAGEDY OF HAMLET, PRINCE OF DENMARK",Tragedy,1600,William Shakespeare,contents,dialogue,ACT V,SCENE II,HORATIO,3470,lord
 1524,Hamlet,"THE TRAGEDY OF HAMLET, PRINCE OF DENMARK",Tragedy,1600,William Shakespeare,contents,dialogue,ACT V,SCENE II,HAMLET,3471,earnest
 1524,Hamlet,"THE TRAGEDY OF HAMLET, PRINCE OF DENMARK",Tragedy,1600,William Shakespeare,contents,dialogue,ACT V,SCENE II,HAMLET,3471,conjuration
@@ -9837,7 +9707,6 @@ gutenberg_id,short_title,gutenberg_title,genre,year,author,section,class,act,sce
 1524,Hamlet,"THE TRAGEDY OF HAMLET, PRINCE OF DENMARK",Tragedy,1600,William Shakespeare,contents,dialogue,ACT V,SCENE II,HORATIO,3507,business
 1524,Hamlet,"THE TRAGEDY OF HAMLET, PRINCE OF DENMARK",Tragedy,1600,William Shakespeare,contents,dialogue,ACT V,SCENE II,HAMLET,3508,short
 1524,Hamlet,"THE TRAGEDY OF HAMLET, PRINCE OF DENMARK",Tragedy,1600,William Shakespeare,contents,dialogue,ACT V,SCENE II,HAMLET,3508,interim
-1524,Hamlet,"THE TRAGEDY OF HAMLET, PRINCE OF DENMARK",Tragedy,1600,William Shakespeare,contents,dialogue,ACT V,SCENE II,HAMLET,3508,mine
 1524,Hamlet,"THE TRAGEDY OF HAMLET, PRINCE OF DENMARK",Tragedy,1600,William Shakespeare,contents,dialogue,ACT V,SCENE II,HAMLET,3509,man's
 1524,Hamlet,"THE TRAGEDY OF HAMLET, PRINCE OF DENMARK",Tragedy,1600,William Shakespeare,contents,dialogue,ACT V,SCENE II,HAMLET,3509,life's
 1524,Hamlet,"THE TRAGEDY OF HAMLET, PRINCE OF DENMARK",Tragedy,1600,William Shakespeare,contents,dialogue,ACT V,SCENE II,HAMLET,3510,horatio
@@ -9915,9 +9784,7 @@ gutenberg_id,short_title,gutenberg_title,genre,year,author,section,class,act,sce
 1524,Hamlet,"THE TRAGEDY OF HAMLET, PRINCE OF DENMARK",Tragedy,1600,William Shakespeare,contents,directions,ACT V,SCENE II,NA,NA,hamlet
 1524,Hamlet,"THE TRAGEDY OF HAMLET, PRINCE OF DENMARK",Tragedy,1600,William Shakespeare,contents,directions,ACT V,SCENE II,NA,NA,moves
 1524,Hamlet,"THE TRAGEDY OF HAMLET, PRINCE OF DENMARK",Tragedy,1600,William Shakespeare,contents,directions,ACT V,SCENE II,NA,NA,hat
-1524,Hamlet,"THE TRAGEDY OF HAMLET, PRINCE OF DENMARK",Tragedy,1600,William Shakespeare,contents,dialogue,ACT V,SCENE II,OSRIC,3536,nay
 1524,Hamlet,"THE TRAGEDY OF HAMLET, PRINCE OF DENMARK",Tragedy,1600,William Shakespeare,contents,dialogue,ACT V,SCENE II,OSRIC,3536,faith
-1524,Hamlet,"THE TRAGEDY OF HAMLET, PRINCE OF DENMARK",Tragedy,1600,William Shakespeare,contents,dialogue,ACT V,SCENE II,OSRIC,3536,mine
 1524,Hamlet,"THE TRAGEDY OF HAMLET, PRINCE OF DENMARK",Tragedy,1600,William Shakespeare,contents,dialogue,ACT V,SCENE II,OSRIC,3536,ease
 1524,Hamlet,"THE TRAGEDY OF HAMLET, PRINCE OF DENMARK",Tragedy,1600,William Shakespeare,contents,dialogue,ACT V,SCENE II,OSRIC,3536,faith
 1524,Hamlet,"THE TRAGEDY OF HAMLET, PRINCE OF DENMARK",Tragedy,1600,William Shakespeare,contents,dialogue,ACT V,SCENE II,OSRIC,3536,sir
@@ -10037,7 +9904,6 @@ gutenberg_id,short_title,gutenberg_title,genre,year,author,section,class,act,sce
 1524,Hamlet,"THE TRAGEDY OF HAMLET, PRINCE OF DENMARK",Tragedy,1600,William Shakespeare,contents,dialogue,ACT V,SCENE II,HAMLET,3573,carriages
 1524,Hamlet,"THE TRAGEDY OF HAMLET, PRINCE OF DENMARK",Tragedy,1600,William Shakespeare,contents,dialogue,ACT V,SCENE II,HORATIO,3574,edified
 1524,Hamlet,"THE TRAGEDY OF HAMLET, PRINCE OF DENMARK",Tragedy,1600,William Shakespeare,contents,dialogue,ACT V,SCENE II,HORATIO,3574,margin
-1524,Hamlet,"THE TRAGEDY OF HAMLET, PRINCE OF DENMARK",Tragedy,1600,William Shakespeare,contents,dialogue,ACT V,SCENE II,HORATIO,3574,ere
 1524,Hamlet,"THE TRAGEDY OF HAMLET, PRINCE OF DENMARK",Tragedy,1600,William Shakespeare,contents,dialogue,ACT V,SCENE II,OSRIC,3575,carriages
 1524,Hamlet,"THE TRAGEDY OF HAMLET, PRINCE OF DENMARK",Tragedy,1600,William Shakespeare,contents,dialogue,ACT V,SCENE II,OSRIC,3575,sir
 1524,Hamlet,"THE TRAGEDY OF HAMLET, PRINCE OF DENMARK",Tragedy,1600,William Shakespeare,contents,dialogue,ACT V,SCENE II,OSRIC,3575,hangers
@@ -10047,7 +9913,6 @@ gutenberg_id,short_title,gutenberg_title,genre,year,author,section,class,act,sce
 1524,Hamlet,"THE TRAGEDY OF HAMLET, PRINCE OF DENMARK",Tragedy,1600,William Shakespeare,contents,dialogue,ACT V,SCENE II,HAMLET,3576,carry
 1524,Hamlet,"THE TRAGEDY OF HAMLET, PRINCE OF DENMARK",Tragedy,1600,William Shakespeare,contents,dialogue,ACT V,SCENE II,HAMLET,3576,cannon
 1524,Hamlet,"THE TRAGEDY OF HAMLET, PRINCE OF DENMARK",Tragedy,1600,William Shakespeare,contents,dialogue,ACT V,SCENE II,HAMLET,3577,hangers
-1524,Hamlet,"THE TRAGEDY OF HAMLET, PRINCE OF DENMARK",Tragedy,1600,William Shakespeare,contents,dialogue,ACT V,SCENE II,HAMLET,3577,till
 1524,Hamlet,"THE TRAGEDY OF HAMLET, PRINCE OF DENMARK",Tragedy,1600,William Shakespeare,contents,dialogue,ACT V,SCENE II,HAMLET,3578,barbary
 1524,Hamlet,"THE TRAGEDY OF HAMLET, PRINCE OF DENMARK",Tragedy,1600,William Shakespeare,contents,dialogue,ACT V,SCENE II,HAMLET,3578,horses
 1524,Hamlet,"THE TRAGEDY OF HAMLET, PRINCE OF DENMARK",Tragedy,1600,William Shakespeare,contents,dialogue,ACT V,SCENE II,HAMLET,3578,french
@@ -10156,7 +10021,6 @@ gutenberg_id,short_title,gutenberg_title,genre,year,author,section,class,act,sce
 1524,Hamlet,"THE TRAGEDY OF HAMLET, PRINCE OF DENMARK",Tragedy,1600,William Shakespeare,contents,dialogue,ACT V,SCENE II,HAMLET,3607,pleasure
 1524,Hamlet,"THE TRAGEDY OF HAMLET, PRINCE OF DENMARK",Tragedy,1600,William Shakespeare,contents,dialogue,ACT V,SCENE II,HAMLET,3608,fitness
 1524,Hamlet,"THE TRAGEDY OF HAMLET, PRINCE OF DENMARK",Tragedy,1600,William Shakespeare,contents,dialogue,ACT V,SCENE II,HAMLET,3608,speaks
-1524,Hamlet,"THE TRAGEDY OF HAMLET, PRINCE OF DENMARK",Tragedy,1600,William Shakespeare,contents,dialogue,ACT V,SCENE II,HAMLET,3608,mine
 1524,Hamlet,"THE TRAGEDY OF HAMLET, PRINCE OF DENMARK",Tragedy,1600,William Shakespeare,contents,dialogue,ACT V,SCENE II,HAMLET,3608,ready
 1524,Hamlet,"THE TRAGEDY OF HAMLET, PRINCE OF DENMARK",Tragedy,1600,William Shakespeare,contents,dialogue,ACT V,SCENE II,HAMLET,3608,whensoever
 1524,Hamlet,"THE TRAGEDY OF HAMLET, PRINCE OF DENMARK",Tragedy,1600,William Shakespeare,contents,dialogue,ACT V,SCENE II,HAMLET,3608,provided
@@ -10187,7 +10051,6 @@ gutenberg_id,short_title,gutenberg_title,genre,year,author,section,class,act,sce
 1524,Hamlet,"THE TRAGEDY OF HAMLET, PRINCE OF DENMARK",Tragedy,1600,William Shakespeare,contents,dialogue,ACT V,SCENE II,HAMLET,3618,all's
 1524,Hamlet,"THE TRAGEDY OF HAMLET, PRINCE OF DENMARK",Tragedy,1600,William Shakespeare,contents,dialogue,ACT V,SCENE II,HAMLET,3618,heart
 1524,Hamlet,"THE TRAGEDY OF HAMLET, PRINCE OF DENMARK",Tragedy,1600,William Shakespeare,contents,dialogue,ACT V,SCENE II,HAMLET,3618,matter
-1524,Hamlet,"THE TRAGEDY OF HAMLET, PRINCE OF DENMARK",Tragedy,1600,William Shakespeare,contents,dialogue,ACT V,SCENE II,HORATIO,3619,nay
 1524,Hamlet,"THE TRAGEDY OF HAMLET, PRINCE OF DENMARK",Tragedy,1600,William Shakespeare,contents,dialogue,ACT V,SCENE II,HORATIO,3619,lord
 1524,Hamlet,"THE TRAGEDY OF HAMLET, PRINCE OF DENMARK",Tragedy,1600,William Shakespeare,contents,dialogue,ACT V,SCENE II,HAMLET,3620,foolery
 1524,Hamlet,"THE TRAGEDY OF HAMLET, PRINCE OF DENMARK",Tragedy,1600,William Shakespeare,contents,dialogue,ACT V,SCENE II,HAMLET,3620,gain
@@ -10287,7 +10150,6 @@ gutenberg_id,short_title,gutenberg_title,genre,year,author,section,class,act,sce
 1524,Hamlet,"THE TRAGEDY OF HAMLET, PRINCE OF DENMARK",Tragedy,1600,William Shakespeare,contents,dialogue,ACT V,SCENE II,LAERTES,3651,stand
 1524,Hamlet,"THE TRAGEDY OF HAMLET, PRINCE OF DENMARK",Tragedy,1600,William Shakespeare,contents,dialogue,ACT V,SCENE II,LAERTES,3651,aloof
 1524,Hamlet,"THE TRAGEDY OF HAMLET, PRINCE OF DENMARK",Tragedy,1600,William Shakespeare,contents,dialogue,ACT V,SCENE II,LAERTES,3651,reconcilement
-1524,Hamlet,"THE TRAGEDY OF HAMLET, PRINCE OF DENMARK",Tragedy,1600,William Shakespeare,contents,dialogue,ACT V,SCENE II,LAERTES,3652,till
 1524,Hamlet,"THE TRAGEDY OF HAMLET, PRINCE OF DENMARK",Tragedy,1600,William Shakespeare,contents,dialogue,ACT V,SCENE II,LAERTES,3652,elder
 1524,Hamlet,"THE TRAGEDY OF HAMLET, PRINCE OF DENMARK",Tragedy,1600,William Shakespeare,contents,dialogue,ACT V,SCENE II,LAERTES,3652,masters
 1524,Hamlet,"THE TRAGEDY OF HAMLET, PRINCE OF DENMARK",Tragedy,1600,William Shakespeare,contents,dialogue,ACT V,SCENE II,LAERTES,3652,honour
@@ -10295,7 +10157,6 @@ gutenberg_id,short_title,gutenberg_title,genre,year,author,section,class,act,sce
 1524,Hamlet,"THE TRAGEDY OF HAMLET, PRINCE OF DENMARK",Tragedy,1600,William Shakespeare,contents,dialogue,ACT V,SCENE II,LAERTES,3653,precedent
 1524,Hamlet,"THE TRAGEDY OF HAMLET, PRINCE OF DENMARK",Tragedy,1600,William Shakespeare,contents,dialogue,ACT V,SCENE II,LAERTES,3653,peace
 1524,Hamlet,"THE TRAGEDY OF HAMLET, PRINCE OF DENMARK",Tragedy,1600,William Shakespeare,contents,dialogue,ACT V,SCENE II,LAERTES,3654,ungor'd
-1524,Hamlet,"THE TRAGEDY OF HAMLET, PRINCE OF DENMARK",Tragedy,1600,William Shakespeare,contents,dialogue,ACT V,SCENE II,LAERTES,3654,till
 1524,Hamlet,"THE TRAGEDY OF HAMLET, PRINCE OF DENMARK",Tragedy,1600,William Shakespeare,contents,dialogue,ACT V,SCENE II,LAERTES,3654,time
 1524,Hamlet,"THE TRAGEDY OF HAMLET, PRINCE OF DENMARK",Tragedy,1600,William Shakespeare,contents,dialogue,ACT V,SCENE II,LAERTES,3655,receive
 1524,Hamlet,"THE TRAGEDY OF HAMLET, PRINCE OF DENMARK",Tragedy,1600,William Shakespeare,contents,dialogue,ACT V,SCENE II,LAERTES,3655,offer'd
@@ -10311,7 +10172,6 @@ gutenberg_id,short_title,gutenberg_title,genre,year,author,section,class,act,sce
 1524,Hamlet,"THE TRAGEDY OF HAMLET, PRINCE OF DENMARK",Tragedy,1600,William Shakespeare,contents,dialogue,ACT V,SCENE II,HAMLET,3659,foils
 1524,Hamlet,"THE TRAGEDY OF HAMLET, PRINCE OF DENMARK",Tragedy,1600,William Shakespeare,contents,dialogue,ACT V,SCENE II,HAMLET,3661,foil
 1524,Hamlet,"THE TRAGEDY OF HAMLET, PRINCE OF DENMARK",Tragedy,1600,William Shakespeare,contents,dialogue,ACT V,SCENE II,HAMLET,3661,laertes
-1524,Hamlet,"THE TRAGEDY OF HAMLET, PRINCE OF DENMARK",Tragedy,1600,William Shakespeare,contents,dialogue,ACT V,SCENE II,HAMLET,3661,mine
 1524,Hamlet,"THE TRAGEDY OF HAMLET, PRINCE OF DENMARK",Tragedy,1600,William Shakespeare,contents,dialogue,ACT V,SCENE II,HAMLET,3661,ignorance
 1524,Hamlet,"THE TRAGEDY OF HAMLET, PRINCE OF DENMARK",Tragedy,1600,William Shakespeare,contents,dialogue,ACT V,SCENE II,HAMLET,3662,skill
 1524,Hamlet,"THE TRAGEDY OF HAMLET, PRINCE OF DENMARK",Tragedy,1600,William Shakespeare,contents,dialogue,ACT V,SCENE II,HAMLET,3662,star
@@ -10341,7 +10201,6 @@ gutenberg_id,short_title,gutenberg_title,genre,year,author,section,class,act,sce
 1524,Hamlet,"THE TRAGEDY OF HAMLET, PRINCE OF DENMARK",Tragedy,1600,William Shakespeare,contents,dialogue,ACT V,SCENE II,HAMLET,3673,length
 1524,Hamlet,"THE TRAGEDY OF HAMLET, PRINCE OF DENMARK",Tragedy,1600,William Shakespeare,contents,directions,ACT V,SCENE II,NA,NA,prepare
 1524,Hamlet,"THE TRAGEDY OF HAMLET, PRINCE OF DENMARK",Tragedy,1600,William Shakespeare,contents,directions,ACT V,SCENE II,NA,NA,play
-1524,Hamlet,"THE TRAGEDY OF HAMLET, PRINCE OF DENMARK",Tragedy,1600,William Shakespeare,contents,dialogue,ACT V,SCENE II,OSRIC,3674,ay
 1524,Hamlet,"THE TRAGEDY OF HAMLET, PRINCE OF DENMARK",Tragedy,1600,William Shakespeare,contents,dialogue,ACT V,SCENE II,OSRIC,3674,lord
 1524,Hamlet,"THE TRAGEDY OF HAMLET, PRINCE OF DENMARK",Tragedy,1600,William Shakespeare,contents,dialogue,ACT V,SCENE II,KING,3675,set
 1524,Hamlet,"THE TRAGEDY OF HAMLET, PRINCE OF DENMARK",Tragedy,1600,William Shakespeare,contents,dialogue,ACT V,SCENE II,KING,3675,stoups
@@ -10461,7 +10320,6 @@ gutenberg_id,short_title,gutenberg_title,genre,year,author,section,class,act,sce
 1524,Hamlet,"THE TRAGEDY OF HAMLET, PRINCE OF DENMARK",Tragedy,1600,William Shakespeare,contents,directions,ACT V,SCENE II,NA,NA,wounds
 1524,Hamlet,"THE TRAGEDY OF HAMLET, PRINCE OF DENMARK",Tragedy,1600,William Shakespeare,contents,directions,ACT V,SCENE II,NA,NA,laertes
 1524,Hamlet,"THE TRAGEDY OF HAMLET, PRINCE OF DENMARK",Tragedy,1600,William Shakespeare,contents,dialogue,ACT V,SCENE II,KING,3720,incens'd
-1524,Hamlet,"THE TRAGEDY OF HAMLET, PRINCE OF DENMARK",Tragedy,1600,William Shakespeare,contents,dialogue,ACT V,SCENE II,HAMLET,3721,nay
 1524,Hamlet,"THE TRAGEDY OF HAMLET, PRINCE OF DENMARK",Tragedy,1600,William Shakespeare,contents,directions,ACT V,SCENE II,NA,NA,queen
 1524,Hamlet,"THE TRAGEDY OF HAMLET, PRINCE OF DENMARK",Tragedy,1600,William Shakespeare,contents,directions,ACT V,SCENE II,NA,NA,falls
 1524,Hamlet,"THE TRAGEDY OF HAMLET, PRINCE OF DENMARK",Tragedy,1600,William Shakespeare,contents,dialogue,ACT V,SCENE II,OSRIC,3722,queen
@@ -10475,7 +10333,6 @@ gutenberg_id,short_title,gutenberg_title,genre,year,author,section,class,act,sce
 1524,Hamlet,"THE TRAGEDY OF HAMLET, PRINCE OF DENMARK",Tragedy,1600,William Shakespeare,contents,dialogue,ACT V,SCENE II,LAERTES,3725,osric
 1524,Hamlet,"THE TRAGEDY OF HAMLET, PRINCE OF DENMARK",Tragedy,1600,William Shakespeare,contents,dialogue,ACT V,SCENE II,LAERTES,3726,justly
 1524,Hamlet,"THE TRAGEDY OF HAMLET, PRINCE OF DENMARK",Tragedy,1600,William Shakespeare,contents,dialogue,ACT V,SCENE II,LAERTES,3726,kill'd
-1524,Hamlet,"THE TRAGEDY OF HAMLET, PRINCE OF DENMARK",Tragedy,1600,William Shakespeare,contents,dialogue,ACT V,SCENE II,LAERTES,3726,mine
 1524,Hamlet,"THE TRAGEDY OF HAMLET, PRINCE OF DENMARK",Tragedy,1600,William Shakespeare,contents,dialogue,ACT V,SCENE II,LAERTES,3726,treachery
 1524,Hamlet,"THE TRAGEDY OF HAMLET, PRINCE OF DENMARK",Tragedy,1600,William Shakespeare,contents,dialogue,ACT V,SCENE II,HAMLET,3727,queen
 1524,Hamlet,"THE TRAGEDY OF HAMLET, PRINCE OF DENMARK",Tragedy,1600,William Shakespeare,contents,dialogue,ACT V,SCENE II,KING,3728,swoons
@@ -10548,7 +10405,6 @@ gutenberg_id,short_title,gutenberg_title,genre,year,author,section,class,act,sce
 1524,Hamlet,"THE TRAGEDY OF HAMLET, PRINCE OF DENMARK",Tragedy,1600,William Shakespeare,contents,dialogue,ACT V,SCENE II,LAERTES,3750,forgiveness
 1524,Hamlet,"THE TRAGEDY OF HAMLET, PRINCE OF DENMARK",Tragedy,1600,William Shakespeare,contents,dialogue,ACT V,SCENE II,LAERTES,3750,noble
 1524,Hamlet,"THE TRAGEDY OF HAMLET, PRINCE OF DENMARK",Tragedy,1600,William Shakespeare,contents,dialogue,ACT V,SCENE II,LAERTES,3750,hamlet
-1524,Hamlet,"THE TRAGEDY OF HAMLET, PRINCE OF DENMARK",Tragedy,1600,William Shakespeare,contents,dialogue,ACT V,SCENE II,LAERTES,3751,mine
 1524,Hamlet,"THE TRAGEDY OF HAMLET, PRINCE OF DENMARK",Tragedy,1600,William Shakespeare,contents,dialogue,ACT V,SCENE II,LAERTES,3751,father's
 1524,Hamlet,"THE TRAGEDY OF HAMLET, PRINCE OF DENMARK",Tragedy,1600,William Shakespeare,contents,dialogue,ACT V,SCENE II,LAERTES,3751,death
 1524,Hamlet,"THE TRAGEDY OF HAMLET, PRINCE OF DENMARK",Tragedy,1600,William Shakespeare,contents,directions,ACT V,SCENE II,NA,NA,dies
@@ -10668,7 +10524,6 @@ gutenberg_id,short_title,gutenberg_title,genre,year,author,section,class,act,sce
 1524,Hamlet,"THE TRAGEDY OF HAMLET, PRINCE OF DENMARK",Tragedy,1600,William Shakespeare,contents,dialogue,ACT V,SCENE II,FORTINBRAS,3792,princes
 1524,Hamlet,"THE TRAGEDY OF HAMLET, PRINCE OF DENMARK",Tragedy,1600,William Shakespeare,contents,dialogue,ACT V,SCENE II,FORTINBRAS,3792,shot
 1524,Hamlet,"THE TRAGEDY OF HAMLET, PRINCE OF DENMARK",Tragedy,1600,William Shakespeare,contents,dialogue,ACT V,SCENE II,FORTINBRAS,3793,bloodily
-1524,Hamlet,"THE TRAGEDY OF HAMLET, PRINCE OF DENMARK",Tragedy,1600,William Shakespeare,contents,dialogue,ACT V,SCENE II,FORTINBRAS,3793,hast
 1524,Hamlet,"THE TRAGEDY OF HAMLET, PRINCE OF DENMARK",Tragedy,1600,William Shakespeare,contents,dialogue,ACT V,SCENE II,FORTINBRAS,3793,struck
 1524,Hamlet,"THE TRAGEDY OF HAMLET, PRINCE OF DENMARK",Tragedy,1600,William Shakespeare,contents,dialogue,ACT V,SCENE II,FIRST AMBASSADOR,3794,sight
 1524,Hamlet,"THE TRAGEDY OF HAMLET, PRINCE OF DENMARK",Tragedy,1600,William Shakespeare,contents,dialogue,ACT V,SCENE II,FIRST AMBASSADOR,3794,dismal

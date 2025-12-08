@@ -1,7 +1,6 @@
 gutenberg_id,short_title,gutenberg_title,genre,year,author,section,class,act,scene,character,line_number,word
 1534,Antony and Cleopatra,ANTONY AND CLEOPATRA,Tragedy,1607,William Shakespeare,contents,directions,ACT I,SCENE I,NA,NA,demetrius
 1534,Antony and Cleopatra,ANTONY AND CLEOPATRA,Tragedy,1607,William Shakespeare,contents,directions,ACT I,SCENE I,NA,NA,philo
-1534,Antony and Cleopatra,ANTONY AND CLEOPATRA,Tragedy,1607,William Shakespeare,contents,dialogue,ACT I,SCENE I,PHILO,1,nay
 1534,Antony and Cleopatra,ANTONY AND CLEOPATRA,Tragedy,1607,William Shakespeare,contents,dialogue,ACT I,SCENE I,PHILO,1,dotage
 1534,Antony and Cleopatra,ANTONY AND CLEOPATRA,Tragedy,1607,William Shakespeare,contents,dialogue,ACT I,SCENE I,PHILO,1,general's
 1534,Antony and Cleopatra,ANTONY AND CLEOPATRA,Tragedy,1607,William Shakespeare,contents,dialogue,ACT I,SCENE I,PHILO,2,o'erflows
@@ -65,7 +64,6 @@ gutenberg_id,short_title,gutenberg_title,genre,year,author,section,class,act,sce
 1534,Antony and Cleopatra,ANTONY AND CLEOPATRA,Tragedy,1607,William Shakespeare,contents,dialogue,ACT I,SCENE I,MESSENGER,21,rome
 1534,Antony and Cleopatra,ANTONY AND CLEOPATRA,Tragedy,1607,William Shakespeare,contents,dialogue,ACT I,SCENE I,ANTONY,22,grates
 1534,Antony and Cleopatra,ANTONY AND CLEOPATRA,Tragedy,1607,William Shakespeare,contents,dialogue,ACT I,SCENE I,ANTONY,22,sum
-1534,Antony and Cleopatra,ANTONY AND CLEOPATRA,Tragedy,1607,William Shakespeare,contents,dialogue,ACT I,SCENE I,CLEOPATRA,23,nay
 1534,Antony and Cleopatra,ANTONY AND CLEOPATRA,Tragedy,1607,William Shakespeare,contents,dialogue,ACT I,SCENE I,CLEOPATRA,23,hear
 1534,Antony and Cleopatra,ANTONY AND CLEOPATRA,Tragedy,1607,William Shakespeare,contents,dialogue,ACT I,SCENE I,CLEOPATRA,23,antony
 1534,Antony and Cleopatra,ANTONY AND CLEOPATRA,Tragedy,1607,William Shakespeare,contents,dialogue,ACT I,SCENE I,CLEOPATRA,24,fulvia
@@ -82,7 +80,6 @@ gutenberg_id,short_title,gutenberg_title,genre,year,author,section,class,act,sce
 1534,Antony and Cleopatra,ANTONY AND CLEOPATRA,Tragedy,1607,William Shakespeare,contents,dialogue,ACT I,SCENE I,CLEOPATRA,28,damn
 1534,Antony and Cleopatra,ANTONY AND CLEOPATRA,Tragedy,1607,William Shakespeare,contents,dialogue,ACT I,SCENE I,ANTONY,29,love
 1534,Antony and Cleopatra,ANTONY AND CLEOPATRA,Tragedy,1607,William Shakespeare,contents,dialogue,ACT I,SCENE I,CLEOPATRA,30,perchance
-1534,Antony and Cleopatra,ANTONY AND CLEOPATRA,Tragedy,1607,William Shakespeare,contents,dialogue,ACT I,SCENE I,CLEOPATRA,30,nay
 1534,Antony and Cleopatra,ANTONY AND CLEOPATRA,Tragedy,1607,William Shakespeare,contents,dialogue,ACT I,SCENE I,CLEOPATRA,31,stay
 1534,Antony and Cleopatra,ANTONY AND CLEOPATRA,Tragedy,1607,William Shakespeare,contents,dialogue,ACT I,SCENE I,CLEOPATRA,31,dismission
 1534,Antony and Cleopatra,ANTONY AND CLEOPATRA,Tragedy,1607,William Shakespeare,contents,dialogue,ACT I,SCENE I,CLEOPATRA,32,caesar
@@ -262,7 +259,6 @@ gutenberg_id,short_title,gutenberg_title,genre,year,author,section,class,act,sce
 1534,Antony and Cleopatra,ANTONY AND CLEOPATRA,Tragedy,1607,William Shakespeare,contents,dialogue,ACT I,SCENE II,CHARMIAN,94,heat
 1534,Antony and Cleopatra,ANTONY AND CLEOPATRA,Tragedy,1607,William Shakespeare,contents,dialogue,ACT I,SCENE II,CHARMIAN,94,liver
 1534,Antony and Cleopatra,ANTONY AND CLEOPATRA,Tragedy,1607,William Shakespeare,contents,dialogue,ACT I,SCENE II,CHARMIAN,94,drinking
-1534,Antony and Cleopatra,ANTONY AND CLEOPATRA,Tragedy,1607,William Shakespeare,contents,dialogue,ACT I,SCENE II,ALEXAS,95,nay
 1534,Antony and Cleopatra,ANTONY AND CLEOPATRA,Tragedy,1607,William Shakespeare,contents,dialogue,ACT I,SCENE II,ALEXAS,95,hear
 1534,Antony and Cleopatra,ANTONY AND CLEOPATRA,Tragedy,1607,William Shakespeare,contents,dialogue,ACT I,SCENE II,CHARMIAN,96,excellent
 1534,Antony and Cleopatra,ANTONY AND CLEOPATRA,Tragedy,1607,William Shakespeare,contents,dialogue,ACT I,SCENE II,CHARMIAN,96,fortune
@@ -307,10 +303,8 @@ gutenberg_id,short_title,gutenberg_title,genre,year,author,section,class,act,sce
 1534,Antony and Cleopatra,ANTONY AND CLEOPATRA,Tragedy,1607,William Shakespeare,contents,dialogue,ACT I,SCENE II,ALEXAS,109,sheets
 1534,Antony and Cleopatra,ANTONY AND CLEOPATRA,Tragedy,1607,William Shakespeare,contents,dialogue,ACT I,SCENE II,ALEXAS,109,privy
 1534,Antony and Cleopatra,ANTONY AND CLEOPATRA,Tragedy,1607,William Shakespeare,contents,dialogue,ACT I,SCENE II,ALEXAS,109,wishes
-1534,Antony and Cleopatra,ANTONY AND CLEOPATRA,Tragedy,1607,William Shakespeare,contents,dialogue,ACT I,SCENE II,CHARMIAN,110,nay
 1534,Antony and Cleopatra,ANTONY AND CLEOPATRA,Tragedy,1607,William Shakespeare,contents,dialogue,ACT I,SCENE II,CHARMIAN,110,iras
 1534,Antony and Cleopatra,ANTONY AND CLEOPATRA,Tragedy,1607,William Shakespeare,contents,dialogue,ACT I,SCENE II,ALEXAS,111,fortunes
-1534,Antony and Cleopatra,ANTONY AND CLEOPATRA,Tragedy,1607,William Shakespeare,contents,dialogue,ACT I,SCENE II,ENOBARBUS,112,mine
 1534,Antony and Cleopatra,ANTONY AND CLEOPATRA,Tragedy,1607,William Shakespeare,contents,dialogue,ACT I,SCENE II,ENOBARBUS,112,fortunes
 1534,Antony and Cleopatra,ANTONY AND CLEOPATRA,Tragedy,1607,William Shakespeare,contents,dialogue,ACT I,SCENE II,ENOBARBUS,112,tonight
 1534,Antony and Cleopatra,ANTONY AND CLEOPATRA,Tragedy,1607,William Shakespeare,contents,dialogue,ACT I,SCENE II,ENOBARBUS,112,drunk
@@ -326,13 +320,11 @@ gutenberg_id,short_title,gutenberg_title,genre,year,author,section,class,act,sce
 1534,Antony and Cleopatra,ANTONY AND CLEOPATRA,Tragedy,1607,William Shakespeare,contents,dialogue,ACT I,SCENE II,IRAS,115,wild
 1534,Antony and Cleopatra,ANTONY AND CLEOPATRA,Tragedy,1607,William Shakespeare,contents,dialogue,ACT I,SCENE II,IRAS,115,bedfellow
 1534,Antony and Cleopatra,ANTONY AND CLEOPATRA,Tragedy,1607,William Shakespeare,contents,dialogue,ACT I,SCENE II,IRAS,115,soothsay
-1534,Antony and Cleopatra,ANTONY AND CLEOPATRA,Tragedy,1607,William Shakespeare,contents,dialogue,ACT I,SCENE II,CHARMIAN,116,nay
 1534,Antony and Cleopatra,ANTONY AND CLEOPATRA,Tragedy,1607,William Shakespeare,contents,dialogue,ACT I,SCENE II,CHARMIAN,116,oily
 1534,Antony and Cleopatra,ANTONY AND CLEOPATRA,Tragedy,1607,William Shakespeare,contents,dialogue,ACT I,SCENE II,CHARMIAN,116,palm
 1534,Antony and Cleopatra,ANTONY AND CLEOPATRA,Tragedy,1607,William Shakespeare,contents,dialogue,ACT I,SCENE II,CHARMIAN,116,fruitful
 1534,Antony and Cleopatra,ANTONY AND CLEOPATRA,Tragedy,1607,William Shakespeare,contents,dialogue,ACT I,SCENE II,CHARMIAN,116,prognostication
 1534,Antony and Cleopatra,ANTONY AND CLEOPATRA,Tragedy,1607,William Shakespeare,contents,dialogue,ACT I,SCENE II,CHARMIAN,117,scratch
-1534,Antony and Cleopatra,ANTONY AND CLEOPATRA,Tragedy,1607,William Shakespeare,contents,dialogue,ACT I,SCENE II,CHARMIAN,117,mine
 1534,Antony and Cleopatra,ANTONY AND CLEOPATRA,Tragedy,1607,William Shakespeare,contents,dialogue,ACT I,SCENE II,CHARMIAN,117,ear
 1534,Antony and Cleopatra,ANTONY AND CLEOPATRA,Tragedy,1607,William Shakespeare,contents,dialogue,ACT I,SCENE II,CHARMIAN,117,prithee
 1534,Antony and Cleopatra,ANTONY AND CLEOPATRA,Tragedy,1607,William Shakespeare,contents,dialogue,ACT I,SCENE II,CHARMIAN,117,workaday
@@ -363,7 +355,6 @@ gutenberg_id,short_title,gutenberg_title,genre,year,author,section,class,act,sce
 1534,Antony and Cleopatra,ANTONY AND CLEOPATRA,Tragedy,1607,William Shakespeare,contents,dialogue,ACT I,SCENE II,CHARMIAN,127,worse
 1534,Antony and Cleopatra,ANTONY AND CLEOPATRA,Tragedy,1607,William Shakespeare,contents,dialogue,ACT I,SCENE II,CHARMIAN,127,follow
 1534,Antony and Cleopatra,ANTONY AND CLEOPATRA,Tragedy,1607,William Shakespeare,contents,dialogue,ACT I,SCENE II,CHARMIAN,128,worse
-1534,Antony and Cleopatra,ANTONY AND CLEOPATRA,Tragedy,1607,William Shakespeare,contents,dialogue,ACT I,SCENE II,CHARMIAN,128,till
 1534,Antony and Cleopatra,ANTONY AND CLEOPATRA,Tragedy,1607,William Shakespeare,contents,dialogue,ACT I,SCENE II,CHARMIAN,128,worst
 1534,Antony and Cleopatra,ANTONY AND CLEOPATRA,Tragedy,1607,William Shakespeare,contents,dialogue,ACT I,SCENE II,CHARMIAN,128,follow
 1534,Antony and Cleopatra,ANTONY AND CLEOPATRA,Tragedy,1607,William Shakespeare,contents,dialogue,ACT I,SCENE II,CHARMIAN,128,laughing
@@ -438,7 +429,6 @@ gutenberg_id,short_title,gutenberg_title,genre,year,author,section,class,act,sce
 1534,Antony and Cleopatra,ANTONY AND CLEOPATRA,Tragedy,1607,William Shakespeare,contents,dialogue,ACT I,SCENE II,MESSENGER,150,field
 1534,Antony and Cleopatra,ANTONY AND CLEOPATRA,Tragedy,1607,William Shakespeare,contents,dialogue,ACT I,SCENE II,ANTONY,151,brother
 1534,Antony and Cleopatra,ANTONY AND CLEOPATRA,Tragedy,1607,William Shakespeare,contents,dialogue,ACT I,SCENE II,ANTONY,151,lucius
-1534,Antony and Cleopatra,ANTONY AND CLEOPATRA,Tragedy,1607,William Shakespeare,contents,dialogue,ACT I,SCENE II,MESSENGER,152,ay
 1534,Antony and Cleopatra,ANTONY AND CLEOPATRA,Tragedy,1607,William Shakespeare,contents,dialogue,ACT I,SCENE II,MESSENGER,153,war
 1534,Antony and Cleopatra,ANTONY AND CLEOPATRA,Tragedy,1607,William Shakespeare,contents,dialogue,ACT I,SCENE II,MESSENGER,153,time's
 1534,Antony and Cleopatra,ANTONY AND CLEOPATRA,Tragedy,1607,William Shakespeare,contents,dialogue,ACT I,SCENE II,MESSENGER,154,friends
@@ -709,7 +699,6 @@ gutenberg_id,short_title,gutenberg_title,genre,year,author,section,class,act,sce
 1534,Antony and Cleopatra,ANTONY AND CLEOPATRA,Tragedy,1607,William Shakespeare,contents,dialogue,ACT I,SCENE II,ANTONY,248,love
 1534,Antony and Cleopatra,ANTONY AND CLEOPATRA,Tragedy,1607,William Shakespeare,contents,dialogue,ACT I,SCENE II,ANTONY,248,linked
 1534,Antony and Cleopatra,ANTONY AND CLEOPATRA,Tragedy,1607,William Shakespeare,contents,dialogue,ACT I,SCENE II,ANTONY,248,deserver
-1534,Antony and Cleopatra,ANTONY AND CLEOPATRA,Tragedy,1607,William Shakespeare,contents,dialogue,ACT I,SCENE II,ANTONY,249,till
 1534,Antony and Cleopatra,ANTONY AND CLEOPATRA,Tragedy,1607,William Shakespeare,contents,dialogue,ACT I,SCENE II,ANTONY,249,deserts
 1534,Antony and Cleopatra,ANTONY AND CLEOPATRA,Tragedy,1607,William Shakespeare,contents,dialogue,ACT I,SCENE II,ANTONY,249,past
 1534,Antony and Cleopatra,ANTONY AND CLEOPATRA,Tragedy,1607,William Shakespeare,contents,dialogue,ACT I,SCENE II,ANTONY,249,begin
@@ -797,7 +786,6 @@ gutenberg_id,short_title,gutenberg_title,genre,year,author,section,class,act,sce
 1534,Antony and Cleopatra,ANTONY AND CLEOPATRA,Tragedy,1607,William Shakespeare,contents,dialogue,ACT I,SCENE III,CLEOPATRA,291,treasons
 1534,Antony and Cleopatra,ANTONY AND CLEOPATRA,Tragedy,1607,William Shakespeare,contents,dialogue,ACT I,SCENE III,CLEOPATRA,291,planted
 1534,Antony and Cleopatra,ANTONY AND CLEOPATRA,Tragedy,1607,William Shakespeare,contents,dialogue,ACT I,SCENE III,ANTONY,292,cleopatra
-1534,Antony and Cleopatra,ANTONY AND CLEOPATRA,Tragedy,1607,William Shakespeare,contents,dialogue,ACT I,SCENE III,CLEOPATRA,293,mine
 1534,Antony and Cleopatra,ANTONY AND CLEOPATRA,Tragedy,1607,William Shakespeare,contents,dialogue,ACT I,SCENE III,CLEOPATRA,293,true
 1534,Antony and Cleopatra,ANTONY AND CLEOPATRA,Tragedy,1607,William Shakespeare,contents,dialogue,ACT I,SCENE III,CLEOPATRA,294,swearing
 1534,Antony and Cleopatra,ANTONY AND CLEOPATRA,Tragedy,1607,William Shakespeare,contents,dialogue,ACT I,SCENE III,CLEOPATRA,294,shake
@@ -814,7 +802,6 @@ gutenberg_id,short_title,gutenberg_title,genre,year,author,section,class,act,sce
 1534,Antony and Cleopatra,ANTONY AND CLEOPATRA,Tragedy,1607,William Shakespeare,contents,dialogue,ACT I,SCENE III,CLEOPATRA,297,swearing
 1534,Antony and Cleopatra,ANTONY AND CLEOPATRA,Tragedy,1607,William Shakespeare,contents,dialogue,ACT I,SCENE III,ANTONY,298,sweet
 1534,Antony and Cleopatra,ANTONY AND CLEOPATRA,Tragedy,1607,William Shakespeare,contents,dialogue,ACT I,SCENE III,ANTONY,298,queen
-1534,Antony and Cleopatra,ANTONY AND CLEOPATRA,Tragedy,1607,William Shakespeare,contents,dialogue,ACT I,SCENE III,CLEOPATRA,299,nay
 1534,Antony and Cleopatra,ANTONY AND CLEOPATRA,Tragedy,1607,William Shakespeare,contents,dialogue,ACT I,SCENE III,CLEOPATRA,299,pray
 1534,Antony and Cleopatra,ANTONY AND CLEOPATRA,Tragedy,1607,William Shakespeare,contents,dialogue,ACT I,SCENE III,CLEOPATRA,299,seek
 1534,Antony and Cleopatra,ANTONY AND CLEOPATRA,Tragedy,1607,William Shakespeare,contents,dialogue,ACT I,SCENE III,CLEOPATRA,299,colour
@@ -918,7 +905,6 @@ gutenberg_id,short_title,gutenberg_title,genre,year,author,section,class,act,sce
 1534,Antony and Cleopatra,ANTONY AND CLEOPATRA,Tragedy,1607,William Shakespeare,contents,dialogue,ACT I,SCENE III,CLEOPATRA,334,water
 1534,Antony and Cleopatra,ANTONY AND CLEOPATRA,Tragedy,1607,William Shakespeare,contents,dialogue,ACT I,SCENE III,CLEOPATRA,335,fulvia's
 1534,Antony and Cleopatra,ANTONY AND CLEOPATRA,Tragedy,1607,William Shakespeare,contents,dialogue,ACT I,SCENE III,CLEOPATRA,335,death
-1534,Antony and Cleopatra,ANTONY AND CLEOPATRA,Tragedy,1607,William Shakespeare,contents,dialogue,ACT I,SCENE III,CLEOPATRA,335,mine
 1534,Antony and Cleopatra,ANTONY AND CLEOPATRA,Tragedy,1607,William Shakespeare,contents,dialogue,ACT I,SCENE III,CLEOPATRA,335,received
 1534,Antony and Cleopatra,ANTONY AND CLEOPATRA,Tragedy,1607,William Shakespeare,contents,dialogue,ACT I,SCENE III,ANTONY,336,quarrel
 1534,Antony and Cleopatra,ANTONY AND CLEOPATRA,Tragedy,1607,William Shakespeare,contents,dialogue,ACT I,SCENE III,ANTONY,336,prepared
@@ -1146,7 +1132,6 @@ gutenberg_id,short_title,gutenberg_title,genre,year,author,section,class,act,sce
 1534,Antony and Cleopatra,ANTONY AND CLEOPATRA,Tragedy,1607,William Shakespeare,contents,dialogue,ACT I,SCENE IV,CAESAR,430,ebbed
 1534,Antony and Cleopatra,ANTONY AND CLEOPATRA,Tragedy,1607,William Shakespeare,contents,dialogue,ACT I,SCENE IV,CAESAR,430,ne'er
 1534,Antony and Cleopatra,ANTONY AND CLEOPATRA,Tragedy,1607,William Shakespeare,contents,dialogue,ACT I,SCENE IV,CAESAR,430,loved
-1534,Antony and Cleopatra,ANTONY AND CLEOPATRA,Tragedy,1607,William Shakespeare,contents,dialogue,ACT I,SCENE IV,CAESAR,430,till
 1534,Antony and Cleopatra,ANTONY AND CLEOPATRA,Tragedy,1607,William Shakespeare,contents,dialogue,ACT I,SCENE IV,CAESAR,430,ne'er
 1534,Antony and Cleopatra,ANTONY AND CLEOPATRA,Tragedy,1607,William Shakespeare,contents,dialogue,ACT I,SCENE IV,CAESAR,430,worth
 1534,Antony and Cleopatra,ANTONY AND CLEOPATRA,Tragedy,1607,William Shakespeare,contents,dialogue,ACT I,SCENE IV,CAESAR,430,love
@@ -1269,7 +1254,6 @@ gutenberg_id,short_title,gutenberg_title,genre,year,author,section,class,act,sce
 1534,Antony and Cleopatra,ANTONY AND CLEOPATRA,Tragedy,1607,William Shakespeare,contents,dialogue,ACT I,SCENE IV,LEPIDUS,469,land
 1534,Antony and Cleopatra,ANTONY AND CLEOPATRA,Tragedy,1607,William Shakespeare,contents,dialogue,ACT I,SCENE IV,LEPIDUS,470,front
 1534,Antony and Cleopatra,ANTONY AND CLEOPATRA,Tragedy,1607,William Shakespeare,contents,dialogue,ACT I,SCENE IV,LEPIDUS,470,time
-1534,Antony and Cleopatra,ANTONY AND CLEOPATRA,Tragedy,1607,William Shakespeare,contents,dialogue,ACT I,SCENE IV,CAESAR,471,till
 1534,Antony and Cleopatra,ANTONY AND CLEOPATRA,Tragedy,1607,William Shakespeare,contents,dialogue,ACT I,SCENE IV,CAESAR,471,encounter
 1534,Antony and Cleopatra,ANTONY AND CLEOPATRA,Tragedy,1607,William Shakespeare,contents,dialogue,ACT I,SCENE IV,CAESAR,472,business
 1534,Antony and Cleopatra,ANTONY AND CLEOPATRA,Tragedy,1607,William Shakespeare,contents,dialogue,ACT I,SCENE IV,CAESAR,472,farewell
@@ -1315,7 +1299,6 @@ gutenberg_id,short_title,gutenberg_title,genre,year,author,section,class,act,sce
 1534,Antony and Cleopatra,ANTONY AND CLEOPATRA,Tragedy,1607,William Shakespeare,contents,dialogue,ACT I,SCENE V,CLEOPATRA,492,freer
 1534,Antony and Cleopatra,ANTONY AND CLEOPATRA,Tragedy,1607,William Shakespeare,contents,dialogue,ACT I,SCENE V,CLEOPATRA,493,fly
 1534,Antony and Cleopatra,ANTONY AND CLEOPATRA,Tragedy,1607,William Shakespeare,contents,dialogue,ACT I,SCENE V,CLEOPATRA,493,egypt
-1534,Antony and Cleopatra,ANTONY AND CLEOPATRA,Tragedy,1607,William Shakespeare,contents,dialogue,ACT I,SCENE V,CLEOPATRA,493,hast
 1534,Antony and Cleopatra,ANTONY AND CLEOPATRA,Tragedy,1607,William Shakespeare,contents,dialogue,ACT I,SCENE V,CLEOPATRA,493,affections
 1534,Antony and Cleopatra,ANTONY AND CLEOPATRA,Tragedy,1607,William Shakespeare,contents,dialogue,ACT I,SCENE V,MARDIAN,494,gracious
 1534,Antony and Cleopatra,ANTONY AND CLEOPATRA,Tragedy,1607,William Shakespeare,contents,dialogue,ACT I,SCENE V,MARDIAN,494,madam
@@ -1401,7 +1384,6 @@ gutenberg_id,short_title,gutenberg_title,genre,year,author,section,class,act,sce
 1534,Antony and Cleopatra,ANTONY AND CLEOPATRA,Tragedy,1607,William Shakespeare,contents,dialogue,ACT I,SCENE V,ALEXAS,524,speech
 1534,Antony and Cleopatra,ANTONY AND CLEOPATRA,Tragedy,1607,William Shakespeare,contents,dialogue,ACT I,SCENE V,ALEXAS,524,sticks
 1534,Antony and Cleopatra,ANTONY AND CLEOPATRA,Tragedy,1607,William Shakespeare,contents,dialogue,ACT I,SCENE V,ALEXAS,524,heart
-1534,Antony and Cleopatra,ANTONY AND CLEOPATRA,Tragedy,1607,William Shakespeare,contents,dialogue,ACT I,SCENE V,CLEOPATRA,525,mine
 1534,Antony and Cleopatra,ANTONY AND CLEOPATRA,Tragedy,1607,William Shakespeare,contents,dialogue,ACT I,SCENE V,CLEOPATRA,525,ear
 1534,Antony and Cleopatra,ANTONY AND CLEOPATRA,Tragedy,1607,William Shakespeare,contents,dialogue,ACT I,SCENE V,CLEOPATRA,525,pluck
 1534,Antony and Cleopatra,ANTONY AND CLEOPATRA,Tragedy,1607,William Shakespeare,contents,dialogue,ACT I,SCENE V,ALEXAS,526,friend
@@ -1461,7 +1443,6 @@ gutenberg_id,short_title,gutenberg_title,genre,year,author,section,class,act,sce
 1534,Antony and Cleopatra,ANTONY AND CLEOPATRA,Tragedy,1607,William Shakespeare,contents,dialogue,ACT I,SCENE V,CLEOPATRA,545,violence
 1534,Antony and Cleopatra,ANTONY AND CLEOPATRA,Tragedy,1607,William Shakespeare,contents,dialogue,ACT I,SCENE V,CLEOPATRA,546,met'st
 1534,Antony and Cleopatra,ANTONY AND CLEOPATRA,Tragedy,1607,William Shakespeare,contents,dialogue,ACT I,SCENE V,CLEOPATRA,546,posts
-1534,Antony and Cleopatra,ANTONY AND CLEOPATRA,Tragedy,1607,William Shakespeare,contents,dialogue,ACT I,SCENE V,ALEXAS,547,ay
 1534,Antony and Cleopatra,ANTONY AND CLEOPATRA,Tragedy,1607,William Shakespeare,contents,dialogue,ACT I,SCENE V,ALEXAS,547,madam
 1534,Antony and Cleopatra,ANTONY AND CLEOPATRA,Tragedy,1607,William Shakespeare,contents,dialogue,ACT I,SCENE V,ALEXAS,547,twenty
 1534,Antony and Cleopatra,ANTONY AND CLEOPATRA,Tragedy,1607,William Shakespeare,contents,dialogue,ACT I,SCENE V,ALEXAS,547,messengers
@@ -1539,7 +1520,6 @@ gutenberg_id,short_title,gutenberg_title,genre,year,author,section,class,act,sce
 1534,Antony and Cleopatra,ANTONY AND CLEOPATRA,Tragedy,1607,William Shakespeare,contents,dialogue,ACT II,SCENE I,POMPEY,580,people
 1534,Antony and Cleopatra,ANTONY AND CLEOPATRA,Tragedy,1607,William Shakespeare,contents,dialogue,ACT II,SCENE I,POMPEY,580,love
 1534,Antony and Cleopatra,ANTONY AND CLEOPATRA,Tragedy,1607,William Shakespeare,contents,dialogue,ACT II,SCENE I,POMPEY,580,sea
-1534,Antony and Cleopatra,ANTONY AND CLEOPATRA,Tragedy,1607,William Shakespeare,contents,dialogue,ACT II,SCENE I,POMPEY,580,mine
 1534,Antony and Cleopatra,ANTONY AND CLEOPATRA,Tragedy,1607,William Shakespeare,contents,dialogue,ACT II,SCENE I,POMPEY,581,powers
 1534,Antony and Cleopatra,ANTONY AND CLEOPATRA,Tragedy,1607,William Shakespeare,contents,dialogue,ACT II,SCENE I,POMPEY,581,crescent
 1534,Antony and Cleopatra,ANTONY AND CLEOPATRA,Tragedy,1607,William Shakespeare,contents,dialogue,ACT II,SCENE I,POMPEY,581,auguring
@@ -1599,7 +1579,6 @@ gutenberg_id,short_title,gutenberg_title,genre,year,author,section,class,act,sce
 1534,Antony and Cleopatra,ANTONY AND CLEOPATRA,Tragedy,1607,William Shakespeare,contents,dialogue,ACT II,SCENE I,POMPEY,599,feeding
 1534,Antony and Cleopatra,ANTONY AND CLEOPATRA,Tragedy,1607,William Shakespeare,contents,dialogue,ACT II,SCENE I,POMPEY,599,prorogue
 1534,Antony and Cleopatra,ANTONY AND CLEOPATRA,Tragedy,1607,William Shakespeare,contents,dialogue,ACT II,SCENE I,POMPEY,599,honour
-1534,Antony and Cleopatra,ANTONY AND CLEOPATRA,Tragedy,1607,William Shakespeare,contents,dialogue,ACT II,SCENE I,POMPEY,600,till
 1534,Antony and Cleopatra,ANTONY AND CLEOPATRA,Tragedy,1607,William Shakespeare,contents,dialogue,ACT II,SCENE I,POMPEY,600,lethe'd
 1534,Antony and Cleopatra,ANTONY AND CLEOPATRA,Tragedy,1607,William Shakespeare,contents,dialogue,ACT II,SCENE I,POMPEY,600,dullness
 1534,Antony and Cleopatra,ANTONY AND CLEOPATRA,Tragedy,1607,William Shakespeare,contents,directions,ACT II,SCENE I,NA,NA,varrius
@@ -1762,7 +1741,6 @@ gutenberg_id,short_title,gutenberg_title,genre,year,author,section,class,act,sce
 1534,Antony and Cleopatra,ANTONY AND CLEOPATRA,Tragedy,1607,William Shakespeare,contents,dialogue,ACT II,SCENE II,CAESAR,666,sit
 1534,Antony and Cleopatra,ANTONY AND CLEOPATRA,Tragedy,1607,William Shakespeare,contents,dialogue,ACT II,SCENE II,ANTONY,667,sit
 1534,Antony and Cleopatra,ANTONY AND CLEOPATRA,Tragedy,1607,William Shakespeare,contents,dialogue,ACT II,SCENE II,ANTONY,667,sir
-1534,Antony and Cleopatra,ANTONY AND CLEOPATRA,Tragedy,1607,William Shakespeare,contents,dialogue,ACT II,SCENE II,CAESAR,668,nay
 1534,Antony and Cleopatra,ANTONY AND CLEOPATRA,Tragedy,1607,William Shakespeare,contents,dialogue,ACT II,SCENE II,ANTONY,669,learn
 1534,Antony and Cleopatra,ANTONY AND CLEOPATRA,Tragedy,1607,William Shakespeare,contents,dialogue,ACT II,SCENE II,ANTONY,669,ill
 1534,Antony and Cleopatra,ANTONY AND CLEOPATRA,Tragedy,1607,William Shakespeare,contents,dialogue,ACT II,SCENE II,ANTONY,670,concern
@@ -1787,7 +1765,6 @@ gutenberg_id,short_title,gutenberg_title,genre,year,author,section,class,act,sce
 1534,Antony and Cleopatra,ANTONY AND CLEOPATRA,Tragedy,1607,William Shakespeare,contents,dialogue,ACT II,SCENE II,ANTONY,683,practised
 1534,Antony and Cleopatra,ANTONY AND CLEOPATRA,Tragedy,1607,William Shakespeare,contents,dialogue,ACT II,SCENE II,CAESAR,684,pleased
 1534,Antony and Cleopatra,ANTONY AND CLEOPATRA,Tragedy,1607,William Shakespeare,contents,dialogue,ACT II,SCENE II,CAESAR,684,catch
-1534,Antony and Cleopatra,ANTONY AND CLEOPATRA,Tragedy,1607,William Shakespeare,contents,dialogue,ACT II,SCENE II,CAESAR,684,mine
 1534,Antony and Cleopatra,ANTONY AND CLEOPATRA,Tragedy,1607,William Shakespeare,contents,dialogue,ACT II,SCENE II,CAESAR,684,intent
 1534,Antony and Cleopatra,ANTONY AND CLEOPATRA,Tragedy,1607,William Shakespeare,contents,dialogue,ACT II,SCENE II,CAESAR,685,befall
 1534,Antony and Cleopatra,ANTONY AND CLEOPATRA,Tragedy,1607,William Shakespeare,contents,dialogue,ACT II,SCENE II,CAESAR,685,wife
@@ -1835,7 +1812,6 @@ gutenberg_id,short_title,gutenberg_title,genre,year,author,section,class,act,sce
 1534,Antony and Cleopatra,ANTONY AND CLEOPATRA,Tragedy,1607,William Shakespeare,contents,dialogue,ACT II,SCENE II,ANTONY,705,attend
 1534,Antony and Cleopatra,ANTONY AND CLEOPATRA,Tragedy,1607,William Shakespeare,contents,dialogue,ACT II,SCENE II,ANTONY,705,wars
 1534,Antony and Cleopatra,ANTONY AND CLEOPATRA,Tragedy,1607,William Shakespeare,contents,dialogue,ACT II,SCENE II,ANTONY,706,fronted
-1534,Antony and Cleopatra,ANTONY AND CLEOPATRA,Tragedy,1607,William Shakespeare,contents,dialogue,ACT II,SCENE II,ANTONY,706,mine
 1534,Antony and Cleopatra,ANTONY AND CLEOPATRA,Tragedy,1607,William Shakespeare,contents,dialogue,ACT II,SCENE II,ANTONY,706,peace
 1534,Antony and Cleopatra,ANTONY AND CLEOPATRA,Tragedy,1607,William Shakespeare,contents,dialogue,ACT II,SCENE II,ANTONY,706,wife
 1534,Antony and Cleopatra,ANTONY AND CLEOPATRA,Tragedy,1607,William Shakespeare,contents,dialogue,ACT II,SCENE II,ANTONY,707,spirit
@@ -1867,7 +1843,6 @@ gutenberg_id,short_title,gutenberg_title,genre,year,author,section,class,act,sce
 1534,Antony and Cleopatra,ANTONY AND CLEOPATRA,Tragedy,1607,William Shakespeare,contents,dialogue,ACT II,SCENE II,CAESAR,720,audience
 1534,Antony and Cleopatra,ANTONY AND CLEOPATRA,Tragedy,1607,William Shakespeare,contents,dialogue,ACT II,SCENE II,ANTONY,721,sir
 1534,Antony and Cleopatra,ANTONY AND CLEOPATRA,Tragedy,1607,William Shakespeare,contents,dialogue,ACT II,SCENE II,ANTONY,722,fell
-1534,Antony and Cleopatra,ANTONY AND CLEOPATRA,Tragedy,1607,William Shakespeare,contents,dialogue,ACT II,SCENE II,ANTONY,722,ere
 1534,Antony and Cleopatra,ANTONY AND CLEOPATRA,Tragedy,1607,William Shakespeare,contents,dialogue,ACT II,SCENE II,ANTONY,722,admitted
 1534,Antony and Cleopatra,ANTONY AND CLEOPATRA,Tragedy,1607,William Shakespeare,contents,dialogue,ACT II,SCENE II,ANTONY,723,kings
 1534,Antony and Cleopatra,ANTONY AND CLEOPATRA,Tragedy,1607,William Shakespeare,contents,dialogue,ACT II,SCENE II,ANTONY,723,newly
@@ -1907,11 +1882,9 @@ gutenberg_id,short_title,gutenberg_title,genre,year,author,section,class,act,sce
 1534,Antony and Cleopatra,ANTONY AND CLEOPATRA,Tragedy,1607,William Shakespeare,contents,dialogue,ACT II,SCENE II,ANTONY,740,poisoned
 1534,Antony and Cleopatra,ANTONY AND CLEOPATRA,Tragedy,1607,William Shakespeare,contents,dialogue,ACT II,SCENE II,ANTONY,740,hours
 1534,Antony and Cleopatra,ANTONY AND CLEOPATRA,Tragedy,1607,William Shakespeare,contents,dialogue,ACT II,SCENE II,ANTONY,740,bound
-1534,Antony and Cleopatra,ANTONY AND CLEOPATRA,Tragedy,1607,William Shakespeare,contents,dialogue,ACT II,SCENE II,ANTONY,741,mine
 1534,Antony and Cleopatra,ANTONY AND CLEOPATRA,Tragedy,1607,William Shakespeare,contents,dialogue,ACT II,SCENE II,ANTONY,741,knowledge
 1534,Antony and Cleopatra,ANTONY AND CLEOPATRA,Tragedy,1607,William Shakespeare,contents,dialogue,ACT II,SCENE II,ANTONY,742,play
 1534,Antony and Cleopatra,ANTONY AND CLEOPATRA,Tragedy,1607,William Shakespeare,contents,dialogue,ACT II,SCENE II,ANTONY,742,penitent
-1534,Antony and Cleopatra,ANTONY AND CLEOPATRA,Tragedy,1607,William Shakespeare,contents,dialogue,ACT II,SCENE II,ANTONY,742,mine
 1534,Antony and Cleopatra,ANTONY AND CLEOPATRA,Tragedy,1607,William Shakespeare,contents,dialogue,ACT II,SCENE II,ANTONY,742,honesty
 1534,Antony and Cleopatra,ANTONY AND CLEOPATRA,Tragedy,1607,William Shakespeare,contents,dialogue,ACT II,SCENE II,ANTONY,743,poor
 1534,Antony and Cleopatra,ANTONY AND CLEOPATRA,Tragedy,1607,William Shakespeare,contents,dialogue,ACT II,SCENE II,ANTONY,743,greatness
@@ -1924,7 +1897,6 @@ gutenberg_id,short_title,gutenberg_title,genre,year,author,section,class,act,sce
 1534,Antony and Cleopatra,ANTONY AND CLEOPATRA,Tragedy,1607,William Shakespeare,contents,dialogue,ACT II,SCENE II,ANTONY,746,motive
 1534,Antony and Cleopatra,ANTONY AND CLEOPATRA,Tragedy,1607,William Shakespeare,contents,dialogue,ACT II,SCENE II,ANTONY,747,pardon
 1534,Antony and Cleopatra,ANTONY AND CLEOPATRA,Tragedy,1607,William Shakespeare,contents,dialogue,ACT II,SCENE II,ANTONY,747,befits
-1534,Antony and Cleopatra,ANTONY AND CLEOPATRA,Tragedy,1607,William Shakespeare,contents,dialogue,ACT II,SCENE II,ANTONY,747,mine
 1534,Antony and Cleopatra,ANTONY AND CLEOPATRA,Tragedy,1607,William Shakespeare,contents,dialogue,ACT II,SCENE II,ANTONY,747,honour
 1534,Antony and Cleopatra,ANTONY AND CLEOPATRA,Tragedy,1607,William Shakespeare,contents,dialogue,ACT II,SCENE II,ANTONY,748,stoop
 1534,Antony and Cleopatra,ANTONY AND CLEOPATRA,Tragedy,1607,William Shakespeare,contents,dialogue,ACT II,SCENE II,LEPIDUS,749,noble
@@ -1980,7 +1952,6 @@ gutenberg_id,short_title,gutenberg_title,genre,year,author,section,class,act,sce
 1534,Antony and Cleopatra,ANTONY AND CLEOPATRA,Tragedy,1607,William Shakespeare,contents,dialogue,ACT II,SCENE II,AGRIPPA,768,caesar
 1534,Antony and Cleopatra,ANTONY AND CLEOPATRA,Tragedy,1607,William Shakespeare,contents,dialogue,ACT II,SCENE II,CAESAR,769,speak
 1534,Antony and Cleopatra,ANTONY AND CLEOPATRA,Tragedy,1607,William Shakespeare,contents,dialogue,ACT II,SCENE II,CAESAR,769,agrippa
-1534,Antony and Cleopatra,ANTONY AND CLEOPATRA,Tragedy,1607,William Shakespeare,contents,dialogue,ACT II,SCENE II,AGRIPPA,770,hast
 1534,Antony and Cleopatra,ANTONY AND CLEOPATRA,Tragedy,1607,William Shakespeare,contents,dialogue,ACT II,SCENE II,AGRIPPA,770,sister
 1534,Antony and Cleopatra,ANTONY AND CLEOPATRA,Tragedy,1607,William Shakespeare,contents,dialogue,ACT II,SCENE II,AGRIPPA,770,mother's
 1534,Antony and Cleopatra,ANTONY AND CLEOPATRA,Tragedy,1607,William Shakespeare,contents,dialogue,ACT II,SCENE II,AGRIPPA,771,admired
@@ -2038,7 +2009,6 @@ gutenberg_id,short_title,gutenberg_title,genre,year,author,section,class,act,sce
 1534,Antony and Cleopatra,ANTONY AND CLEOPATRA,Tragedy,1607,William Shakespeare,contents,dialogue,ACT II,SCENE II,AGRIPPA,792,ruminated
 1534,Antony and Cleopatra,ANTONY AND CLEOPATRA,Tragedy,1607,William Shakespeare,contents,dialogue,ACT II,SCENE II,ANTONY,793,caesar
 1534,Antony and Cleopatra,ANTONY AND CLEOPATRA,Tragedy,1607,William Shakespeare,contents,dialogue,ACT II,SCENE II,ANTONY,793,speak
-1534,Antony and Cleopatra,ANTONY AND CLEOPATRA,Tragedy,1607,William Shakespeare,contents,dialogue,ACT II,SCENE II,CAESAR,794,till
 1534,Antony and Cleopatra,ANTONY AND CLEOPATRA,Tragedy,1607,William Shakespeare,contents,dialogue,ACT II,SCENE II,CAESAR,794,hears
 1534,Antony and Cleopatra,ANTONY AND CLEOPATRA,Tragedy,1607,William Shakespeare,contents,dialogue,ACT II,SCENE II,CAESAR,794,antony
 1534,Antony and Cleopatra,ANTONY AND CLEOPATRA,Tragedy,1607,William Shakespeare,contents,dialogue,ACT II,SCENE II,CAESAR,794,touched
@@ -2109,7 +2079,6 @@ gutenberg_id,short_title,gutenberg_title,genre,year,author,section,class,act,sce
 1534,Antony and Cleopatra,ANTONY AND CLEOPATRA,Tragedy,1607,William Shakespeare,contents,dialogue,ACT II,SCENE II,ANTONY,826,fame
 1534,Antony and Cleopatra,ANTONY AND CLEOPATRA,Tragedy,1607,William Shakespeare,contents,dialogue,ACT II,SCENE II,ANTONY,827,spoke
 1534,Antony and Cleopatra,ANTONY AND CLEOPATRA,Tragedy,1607,William Shakespeare,contents,dialogue,ACT II,SCENE II,ANTONY,827,haste
-1534,Antony and Cleopatra,ANTONY AND CLEOPATRA,Tragedy,1607,William Shakespeare,contents,dialogue,ACT II,SCENE II,ANTONY,828,ere
 1534,Antony and Cleopatra,ANTONY AND CLEOPATRA,Tragedy,1607,William Shakespeare,contents,dialogue,ACT II,SCENE II,ANTONY,828,arms
 1534,Antony and Cleopatra,ANTONY AND CLEOPATRA,Tragedy,1607,William Shakespeare,contents,dialogue,ACT II,SCENE II,ANTONY,828,dispatch
 1534,Antony and Cleopatra,ANTONY AND CLEOPATRA,Tragedy,1607,William Shakespeare,contents,dialogue,ACT II,SCENE II,ANTONY,829,business
@@ -2147,7 +2116,6 @@ gutenberg_id,short_title,gutenberg_title,genre,year,author,section,class,act,sce
 1534,Antony and Cleopatra,ANTONY AND CLEOPATRA,Tragedy,1607,William Shakespeare,contents,dialogue,ACT II,SCENE II,MAECENAS,839,digested
 1534,Antony and Cleopatra,ANTONY AND CLEOPATRA,Tragedy,1607,William Shakespeare,contents,dialogue,ACT II,SCENE II,MAECENAS,839,stayed
 1534,Antony and Cleopatra,ANTONY AND CLEOPATRA,Tragedy,1607,William Shakespeare,contents,dialogue,ACT II,SCENE II,MAECENAS,840,egypt
-1534,Antony and Cleopatra,ANTONY AND CLEOPATRA,Tragedy,1607,William Shakespeare,contents,dialogue,ACT II,SCENE II,ENOBARBUS,841,ay
 1534,Antony and Cleopatra,ANTONY AND CLEOPATRA,Tragedy,1607,William Shakespeare,contents,dialogue,ACT II,SCENE II,ENOBARBUS,841,sir
 1534,Antony and Cleopatra,ANTONY AND CLEOPATRA,Tragedy,1607,William Shakespeare,contents,dialogue,ACT II,SCENE II,ENOBARBUS,841,sleep
 1534,Antony and Cleopatra,ANTONY AND CLEOPATRA,Tragedy,1607,William Shakespeare,contents,dialogue,ACT II,SCENE II,ENOBARBUS,841,day
@@ -2407,7 +2375,6 @@ gutenberg_id,short_title,gutenberg_title,genre,year,author,section,class,act,sce
 1534,Antony and Cleopatra,ANTONY AND CLEOPATRA,Tragedy,1607,William Shakespeare,contents,dialogue,ACT II,SCENE III,ANTONY,930,fortunes
 1534,Antony and Cleopatra,ANTONY AND CLEOPATRA,Tragedy,1607,William Shakespeare,contents,dialogue,ACT II,SCENE III,ANTONY,930,rise
 1534,Antony and Cleopatra,ANTONY AND CLEOPATRA,Tragedy,1607,William Shakespeare,contents,dialogue,ACT II,SCENE III,ANTONY,930,caesar's
-1534,Antony and Cleopatra,ANTONY AND CLEOPATRA,Tragedy,1607,William Shakespeare,contents,dialogue,ACT II,SCENE III,ANTONY,930,mine
 1534,Antony and Cleopatra,ANTONY AND CLEOPATRA,Tragedy,1607,William Shakespeare,contents,dialogue,ACT II,SCENE III,SOOTHSAYER,931,caesar's
 1534,Antony and Cleopatra,ANTONY AND CLEOPATRA,Tragedy,1607,William Shakespeare,contents,dialogue,ACT II,SCENE III,SOOTHSAYER,932,antony
 1534,Antony and Cleopatra,ANTONY AND CLEOPATRA,Tragedy,1607,William Shakespeare,contents,dialogue,ACT II,SCENE III,SOOTHSAYER,932,stay
@@ -2456,11 +2423,9 @@ gutenberg_id,short_title,gutenberg_title,genre,year,author,section,class,act,sce
 1534,Antony and Cleopatra,ANTONY AND CLEOPATRA,Tragedy,1607,William Shakespeare,contents,dialogue,ACT II,SCENE III,ANTONY,952,cocks
 1534,Antony and Cleopatra,ANTONY AND CLEOPATRA,Tragedy,1607,William Shakespeare,contents,dialogue,ACT II,SCENE III,ANTONY,952,win
 1534,Antony and Cleopatra,ANTONY AND CLEOPATRA,Tragedy,1607,William Shakespeare,contents,dialogue,ACT II,SCENE III,ANTONY,952,battle
-1534,Antony and Cleopatra,ANTONY AND CLEOPATRA,Tragedy,1607,William Shakespeare,contents,dialogue,ACT II,SCENE III,ANTONY,952,mine
 1534,Antony and Cleopatra,ANTONY AND CLEOPATRA,Tragedy,1607,William Shakespeare,contents,dialogue,ACT II,SCENE III,ANTONY,953,naught
 1534,Antony and Cleopatra,ANTONY AND CLEOPATRA,Tragedy,1607,William Shakespeare,contents,dialogue,ACT II,SCENE III,ANTONY,953,quails
 1534,Antony and Cleopatra,ANTONY AND CLEOPATRA,Tragedy,1607,William Shakespeare,contents,dialogue,ACT II,SCENE III,ANTONY,954,beat
-1534,Antony and Cleopatra,ANTONY AND CLEOPATRA,Tragedy,1607,William Shakespeare,contents,dialogue,ACT II,SCENE III,ANTONY,954,mine
 1534,Antony and Cleopatra,ANTONY AND CLEOPATRA,Tragedy,1607,William Shakespeare,contents,dialogue,ACT II,SCENE III,ANTONY,954,inhooped
 1534,Antony and Cleopatra,ANTONY AND CLEOPATRA,Tragedy,1607,William Shakespeare,contents,dialogue,ACT II,SCENE III,ANTONY,954,odds
 1534,Antony and Cleopatra,ANTONY AND CLEOPATRA,Tragedy,1607,William Shakespeare,contents,dialogue,ACT II,SCENE III,ANTONY,954,egypt
@@ -2490,7 +2455,6 @@ gutenberg_id,short_title,gutenberg_title,genre,year,author,section,class,act,sce
 1534,Antony and Cleopatra,ANTONY AND CLEOPATRA,Tragedy,1607,William Shakespeare,contents,dialogue,ACT II,SCENE IV,AGRIPPA,963,kiss
 1534,Antony and Cleopatra,ANTONY AND CLEOPATRA,Tragedy,1607,William Shakespeare,contents,dialogue,ACT II,SCENE IV,AGRIPPA,963,octavia
 1534,Antony and Cleopatra,ANTONY AND CLEOPATRA,Tragedy,1607,William Shakespeare,contents,dialogue,ACT II,SCENE IV,AGRIPPA,963,follow
-1534,Antony and Cleopatra,ANTONY AND CLEOPATRA,Tragedy,1607,William Shakespeare,contents,dialogue,ACT II,SCENE IV,LEPIDUS,964,till
 1534,Antony and Cleopatra,ANTONY AND CLEOPATRA,Tragedy,1607,William Shakespeare,contents,dialogue,ACT II,SCENE IV,LEPIDUS,964,soldier's
 1534,Antony and Cleopatra,ANTONY AND CLEOPATRA,Tragedy,1607,William Shakespeare,contents,dialogue,ACT II,SCENE IV,LEPIDUS,964,dress
 1534,Antony and Cleopatra,ANTONY AND CLEOPATRA,Tragedy,1607,William Shakespeare,contents,dialogue,ACT II,SCENE IV,LEPIDUS,965,farewell
@@ -2538,7 +2502,6 @@ gutenberg_id,short_title,gutenberg_title,genre,year,author,section,class,act,sce
 1534,Antony and Cleopatra,ANTONY AND CLEOPATRA,Tragedy,1607,William Shakespeare,contents,dialogue,ACT II,SCENE V,CLEOPATRA,983,actor
 1534,Antony and Cleopatra,ANTONY AND CLEOPATRA,Tragedy,1607,William Shakespeare,contents,dialogue,ACT II,SCENE V,CLEOPATRA,983,plead
 1534,Antony and Cleopatra,ANTONY AND CLEOPATRA,Tragedy,1607,William Shakespeare,contents,dialogue,ACT II,SCENE V,CLEOPATRA,983,pardon
-1534,Antony and Cleopatra,ANTONY AND CLEOPATRA,Tragedy,1607,William Shakespeare,contents,dialogue,ACT II,SCENE V,CLEOPATRA,984,mine
 1534,Antony and Cleopatra,ANTONY AND CLEOPATRA,Tragedy,1607,William Shakespeare,contents,dialogue,ACT II,SCENE V,CLEOPATRA,984,angle
 1534,Antony and Cleopatra,ANTONY AND CLEOPATRA,Tragedy,1607,William Shakespeare,contents,dialogue,ACT II,SCENE V,CLEOPATRA,984,river
 1534,Antony and Cleopatra,ANTONY AND CLEOPATRA,Tragedy,1607,William Shakespeare,contents,dialogue,ACT II,SCENE V,CLEOPATRA,985,music
@@ -2575,7 +2538,6 @@ gutenberg_id,short_title,gutenberg_title,genre,year,author,section,class,act,sce
 1534,Antony and Cleopatra,ANTONY AND CLEOPATRA,Tragedy,1607,William Shakespeare,contents,dialogue,ACT II,SCENE V,CLEOPATRA,996,laughed
 1534,Antony and Cleopatra,ANTONY AND CLEOPATRA,Tragedy,1607,William Shakespeare,contents,dialogue,ACT II,SCENE V,CLEOPATRA,996,patience
 1534,Antony and Cleopatra,ANTONY AND CLEOPATRA,Tragedy,1607,William Shakespeare,contents,dialogue,ACT II,SCENE V,CLEOPATRA,996,morn
-1534,Antony and Cleopatra,ANTONY AND CLEOPATRA,Tragedy,1607,William Shakespeare,contents,dialogue,ACT II,SCENE V,CLEOPATRA,997,ere
 1534,Antony and Cleopatra,ANTONY AND CLEOPATRA,Tragedy,1607,William Shakespeare,contents,dialogue,ACT II,SCENE V,CLEOPATRA,997,ninth
 1534,Antony and Cleopatra,ANTONY AND CLEOPATRA,Tragedy,1607,William Shakespeare,contents,dialogue,ACT II,SCENE V,CLEOPATRA,997,hour
 1534,Antony and Cleopatra,ANTONY AND CLEOPATRA,Tragedy,1607,William Shakespeare,contents,dialogue,ACT II,SCENE V,CLEOPATRA,997,drunk
@@ -2591,7 +2553,6 @@ gutenberg_id,short_title,gutenberg_title,genre,year,author,section,class,act,sce
 1534,Antony and Cleopatra,ANTONY AND CLEOPATRA,Tragedy,1607,William Shakespeare,contents,dialogue,ACT II,SCENE V,CLEOPATRA,1001,ram
 1534,Antony and Cleopatra,ANTONY AND CLEOPATRA,Tragedy,1607,William Shakespeare,contents,dialogue,ACT II,SCENE V,CLEOPATRA,1001,fruitful
 1534,Antony and Cleopatra,ANTONY AND CLEOPATRA,Tragedy,1607,William Shakespeare,contents,dialogue,ACT II,SCENE V,CLEOPATRA,1001,tidings
-1534,Antony and Cleopatra,ANTONY AND CLEOPATRA,Tragedy,1607,William Shakespeare,contents,dialogue,ACT II,SCENE V,CLEOPATRA,1001,mine
 1534,Antony and Cleopatra,ANTONY AND CLEOPATRA,Tragedy,1607,William Shakespeare,contents,dialogue,ACT II,SCENE V,CLEOPATRA,1001,ears
 1534,Antony and Cleopatra,ANTONY AND CLEOPATRA,Tragedy,1607,William Shakespeare,contents,dialogue,ACT II,SCENE V,CLEOPATRA,1002,time
 1534,Antony and Cleopatra,ANTONY AND CLEOPATRA,Tragedy,1607,William Shakespeare,contents,dialogue,ACT II,SCENE V,CLEOPATRA,1002,barren
@@ -2644,7 +2605,6 @@ gutenberg_id,short_title,gutenberg_title,genre,year,author,section,class,act,sce
 1534,Antony and Cleopatra,ANTONY AND CLEOPATRA,Tragedy,1607,William Shakespeare,contents,dialogue,ACT II,SCENE V,MESSENGER,1022,hear
 1534,Antony and Cleopatra,ANTONY AND CLEOPATRA,Tragedy,1607,William Shakespeare,contents,dialogue,ACT II,SCENE V,CLEOPATRA,1023,mind
 1534,Antony and Cleopatra,ANTONY AND CLEOPATRA,Tragedy,1607,William Shakespeare,contents,dialogue,ACT II,SCENE V,CLEOPATRA,1023,strike
-1534,Antony and Cleopatra,ANTONY AND CLEOPATRA,Tragedy,1607,William Shakespeare,contents,dialogue,ACT II,SCENE V,CLEOPATRA,1023,ere
 1534,Antony and Cleopatra,ANTONY AND CLEOPATRA,Tragedy,1607,William Shakespeare,contents,dialogue,ACT II,SCENE V,CLEOPATRA,1023,speak'st
 1534,Antony and Cleopatra,ANTONY AND CLEOPATRA,Tragedy,1607,William Shakespeare,contents,dialogue,ACT II,SCENE V,CLEOPATRA,1024,antony
 1534,Antony and Cleopatra,ANTONY AND CLEOPATRA,Tragedy,1607,William Shakespeare,contents,dialogue,ACT II,SCENE V,CLEOPATRA,1024,lives
@@ -2677,7 +2637,6 @@ gutenberg_id,short_title,gutenberg_title,genre,year,author,section,class,act,sce
 1534,Antony and Cleopatra,ANTONY AND CLEOPATRA,Tragedy,1607,William Shakespeare,contents,dialogue,ACT II,SCENE V,CLEOPATRA,1039,pour
 1534,Antony and Cleopatra,ANTONY AND CLEOPATRA,Tragedy,1607,William Shakespeare,contents,dialogue,ACT II,SCENE V,CLEOPATRA,1039,pack
 1534,Antony and Cleopatra,ANTONY AND CLEOPATRA,Tragedy,1607,William Shakespeare,contents,dialogue,ACT II,SCENE V,CLEOPATRA,1039,matter
-1534,Antony and Cleopatra,ANTONY AND CLEOPATRA,Tragedy,1607,William Shakespeare,contents,dialogue,ACT II,SCENE V,CLEOPATRA,1039,mine
 1534,Antony and Cleopatra,ANTONY AND CLEOPATRA,Tragedy,1607,William Shakespeare,contents,dialogue,ACT II,SCENE V,CLEOPATRA,1039,ear
 1534,Antony and Cleopatra,ANTONY AND CLEOPATRA,Tragedy,1607,William Shakespeare,contents,dialogue,ACT II,SCENE V,CLEOPATRA,1040,bad
 1534,Antony and Cleopatra,ANTONY AND CLEOPATRA,Tragedy,1607,William Shakespeare,contents,dialogue,ACT II,SCENE V,CLEOPATRA,1040,friends
@@ -2738,11 +2697,9 @@ gutenberg_id,short_title,gutenberg_title,genre,year,author,section,class,act,sce
 1534,Antony and Cleopatra,ANTONY AND CLEOPATRA,Tragedy,1607,William Shakespeare,contents,dialogue,ACT II,SCENE V,MESSENGER,1062,married
 1534,Antony and Cleopatra,ANTONY AND CLEOPATRA,Tragedy,1607,William Shakespeare,contents,dialogue,ACT II,SCENE V,MESSENGER,1062,madam
 1534,Antony and Cleopatra,ANTONY AND CLEOPATRA,Tragedy,1607,William Shakespeare,contents,dialogue,ACT II,SCENE V,CLEOPATRA,1063,rogue
-1534,Antony and Cleopatra,ANTONY AND CLEOPATRA,Tragedy,1607,William Shakespeare,contents,dialogue,ACT II,SCENE V,CLEOPATRA,1063,hast
 1534,Antony and Cleopatra,ANTONY AND CLEOPATRA,Tragedy,1607,William Shakespeare,contents,dialogue,ACT II,SCENE V,CLEOPATRA,1063,lived
 1534,Antony and Cleopatra,ANTONY AND CLEOPATRA,Tragedy,1607,William Shakespeare,contents,directions,ACT II,SCENE V,NA,NA,draws
 1534,Antony and Cleopatra,ANTONY AND CLEOPATRA,Tragedy,1607,William Shakespeare,contents,directions,ACT II,SCENE V,NA,NA,knife
-1534,Antony and Cleopatra,ANTONY AND CLEOPATRA,Tragedy,1607,William Shakespeare,contents,dialogue,ACT II,SCENE V,MESSENGER,1064,nay
 1534,Antony and Cleopatra,ANTONY AND CLEOPATRA,Tragedy,1607,William Shakespeare,contents,dialogue,ACT II,SCENE V,MESSENGER,1064,run
 1534,Antony and Cleopatra,ANTONY AND CLEOPATRA,Tragedy,1607,William Shakespeare,contents,dialogue,ACT II,SCENE V,MESSENGER,1065,madam
 1534,Antony and Cleopatra,ANTONY AND CLEOPATRA,Tragedy,1607,William Shakespeare,contents,dialogue,ACT II,SCENE V,MESSENGER,1065,fault
@@ -2820,7 +2777,6 @@ gutenberg_id,short_title,gutenberg_title,genre,year,author,section,class,act,sce
 1534,Antony and Cleopatra,ANTONY AND CLEOPATRA,Tragedy,1607,William Shakespeare,contents,dialogue,ACT II,SCENE V,CLEOPATRA,1099,knave
 1534,Antony and Cleopatra,ANTONY AND CLEOPATRA,Tragedy,1607,William Shakespeare,contents,dialogue,ACT II,SCENE V,CLEOPATRA,1100,thou'rt
 1534,Antony and Cleopatra,ANTONY AND CLEOPATRA,Tragedy,1607,William Shakespeare,contents,dialogue,ACT II,SCENE V,CLEOPATRA,1101,merchandise
-1534,Antony and Cleopatra,ANTONY AND CLEOPATRA,Tragedy,1607,William Shakespeare,contents,dialogue,ACT II,SCENE V,CLEOPATRA,1101,hast
 1534,Antony and Cleopatra,ANTONY AND CLEOPATRA,Tragedy,1607,William Shakespeare,contents,dialogue,ACT II,SCENE V,CLEOPATRA,1101,brought
 1534,Antony and Cleopatra,ANTONY AND CLEOPATRA,Tragedy,1607,William Shakespeare,contents,dialogue,ACT II,SCENE V,CLEOPATRA,1101,rome
 1534,Antony and Cleopatra,ANTONY AND CLEOPATRA,Tragedy,1607,William Shakespeare,contents,dialogue,ACT II,SCENE V,CLEOPATRA,1102,dear
@@ -2888,14 +2844,12 @@ gutenberg_id,short_title,gutenberg_title,genre,year,author,section,class,act,sce
 1534,Antony and Cleopatra,ANTONY AND CLEOPATRA,Tragedy,1607,William Shakespeare,contents,directions,ACT II,SCENE VI,NA,NA,soldiers
 1534,Antony and Cleopatra,ANTONY AND CLEOPATRA,Tragedy,1607,William Shakespeare,contents,directions,ACT II,SCENE VI,NA,NA,marching
 1534,Antony and Cleopatra,ANTONY AND CLEOPATRA,Tragedy,1607,William Shakespeare,contents,dialogue,ACT II,SCENE VI,POMPEY,1119,hostages
-1534,Antony and Cleopatra,ANTONY AND CLEOPATRA,Tragedy,1607,William Shakespeare,contents,dialogue,ACT II,SCENE VI,POMPEY,1119,mine
 1534,Antony and Cleopatra,ANTONY AND CLEOPATRA,Tragedy,1607,William Shakespeare,contents,dialogue,ACT II,SCENE VI,POMPEY,1120,talk
 1534,Antony and Cleopatra,ANTONY AND CLEOPATRA,Tragedy,1607,William Shakespeare,contents,dialogue,ACT II,SCENE VI,POMPEY,1120,fight
 1534,Antony and Cleopatra,ANTONY AND CLEOPATRA,Tragedy,1607,William Shakespeare,contents,dialogue,ACT II,SCENE VI,CAESAR,1121,meet
 1534,Antony and Cleopatra,ANTONY AND CLEOPATRA,Tragedy,1607,William Shakespeare,contents,dialogue,ACT II,SCENE VI,CAESAR,1122,words
 1534,Antony and Cleopatra,ANTONY AND CLEOPATRA,Tragedy,1607,William Shakespeare,contents,dialogue,ACT II,SCENE VI,CAESAR,1123,written
 1534,Antony and Cleopatra,ANTONY AND CLEOPATRA,Tragedy,1607,William Shakespeare,contents,dialogue,ACT II,SCENE VI,CAESAR,1123,purposes
-1534,Antony and Cleopatra,ANTONY AND CLEOPATRA,Tragedy,1607,William Shakespeare,contents,dialogue,ACT II,SCENE VI,CAESAR,1124,hast
 1534,Antony and Cleopatra,ANTONY AND CLEOPATRA,Tragedy,1607,William Shakespeare,contents,dialogue,ACT II,SCENE VI,CAESAR,1124,considered
 1534,Antony and Cleopatra,ANTONY AND CLEOPATRA,Tragedy,1607,William Shakespeare,contents,dialogue,ACT II,SCENE VI,CAESAR,1125,twill
 1534,Antony and Cleopatra,ANTONY AND CLEOPATRA,Tragedy,1607,William Shakespeare,contents,dialogue,ACT II,SCENE VI,CAESAR,1125,tie
@@ -3043,7 +2997,6 @@ gutenberg_id,short_title,gutenberg_title,genre,year,author,section,class,act,sce
 1534,Antony and Cleopatra,ANTONY AND CLEOPATRA,Tragedy,1607,William Shakespeare,contents,dialogue,ACT II,SCENE VI,POMPEY,1191,written
 1534,Antony and Cleopatra,ANTONY AND CLEOPATRA,Tragedy,1607,William Shakespeare,contents,dialogue,ACT II,SCENE VI,POMPEY,1192,sealed
 1534,Antony and Cleopatra,ANTONY AND CLEOPATRA,Tragedy,1607,William Shakespeare,contents,dialogue,ACT II,SCENE VI,POMPEY,1194,feast
-1534,Antony and Cleopatra,ANTONY AND CLEOPATRA,Tragedy,1607,William Shakespeare,contents,dialogue,ACT II,SCENE VI,POMPEY,1194,ere
 1534,Antony and Cleopatra,ANTONY AND CLEOPATRA,Tragedy,1607,William Shakespeare,contents,dialogue,ACT II,SCENE VI,POMPEY,1195,draw
 1534,Antony and Cleopatra,ANTONY AND CLEOPATRA,Tragedy,1607,William Shakespeare,contents,dialogue,ACT II,SCENE VI,POMPEY,1195,lots
 1534,Antony and Cleopatra,ANTONY AND CLEOPATRA,Tragedy,1607,William Shakespeare,contents,dialogue,ACT II,SCENE VI,POMPEY,1195,begin
@@ -3290,7 +3243,6 @@ gutenberg_id,short_title,gutenberg_title,genre,year,author,section,class,act,sce
 1534,Antony and Cleopatra,ANTONY AND CLEOPATRA,Tragedy,1607,William Shakespeare,contents,dialogue,ACT II,SCENE VII,ANTONY,1290,harvest
 1534,Antony and Cleopatra,ANTONY AND CLEOPATRA,Tragedy,1607,William Shakespeare,contents,dialogue,ACT II,SCENE VII,LEPIDUS,1291,strange
 1534,Antony and Cleopatra,ANTONY AND CLEOPATRA,Tragedy,1607,William Shakespeare,contents,dialogue,ACT II,SCENE VII,LEPIDUS,1291,serpents
-1534,Antony and Cleopatra,ANTONY AND CLEOPATRA,Tragedy,1607,William Shakespeare,contents,dialogue,ACT II,SCENE VII,ANTONY,1292,ay
 1534,Antony and Cleopatra,ANTONY AND CLEOPATRA,Tragedy,1607,William Shakespeare,contents,dialogue,ACT II,SCENE VII,ANTONY,1292,lepidus
 1534,Antony and Cleopatra,ANTONY AND CLEOPATRA,Tragedy,1607,William Shakespeare,contents,dialogue,ACT II,SCENE VII,LEPIDUS,1293,serpent
 1534,Antony and Cleopatra,ANTONY AND CLEOPATRA,Tragedy,1607,William Shakespeare,contents,dialogue,ACT II,SCENE VII,LEPIDUS,1293,egypt
@@ -3304,11 +3256,8 @@ gutenberg_id,short_title,gutenberg_title,genre,year,author,section,class,act,sce
 1534,Antony and Cleopatra,ANTONY AND CLEOPATRA,Tragedy,1607,William Shakespeare,contents,dialogue,ACT II,SCENE VII,POMPEY,1296,health
 1534,Antony and Cleopatra,ANTONY AND CLEOPATRA,Tragedy,1607,William Shakespeare,contents,dialogue,ACT II,SCENE VII,POMPEY,1296,lepidus
 1534,Antony and Cleopatra,ANTONY AND CLEOPATRA,Tragedy,1607,William Shakespeare,contents,dialogue,ACT II,SCENE VII,LEPIDUS,1297,ne'er
-1534,Antony and Cleopatra,ANTONY AND CLEOPATRA,Tragedy,1607,William Shakespeare,contents,dialogue,ACT II,SCENE VII,ENOBARBUS,1298,till
 1534,Antony and Cleopatra,ANTONY AND CLEOPATRA,Tragedy,1607,William Shakespeare,contents,dialogue,ACT II,SCENE VII,ENOBARBUS,1298,slept
 1534,Antony and Cleopatra,ANTONY AND CLEOPATRA,Tragedy,1607,William Shakespeare,contents,dialogue,ACT II,SCENE VII,ENOBARBUS,1298,fear
-1534,Antony and Cleopatra,ANTONY AND CLEOPATRA,Tragedy,1607,William Shakespeare,contents,dialogue,ACT II,SCENE VII,ENOBARBUS,1298,till
-1534,Antony and Cleopatra,ANTONY AND CLEOPATRA,Tragedy,1607,William Shakespeare,contents,dialogue,ACT II,SCENE VII,LEPIDUS,1299,nay
 1534,Antony and Cleopatra,ANTONY AND CLEOPATRA,Tragedy,1607,William Shakespeare,contents,dialogue,ACT II,SCENE VII,LEPIDUS,1299,heard
 1534,Antony and Cleopatra,ANTONY AND CLEOPATRA,Tragedy,1607,William Shakespeare,contents,dialogue,ACT II,SCENE VII,LEPIDUS,1299,ptolemies
 1534,Antony and Cleopatra,ANTONY AND CLEOPATRA,Tragedy,1607,William Shakespeare,contents,dialogue,ACT II,SCENE VII,LEPIDUS,1299,pyramises
@@ -3319,7 +3268,6 @@ gutenberg_id,short_title,gutenberg_title,genre,year,author,section,class,act,sce
 1534,Antony and Cleopatra,ANTONY AND CLEOPATRA,Tragedy,1607,William Shakespeare,contents,dialogue,ACT II,SCENE VII,MENAS,1301,pompey
 1534,Antony and Cleopatra,ANTONY AND CLEOPATRA,Tragedy,1607,William Shakespeare,contents,dialogue,ACT II,SCENE VII,MENAS,1301,word
 1534,Antony and Cleopatra,ANTONY AND CLEOPATRA,Tragedy,1607,William Shakespeare,contents,dialogue,ACT II,SCENE VII,POMPEY,1302,menas
-1534,Antony and Cleopatra,ANTONY AND CLEOPATRA,Tragedy,1607,William Shakespeare,contents,dialogue,ACT II,SCENE VII,POMPEY,1302,mine
 1534,Antony and Cleopatra,ANTONY AND CLEOPATRA,Tragedy,1607,William Shakespeare,contents,dialogue,ACT II,SCENE VII,POMPEY,1302,ear
 1534,Antony and Cleopatra,ANTONY AND CLEOPATRA,Tragedy,1607,William Shakespeare,contents,dialogue,ACT II,SCENE VII,MENAS,1303,whispers
 1534,Antony and Cleopatra,ANTONY AND CLEOPATRA,Tragedy,1607,William Shakespeare,contents,dialogue,ACT II,SCENE VII,MENAS,1303,ear
@@ -3332,7 +3280,6 @@ gutenberg_id,short_title,gutenberg_title,genre,year,author,section,class,act,sce
 1534,Antony and Cleopatra,ANTONY AND CLEOPATRA,Tragedy,1607,William Shakespeare,contents,dialogue,ACT II,SCENE VII,MENAS,1304,word
 1534,Antony and Cleopatra,ANTONY AND CLEOPATRA,Tragedy,1607,William Shakespeare,contents,dialogue,ACT II,SCENE VII,POMPEY,1305,menas
 1534,Antony and Cleopatra,ANTONY AND CLEOPATRA,Tragedy,1607,William Shakespeare,contents,dialogue,ACT II,SCENE VII,POMPEY,1305,forbear
-1534,Antony and Cleopatra,ANTONY AND CLEOPATRA,Tragedy,1607,William Shakespeare,contents,dialogue,ACT II,SCENE VII,POMPEY,1305,till
 1534,Antony and Cleopatra,ANTONY AND CLEOPATRA,Tragedy,1607,William Shakespeare,contents,dialogue,ACT II,SCENE VII,POMPEY,1305,anon
 1534,Antony and Cleopatra,ANTONY AND CLEOPATRA,Tragedy,1607,William Shakespeare,contents,dialogue,ACT II,SCENE VII,POMPEY,1306,wine
 1534,Antony and Cleopatra,ANTONY AND CLEOPATRA,Tragedy,1607,William Shakespeare,contents,dialogue,ACT II,SCENE VII,POMPEY,1306,lepidus
@@ -3381,7 +3328,6 @@ gutenberg_id,short_title,gutenberg_title,genre,year,author,section,class,act,sce
 1534,Antony and Cleopatra,ANTONY AND CLEOPATRA,Tragedy,1607,William Shakespeare,contents,dialogue,ACT II,SCENE VII,MENAS,1324,held
 1534,Antony and Cleopatra,ANTONY AND CLEOPATRA,Tragedy,1607,William Shakespeare,contents,dialogue,ACT II,SCENE VII,MENAS,1324,cap
 1534,Antony and Cleopatra,ANTONY AND CLEOPATRA,Tragedy,1607,William Shakespeare,contents,dialogue,ACT II,SCENE VII,MENAS,1324,fortunes
-1534,Antony and Cleopatra,ANTONY AND CLEOPATRA,Tragedy,1607,William Shakespeare,contents,dialogue,ACT II,SCENE VII,POMPEY,1325,hast
 1534,Antony and Cleopatra,ANTONY AND CLEOPATRA,Tragedy,1607,William Shakespeare,contents,dialogue,ACT II,SCENE VII,POMPEY,1325,served
 1534,Antony and Cleopatra,ANTONY AND CLEOPATRA,Tragedy,1607,William Shakespeare,contents,dialogue,ACT II,SCENE VII,POMPEY,1325,faith
 1534,Antony and Cleopatra,ANTONY AND CLEOPATRA,Tragedy,1607,William Shakespeare,contents,dialogue,ACT II,SCENE VII,POMPEY,1326,jolly
@@ -3397,7 +3343,6 @@ gutenberg_id,short_title,gutenberg_title,genre,year,author,section,class,act,sce
 1534,Antony and Cleopatra,ANTONY AND CLEOPATRA,Tragedy,1607,William Shakespeare,contents,dialogue,ACT II,SCENE VII,MENAS,1334,entertain
 1534,Antony and Cleopatra,ANTONY AND CLEOPATRA,Tragedy,1607,William Shakespeare,contents,dialogue,ACT II,SCENE VII,MENAS,1335,poor
 1534,Antony and Cleopatra,ANTONY AND CLEOPATRA,Tragedy,1607,William Shakespeare,contents,dialogue,ACT II,SCENE VII,MENAS,1336,world
-1534,Antony and Cleopatra,ANTONY AND CLEOPATRA,Tragedy,1607,William Shakespeare,contents,dialogue,ACT II,SCENE VII,POMPEY,1337,hast
 1534,Antony and Cleopatra,ANTONY AND CLEOPATRA,Tragedy,1607,William Shakespeare,contents,dialogue,ACT II,SCENE VII,POMPEY,1337,drunk
 1534,Antony and Cleopatra,ANTONY AND CLEOPATRA,Tragedy,1607,William Shakespeare,contents,dialogue,ACT II,SCENE VII,MENAS,1338,pompey
 1534,Antony and Cleopatra,ANTONY AND CLEOPATRA,Tragedy,1607,William Shakespeare,contents,dialogue,ACT II,SCENE VII,MENAS,1338,cup
@@ -3425,9 +3370,7 @@ gutenberg_id,short_title,gutenberg_title,genre,year,author,section,class,act,sce
 1534,Antony and Cleopatra,ANTONY AND CLEOPATRA,Tragedy,1607,William Shakespeare,contents,dialogue,ACT II,SCENE VII,POMPEY,1349,service
 1534,Antony and Cleopatra,ANTONY AND CLEOPATRA,Tragedy,1607,William Shakespeare,contents,dialogue,ACT II,SCENE VII,POMPEY,1350,profit
 1534,Antony and Cleopatra,ANTONY AND CLEOPATRA,Tragedy,1607,William Shakespeare,contents,dialogue,ACT II,SCENE VII,POMPEY,1350,lead
-1534,Antony and Cleopatra,ANTONY AND CLEOPATRA,Tragedy,1607,William Shakespeare,contents,dialogue,ACT II,SCENE VII,POMPEY,1350,mine
 1534,Antony and Cleopatra,ANTONY AND CLEOPATRA,Tragedy,1607,William Shakespeare,contents,dialogue,ACT II,SCENE VII,POMPEY,1350,honour
-1534,Antony and Cleopatra,ANTONY AND CLEOPATRA,Tragedy,1607,William Shakespeare,contents,dialogue,ACT II,SCENE VII,POMPEY,1351,mine
 1534,Antony and Cleopatra,ANTONY AND CLEOPATRA,Tragedy,1607,William Shakespeare,contents,dialogue,ACT II,SCENE VII,POMPEY,1351,honour
 1534,Antony and Cleopatra,ANTONY AND CLEOPATRA,Tragedy,1607,William Shakespeare,contents,dialogue,ACT II,SCENE VII,POMPEY,1351,repent
 1534,Antony and Cleopatra,ANTONY AND CLEOPATRA,Tragedy,1607,William Shakespeare,contents,dialogue,ACT II,SCENE VII,POMPEY,1351,e'er
@@ -3452,7 +3395,6 @@ gutenberg_id,short_title,gutenberg_title,genre,year,author,section,class,act,sce
 1534,Antony and Cleopatra,ANTONY AND CLEOPATRA,Tragedy,1607,William Shakespeare,contents,dialogue,ACT II,SCENE VII,ENOBARBUS,1361,menas
 1534,Antony and Cleopatra,ANTONY AND CLEOPATRA,Tragedy,1607,William Shakespeare,contents,dialogue,ACT II,SCENE VII,MENAS,1362,enobarbus
 1534,Antony and Cleopatra,ANTONY AND CLEOPATRA,Tragedy,1607,William Shakespeare,contents,dialogue,ACT II,SCENE VII,POMPEY,1363,fill
-1534,Antony and Cleopatra,ANTONY AND CLEOPATRA,Tragedy,1607,William Shakespeare,contents,dialogue,ACT II,SCENE VII,POMPEY,1363,till
 1534,Antony and Cleopatra,ANTONY AND CLEOPATRA,Tragedy,1607,William Shakespeare,contents,dialogue,ACT II,SCENE VII,POMPEY,1363,cup
 1534,Antony and Cleopatra,ANTONY AND CLEOPATRA,Tragedy,1607,William Shakespeare,contents,dialogue,ACT II,SCENE VII,POMPEY,1363,hid
 1534,Antony and Cleopatra,ANTONY AND CLEOPATRA,Tragedy,1607,William Shakespeare,contents,dialogue,ACT II,SCENE VII,ENOBARBUS,1364,strong
@@ -3502,7 +3444,6 @@ gutenberg_id,short_title,gutenberg_title,genre,year,author,section,class,act,sce
 1534,Antony and Cleopatra,ANTONY AND CLEOPATRA,Tragedy,1607,William Shakespeare,contents,dialogue,ACT II,SCENE VII,POMPEY,1384,ha't
 1534,Antony and Cleopatra,ANTONY AND CLEOPATRA,Tragedy,1607,William Shakespeare,contents,dialogue,ACT II,SCENE VII,POMPEY,1384,soldier
 1534,Antony and Cleopatra,ANTONY AND CLEOPATRA,Tragedy,1607,William Shakespeare,contents,dialogue,ACT II,SCENE VII,ANTONY,1385,hands
-1534,Antony and Cleopatra,ANTONY AND CLEOPATRA,Tragedy,1607,William Shakespeare,contents,dialogue,ACT II,SCENE VII,ANTONY,1386,till
 1534,Antony and Cleopatra,ANTONY AND CLEOPATRA,Tragedy,1607,William Shakespeare,contents,dialogue,ACT II,SCENE VII,ANTONY,1386,conquering
 1534,Antony and Cleopatra,ANTONY AND CLEOPATRA,Tragedy,1607,William Shakespeare,contents,dialogue,ACT II,SCENE VII,ANTONY,1386,wine
 1534,Antony and Cleopatra,ANTONY AND CLEOPATRA,Tragedy,1607,William Shakespeare,contents,dialogue,ACT II,SCENE VII,ANTONY,1386,steeped
@@ -3540,11 +3481,9 @@ gutenberg_id,short_title,gutenberg_title,genre,year,author,section,class,act,sce
 1534,Antony and Cleopatra,ANTONY AND CLEOPATRA,Tragedy,1607,William Shakespeare,contents,dialogue,ACT II,SCENE VII,THE SONG,1397,hairs
 1534,Antony and Cleopatra,ANTONY AND CLEOPATRA,Tragedy,1607,William Shakespeare,contents,dialogue,ACT II,SCENE VII,THE SONG,1397,crowned
 1534,Antony and Cleopatra,ANTONY AND CLEOPATRA,Tragedy,1607,William Shakespeare,contents,dialogue,ACT II,SCENE VII,THE SONG,1398,cup
-1534,Antony and Cleopatra,ANTONY AND CLEOPATRA,Tragedy,1607,William Shakespeare,contents,dialogue,ACT II,SCENE VII,THE SONG,1398,till
 1534,Antony and Cleopatra,ANTONY AND CLEOPATRA,Tragedy,1607,William Shakespeare,contents,dialogue,ACT II,SCENE VII,THE SONG,1398,world
 1534,Antony and Cleopatra,ANTONY AND CLEOPATRA,Tragedy,1607,William Shakespeare,contents,dialogue,ACT II,SCENE VII,THE SONG,1398,round
 1534,Antony and Cleopatra,ANTONY AND CLEOPATRA,Tragedy,1607,William Shakespeare,contents,dialogue,ACT II,SCENE VII,THE SONG,1399,cup
-1534,Antony and Cleopatra,ANTONY AND CLEOPATRA,Tragedy,1607,William Shakespeare,contents,dialogue,ACT II,SCENE VII,THE SONG,1399,till
 1534,Antony and Cleopatra,ANTONY AND CLEOPATRA,Tragedy,1607,William Shakespeare,contents,dialogue,ACT II,SCENE VII,THE SONG,1399,world
 1534,Antony and Cleopatra,ANTONY AND CLEOPATRA,Tragedy,1607,William Shakespeare,contents,dialogue,ACT II,SCENE VII,THE SONG,1399,round
 1534,Antony and Cleopatra,ANTONY AND CLEOPATRA,Tragedy,1607,William Shakespeare,contents,dialogue,ACT II,SCENE VII,CAESAR,1400,pompey
@@ -3563,7 +3502,6 @@ gutenberg_id,short_title,gutenberg_title,genre,year,author,section,class,act,sce
 1534,Antony and Cleopatra,ANTONY AND CLEOPATRA,Tragedy,1607,William Shakespeare,contents,dialogue,ACT II,SCENE VII,CAESAR,1403,enobarb
 1534,Antony and Cleopatra,ANTONY AND CLEOPATRA,Tragedy,1607,William Shakespeare,contents,dialogue,ACT II,SCENE VII,CAESAR,1404,weaker
 1534,Antony and Cleopatra,ANTONY AND CLEOPATRA,Tragedy,1607,William Shakespeare,contents,dialogue,ACT II,SCENE VII,CAESAR,1404,wine
-1534,Antony and Cleopatra,ANTONY AND CLEOPATRA,Tragedy,1607,William Shakespeare,contents,dialogue,ACT II,SCENE VII,CAESAR,1404,mine
 1534,Antony and Cleopatra,ANTONY AND CLEOPATRA,Tragedy,1607,William Shakespeare,contents,dialogue,ACT II,SCENE VII,CAESAR,1404,tongue
 1534,Antony and Cleopatra,ANTONY AND CLEOPATRA,Tragedy,1607,William Shakespeare,contents,dialogue,ACT II,SCENE VII,CAESAR,1405,splits
 1534,Antony and Cleopatra,ANTONY AND CLEOPATRA,Tragedy,1607,William Shakespeare,contents,dialogue,ACT II,SCENE VII,CAESAR,1405,speaks
@@ -3710,7 +3648,6 @@ gutenberg_id,short_title,gutenberg_title,genre,year,author,section,class,act,sce
 1534,Antony and Cleopatra,ANTONY AND CLEOPATRA,Tragedy,1607,William Shakespeare,contents,dialogue,ACT III,SCENE I,VENTIDIUS,1447,offence
 1534,Antony and Cleopatra,ANTONY AND CLEOPATRA,Tragedy,1607,William Shakespeare,contents,dialogue,ACT III,SCENE I,VENTIDIUS,1448,performance
 1534,Antony and Cleopatra,ANTONY AND CLEOPATRA,Tragedy,1607,William Shakespeare,contents,dialogue,ACT III,SCENE I,VENTIDIUS,1448,perish
-1534,Antony and Cleopatra,ANTONY AND CLEOPATRA,Tragedy,1607,William Shakespeare,contents,dialogue,ACT III,SCENE I,SILIUS,1449,hast
 1534,Antony and Cleopatra,ANTONY AND CLEOPATRA,Tragedy,1607,William Shakespeare,contents,dialogue,ACT III,SCENE I,SILIUS,1449,ventidius
 1534,Antony and Cleopatra,ANTONY AND CLEOPATRA,Tragedy,1607,William Shakespeare,contents,dialogue,ACT III,SCENE I,SILIUS,1450,soldier
 1534,Antony and Cleopatra,ANTONY AND CLEOPATRA,Tragedy,1607,William Shakespeare,contents,dialogue,ACT III,SCENE I,SILIUS,1450,sword
@@ -3764,7 +3701,6 @@ gutenberg_id,short_title,gutenberg_title,genre,year,author,section,class,act,sce
 1534,Antony and Cleopatra,ANTONY AND CLEOPATRA,Tragedy,1607,William Shakespeare,contents,dialogue,ACT III,SCENE II,ENOBARBUS,1468,fine
 1534,Antony and Cleopatra,ANTONY AND CLEOPATRA,Tragedy,1607,William Shakespeare,contents,dialogue,ACT III,SCENE II,ENOBARBUS,1468,loves
 1534,Antony and Cleopatra,ANTONY AND CLEOPATRA,Tragedy,1607,William Shakespeare,contents,dialogue,ACT III,SCENE II,ENOBARBUS,1468,caesar
-1534,Antony and Cleopatra,ANTONY AND CLEOPATRA,Tragedy,1607,William Shakespeare,contents,dialogue,ACT III,SCENE II,AGRIPPA,1469,nay
 1534,Antony and Cleopatra,ANTONY AND CLEOPATRA,Tragedy,1607,William Shakespeare,contents,dialogue,ACT III,SCENE II,AGRIPPA,1469,dearly
 1534,Antony and Cleopatra,ANTONY AND CLEOPATRA,Tragedy,1607,William Shakespeare,contents,dialogue,ACT III,SCENE II,AGRIPPA,1469,adores
 1534,Antony and Cleopatra,ANTONY AND CLEOPATRA,Tragedy,1607,William Shakespeare,contents,dialogue,ACT III,SCENE II,AGRIPPA,1469,mark
@@ -3916,7 +3852,6 @@ gutenberg_id,short_title,gutenberg_title,genre,year,author,section,class,act,sce
 1534,Antony and Cleopatra,ANTONY AND CLEOPATRA,Tragedy,1607,William Shakespeare,contents,dialogue,ACT III,SCENE II,ENOBARBUS,1527,willingly
 1534,Antony and Cleopatra,ANTONY AND CLEOPATRA,Tragedy,1607,William Shakespeare,contents,dialogue,ACT III,SCENE II,ENOBARBUS,1527,confound
 1534,Antony and Cleopatra,ANTONY AND CLEOPATRA,Tragedy,1607,William Shakespeare,contents,dialogue,ACT III,SCENE II,ENOBARBUS,1527,wailed
-1534,Antony and Cleopatra,ANTONY AND CLEOPATRA,Tragedy,1607,William Shakespeare,contents,dialogue,ACT III,SCENE II,ENOBARBUS,1528,till
 1534,Antony and Cleopatra,ANTONY AND CLEOPATRA,Tragedy,1607,William Shakespeare,contents,dialogue,ACT III,SCENE II,ENOBARBUS,1528,weep
 1534,Antony and Cleopatra,ANTONY AND CLEOPATRA,Tragedy,1607,William Shakespeare,contents,dialogue,ACT III,SCENE II,CAESAR,1529,sweet
 1534,Antony and Cleopatra,ANTONY AND CLEOPATRA,Tragedy,1607,William Shakespeare,contents,dialogue,ACT III,SCENE II,CAESAR,1529,octavia
@@ -3964,7 +3899,6 @@ gutenberg_id,short_title,gutenberg_title,genre,year,author,section,class,act,sce
 1534,Antony and Cleopatra,ANTONY AND CLEOPATRA,Tragedy,1607,William Shakespeare,contents,dialogue,ACT III,SCENE III,CLEOPATRA,1552,didst
 1534,Antony and Cleopatra,ANTONY AND CLEOPATRA,Tragedy,1607,William Shakespeare,contents,dialogue,ACT III,SCENE III,CLEOPATRA,1552,behold
 1534,Antony and Cleopatra,ANTONY AND CLEOPATRA,Tragedy,1607,William Shakespeare,contents,dialogue,ACT III,SCENE III,CLEOPATRA,1552,octavia
-1534,Antony and Cleopatra,ANTONY AND CLEOPATRA,Tragedy,1607,William Shakespeare,contents,dialogue,ACT III,SCENE III,MESSENGER,1553,ay
 1534,Antony and Cleopatra,ANTONY AND CLEOPATRA,Tragedy,1607,William Shakespeare,contents,dialogue,ACT III,SCENE III,MESSENGER,1553,dread
 1534,Antony and Cleopatra,ANTONY AND CLEOPATRA,Tragedy,1607,William Shakespeare,contents,dialogue,ACT III,SCENE III,MESSENGER,1553,queen
 1534,Antony and Cleopatra,ANTONY AND CLEOPATRA,Tragedy,1607,William Shakespeare,contents,dialogue,ACT III,SCENE III,MESSENGER,1555,madam
@@ -4064,8 +3998,6 @@ gutenberg_id,short_title,gutenberg_title,genre,year,author,section,class,act,sce
 1534,Antony and Cleopatra,ANTONY AND CLEOPATRA,Tragedy,1607,William Shakespeare,contents,dialogue,ACT III,SCENE III,CHARMIAN,1606,madam
 1534,Antony and Cleopatra,ANTONY AND CLEOPATRA,Tragedy,1607,William Shakespeare,contents,directions,ACT III,SCENE IV,NA,NA,antony
 1534,Antony and Cleopatra,ANTONY AND CLEOPATRA,Tragedy,1607,William Shakespeare,contents,directions,ACT III,SCENE IV,NA,NA,octavia
-1534,Antony and Cleopatra,ANTONY AND CLEOPATRA,Tragedy,1607,William Shakespeare,contents,dialogue,ACT III,SCENE IV,ANTONY,1607,nay
-1534,Antony and Cleopatra,ANTONY AND CLEOPATRA,Tragedy,1607,William Shakespeare,contents,dialogue,ACT III,SCENE IV,ANTONY,1607,nay
 1534,Antony and Cleopatra,ANTONY AND CLEOPATRA,Tragedy,1607,William Shakespeare,contents,dialogue,ACT III,SCENE IV,ANTONY,1607,octavia
 1534,Antony and Cleopatra,ANTONY AND CLEOPATRA,Tragedy,1607,William Shakespeare,contents,dialogue,ACT III,SCENE IV,ANTONY,1608,excusable
 1534,Antony and Cleopatra,ANTONY AND CLEOPATRA,Tragedy,1607,William Shakespeare,contents,dialogue,ACT III,SCENE IV,ANTONY,1608,thousands
@@ -4131,7 +4063,6 @@ gutenberg_id,short_title,gutenberg_title,genre,year,author,section,class,act,sce
 1534,Antony and Cleopatra,ANTONY AND CLEOPATRA,Tragedy,1607,William Shakespeare,contents,dialogue,ACT III,SCENE IV,ANTONY,1629,seeks
 1534,Antony and Cleopatra,ANTONY AND CLEOPATRA,Tragedy,1607,William Shakespeare,contents,dialogue,ACT III,SCENE IV,ANTONY,1630,preserve
 1534,Antony and Cleopatra,ANTONY AND CLEOPATRA,Tragedy,1607,William Shakespeare,contents,dialogue,ACT III,SCENE IV,ANTONY,1630,lose
-1534,Antony and Cleopatra,ANTONY AND CLEOPATRA,Tragedy,1607,William Shakespeare,contents,dialogue,ACT III,SCENE IV,ANTONY,1630,mine
 1534,Antony and Cleopatra,ANTONY AND CLEOPATRA,Tragedy,1607,William Shakespeare,contents,dialogue,ACT III,SCENE IV,ANTONY,1630,honour
 1534,Antony and Cleopatra,ANTONY AND CLEOPATRA,Tragedy,1607,William Shakespeare,contents,dialogue,ACT III,SCENE IV,ANTONY,1631,lose
 1534,Antony and Cleopatra,ANTONY AND CLEOPATRA,Tragedy,1607,William Shakespeare,contents,dialogue,ACT III,SCENE IV,ANTONY,1632,branchless
@@ -4207,17 +4138,14 @@ gutenberg_id,short_title,gutenberg_title,genre,year,author,section,class,act,sce
 1534,Antony and Cleopatra,ANTONY AND CLEOPATRA,Tragedy,1607,William Shakespeare,contents,dialogue,ACT III,SCENE V,EROS,1656,appeal
 1534,Antony and Cleopatra,ANTONY AND CLEOPATRA,Tragedy,1607,William Shakespeare,contents,dialogue,ACT III,SCENE V,EROS,1656,seizes
 1534,Antony and Cleopatra,ANTONY AND CLEOPATRA,Tragedy,1607,William Shakespeare,contents,dialogue,ACT III,SCENE V,EROS,1656,poor
-1534,Antony and Cleopatra,ANTONY AND CLEOPATRA,Tragedy,1607,William Shakespeare,contents,dialogue,ACT III,SCENE V,EROS,1657,till
 1534,Antony and Cleopatra,ANTONY AND CLEOPATRA,Tragedy,1607,William Shakespeare,contents,dialogue,ACT III,SCENE V,EROS,1657,death
 1534,Antony and Cleopatra,ANTONY AND CLEOPATRA,Tragedy,1607,William Shakespeare,contents,dialogue,ACT III,SCENE V,EROS,1657,enlarge
 1534,Antony and Cleopatra,ANTONY AND CLEOPATRA,Tragedy,1607,William Shakespeare,contents,dialogue,ACT III,SCENE V,EROS,1657,confine
 1534,Antony and Cleopatra,ANTONY AND CLEOPATRA,Tragedy,1607,William Shakespeare,contents,dialogue,ACT III,SCENE V,ENOBARBUS,1658,world
-1534,Antony and Cleopatra,ANTONY AND CLEOPATRA,Tragedy,1607,William Shakespeare,contents,dialogue,ACT III,SCENE V,ENOBARBUS,1658,hast
 1534,Antony and Cleopatra,ANTONY AND CLEOPATRA,Tragedy,1607,William Shakespeare,contents,dialogue,ACT III,SCENE V,ENOBARBUS,1658,pair
 1534,Antony and Cleopatra,ANTONY AND CLEOPATRA,Tragedy,1607,William Shakespeare,contents,dialogue,ACT III,SCENE V,ENOBARBUS,1658,chaps
 1534,Antony and Cleopatra,ANTONY AND CLEOPATRA,Tragedy,1607,William Shakespeare,contents,dialogue,ACT III,SCENE V,ENOBARBUS,1659,throw
 1534,Antony and Cleopatra,ANTONY AND CLEOPATRA,Tragedy,1607,William Shakespeare,contents,dialogue,ACT III,SCENE V,ENOBARBUS,1659,food
-1534,Antony and Cleopatra,ANTONY AND CLEOPATRA,Tragedy,1607,William Shakespeare,contents,dialogue,ACT III,SCENE V,ENOBARBUS,1659,hast
 1534,Antony and Cleopatra,ANTONY AND CLEOPATRA,Tragedy,1607,William Shakespeare,contents,dialogue,ACT III,SCENE V,ENOBARBUS,1660,grind
 1534,Antony and Cleopatra,ANTONY AND CLEOPATRA,Tragedy,1607,William Shakespeare,contents,dialogue,ACT III,SCENE V,ENOBARBUS,1660,antony
 1534,Antony and Cleopatra,ANTONY AND CLEOPATRA,Tragedy,1607,William Shakespeare,contents,dialogue,ACT III,SCENE V,EROS,1661,walking
@@ -4372,13 +4300,11 @@ gutenberg_id,short_title,gutenberg_title,genre,year,author,section,class,act,sce
 1534,Antony and Cleopatra,ANTONY AND CLEOPATRA,Tragedy,1607,William Shakespeare,contents,dialogue,ACT III,SCENE VI,CAESAR,1721,neighs
 1534,Antony and Cleopatra,ANTONY AND CLEOPATRA,Tragedy,1607,William Shakespeare,contents,dialogue,ACT III,SCENE VI,CAESAR,1721,horse
 1534,Antony and Cleopatra,ANTONY AND CLEOPATRA,Tragedy,1607,William Shakespeare,contents,dialogue,ACT III,SCENE VI,CAESAR,1721,approach
-1534,Antony and Cleopatra,ANTONY AND CLEOPATRA,Tragedy,1607,William Shakespeare,contents,dialogue,ACT III,SCENE VI,CAESAR,1722,ere
 1534,Antony and Cleopatra,ANTONY AND CLEOPATRA,Tragedy,1607,William Shakespeare,contents,dialogue,ACT III,SCENE VI,CAESAR,1722,trees
 1534,Antony and Cleopatra,ANTONY AND CLEOPATRA,Tragedy,1607,William Shakespeare,contents,dialogue,ACT III,SCENE VI,CAESAR,1723,borne
 1534,Antony and Cleopatra,ANTONY AND CLEOPATRA,Tragedy,1607,William Shakespeare,contents,dialogue,ACT III,SCENE VI,CAESAR,1723,expectation
 1534,Antony and Cleopatra,ANTONY AND CLEOPATRA,Tragedy,1607,William Shakespeare,contents,dialogue,ACT III,SCENE VI,CAESAR,1723,fainted
 1534,Antony and Cleopatra,ANTONY AND CLEOPATRA,Tragedy,1607,William Shakespeare,contents,dialogue,ACT III,SCENE VI,CAESAR,1724,longing
-1534,Antony and Cleopatra,ANTONY AND CLEOPATRA,Tragedy,1607,William Shakespeare,contents,dialogue,ACT III,SCENE VI,CAESAR,1724,nay
 1534,Antony and Cleopatra,ANTONY AND CLEOPATRA,Tragedy,1607,William Shakespeare,contents,dialogue,ACT III,SCENE VI,CAESAR,1724,dust
 1534,Antony and Cleopatra,ANTONY AND CLEOPATRA,Tragedy,1607,William Shakespeare,contents,dialogue,ACT III,SCENE VI,CAESAR,1725,ascended
 1534,Antony and Cleopatra,ANTONY AND CLEOPATRA,Tragedy,1607,William Shakespeare,contents,dialogue,ACT III,SCENE VI,CAESAR,1725,roof
@@ -4470,7 +4396,6 @@ gutenberg_id,short_title,gutenberg_title,genre,year,author,section,class,act,sce
 1534,Antony and Cleopatra,ANTONY AND CLEOPATRA,Tragedy,1607,William Shakespeare,contents,dialogue,ACT III,SCENE VI,CAESAR,1756,larger
 1534,Antony and Cleopatra,ANTONY AND CLEOPATRA,Tragedy,1607,William Shakespeare,contents,dialogue,ACT III,SCENE VI,CAESAR,1756,list
 1534,Antony and Cleopatra,ANTONY AND CLEOPATRA,Tragedy,1607,William Shakespeare,contents,dialogue,ACT III,SCENE VI,CAESAR,1756,sceptres
-1534,Antony and Cleopatra,ANTONY AND CLEOPATRA,Tragedy,1607,William Shakespeare,contents,dialogue,ACT III,SCENE VI,OCTAVIA,1757,ay
 1534,Antony and Cleopatra,ANTONY AND CLEOPATRA,Tragedy,1607,William Shakespeare,contents,dialogue,ACT III,SCENE VI,OCTAVIA,1757,wretched
 1534,Antony and Cleopatra,ANTONY AND CLEOPATRA,Tragedy,1607,William Shakespeare,contents,dialogue,ACT III,SCENE VI,OCTAVIA,1758,heart
 1534,Antony and Cleopatra,ANTONY AND CLEOPATRA,Tragedy,1607,William Shakespeare,contents,dialogue,ACT III,SCENE VI,OCTAVIA,1758,betwixt
@@ -4479,7 +4404,6 @@ gutenberg_id,short_title,gutenberg_title,genre,year,author,section,class,act,sce
 1534,Antony and Cleopatra,ANTONY AND CLEOPATRA,Tragedy,1607,William Shakespeare,contents,dialogue,ACT III,SCENE VI,CAESAR,1761,letters
 1534,Antony and Cleopatra,ANTONY AND CLEOPATRA,Tragedy,1607,William Shakespeare,contents,dialogue,ACT III,SCENE VI,CAESAR,1761,withhold
 1534,Antony and Cleopatra,ANTONY AND CLEOPATRA,Tragedy,1607,William Shakespeare,contents,dialogue,ACT III,SCENE VI,CAESAR,1761,breaking
-1534,Antony and Cleopatra,ANTONY AND CLEOPATRA,Tragedy,1607,William Shakespeare,contents,dialogue,ACT III,SCENE VI,CAESAR,1762,till
 1534,Antony and Cleopatra,ANTONY AND CLEOPATRA,Tragedy,1607,William Shakespeare,contents,dialogue,ACT III,SCENE VI,CAESAR,1762,perceived
 1534,Antony and Cleopatra,ANTONY AND CLEOPATRA,Tragedy,1607,William Shakespeare,contents,dialogue,ACT III,SCENE VI,CAESAR,1762,wrong
 1534,Antony and Cleopatra,ANTONY AND CLEOPATRA,Tragedy,1607,William Shakespeare,contents,dialogue,ACT III,SCENE VI,CAESAR,1762,led
@@ -4530,7 +4454,6 @@ gutenberg_id,short_title,gutenberg_title,genre,year,author,section,class,act,sce
 1534,Antony and Cleopatra,ANTONY AND CLEOPATRA,Tragedy,1607,William Shakespeare,contents,directions,ACT III,SCENE VII,NA,NA,cleopatra
 1534,Antony and Cleopatra,ANTONY AND CLEOPATRA,Tragedy,1607,William Shakespeare,contents,directions,ACT III,SCENE VII,NA,NA,enobarbus
 1534,Antony and Cleopatra,ANTONY AND CLEOPATRA,Tragedy,1607,William Shakespeare,contents,dialogue,ACT III,SCENE VII,CLEOPATRA,1783,doubt
-1534,Antony and Cleopatra,ANTONY AND CLEOPATRA,Tragedy,1607,William Shakespeare,contents,dialogue,ACT III,SCENE VII,CLEOPATRA,1785,hast
 1534,Antony and Cleopatra,ANTONY AND CLEOPATRA,Tragedy,1607,William Shakespeare,contents,dialogue,ACT III,SCENE VII,CLEOPATRA,1785,forspoke
 1534,Antony and Cleopatra,ANTONY AND CLEOPATRA,Tragedy,1607,William Shakespeare,contents,dialogue,ACT III,SCENE VII,CLEOPATRA,1785,wars
 1534,Antony and Cleopatra,ANTONY AND CLEOPATRA,Tragedy,1607,William Shakespeare,contents,dialogue,ACT III,SCENE VII,CLEOPATRA,1786,say'st
@@ -4577,7 +4500,6 @@ gutenberg_id,short_title,gutenberg_title,genre,year,author,section,class,act,sce
 1534,Antony and Cleopatra,ANTONY AND CLEOPATRA,Tragedy,1607,William Shakespeare,contents,dialogue,ACT III,SCENE VII,CLEOPATRA,1805,stay
 1534,Antony and Cleopatra,ANTONY AND CLEOPATRA,Tragedy,1607,William Shakespeare,contents,directions,ACT III,SCENE VII,NA,NA,antony
 1534,Antony and Cleopatra,ANTONY AND CLEOPATRA,Tragedy,1607,William Shakespeare,contents,directions,ACT III,SCENE VII,NA,NA,canidius
-1534,Antony and Cleopatra,ANTONY AND CLEOPATRA,Tragedy,1607,William Shakespeare,contents,dialogue,ACT III,SCENE VII,ENOBARBUS,1806,nay
 1534,Antony and Cleopatra,ANTONY AND CLEOPATRA,Tragedy,1607,William Shakespeare,contents,dialogue,ACT III,SCENE VII,ENOBARBUS,1807,emperor
 1534,Antony and Cleopatra,ANTONY AND CLEOPATRA,Tragedy,1607,William Shakespeare,contents,dialogue,ACT III,SCENE VII,ANTONY,1808,strange
 1534,Antony and Cleopatra,ANTONY AND CLEOPATRA,Tragedy,1607,William Shakespeare,contents,dialogue,ACT III,SCENE VII,ANTONY,1808,canidius
@@ -4607,7 +4529,6 @@ gutenberg_id,short_title,gutenberg_title,genre,year,author,section,class,act,sce
 1534,Antony and Cleopatra,ANTONY AND CLEOPATRA,Tragedy,1607,William Shakespeare,contents,dialogue,ACT III,SCENE VII,ENOBARBUS,1821,dared
 1534,Antony and Cleopatra,ANTONY AND CLEOPATRA,Tragedy,1607,William Shakespeare,contents,dialogue,ACT III,SCENE VII,ENOBARBUS,1821,single
 1534,Antony and Cleopatra,ANTONY AND CLEOPATRA,Tragedy,1607,William Shakespeare,contents,dialogue,ACT III,SCENE VII,ENOBARBUS,1821,fight
-1534,Antony and Cleopatra,ANTONY AND CLEOPATRA,Tragedy,1607,William Shakespeare,contents,dialogue,ACT III,SCENE VII,CANIDIUS,1822,ay
 1534,Antony and Cleopatra,ANTONY AND CLEOPATRA,Tragedy,1607,William Shakespeare,contents,dialogue,ACT III,SCENE VII,CANIDIUS,1822,wage
 1534,Antony and Cleopatra,ANTONY AND CLEOPATRA,Tragedy,1607,William Shakespeare,contents,dialogue,ACT III,SCENE VII,CANIDIUS,1822,battle
 1534,Antony and Cleopatra,ANTONY AND CLEOPATRA,Tragedy,1607,William Shakespeare,contents,dialogue,ACT III,SCENE VII,CANIDIUS,1822,pharsalia
@@ -4780,7 +4701,6 @@ gutenberg_id,short_title,gutenberg_title,genre,year,author,section,class,act,sce
 1534,Antony and Cleopatra,ANTONY AND CLEOPATRA,Tragedy,1607,William Shakespeare,contents,dialogue,ACT III,SCENE VIII,CAESAR,1885,land
 1534,Antony and Cleopatra,ANTONY AND CLEOPATRA,Tragedy,1607,William Shakespeare,contents,dialogue,ACT III,SCENE VIII,CAESAR,1885,provoke
 1534,Antony and Cleopatra,ANTONY AND CLEOPATRA,Tragedy,1607,William Shakespeare,contents,dialogue,ACT III,SCENE VIII,CAESAR,1885,battle
-1534,Antony and Cleopatra,ANTONY AND CLEOPATRA,Tragedy,1607,William Shakespeare,contents,dialogue,ACT III,SCENE VIII,CAESAR,1886,till
 1534,Antony and Cleopatra,ANTONY AND CLEOPATRA,Tragedy,1607,William Shakespeare,contents,dialogue,ACT III,SCENE VIII,CAESAR,1886,sea
 1534,Antony and Cleopatra,ANTONY AND CLEOPATRA,Tragedy,1607,William Shakespeare,contents,dialogue,ACT III,SCENE VIII,CAESAR,1886,exceed
 1534,Antony and Cleopatra,ANTONY AND CLEOPATRA,Tragedy,1607,William Shakespeare,contents,dialogue,ACT III,SCENE VIII,CAESAR,1887,prescript
@@ -4825,7 +4745,6 @@ gutenberg_id,short_title,gutenberg_title,genre,year,author,section,class,act,sce
 1534,Antony and Cleopatra,ANTONY AND CLEOPATRA,Tragedy,1607,William Shakespeare,contents,dialogue,ACT III,SCENE X,ENOBARBUS,1895,sixty
 1534,Antony and Cleopatra,ANTONY AND CLEOPATRA,Tragedy,1607,William Shakespeare,contents,dialogue,ACT III,SCENE X,ENOBARBUS,1895,fly
 1534,Antony and Cleopatra,ANTONY AND CLEOPATRA,Tragedy,1607,William Shakespeare,contents,dialogue,ACT III,SCENE X,ENOBARBUS,1895,rudder
-1534,Antony and Cleopatra,ANTONY AND CLEOPATRA,Tragedy,1607,William Shakespeare,contents,dialogue,ACT III,SCENE X,ENOBARBUS,1896,mine
 1534,Antony and Cleopatra,ANTONY AND CLEOPATRA,Tragedy,1607,William Shakespeare,contents,dialogue,ACT III,SCENE X,ENOBARBUS,1896,eyes
 1534,Antony and Cleopatra,ANTONY AND CLEOPATRA,Tragedy,1607,William Shakespeare,contents,dialogue,ACT III,SCENE X,ENOBARBUS,1896,blasted
 1534,Antony and Cleopatra,ANTONY AND CLEOPATRA,Tragedy,1607,William Shakespeare,contents,directions,ACT III,SCENE X,NA,NA,scarus
@@ -4865,7 +4784,6 @@ gutenberg_id,short_title,gutenberg_title,genre,year,author,section,class,act,sce
 1534,Antony and Cleopatra,ANTONY AND CLEOPATRA,Tragedy,1607,William Shakespeare,contents,dialogue,ACT III,SCENE X,SCARUS,1910,sails
 1534,Antony and Cleopatra,ANTONY AND CLEOPATRA,Tragedy,1607,William Shakespeare,contents,dialogue,ACT III,SCENE X,SCARUS,1910,flies
 1534,Antony and Cleopatra,ANTONY AND CLEOPATRA,Tragedy,1607,William Shakespeare,contents,dialogue,ACT III,SCENE X,ENOBARBUS,1911,beheld
-1534,Antony and Cleopatra,ANTONY AND CLEOPATRA,Tragedy,1607,William Shakespeare,contents,dialogue,ACT III,SCENE X,ENOBARBUS,1912,mine
 1534,Antony and Cleopatra,ANTONY AND CLEOPATRA,Tragedy,1607,William Shakespeare,contents,dialogue,ACT III,SCENE X,ENOBARBUS,1912,eyes
 1534,Antony and Cleopatra,ANTONY AND CLEOPATRA,Tragedy,1607,William Shakespeare,contents,dialogue,ACT III,SCENE X,ENOBARBUS,1912,sicken
 1534,Antony and Cleopatra,ANTONY AND CLEOPATRA,Tragedy,1607,William Shakespeare,contents,dialogue,ACT III,SCENE X,ENOBARBUS,1912,sight
@@ -4902,7 +4820,6 @@ gutenberg_id,short_title,gutenberg_title,genre,year,author,section,class,act,sce
 1534,Antony and Cleopatra,ANTONY AND CLEOPATRA,Tragedy,1607,William Shakespeare,contents,dialogue,ACT III,SCENE X,CANIDIUS,1923,lamentably
 1534,Antony and Cleopatra,ANTONY AND CLEOPATRA,Tragedy,1607,William Shakespeare,contents,dialogue,ACT III,SCENE X,CANIDIUS,1925,flight
 1534,Antony and Cleopatra,ANTONY AND CLEOPATRA,Tragedy,1607,William Shakespeare,contents,dialogue,ACT III,SCENE X,CANIDIUS,1926,grossly
-1534,Antony and Cleopatra,ANTONY AND CLEOPATRA,Tragedy,1607,William Shakespeare,contents,dialogue,ACT III,SCENE X,ENOBARBUS,1927,ay
 1534,Antony and Cleopatra,ANTONY AND CLEOPATRA,Tragedy,1607,William Shakespeare,contents,dialogue,ACT III,SCENE X,ENOBARBUS,1927,thereabouts
 1534,Antony and Cleopatra,ANTONY AND CLEOPATRA,Tragedy,1607,William Shakespeare,contents,dialogue,ACT III,SCENE X,ENOBARBUS,1928,night
 1534,Antony and Cleopatra,ANTONY AND CLEOPATRA,Tragedy,1607,William Shakespeare,contents,dialogue,ACT III,SCENE X,CANIDIUS,1929,peloponnesus
@@ -4983,7 +4900,6 @@ gutenberg_id,short_title,gutenberg_title,genre,year,author,section,class,act,sce
 1534,Antony and Cleopatra,ANTONY AND CLEOPATRA,Tragedy,1607,William Shakespeare,contents,dialogue,ACT III,SCENE XI,ANTONY,1960,leave
 1534,Antony and Cleopatra,ANTONY AND CLEOPATRA,Tragedy,1607,William Shakespeare,contents,dialogue,ACT III,SCENE XI,ANTONY,1960,pray
 1534,Antony and Cleopatra,ANTONY AND CLEOPATRA,Tragedy,1607,William Shakespeare,contents,dialogue,ACT III,SCENE XI,ANTONY,1960,pray
-1534,Antony and Cleopatra,ANTONY AND CLEOPATRA,Tragedy,1607,William Shakespeare,contents,dialogue,ACT III,SCENE XI,ANTONY,1961,nay
 1534,Antony and Cleopatra,ANTONY AND CLEOPATRA,Tragedy,1607,William Shakespeare,contents,dialogue,ACT III,SCENE XI,ANTONY,1961,lost
 1534,Antony and Cleopatra,ANTONY AND CLEOPATRA,Tragedy,1607,William Shakespeare,contents,dialogue,ACT III,SCENE XI,ANTONY,1961,command
 1534,Antony and Cleopatra,ANTONY AND CLEOPATRA,Tragedy,1607,William Shakespeare,contents,dialogue,ACT III,SCENE XI,ANTONY,1962,pray
@@ -4993,7 +4909,6 @@ gutenberg_id,short_title,gutenberg_title,genre,year,author,section,class,act,sce
 1534,Antony and Cleopatra,ANTONY AND CLEOPATRA,Tragedy,1607,William Shakespeare,contents,directions,ACT III,SCENE XI,NA,NA,charmian
 1534,Antony and Cleopatra,ANTONY AND CLEOPATRA,Tragedy,1607,William Shakespeare,contents,directions,ACT III,SCENE XI,NA,NA,iras
 1534,Antony and Cleopatra,ANTONY AND CLEOPATRA,Tragedy,1607,William Shakespeare,contents,directions,ACT III,SCENE XI,NA,NA,eros
-1534,Antony and Cleopatra,ANTONY AND CLEOPATRA,Tragedy,1607,William Shakespeare,contents,dialogue,ACT III,SCENE XI,EROS,1963,nay
 1534,Antony and Cleopatra,ANTONY AND CLEOPATRA,Tragedy,1607,William Shakespeare,contents,dialogue,ACT III,SCENE XI,EROS,1963,gentle
 1534,Antony and Cleopatra,ANTONY AND CLEOPATRA,Tragedy,1607,William Shakespeare,contents,dialogue,ACT III,SCENE XI,EROS,1963,madam
 1534,Antony and Cleopatra,ANTONY AND CLEOPATRA,Tragedy,1607,William Shakespeare,contents,dialogue,ACT III,SCENE XI,EROS,1963,comfort
@@ -5056,7 +4971,6 @@ gutenberg_id,short_title,gutenberg_title,genre,year,author,section,class,act,sce
 1534,Antony and Cleopatra,ANTONY AND CLEOPATRA,Tragedy,1607,William Shakespeare,contents,dialogue,ACT III,SCENE XI,ANTONY,1988,swerving
 1534,Antony and Cleopatra,ANTONY AND CLEOPATRA,Tragedy,1607,William Shakespeare,contents,dialogue,ACT III,SCENE XI,EROS,1989,sir
 1534,Antony and Cleopatra,ANTONY AND CLEOPATRA,Tragedy,1607,William Shakespeare,contents,dialogue,ACT III,SCENE XI,EROS,1989,queen
-1534,Antony and Cleopatra,ANTONY AND CLEOPATRA,Tragedy,1607,William Shakespeare,contents,dialogue,ACT III,SCENE XI,ANTONY,1990,hast
 1534,Antony and Cleopatra,ANTONY AND CLEOPATRA,Tragedy,1607,William Shakespeare,contents,dialogue,ACT III,SCENE XI,ANTONY,1990,led
 1534,Antony and Cleopatra,ANTONY AND CLEOPATRA,Tragedy,1607,William Shakespeare,contents,dialogue,ACT III,SCENE XI,ANTONY,1990,egypt
 1534,Antony and Cleopatra,ANTONY AND CLEOPATRA,Tragedy,1607,William Shakespeare,contents,dialogue,ACT III,SCENE XI,ANTONY,1991,convey
@@ -5275,7 +5189,6 @@ gutenberg_id,short_title,gutenberg_title,genre,year,author,section,class,act,sce
 1534,Antony and Cleopatra,ANTONY AND CLEOPATRA,Tragedy,1607,William Shakespeare,contents,directions,ACT III,SCENE XIII,NA,NA,ambassador
 1534,Antony and Cleopatra,ANTONY AND CLEOPATRA,Tragedy,1607,William Shakespeare,contents,directions,ACT III,SCENE XIII,NA,NA,antony
 1534,Antony and Cleopatra,ANTONY AND CLEOPATRA,Tragedy,1607,William Shakespeare,contents,dialogue,ACT III,SCENE XIII,ANTONY,2077,answer
-1534,Antony and Cleopatra,ANTONY AND CLEOPATRA,Tragedy,1607,William Shakespeare,contents,dialogue,ACT III,SCENE XIII,AMBASSADOR,2078,ay
 1534,Antony and Cleopatra,ANTONY AND CLEOPATRA,Tragedy,1607,William Shakespeare,contents,dialogue,ACT III,SCENE XIII,AMBASSADOR,2078,lord
 1534,Antony and Cleopatra,ANTONY AND CLEOPATRA,Tragedy,1607,William Shakespeare,contents,dialogue,ACT III,SCENE XIII,ANTONY,2079,queen
 1534,Antony and Cleopatra,ANTONY AND CLEOPATRA,Tragedy,1607,William Shakespeare,contents,dialogue,ACT III,SCENE XIII,ANTONY,2079,courtesy
@@ -5341,7 +5254,6 @@ gutenberg_id,short_title,gutenberg_title,genre,year,author,section,class,act,sce
 1534,Antony and Cleopatra,ANTONY AND CLEOPATRA,Tragedy,1607,William Shakespeare,contents,dialogue,ACT III,SCENE XIII,ENOBARBUS,2103,answer
 1534,Antony and Cleopatra,ANTONY AND CLEOPATRA,Tragedy,1607,William Shakespeare,contents,dialogue,ACT III,SCENE XIII,ENOBARBUS,2103,emptiness
 1534,Antony and Cleopatra,ANTONY AND CLEOPATRA,Tragedy,1607,William Shakespeare,contents,dialogue,ACT III,SCENE XIII,ENOBARBUS,2103,caesar
-1534,Antony and Cleopatra,ANTONY AND CLEOPATRA,Tragedy,1607,William Shakespeare,contents,dialogue,ACT III,SCENE XIII,ENOBARBUS,2103,hast
 1534,Antony and Cleopatra,ANTONY AND CLEOPATRA,Tragedy,1607,William Shakespeare,contents,dialogue,ACT III,SCENE XIII,ENOBARBUS,2103,subdued
 1534,Antony and Cleopatra,ANTONY AND CLEOPATRA,Tragedy,1607,William Shakespeare,contents,dialogue,ACT III,SCENE XIII,ENOBARBUS,2104,judgment
 1534,Antony and Cleopatra,ANTONY AND CLEOPATRA,Tragedy,1607,William Shakespeare,contents,directions,ACT III,SCENE XIII,NA,NA,servant
@@ -5358,7 +5270,6 @@ gutenberg_id,short_title,gutenberg_title,genre,year,author,section,class,act,sce
 1534,Antony and Cleopatra,ANTONY AND CLEOPATRA,Tragedy,1607,William Shakespeare,contents,dialogue,ACT III,SCENE XIII,CLEOPATRA,2108,admit
 1534,Antony and Cleopatra,ANTONY AND CLEOPATRA,Tragedy,1607,William Shakespeare,contents,dialogue,ACT III,SCENE XIII,CLEOPATRA,2108,sir
 1534,Antony and Cleopatra,ANTONY AND CLEOPATRA,Tragedy,1607,William Shakespeare,contents,directions,ACT III,SCENE XIII,NA,NA,servant
-1534,Antony and Cleopatra,ANTONY AND CLEOPATRA,Tragedy,1607,William Shakespeare,contents,dialogue,ACT III,SCENE XIII,ENOBARBUS,2109,mine
 1534,Antony and Cleopatra,ANTONY AND CLEOPATRA,Tragedy,1607,William Shakespeare,contents,dialogue,ACT III,SCENE XIII,ENOBARBUS,2109,honesty
 1534,Antony and Cleopatra,ANTONY AND CLEOPATRA,Tragedy,1607,William Shakespeare,contents,dialogue,ACT III,SCENE XIII,ENOBARBUS,2109,begin
 1534,Antony and Cleopatra,ANTONY AND CLEOPATRA,Tragedy,1607,William Shakespeare,contents,dialogue,ACT III,SCENE XIII,ENOBARBUS,2109,square
@@ -5410,7 +5321,6 @@ gutenberg_id,short_title,gutenberg_title,genre,year,author,section,class,act,sce
 1534,Antony and Cleopatra,ANTONY AND CLEOPATRA,Tragedy,1607,William Shakespeare,contents,dialogue,ACT III,SCENE XIII,THIDIAS,2132,blemishes
 1534,Antony and Cleopatra,ANTONY AND CLEOPATRA,Tragedy,1607,William Shakespeare,contents,dialogue,ACT III,SCENE XIII,THIDIAS,2133,deserved
 1534,Antony and Cleopatra,ANTONY AND CLEOPATRA,Tragedy,1607,William Shakespeare,contents,dialogue,ACT III,SCENE XIII,CLEOPATRA,2134,god
-1534,Antony and Cleopatra,ANTONY AND CLEOPATRA,Tragedy,1607,William Shakespeare,contents,dialogue,ACT III,SCENE XIII,CLEOPATRA,2135,mine
 1534,Antony and Cleopatra,ANTONY AND CLEOPATRA,Tragedy,1607,William Shakespeare,contents,dialogue,ACT III,SCENE XIII,CLEOPATRA,2135,honour
 1534,Antony and Cleopatra,ANTONY AND CLEOPATRA,Tragedy,1607,William Shakespeare,contents,dialogue,ACT III,SCENE XIII,CLEOPATRA,2135,yielded
 1534,Antony and Cleopatra,ANTONY AND CLEOPATRA,Tragedy,1607,William Shakespeare,contents,dialogue,ACT III,SCENE XIII,CLEOPATRA,2136,conquered
@@ -5529,7 +5439,6 @@ gutenberg_id,short_title,gutenberg_title,genre,year,author,section,class,act,sce
 1534,Antony and Cleopatra,ANTONY AND CLEOPATRA,Tragedy,1607,William Shakespeare,contents,dialogue,ACT III,SCENE XIII,ANTONY,2184,cleopatra
 1534,Antony and Cleopatra,ANTONY AND CLEOPATRA,Tragedy,1607,William Shakespeare,contents,dialogue,ACT III,SCENE XIII,ANTONY,2184,whip
 1534,Antony and Cleopatra,ANTONY AND CLEOPATRA,Tragedy,1607,William Shakespeare,contents,dialogue,ACT III,SCENE XIII,ANTONY,2184,fellows
-1534,Antony and Cleopatra,ANTONY AND CLEOPATRA,Tragedy,1607,William Shakespeare,contents,dialogue,ACT III,SCENE XIII,ANTONY,2185,till
 1534,Antony and Cleopatra,ANTONY AND CLEOPATRA,Tragedy,1607,William Shakespeare,contents,dialogue,ACT III,SCENE XIII,ANTONY,2185,boy
 1534,Antony and Cleopatra,ANTONY AND CLEOPATRA,Tragedy,1607,William Shakespeare,contents,dialogue,ACT III,SCENE XIII,ANTONY,2185,cringe
 1534,Antony and Cleopatra,ANTONY AND CLEOPATRA,Tragedy,1607,William Shakespeare,contents,dialogue,ACT III,SCENE XIII,ANTONY,2186,whine
@@ -5548,7 +5457,6 @@ gutenberg_id,short_title,gutenberg_title,genre,year,author,section,class,act,sce
 1534,Antony and Cleopatra,ANTONY AND CLEOPATRA,Tragedy,1607,William Shakespeare,contents,directions,ACT III,SCENE XIII,NA,NA,thidias
 1534,Antony and Cleopatra,ANTONY AND CLEOPATRA,Tragedy,1607,William Shakespeare,contents,dialogue,ACT III,SCENE XIII,ANTONY,2191,half
 1534,Antony and Cleopatra,ANTONY AND CLEOPATRA,Tragedy,1607,William Shakespeare,contents,dialogue,ACT III,SCENE XIII,ANTONY,2191,blasted
-1534,Antony and Cleopatra,ANTONY AND CLEOPATRA,Tragedy,1607,William Shakespeare,contents,dialogue,ACT III,SCENE XIII,ANTONY,2191,ere
 1534,Antony and Cleopatra,ANTONY AND CLEOPATRA,Tragedy,1607,William Shakespeare,contents,dialogue,ACT III,SCENE XIII,ANTONY,2191,ha
 1534,Antony and Cleopatra,ANTONY AND CLEOPATRA,Tragedy,1607,William Shakespeare,contents,dialogue,ACT III,SCENE XIII,ANTONY,2192,pillow
 1534,Antony and Cleopatra,ANTONY AND CLEOPATRA,Tragedy,1607,William Shakespeare,contents,dialogue,ACT III,SCENE XIII,ANTONY,2192,left
@@ -5588,7 +5496,6 @@ gutenberg_id,short_title,gutenberg_title,genre,year,author,section,class,act,sce
 1534,Antony and Cleopatra,ANTONY AND CLEOPATRA,Tragedy,1607,William Shakespeare,contents,dialogue,ACT III,SCENE XIII,ANTONY,2205,dead
 1534,Antony and Cleopatra,ANTONY AND CLEOPATRA,Tragedy,1607,William Shakespeare,contents,dialogue,ACT III,SCENE XIII,ANTONY,2205,caesar's
 1534,Antony and Cleopatra,ANTONY AND CLEOPATRA,Tragedy,1607,William Shakespeare,contents,dialogue,ACT III,SCENE XIII,ANTONY,2205,trencher
-1534,Antony and Cleopatra,ANTONY AND CLEOPATRA,Tragedy,1607,William Shakespeare,contents,dialogue,ACT III,SCENE XIII,ANTONY,2205,nay
 1534,Antony and Cleopatra,ANTONY AND CLEOPATRA,Tragedy,1607,William Shakespeare,contents,dialogue,ACT III,SCENE XIII,ANTONY,2205,fragment
 1534,Antony and Cleopatra,ANTONY AND CLEOPATRA,Tragedy,1607,William Shakespeare,contents,dialogue,ACT III,SCENE XIII,ANTONY,2206,gneius
 1534,Antony and Cleopatra,ANTONY AND CLEOPATRA,Tragedy,1607,William Shakespeare,contents,dialogue,ACT III,SCENE XIII,ANTONY,2206,pompey's
@@ -5642,7 +5549,6 @@ gutenberg_id,short_title,gutenberg_title,genre,year,author,section,class,act,sce
 1534,Antony and Cleopatra,ANTONY AND CLEOPATRA,Tragedy,1607,William Shakespeare,contents,dialogue,ACT III,SCENE XIII,ANTONY,2227,follow
 1534,Antony and Cleopatra,ANTONY AND CLEOPATRA,Tragedy,1607,William Shakespeare,contents,dialogue,ACT III,SCENE XIII,ANTONY,2227,caesar
 1534,Antony and Cleopatra,ANTONY AND CLEOPATRA,Tragedy,1607,William Shakespeare,contents,dialogue,ACT III,SCENE XIII,ANTONY,2227,triumph
-1534,Antony and Cleopatra,ANTONY AND CLEOPATRA,Tragedy,1607,William Shakespeare,contents,dialogue,ACT III,SCENE XIII,ANTONY,2228,hast
 1534,Antony and Cleopatra,ANTONY AND CLEOPATRA,Tragedy,1607,William Shakespeare,contents,dialogue,ACT III,SCENE XIII,ANTONY,2228,whipped
 1534,Antony and Cleopatra,ANTONY AND CLEOPATRA,Tragedy,1607,William Shakespeare,contents,dialogue,ACT III,SCENE XIII,ANTONY,2228,henceforth
 1534,Antony and Cleopatra,ANTONY AND CLEOPATRA,Tragedy,1607,William Shakespeare,contents,dialogue,ACT III,SCENE XIII,ANTONY,2229,white
@@ -5718,7 +5624,6 @@ gutenberg_id,short_title,gutenberg_title,genre,year,author,section,class,act,sce
 1534,Antony and Cleopatra,ANTONY AND CLEOPATRA,Tragedy,1607,William Shakespeare,contents,dialogue,ACT III,SCENE XIII,CLEOPATRA,2256,life
 1534,Antony and Cleopatra,ANTONY AND CLEOPATRA,Tragedy,1607,William Shakespeare,contents,dialogue,ACT III,SCENE XIII,CLEOPATRA,2256,caesarion
 1534,Antony and Cleopatra,ANTONY AND CLEOPATRA,Tragedy,1607,William Shakespeare,contents,dialogue,ACT III,SCENE XIII,CLEOPATRA,2256,smite
-1534,Antony and Cleopatra,ANTONY AND CLEOPATRA,Tragedy,1607,William Shakespeare,contents,dialogue,ACT III,SCENE XIII,CLEOPATRA,2257,till
 1534,Antony and Cleopatra,ANTONY AND CLEOPATRA,Tragedy,1607,William Shakespeare,contents,dialogue,ACT III,SCENE XIII,CLEOPATRA,2257,degrees
 1534,Antony and Cleopatra,ANTONY AND CLEOPATRA,Tragedy,1607,William Shakespeare,contents,dialogue,ACT III,SCENE XIII,CLEOPATRA,2257,memory
 1534,Antony and Cleopatra,ANTONY AND CLEOPATRA,Tragedy,1607,William Shakespeare,contents,dialogue,ACT III,SCENE XIII,CLEOPATRA,2257,womb
@@ -5729,7 +5634,6 @@ gutenberg_id,short_title,gutenberg_title,genre,year,author,section,class,act,sce
 1534,Antony and Cleopatra,ANTONY AND CLEOPATRA,Tragedy,1607,William Shakespeare,contents,dialogue,ACT III,SCENE XIII,CLEOPATRA,2259,storm
 1534,Antony and Cleopatra,ANTONY AND CLEOPATRA,Tragedy,1607,William Shakespeare,contents,dialogue,ACT III,SCENE XIII,CLEOPATRA,2260,lie
 1534,Antony and Cleopatra,ANTONY AND CLEOPATRA,Tragedy,1607,William Shakespeare,contents,dialogue,ACT III,SCENE XIII,CLEOPATRA,2260,graveless
-1534,Antony and Cleopatra,ANTONY AND CLEOPATRA,Tragedy,1607,William Shakespeare,contents,dialogue,ACT III,SCENE XIII,CLEOPATRA,2260,till
 1534,Antony and Cleopatra,ANTONY AND CLEOPATRA,Tragedy,1607,William Shakespeare,contents,dialogue,ACT III,SCENE XIII,CLEOPATRA,2260,flies
 1534,Antony and Cleopatra,ANTONY AND CLEOPATRA,Tragedy,1607,William Shakespeare,contents,dialogue,ACT III,SCENE XIII,CLEOPATRA,2260,gnats
 1534,Antony and Cleopatra,ANTONY AND CLEOPATRA,Tragedy,1607,William Shakespeare,contents,dialogue,ACT III,SCENE XIII,CLEOPATRA,2260,nile
@@ -5751,7 +5655,6 @@ gutenberg_id,short_title,gutenberg_title,genre,year,author,section,class,act,sce
 1534,Antony and Cleopatra,ANTONY AND CLEOPATRA,Tragedy,1607,William Shakespeare,contents,dialogue,ACT III,SCENE XIII,ANTONY,2266,fleet
 1534,Antony and Cleopatra,ANTONY AND CLEOPATRA,Tragedy,1607,William Shakespeare,contents,dialogue,ACT III,SCENE XIII,ANTONY,2266,threat'ning
 1534,Antony and Cleopatra,ANTONY AND CLEOPATRA,Tragedy,1607,William Shakespeare,contents,dialogue,ACT III,SCENE XIII,ANTONY,2266,sea
-1534,Antony and Cleopatra,ANTONY AND CLEOPATRA,Tragedy,1607,William Shakespeare,contents,dialogue,ACT III,SCENE XIII,ANTONY,2267,hast
 1534,Antony and Cleopatra,ANTONY AND CLEOPATRA,Tragedy,1607,William Shakespeare,contents,dialogue,ACT III,SCENE XIII,ANTONY,2267,heart
 1534,Antony and Cleopatra,ANTONY AND CLEOPATRA,Tragedy,1607,William Shakespeare,contents,dialogue,ACT III,SCENE XIII,ANTONY,2267,hear
 1534,Antony and Cleopatra,ANTONY AND CLEOPATRA,Tragedy,1607,William Shakespeare,contents,dialogue,ACT III,SCENE XIII,ANTONY,2267,lady
@@ -5773,7 +5676,6 @@ gutenberg_id,short_title,gutenberg_title,genre,year,author,section,class,act,sce
 1534,Antony and Cleopatra,ANTONY AND CLEOPATRA,Tragedy,1607,William Shakespeare,contents,dialogue,ACT III,SCENE XIII,ANTONY,2273,breathed
 1534,Antony and Cleopatra,ANTONY AND CLEOPATRA,Tragedy,1607,William Shakespeare,contents,dialogue,ACT III,SCENE XIII,ANTONY,2274,fight
 1534,Antony and Cleopatra,ANTONY AND CLEOPATRA,Tragedy,1607,William Shakespeare,contents,dialogue,ACT III,SCENE XIII,ANTONY,2274,maliciously
-1534,Antony and Cleopatra,ANTONY AND CLEOPATRA,Tragedy,1607,William Shakespeare,contents,dialogue,ACT III,SCENE XIII,ANTONY,2274,mine
 1534,Antony and Cleopatra,ANTONY AND CLEOPATRA,Tragedy,1607,William Shakespeare,contents,dialogue,ACT III,SCENE XIII,ANTONY,2274,hours
 1534,Antony and Cleopatra,ANTONY AND CLEOPATRA,Tragedy,1607,William Shakespeare,contents,dialogue,ACT III,SCENE XIII,ANTONY,2275,nice
 1534,Antony and Cleopatra,ANTONY AND CLEOPATRA,Tragedy,1607,William Shakespeare,contents,dialogue,ACT III,SCENE XIII,ANTONY,2275,lucky
@@ -5936,7 +5838,6 @@ gutenberg_id,short_title,gutenberg_title,genre,year,author,section,class,act,sce
 1534,Antony and Cleopatra,ANTONY AND CLEOPATRA,Tragedy,1607,William Shakespeare,contents,dialogue,ACT IV,SCENE II,ANTONY,2329,hand
 1534,Antony and Cleopatra,ANTONY AND CLEOPATRA,Tragedy,1607,William Shakespeare,contents,dialogue,ACT IV,SCENE II,ANTONY,2330,rightly
 1534,Antony and Cleopatra,ANTONY AND CLEOPATRA,Tragedy,1607,William Shakespeare,contents,dialogue,ACT IV,SCENE II,ANTONY,2330,honest
-1534,Antony and Cleopatra,ANTONY AND CLEOPATRA,Tragedy,1607,William Shakespeare,contents,dialogue,ACT IV,SCENE II,ANTONY,2330,hast
 1534,Antony and Cleopatra,ANTONY AND CLEOPATRA,Tragedy,1607,William Shakespeare,contents,dialogue,ACT IV,SCENE II,ANTONY,2331,served
 1534,Antony and Cleopatra,ANTONY AND CLEOPATRA,Tragedy,1607,William Shakespeare,contents,dialogue,ACT IV,SCENE II,ANTONY,2332,kings
 1534,Antony and Cleopatra,ANTONY AND CLEOPATRA,Tragedy,1607,William Shakespeare,contents,dialogue,ACT IV,SCENE II,ANTONY,2332,fellows
@@ -5959,7 +5860,6 @@ gutenberg_id,short_title,gutenberg_title,genre,year,author,section,class,act,sce
 1534,Antony and Cleopatra,ANTONY AND CLEOPATRA,Tragedy,1607,William Shakespeare,contents,dialogue,ACT IV,SCENE II,ANTONY,2343,tonight
 1534,Antony and Cleopatra,ANTONY AND CLEOPATRA,Tragedy,1607,William Shakespeare,contents,dialogue,ACT IV,SCENE II,ANTONY,2344,scant
 1534,Antony and Cleopatra,ANTONY AND CLEOPATRA,Tragedy,1607,William Shakespeare,contents,dialogue,ACT IV,SCENE II,ANTONY,2344,cups
-1534,Antony and Cleopatra,ANTONY AND CLEOPATRA,Tragedy,1607,William Shakespeare,contents,dialogue,ACT IV,SCENE II,ANTONY,2345,mine
 1534,Antony and Cleopatra,ANTONY AND CLEOPATRA,Tragedy,1607,William Shakespeare,contents,dialogue,ACT IV,SCENE II,ANTONY,2345,empire
 1534,Antony and Cleopatra,ANTONY AND CLEOPATRA,Tragedy,1607,William Shakespeare,contents,dialogue,ACT IV,SCENE II,ANTONY,2345,fellow
 1534,Antony and Cleopatra,ANTONY AND CLEOPATRA,Tragedy,1607,William Shakespeare,contents,dialogue,ACT IV,SCENE II,ANTONY,2346,suffered
@@ -5981,14 +5881,12 @@ gutenberg_id,short_title,gutenberg_title,genre,year,author,section,class,act,sce
 1534,Antony and Cleopatra,ANTONY AND CLEOPATRA,Tragedy,1607,William Shakespeare,contents,dialogue,ACT IV,SCENE II,ANTONY,2353,master
 1534,Antony and Cleopatra,ANTONY AND CLEOPATRA,Tragedy,1607,William Shakespeare,contents,dialogue,ACT IV,SCENE II,ANTONY,2354,takes
 1534,Antony and Cleopatra,ANTONY AND CLEOPATRA,Tragedy,1607,William Shakespeare,contents,dialogue,ACT IV,SCENE II,ANTONY,2354,leave
-1534,Antony and Cleopatra,ANTONY AND CLEOPATRA,Tragedy,1607,William Shakespeare,contents,dialogue,ACT IV,SCENE II,ANTONY,2354,mine
 1534,Antony and Cleopatra,ANTONY AND CLEOPATRA,Tragedy,1607,William Shakespeare,contents,dialogue,ACT IV,SCENE II,ANTONY,2354,honest
 1534,Antony and Cleopatra,ANTONY AND CLEOPATRA,Tragedy,1607,William Shakespeare,contents,dialogue,ACT IV,SCENE II,ANTONY,2354,friends
 1534,Antony and Cleopatra,ANTONY AND CLEOPATRA,Tragedy,1607,William Shakespeare,contents,dialogue,ACT IV,SCENE II,ANTONY,2355,master
 1534,Antony and Cleopatra,ANTONY AND CLEOPATRA,Tragedy,1607,William Shakespeare,contents,dialogue,ACT IV,SCENE II,ANTONY,2356,married
 1534,Antony and Cleopatra,ANTONY AND CLEOPATRA,Tragedy,1607,William Shakespeare,contents,dialogue,ACT IV,SCENE II,ANTONY,2356,service
 1534,Antony and Cleopatra,ANTONY AND CLEOPATRA,Tragedy,1607,William Shakespeare,contents,dialogue,ACT IV,SCENE II,ANTONY,2356,stay
-1534,Antony and Cleopatra,ANTONY AND CLEOPATRA,Tragedy,1607,William Shakespeare,contents,dialogue,ACT IV,SCENE II,ANTONY,2356,till
 1534,Antony and Cleopatra,ANTONY AND CLEOPATRA,Tragedy,1607,William Shakespeare,contents,dialogue,ACT IV,SCENE II,ANTONY,2356,death
 1534,Antony and Cleopatra,ANTONY AND CLEOPATRA,Tragedy,1607,William Shakespeare,contents,dialogue,ACT IV,SCENE II,ANTONY,2357,tend
 1534,Antony and Cleopatra,ANTONY AND CLEOPATRA,Tragedy,1607,William Shakespeare,contents,dialogue,ACT IV,SCENE II,ANTONY,2357,tonight
@@ -6096,7 +5994,6 @@ gutenberg_id,short_title,gutenberg_title,genre,year,author,section,class,act,sce
 1534,Antony and Cleopatra,ANTONY AND CLEOPATRA,Tragedy,1607,William Shakespeare,contents,directions,ACT IV,SCENE III,NA,NA,post
 1534,Antony and Cleopatra,ANTONY AND CLEOPATRA,Tragedy,1607,William Shakespeare,contents,dialogue,ACT IV,SCENE III,SECOND SOLDIER,2397,masters
 1534,Antony and Cleopatra,ANTONY AND CLEOPATRA,Tragedy,1607,William Shakespeare,contents,dialogue,ACT IV,SCENE III,ALL,2398,hear
-1534,Antony and Cleopatra,ANTONY AND CLEOPATRA,Tragedy,1607,William Shakespeare,contents,dialogue,ACT IV,SCENE III,FIRST SOLDIER,2399,ay
 1534,Antony and Cleopatra,ANTONY AND CLEOPATRA,Tragedy,1607,William Shakespeare,contents,dialogue,ACT IV,SCENE III,FIRST SOLDIER,2399,is't
 1534,Antony and Cleopatra,ANTONY AND CLEOPATRA,Tragedy,1607,William Shakespeare,contents,dialogue,ACT IV,SCENE III,FIRST SOLDIER,2399,strange
 1534,Antony and Cleopatra,ANTONY AND CLEOPATRA,Tragedy,1607,William Shakespeare,contents,dialogue,ACT IV,SCENE III,THIRD SOLDIER,2400,hear
@@ -6110,13 +6007,11 @@ gutenberg_id,short_title,gutenberg_title,genre,year,author,section,class,act,sce
 1534,Antony and Cleopatra,ANTONY AND CLEOPATRA,Tragedy,1607,William Shakespeare,contents,directions,ACT IV,SCENE IV,NA,NA,antony
 1534,Antony and Cleopatra,ANTONY AND CLEOPATRA,Tragedy,1607,William Shakespeare,contents,directions,ACT IV,SCENE IV,NA,NA,cleopatra
 1534,Antony and Cleopatra,ANTONY AND CLEOPATRA,Tragedy,1607,William Shakespeare,contents,dialogue,ACT IV,SCENE IV,ANTONY,2404,eros
-1534,Antony and Cleopatra,ANTONY AND CLEOPATRA,Tragedy,1607,William Shakespeare,contents,dialogue,ACT IV,SCENE IV,ANTONY,2404,mine
 1534,Antony and Cleopatra,ANTONY AND CLEOPATRA,Tragedy,1607,William Shakespeare,contents,dialogue,ACT IV,SCENE IV,ANTONY,2404,armour
 1534,Antony and Cleopatra,ANTONY AND CLEOPATRA,Tragedy,1607,William Shakespeare,contents,dialogue,ACT IV,SCENE IV,ANTONY,2404,eros
 1534,Antony and Cleopatra,ANTONY AND CLEOPATRA,Tragedy,1607,William Shakespeare,contents,dialogue,ACT IV,SCENE IV,CLEOPATRA,2405,sleep
 1534,Antony and Cleopatra,ANTONY AND CLEOPATRA,Tragedy,1607,William Shakespeare,contents,dialogue,ACT IV,SCENE IV,ANTONY,2406,chuck
 1534,Antony and Cleopatra,ANTONY AND CLEOPATRA,Tragedy,1607,William Shakespeare,contents,dialogue,ACT IV,SCENE IV,ANTONY,2406,eros
-1534,Antony and Cleopatra,ANTONY AND CLEOPATRA,Tragedy,1607,William Shakespeare,contents,dialogue,ACT IV,SCENE IV,ANTONY,2406,mine
 1534,Antony and Cleopatra,ANTONY AND CLEOPATRA,Tragedy,1607,William Shakespeare,contents,dialogue,ACT IV,SCENE IV,ANTONY,2406,armour
 1534,Antony and Cleopatra,ANTONY AND CLEOPATRA,Tragedy,1607,William Shakespeare,contents,dialogue,ACT IV,SCENE IV,ANTONY,2406,eros
 1534,Antony and Cleopatra,ANTONY AND CLEOPATRA,Tragedy,1607,William Shakespeare,contents,directions,ACT IV,SCENE IV,NA,NA,eros
@@ -6125,7 +6020,6 @@ gutenberg_id,short_title,gutenberg_title,genre,year,author,section,class,act,sce
 1534,Antony and Cleopatra,ANTONY AND CLEOPATRA,Tragedy,1607,William Shakespeare,contents,dialogue,ACT IV,SCENE IV,ANTONY,2407,iron
 1534,Antony and Cleopatra,ANTONY AND CLEOPATRA,Tragedy,1607,William Shakespeare,contents,dialogue,ACT IV,SCENE IV,ANTONY,2408,fortune
 1534,Antony and Cleopatra,ANTONY AND CLEOPATRA,Tragedy,1607,William Shakespeare,contents,dialogue,ACT IV,SCENE IV,ANTONY,2409,brave
-1534,Antony and Cleopatra,ANTONY AND CLEOPATRA,Tragedy,1607,William Shakespeare,contents,dialogue,ACT IV,SCENE IV,CLEOPATRA,2410,nay
 1534,Antony and Cleopatra,ANTONY AND CLEOPATRA,Tragedy,1607,William Shakespeare,contents,dialogue,ACT IV,SCENE IV,ANTONY,2412,ah
 1534,Antony and Cleopatra,ANTONY AND CLEOPATRA,Tragedy,1607,William Shakespeare,contents,dialogue,ACT IV,SCENE IV,ANTONY,2413,armourer
 1534,Antony and Cleopatra,ANTONY AND CLEOPATRA,Tragedy,1607,William Shakespeare,contents,dialogue,ACT IV,SCENE IV,ANTONY,2413,heart
@@ -6143,7 +6037,6 @@ gutenberg_id,short_title,gutenberg_title,genre,year,author,section,class,act,sce
 1534,Antony and Cleopatra,ANTONY AND CLEOPATRA,Tragedy,1607,William Shakespeare,contents,dialogue,ACT IV,SCENE IV,ANTONY,2420,rarely
 1534,Antony and Cleopatra,ANTONY AND CLEOPATRA,Tragedy,1607,William Shakespeare,contents,dialogue,ACT IV,SCENE IV,ANTONY,2420,rarely
 1534,Antony and Cleopatra,ANTONY AND CLEOPATRA,Tragedy,1607,William Shakespeare,contents,dialogue,ACT IV,SCENE IV,ANTONY,2421,unbuckles
-1534,Antony and Cleopatra,ANTONY AND CLEOPATRA,Tragedy,1607,William Shakespeare,contents,dialogue,ACT IV,SCENE IV,ANTONY,2421,till
 1534,Antony and Cleopatra,ANTONY AND CLEOPATRA,Tragedy,1607,William Shakespeare,contents,dialogue,ACT IV,SCENE IV,ANTONY,2422,daff't
 1534,Antony and Cleopatra,ANTONY AND CLEOPATRA,Tragedy,1607,William Shakespeare,contents,dialogue,ACT IV,SCENE IV,ANTONY,2422,repose
 1534,Antony and Cleopatra,ANTONY AND CLEOPATRA,Tragedy,1607,William Shakespeare,contents,dialogue,ACT IV,SCENE IV,ANTONY,2422,hear
@@ -6364,7 +6257,6 @@ gutenberg_id,short_title,gutenberg_title,genre,year,author,section,class,act,sce
 1534,Antony and Cleopatra,ANTONY AND CLEOPATRA,Tragedy,1607,William Shakespeare,contents,dialogue,ACT IV,SCENE VI,SOLDIER,2507,bringer
 1534,Antony and Cleopatra,ANTONY AND CLEOPATRA,Tragedy,1607,William Shakespeare,contents,dialogue,ACT IV,SCENE VI,SOLDIER,2508,host
 1534,Antony and Cleopatra,ANTONY AND CLEOPATRA,Tragedy,1607,William Shakespeare,contents,dialogue,ACT IV,SCENE VI,SOLDIER,2508,attend
-1534,Antony and Cleopatra,ANTONY AND CLEOPATRA,Tragedy,1607,William Shakespeare,contents,dialogue,ACT IV,SCENE VI,SOLDIER,2508,mine
 1534,Antony and Cleopatra,ANTONY AND CLEOPATRA,Tragedy,1607,William Shakespeare,contents,dialogue,ACT IV,SCENE VI,SOLDIER,2508,office
 1534,Antony and Cleopatra,ANTONY AND CLEOPATRA,Tragedy,1607,William Shakespeare,contents,dialogue,ACT IV,SCENE VI,SOLDIER,2509,done't
 1534,Antony and Cleopatra,ANTONY AND CLEOPATRA,Tragedy,1607,William Shakespeare,contents,dialogue,ACT IV,SCENE VI,SOLDIER,2509,emperor
@@ -6374,7 +6266,6 @@ gutenberg_id,short_title,gutenberg_title,genre,year,author,section,class,act,sce
 1534,Antony and Cleopatra,ANTONY AND CLEOPATRA,Tragedy,1607,William Shakespeare,contents,dialogue,ACT IV,SCENE VI,ENOBARBUS,2511,earth
 1534,Antony and Cleopatra,ANTONY AND CLEOPATRA,Tragedy,1607,William Shakespeare,contents,dialogue,ACT IV,SCENE VI,ENOBARBUS,2512,feel
 1534,Antony and Cleopatra,ANTONY AND CLEOPATRA,Tragedy,1607,William Shakespeare,contents,dialogue,ACT IV,SCENE VI,ENOBARBUS,2512,antony
-1534,Antony and Cleopatra,ANTONY AND CLEOPATRA,Tragedy,1607,William Shakespeare,contents,dialogue,ACT IV,SCENE VI,ENOBARBUS,2513,mine
 1534,Antony and Cleopatra,ANTONY AND CLEOPATRA,Tragedy,1607,William Shakespeare,contents,dialogue,ACT IV,SCENE VI,ENOBARBUS,2513,bounty
 1534,Antony and Cleopatra,ANTONY AND CLEOPATRA,Tragedy,1607,William Shakespeare,contents,dialogue,ACT IV,SCENE VI,ENOBARBUS,2513,wouldst
 1534,Antony and Cleopatra,ANTONY AND CLEOPATRA,Tragedy,1607,William Shakespeare,contents,dialogue,ACT IV,SCENE VI,ENOBARBUS,2513,paid
@@ -6470,7 +6361,6 @@ gutenberg_id,short_title,gutenberg_title,genre,year,author,section,class,act,sce
 1534,Antony and Cleopatra,ANTONY AND CLEOPATRA,Tragedy,1607,William Shakespeare,contents,dialogue,ACT IV,SCENE VIII,ANTONY,2550,served
 1534,Antony and Cleopatra,ANTONY AND CLEOPATRA,Tragedy,1607,William Shakespeare,contents,dialogue,ACT IV,SCENE VIII,ANTONY,2550,as't
 1534,Antony and Cleopatra,ANTONY AND CLEOPATRA,Tragedy,1607,William Shakespeare,contents,dialogue,ACT IV,SCENE VIII,ANTONY,2551,man's
-1534,Antony and Cleopatra,ANTONY AND CLEOPATRA,Tragedy,1607,William Shakespeare,contents,dialogue,ACT IV,SCENE VIII,ANTONY,2551,mine
 1534,Antony and Cleopatra,ANTONY AND CLEOPATRA,Tragedy,1607,William Shakespeare,contents,dialogue,ACT IV,SCENE VIII,ANTONY,2551,shown
 1534,Antony and Cleopatra,ANTONY AND CLEOPATRA,Tragedy,1607,William Shakespeare,contents,dialogue,ACT IV,SCENE VIII,ANTONY,2551,hectors
 1534,Antony and Cleopatra,ANTONY AND CLEOPATRA,Tragedy,1607,William Shakespeare,contents,directions,ACT IV,SCENE VIII,NA,NA,city
@@ -6497,7 +6387,6 @@ gutenberg_id,short_title,gutenberg_title,genre,year,author,section,class,act,sce
 1534,Antony and Cleopatra,ANTONY AND CLEOPATRA,Tragedy,1607,William Shakespeare,contents,dialogue,ACT IV,SCENE VIII,ANTONY,2557,day
 1534,Antony and Cleopatra,ANTONY AND CLEOPATRA,Tragedy,1607,William Shakespeare,contents,dialogue,ACT IV,SCENE VIII,ANTONY,2557,world
 1534,Antony and Cleopatra,ANTONY AND CLEOPATRA,Tragedy,1607,William Shakespeare,contents,dialogue,ACT IV,SCENE VIII,ANTONY,2558,chain
-1534,Antony and Cleopatra,ANTONY AND CLEOPATRA,Tragedy,1607,William Shakespeare,contents,dialogue,ACT IV,SCENE VIII,ANTONY,2558,mine
 1534,Antony and Cleopatra,ANTONY AND CLEOPATRA,Tragedy,1607,William Shakespeare,contents,dialogue,ACT IV,SCENE VIII,ANTONY,2558,armed
 1534,Antony and Cleopatra,ANTONY AND CLEOPATRA,Tragedy,1607,William Shakespeare,contents,dialogue,ACT IV,SCENE VIII,ANTONY,2558,neck
 1534,Antony and Cleopatra,ANTONY AND CLEOPATRA,Tragedy,1607,William Shakespeare,contents,dialogue,ACT IV,SCENE VIII,ANTONY,2558,leap
@@ -6517,7 +6406,6 @@ gutenberg_id,short_title,gutenberg_title,genre,year,author,section,class,act,sce
 1534,Antony and Cleopatra,ANTONY AND CLEOPATRA,Tragedy,1607,William Shakespeare,contents,dialogue,ACT IV,SCENE VIII,CLEOPATRA,2563,world's
 1534,Antony and Cleopatra,ANTONY AND CLEOPATRA,Tragedy,1607,William Shakespeare,contents,dialogue,ACT IV,SCENE VIII,CLEOPATRA,2563,snare
 1534,Antony and Cleopatra,ANTONY AND CLEOPATRA,Tragedy,1607,William Shakespeare,contents,dialogue,ACT IV,SCENE VIII,CLEOPATRA,2563,uncaught
-1534,Antony and Cleopatra,ANTONY AND CLEOPATRA,Tragedy,1607,William Shakespeare,contents,dialogue,ACT IV,SCENE VIII,ANTONY,2564,mine
 1534,Antony and Cleopatra,ANTONY AND CLEOPATRA,Tragedy,1607,William Shakespeare,contents,dialogue,ACT IV,SCENE VIII,ANTONY,2564,nightingale
 1534,Antony and Cleopatra,ANTONY AND CLEOPATRA,Tragedy,1607,William Shakespeare,contents,dialogue,ACT IV,SCENE VIII,ANTONY,2565,beat
 1534,Antony and Cleopatra,ANTONY AND CLEOPATRA,Tragedy,1607,William Shakespeare,contents,dialogue,ACT IV,SCENE VIII,ANTONY,2565,beds
@@ -6772,7 +6660,6 @@ gutenberg_id,short_title,gutenberg_title,genre,year,author,section,class,act,sce
 1534,Antony and Cleopatra,ANTONY AND CLEOPATRA,Tragedy,1607,William Shakespeare,contents,dialogue,ACT IV,SCENE XII,ANTONY,2655,lost
 1534,Antony and Cleopatra,ANTONY AND CLEOPATRA,Tragedy,1607,William Shakespeare,contents,dialogue,ACT IV,SCENE XII,ANTONY,2655,triple
 1534,Antony and Cleopatra,ANTONY AND CLEOPATRA,Tragedy,1607,William Shakespeare,contents,dialogue,ACT IV,SCENE XII,ANTONY,2655,whore
-1534,Antony and Cleopatra,ANTONY AND CLEOPATRA,Tragedy,1607,William Shakespeare,contents,dialogue,ACT IV,SCENE XII,ANTONY,2656,hast
 1534,Antony and Cleopatra,ANTONY AND CLEOPATRA,Tragedy,1607,William Shakespeare,contents,dialogue,ACT IV,SCENE XII,ANTONY,2656,sold
 1534,Antony and Cleopatra,ANTONY AND CLEOPATRA,Tragedy,1607,William Shakespeare,contents,dialogue,ACT IV,SCENE XII,ANTONY,2656,novice
 1534,Antony and Cleopatra,ANTONY AND CLEOPATRA,Tragedy,1607,William Shakespeare,contents,dialogue,ACT IV,SCENE XII,ANTONY,2656,heart
@@ -6869,7 +6756,6 @@ gutenberg_id,short_title,gutenberg_title,genre,year,author,section,class,act,sce
 1534,Antony and Cleopatra,ANTONY AND CLEOPATRA,Tragedy,1607,William Shakespeare,contents,dialogue,ACT IV,SCENE XII,ANTONY,2687,nessus
 1534,Antony and Cleopatra,ANTONY AND CLEOPATRA,Tragedy,1607,William Shakespeare,contents,dialogue,ACT IV,SCENE XII,ANTONY,2687,teach
 1534,Antony and Cleopatra,ANTONY AND CLEOPATRA,Tragedy,1607,William Shakespeare,contents,dialogue,ACT IV,SCENE XII,ANTONY,2688,alcides
-1534,Antony and Cleopatra,ANTONY AND CLEOPATRA,Tragedy,1607,William Shakespeare,contents,dialogue,ACT IV,SCENE XII,ANTONY,2688,mine
 1534,Antony and Cleopatra,ANTONY AND CLEOPATRA,Tragedy,1607,William Shakespeare,contents,dialogue,ACT IV,SCENE XII,ANTONY,2688,ancestor
 1534,Antony and Cleopatra,ANTONY AND CLEOPATRA,Tragedy,1607,William Shakespeare,contents,dialogue,ACT IV,SCENE XII,ANTONY,2688,rage
 1534,Antony and Cleopatra,ANTONY AND CLEOPATRA,Tragedy,1607,William Shakespeare,contents,dialogue,ACT IV,SCENE XII,ANTONY,2689,lodge
@@ -6930,7 +6816,6 @@ gutenberg_id,short_title,gutenberg_title,genre,year,author,section,class,act,sce
 1534,Antony and Cleopatra,ANTONY AND CLEOPATRA,Tragedy,1607,William Shakespeare,contents,directions,ACT IV,SCENE XIV,NA,NA,eros
 1534,Antony and Cleopatra,ANTONY AND CLEOPATRA,Tragedy,1607,William Shakespeare,contents,dialogue,ACT IV,SCENE XIV,ANTONY,2706,eros
 1534,Antony and Cleopatra,ANTONY AND CLEOPATRA,Tragedy,1607,William Shakespeare,contents,dialogue,ACT IV,SCENE XIV,ANTONY,2706,behold'st
-1534,Antony and Cleopatra,ANTONY AND CLEOPATRA,Tragedy,1607,William Shakespeare,contents,dialogue,ACT IV,SCENE XIV,EROS,2707,ay
 1534,Antony and Cleopatra,ANTONY AND CLEOPATRA,Tragedy,1607,William Shakespeare,contents,dialogue,ACT IV,SCENE XIV,EROS,2707,noble
 1534,Antony and Cleopatra,ANTONY AND CLEOPATRA,Tragedy,1607,William Shakespeare,contents,dialogue,ACT IV,SCENE XIV,EROS,2707,lord
 1534,Antony and Cleopatra,ANTONY AND CLEOPATRA,Tragedy,1607,William Shakespeare,contents,dialogue,ACT IV,SCENE XIV,ANTONY,2708,cloud
@@ -6953,12 +6838,10 @@ gutenberg_id,short_title,gutenberg_title,genre,year,author,section,class,act,sce
 1534,Antony and Cleopatra,ANTONY AND CLEOPATRA,Tragedy,1607,William Shakespeare,contents,dialogue,ACT IV,SCENE XIV,ANTONY,2713,mock
 1534,Antony and Cleopatra,ANTONY AND CLEOPATRA,Tragedy,1607,William Shakespeare,contents,dialogue,ACT IV,SCENE XIV,ANTONY,2713,eyes
 1534,Antony and Cleopatra,ANTONY AND CLEOPATRA,Tragedy,1607,William Shakespeare,contents,dialogue,ACT IV,SCENE XIV,ANTONY,2713,air
-1534,Antony and Cleopatra,ANTONY AND CLEOPATRA,Tragedy,1607,William Shakespeare,contents,dialogue,ACT IV,SCENE XIV,ANTONY,2713,hast
 1534,Antony and Cleopatra,ANTONY AND CLEOPATRA,Tragedy,1607,William Shakespeare,contents,dialogue,ACT IV,SCENE XIV,ANTONY,2713,signs
 1534,Antony and Cleopatra,ANTONY AND CLEOPATRA,Tragedy,1607,William Shakespeare,contents,dialogue,ACT IV,SCENE XIV,ANTONY,2714,black
 1534,Antony and Cleopatra,ANTONY AND CLEOPATRA,Tragedy,1607,William Shakespeare,contents,dialogue,ACT IV,SCENE XIV,ANTONY,2714,vesper's
 1534,Antony and Cleopatra,ANTONY AND CLEOPATRA,Tragedy,1607,William Shakespeare,contents,dialogue,ACT IV,SCENE XIV,ANTONY,2714,pageants
-1534,Antony and Cleopatra,ANTONY AND CLEOPATRA,Tragedy,1607,William Shakespeare,contents,dialogue,ACT IV,SCENE XIV,EROS,2715,ay
 1534,Antony and Cleopatra,ANTONY AND CLEOPATRA,Tragedy,1607,William Shakespeare,contents,dialogue,ACT IV,SCENE XIV,EROS,2715,lord
 1534,Antony and Cleopatra,ANTONY AND CLEOPATRA,Tragedy,1607,William Shakespeare,contents,dialogue,ACT IV,SCENE XIV,ANTONY,2716,horse
 1534,Antony and Cleopatra,ANTONY AND CLEOPATRA,Tragedy,1607,William Shakespeare,contents,dialogue,ACT IV,SCENE XIV,ANTONY,2717,rack
@@ -6981,9 +6864,7 @@ gutenberg_id,short_title,gutenberg_title,genre,year,author,section,class,act,sce
 1534,Antony and Cleopatra,ANTONY AND CLEOPATRA,Tragedy,1607,William Shakespeare,contents,dialogue,ACT IV,SCENE XIV,ANTONY,2723,egypt
 1534,Antony and Cleopatra,ANTONY AND CLEOPATRA,Tragedy,1607,William Shakespeare,contents,dialogue,ACT IV,SCENE XIV,ANTONY,2723,queen
 1534,Antony and Cleopatra,ANTONY AND CLEOPATRA,Tragedy,1607,William Shakespeare,contents,dialogue,ACT IV,SCENE XIV,ANTONY,2724,heart
-1534,Antony and Cleopatra,ANTONY AND CLEOPATRA,Tragedy,1607,William Shakespeare,contents,dialogue,ACT IV,SCENE XIV,ANTONY,2724,mine
 1534,Antony and Cleopatra,ANTONY AND CLEOPATRA,Tragedy,1607,William Shakespeare,contents,dialogue,ACT IV,SCENE XIV,ANTONY,2725,whilst
-1534,Antony and Cleopatra,ANTONY AND CLEOPATRA,Tragedy,1607,William Shakespeare,contents,dialogue,ACT IV,SCENE XIV,ANTONY,2725,mine
 1534,Antony and Cleopatra,ANTONY AND CLEOPATRA,Tragedy,1607,William Shakespeare,contents,dialogue,ACT IV,SCENE XIV,ANTONY,2725,annexed
 1534,Antony and Cleopatra,ANTONY AND CLEOPATRA,Tragedy,1607,William Shakespeare,contents,dialogue,ACT IV,SCENE XIV,ANTONY,2725,unto't
 1534,Antony and Cleopatra,ANTONY AND CLEOPATRA,Tragedy,1607,William Shakespeare,contents,dialogue,ACT IV,SCENE XIV,ANTONY,2726,million
@@ -6997,7 +6878,6 @@ gutenberg_id,short_title,gutenberg_title,genre,year,author,section,class,act,sce
 1534,Antony and Cleopatra,ANTONY AND CLEOPATRA,Tragedy,1607,William Shakespeare,contents,dialogue,ACT IV,SCENE XIV,ANTONY,2727,glory
 1534,Antony and Cleopatra,ANTONY AND CLEOPATRA,Tragedy,1607,William Shakespeare,contents,dialogue,ACT IV,SCENE XIV,ANTONY,2728,enemy's
 1534,Antony and Cleopatra,ANTONY AND CLEOPATRA,Tragedy,1607,William Shakespeare,contents,dialogue,ACT IV,SCENE XIV,ANTONY,2728,triumph
-1534,Antony and Cleopatra,ANTONY AND CLEOPATRA,Tragedy,1607,William Shakespeare,contents,dialogue,ACT IV,SCENE XIV,ANTONY,2729,nay
 1534,Antony and Cleopatra,ANTONY AND CLEOPATRA,Tragedy,1607,William Shakespeare,contents,dialogue,ACT IV,SCENE XIV,ANTONY,2729,weep
 1534,Antony and Cleopatra,ANTONY AND CLEOPATRA,Tragedy,1607,William Shakespeare,contents,dialogue,ACT IV,SCENE XIV,ANTONY,2729,gentle
 1534,Antony and Cleopatra,ANTONY AND CLEOPATRA,Tragedy,1607,William Shakespeare,contents,dialogue,ACT IV,SCENE XIV,ANTONY,2729,eros
@@ -7189,7 +7069,6 @@ gutenberg_id,short_title,gutenberg_title,genre,year,author,section,class,act,sce
 1534,Antony and Cleopatra,ANTONY AND CLEOPATRA,Tragedy,1607,William Shakespeare,contents,dialogue,ACT IV,SCENE XIV,ANTONY,2797,draw
 1534,Antony and Cleopatra,ANTONY AND CLEOPATRA,Tragedy,1607,William Shakespeare,contents,dialogue,ACT IV,SCENE XIV,ANTONY,2797,honest
 1534,Antony and Cleopatra,ANTONY AND CLEOPATRA,Tragedy,1607,William Shakespeare,contents,dialogue,ACT IV,SCENE XIV,ANTONY,2797,sword
-1534,Antony and Cleopatra,ANTONY AND CLEOPATRA,Tragedy,1607,William Shakespeare,contents,dialogue,ACT IV,SCENE XIV,ANTONY,2797,hast
 1534,Antony and Cleopatra,ANTONY AND CLEOPATRA,Tragedy,1607,William Shakespeare,contents,dialogue,ACT IV,SCENE XIV,ANTONY,2797,worn
 1534,Antony and Cleopatra,ANTONY AND CLEOPATRA,Tragedy,1607,William Shakespeare,contents,dialogue,ACT IV,SCENE XIV,ANTONY,2798,country
 1534,Antony and Cleopatra,ANTONY AND CLEOPATRA,Tragedy,1607,William Shakespeare,contents,dialogue,ACT IV,SCENE XIV,EROS,2799,sir
@@ -7210,7 +7089,6 @@ gutenberg_id,short_title,gutenberg_title,genre,year,author,section,class,act,sce
 1534,Antony and Cleopatra,ANTONY AND CLEOPATRA,Tragedy,1607,William Shakespeare,contents,dialogue,ACT IV,SCENE XIV,ANTONY,2806,lo
 1534,Antony and Cleopatra,ANTONY AND CLEOPATRA,Tragedy,1607,William Shakespeare,contents,dialogue,ACT IV,SCENE XIV,EROS,2807,sword
 1534,Antony and Cleopatra,ANTONY AND CLEOPATRA,Tragedy,1607,William Shakespeare,contents,dialogue,ACT IV,SCENE XIV,EROS,2807,drawn
-1534,Antony and Cleopatra,ANTONY AND CLEOPATRA,Tragedy,1607,William Shakespeare,contents,dialogue,ACT IV,SCENE XIV,ANTONY,2809,hast
 1534,Antony and Cleopatra,ANTONY AND CLEOPATRA,Tragedy,1607,William Shakespeare,contents,dialogue,ACT IV,SCENE XIV,ANTONY,2809,drawn
 1534,Antony and Cleopatra,ANTONY AND CLEOPATRA,Tragedy,1607,William Shakespeare,contents,dialogue,ACT IV,SCENE XIV,EROS,2810,dear
 1534,Antony and Cleopatra,ANTONY AND CLEOPATRA,Tragedy,1607,William Shakespeare,contents,dialogue,ACT IV,SCENE XIV,EROS,2810,master
@@ -7352,7 +7230,6 @@ gutenberg_id,short_title,gutenberg_title,genre,year,author,section,class,act,sce
 1534,Antony and Cleopatra,ANTONY AND CLEOPATRA,Tragedy,1607,William Shakespeare,contents,dialogue,ACT IV,SCENE XIV,FIRST GUARD,2865,followers
 1534,Antony and Cleopatra,ANTONY AND CLEOPATRA,Tragedy,1607,William Shakespeare,contents,dialogue,ACT IV,SCENE XIV,ALL,2866,heavy
 1534,Antony and Cleopatra,ANTONY AND CLEOPATRA,Tragedy,1607,William Shakespeare,contents,dialogue,ACT IV,SCENE XIV,ALL,2866,day
-1534,Antony and Cleopatra,ANTONY AND CLEOPATRA,Tragedy,1607,William Shakespeare,contents,dialogue,ACT IV,SCENE XIV,ANTONY,2867,nay
 1534,Antony and Cleopatra,ANTONY AND CLEOPATRA,Tragedy,1607,William Shakespeare,contents,dialogue,ACT IV,SCENE XIV,ANTONY,2867,fellows
 1534,Antony and Cleopatra,ANTONY AND CLEOPATRA,Tragedy,1607,William Shakespeare,contents,dialogue,ACT IV,SCENE XIV,ANTONY,2867,sharp
 1534,Antony and Cleopatra,ANTONY AND CLEOPATRA,Tragedy,1607,William Shakespeare,contents,dialogue,ACT IV,SCENE XIV,ANTONY,2867,fate
@@ -7490,7 +7367,6 @@ gutenberg_id,short_title,gutenberg_title,genre,year,author,section,class,act,sce
 1534,Antony and Cleopatra,ANTONY AND CLEOPATRA,Tragedy,1607,William Shakespeare,contents,directions,ACT IV,SCENE XV,NA,NA,aloft
 1534,Antony and Cleopatra,ANTONY AND CLEOPATRA,Tragedy,1607,William Shakespeare,contents,directions,ACT IV,SCENE XV,NA,NA,cleopatra
 1534,Antony and Cleopatra,ANTONY AND CLEOPATRA,Tragedy,1607,William Shakespeare,contents,dialogue,ACT IV,SCENE XV,CLEOPATRA,2916,die
-1534,Antony and Cleopatra,ANTONY AND CLEOPATRA,Tragedy,1607,William Shakespeare,contents,dialogue,ACT IV,SCENE XV,CLEOPATRA,2916,hast
 1534,Antony and Cleopatra,ANTONY AND CLEOPATRA,Tragedy,1607,William Shakespeare,contents,dialogue,ACT IV,SCENE XV,CLEOPATRA,2916,lived
 1534,Antony and Cleopatra,ANTONY AND CLEOPATRA,Tragedy,1607,William Shakespeare,contents,dialogue,ACT IV,SCENE XV,CLEOPATRA,2917,quicken
 1534,Antony and Cleopatra,ANTONY AND CLEOPATRA,Tragedy,1607,William Shakespeare,contents,dialogue,ACT IV,SCENE XV,CLEOPATRA,2917,kissing
@@ -7552,7 +7428,6 @@ gutenberg_id,short_title,gutenberg_title,genre,year,author,section,class,act,sce
 1534,Antony and Cleopatra,ANTONY AND CLEOPATRA,Tragedy,1607,William Shakespeare,contents,dialogue,ACT IV,SCENE XV,CLEOPATRA,2941,noblest
 1534,Antony and Cleopatra,ANTONY AND CLEOPATRA,Tragedy,1607,William Shakespeare,contents,dialogue,ACT IV,SCENE XV,CLEOPATRA,2941,woo't
 1534,Antony and Cleopatra,ANTONY AND CLEOPATRA,Tragedy,1607,William Shakespeare,contents,dialogue,ACT IV,SCENE XV,CLEOPATRA,2941,die
-1534,Antony and Cleopatra,ANTONY AND CLEOPATRA,Tragedy,1607,William Shakespeare,contents,dialogue,ACT IV,SCENE XV,CLEOPATRA,2942,hast
 1534,Antony and Cleopatra,ANTONY AND CLEOPATRA,Tragedy,1607,William Shakespeare,contents,dialogue,ACT IV,SCENE XV,CLEOPATRA,2942,care
 1534,Antony and Cleopatra,ANTONY AND CLEOPATRA,Tragedy,1607,William Shakespeare,contents,dialogue,ACT IV,SCENE XV,CLEOPATRA,2942,abide
 1534,Antony and Cleopatra,ANTONY AND CLEOPATRA,Tragedy,1607,William Shakespeare,contents,dialogue,ACT IV,SCENE XV,CLEOPATRA,2943,dull
@@ -7612,7 +7487,6 @@ gutenberg_id,short_title,gutenberg_title,genre,year,author,section,class,act,sce
 1534,Antony and Cleopatra,ANTONY AND CLEOPATRA,Tragedy,1607,William Shakespeare,contents,dialogue,ACT IV,SCENE XV,CLEOPATRA,2961,gods
 1534,Antony and Cleopatra,ANTONY AND CLEOPATRA,Tragedy,1607,William Shakespeare,contents,dialogue,ACT IV,SCENE XV,CLEOPATRA,2962,world
 1534,Antony and Cleopatra,ANTONY AND CLEOPATRA,Tragedy,1607,William Shakespeare,contents,dialogue,ACT IV,SCENE XV,CLEOPATRA,2962,equal
-1534,Antony and Cleopatra,ANTONY AND CLEOPATRA,Tragedy,1607,William Shakespeare,contents,dialogue,ACT IV,SCENE XV,CLEOPATRA,2963,till
 1534,Antony and Cleopatra,ANTONY AND CLEOPATRA,Tragedy,1607,William Shakespeare,contents,dialogue,ACT IV,SCENE XV,CLEOPATRA,2963,stolen
 1534,Antony and Cleopatra,ANTONY AND CLEOPATRA,Tragedy,1607,William Shakespeare,contents,dialogue,ACT IV,SCENE XV,CLEOPATRA,2963,jewel
 1534,Antony and Cleopatra,ANTONY AND CLEOPATRA,Tragedy,1607,William Shakespeare,contents,dialogue,ACT IV,SCENE XV,CLEOPATRA,2963,all's
@@ -7627,7 +7501,6 @@ gutenberg_id,short_title,gutenberg_title,genre,year,author,section,class,act,sce
 1534,Antony and Cleopatra,ANTONY AND CLEOPATRA,Tragedy,1607,William Shakespeare,contents,dialogue,ACT IV,SCENE XV,CLEOPATRA,2966,secret
 1534,Antony and Cleopatra,ANTONY AND CLEOPATRA,Tragedy,1607,William Shakespeare,contents,dialogue,ACT IV,SCENE XV,CLEOPATRA,2966,house
 1534,Antony and Cleopatra,ANTONY AND CLEOPATRA,Tragedy,1607,William Shakespeare,contents,dialogue,ACT IV,SCENE XV,CLEOPATRA,2966,death
-1534,Antony and Cleopatra,ANTONY AND CLEOPATRA,Tragedy,1607,William Shakespeare,contents,dialogue,ACT IV,SCENE XV,CLEOPATRA,2967,ere
 1534,Antony and Cleopatra,ANTONY AND CLEOPATRA,Tragedy,1607,William Shakespeare,contents,dialogue,ACT IV,SCENE XV,CLEOPATRA,2967,death
 1534,Antony and Cleopatra,ANTONY AND CLEOPATRA,Tragedy,1607,William Shakespeare,contents,dialogue,ACT IV,SCENE XV,CLEOPATRA,2967,dare
 1534,Antony and Cleopatra,ANTONY AND CLEOPATRA,Tragedy,1607,William Shakespeare,contents,dialogue,ACT IV,SCENE XV,CLEOPATRA,2967,women
@@ -7801,10 +7674,8 @@ gutenberg_id,short_title,gutenberg_title,genre,year,author,section,class,act,sce
 1534,Antony and Cleopatra,ANTONY AND CLEOPATRA,Tragedy,1607,William Shakespeare,contents,dialogue,ACT V,SCENE I,CAESAR,3029,front
 1534,Antony and Cleopatra,ANTONY AND CLEOPATRA,Tragedy,1607,William Shakespeare,contents,dialogue,ACT V,SCENE I,CAESAR,3029,war
 1534,Antony and Cleopatra,ANTONY AND CLEOPATRA,Tragedy,1607,William Shakespeare,contents,dialogue,ACT V,SCENE I,CAESAR,3030,arm
-1534,Antony and Cleopatra,ANTONY AND CLEOPATRA,Tragedy,1607,William Shakespeare,contents,dialogue,ACT V,SCENE I,CAESAR,3030,mine
 1534,Antony and Cleopatra,ANTONY AND CLEOPATRA,Tragedy,1607,William Shakespeare,contents,dialogue,ACT V,SCENE I,CAESAR,3030,body
 1534,Antony and Cleopatra,ANTONY AND CLEOPATRA,Tragedy,1607,William Shakespeare,contents,dialogue,ACT V,SCENE I,CAESAR,3030,heart
-1534,Antony and Cleopatra,ANTONY AND CLEOPATRA,Tragedy,1607,William Shakespeare,contents,dialogue,ACT V,SCENE I,CAESAR,3031,mine
 1534,Antony and Cleopatra,ANTONY AND CLEOPATRA,Tragedy,1607,William Shakespeare,contents,dialogue,ACT V,SCENE I,CAESAR,3031,kindle
 1534,Antony and Cleopatra,ANTONY AND CLEOPATRA,Tragedy,1607,William Shakespeare,contents,dialogue,ACT V,SCENE I,CAESAR,3031,stars
 1534,Antony and Cleopatra,ANTONY AND CLEOPATRA,Tragedy,1607,William Shakespeare,contents,dialogue,ACT V,SCENE I,CAESAR,3032,unreconciliable
@@ -7926,7 +7797,6 @@ gutenberg_id,short_title,gutenberg_title,genre,year,author,section,class,act,sce
 1534,Antony and Cleopatra,ANTONY AND CLEOPATRA,Tragedy,1607,William Shakespeare,contents,dialogue,ACT V,SCENE II,CLEOPATRA,3087,conquered
 1534,Antony and Cleopatra,ANTONY AND CLEOPATRA,Tragedy,1607,William Shakespeare,contents,dialogue,ACT V,SCENE II,CLEOPATRA,3087,egypt
 1534,Antony and Cleopatra,ANTONY AND CLEOPATRA,Tragedy,1607,William Shakespeare,contents,dialogue,ACT V,SCENE II,CLEOPATRA,3087,son
-1534,Antony and Cleopatra,ANTONY AND CLEOPATRA,Tragedy,1607,William Shakespeare,contents,dialogue,ACT V,SCENE II,CLEOPATRA,3088,mine
 1534,Antony and Cleopatra,ANTONY AND CLEOPATRA,Tragedy,1607,William Shakespeare,contents,dialogue,ACT V,SCENE II,CLEOPATRA,3089,kneel
 1534,Antony and Cleopatra,ANTONY AND CLEOPATRA,Tragedy,1607,William Shakespeare,contents,dialogue,ACT V,SCENE II,PROCULEIUS,3090,cheer
 1534,Antony and Cleopatra,ANTONY AND CLEOPATRA,Tragedy,1607,William Shakespeare,contents,dialogue,ACT V,SCENE II,PROCULEIUS,3091,fallen
@@ -7970,7 +7840,6 @@ gutenberg_id,short_title,gutenberg_title,genre,year,author,section,class,act,sce
 1534,Antony and Cleopatra,ANTONY AND CLEOPATRA,Tragedy,1607,William Shakespeare,contents,dialogue,ACT V,SCENE II,PROCULEIUS,3106,easily
 1534,Antony and Cleopatra,ANTONY AND CLEOPATRA,Tragedy,1607,William Shakespeare,contents,dialogue,ACT V,SCENE II,PROCULEIUS,3106,surprised
 1534,Antony and Cleopatra,ANTONY AND CLEOPATRA,Tragedy,1607,William Shakespeare,contents,dialogue,ACT V,SCENE II,PROCULEIUS,3107,guard
-1534,Antony and Cleopatra,ANTONY AND CLEOPATRA,Tragedy,1607,William Shakespeare,contents,dialogue,ACT V,SCENE II,PROCULEIUS,3107,till
 1534,Antony and Cleopatra,ANTONY AND CLEOPATRA,Tragedy,1607,William Shakespeare,contents,dialogue,ACT V,SCENE II,PROCULEIUS,3107,caesar
 1534,Antony and Cleopatra,ANTONY AND CLEOPATRA,Tragedy,1607,William Shakespeare,contents,dialogue,ACT V,SCENE II,IRAS,3108,royal
 1534,Antony and Cleopatra,ANTONY AND CLEOPATRA,Tragedy,1607,William Shakespeare,contents,dialogue,ACT V,SCENE II,IRAS,3108,queen
@@ -8060,7 +7929,6 @@ gutenberg_id,short_title,gutenberg_title,genre,year,author,section,class,act,sce
 1534,Antony and Cleopatra,ANTONY AND CLEOPATRA,Tragedy,1607,William Shakespeare,contents,dialogue,ACT V,SCENE II,PROCULEIUS,3141,caesar
 1534,Antony and Cleopatra,ANTONY AND CLEOPATRA,Tragedy,1607,William Shakespeare,contents,directions,ACT V,SCENE II,NA,NA,dolabella
 1534,Antony and Cleopatra,ANTONY AND CLEOPATRA,Tragedy,1607,William Shakespeare,contents,dialogue,ACT V,SCENE II,DOLABELLA,3142,proculeius
-1534,Antony and Cleopatra,ANTONY AND CLEOPATRA,Tragedy,1607,William Shakespeare,contents,dialogue,ACT V,SCENE II,DOLABELLA,3143,hast
 1534,Antony and Cleopatra,ANTONY AND CLEOPATRA,Tragedy,1607,William Shakespeare,contents,dialogue,ACT V,SCENE II,DOLABELLA,3143,master
 1534,Antony and Cleopatra,ANTONY AND CLEOPATRA,Tragedy,1607,William Shakespeare,contents,dialogue,ACT V,SCENE II,DOLABELLA,3143,caesar
 1534,Antony and Cleopatra,ANTONY AND CLEOPATRA,Tragedy,1607,William Shakespeare,contents,dialogue,ACT V,SCENE II,DOLABELLA,3144,queen
@@ -8182,7 +8050,6 @@ gutenberg_id,short_title,gutenberg_title,genre,year,author,section,class,act,sce
 1534,Antony and Cleopatra,ANTONY AND CLEOPATRA,Tragedy,1607,William Shakespeare,contents,dialogue,ACT V,SCENE II,CLEOPATRA,3194,caesar
 1534,Antony and Cleopatra,ANTONY AND CLEOPATRA,Tragedy,1607,William Shakespeare,contents,dialogue,ACT V,SCENE II,CLEOPATRA,3194,means
 1534,Antony and Cleopatra,ANTONY AND CLEOPATRA,Tragedy,1607,William Shakespeare,contents,dialogue,ACT V,SCENE II,DOLABELLA,3195,loath
-1534,Antony and Cleopatra,ANTONY AND CLEOPATRA,Tragedy,1607,William Shakespeare,contents,dialogue,ACT V,SCENE II,CLEOPATRA,3196,nay
 1534,Antony and Cleopatra,ANTONY AND CLEOPATRA,Tragedy,1607,William Shakespeare,contents,dialogue,ACT V,SCENE II,CLEOPATRA,3196,pray
 1534,Antony and Cleopatra,ANTONY AND CLEOPATRA,Tragedy,1607,William Shakespeare,contents,dialogue,ACT V,SCENE II,CLEOPATRA,3196,sir
 1534,Antony and Cleopatra,ANTONY AND CLEOPATRA,Tragedy,1607,William Shakespeare,contents,dialogue,ACT V,SCENE II,DOLABELLA,3197,honourable
@@ -8224,7 +8091,6 @@ gutenberg_id,short_title,gutenberg_title,genre,year,author,section,class,act,sce
 1534,Antony and Cleopatra,ANTONY AND CLEOPATRA,Tragedy,1607,William Shakespeare,contents,dialogue,ACT V,SCENE II,CLEOPATRA,3214,sir
 1534,Antony and Cleopatra,ANTONY AND CLEOPATRA,Tragedy,1607,William Shakespeare,contents,dialogue,ACT V,SCENE II,CLEOPATRA,3214,world
 1534,Antony and Cleopatra,ANTONY AND CLEOPATRA,Tragedy,1607,William Shakespeare,contents,dialogue,ACT V,SCENE II,CLEOPATRA,3215,project
-1534,Antony and Cleopatra,ANTONY AND CLEOPATRA,Tragedy,1607,William Shakespeare,contents,dialogue,ACT V,SCENE II,CLEOPATRA,3215,mine
 1534,Antony and Cleopatra,ANTONY AND CLEOPATRA,Tragedy,1607,William Shakespeare,contents,dialogue,ACT V,SCENE II,CLEOPATRA,3216,confess
 1534,Antony and Cleopatra,ANTONY AND CLEOPATRA,Tragedy,1607,William Shakespeare,contents,dialogue,ACT V,SCENE II,CLEOPATRA,3217,laden
 1534,Antony and Cleopatra,ANTONY AND CLEOPATRA,Tragedy,1607,William Shakespeare,contents,dialogue,ACT V,SCENE II,CLEOPATRA,3217,frailties
@@ -8283,7 +8149,6 @@ gutenberg_id,short_title,gutenberg_title,genre,year,author,section,class,act,sce
 1534,Antony and Cleopatra,ANTONY AND CLEOPATRA,Tragedy,1607,William Shakespeare,contents,dialogue,ACT V,SCENE II,SELEUCUS,3241,peril
 1534,Antony and Cleopatra,ANTONY AND CLEOPATRA,Tragedy,1607,William Shakespeare,contents,dialogue,ACT V,SCENE II,SELEUCUS,3241,speak
 1534,Antony and Cleopatra,ANTONY AND CLEOPATRA,Tragedy,1607,William Shakespeare,contents,dialogue,ACT V,SCENE II,SELEUCUS,3243,purchase
-1534,Antony and Cleopatra,ANTONY AND CLEOPATRA,Tragedy,1607,William Shakespeare,contents,dialogue,ACT V,SCENE II,CAESAR,3244,nay
 1534,Antony and Cleopatra,ANTONY AND CLEOPATRA,Tragedy,1607,William Shakespeare,contents,dialogue,ACT V,SCENE II,CAESAR,3244,blush
 1534,Antony and Cleopatra,ANTONY AND CLEOPATRA,Tragedy,1607,William Shakespeare,contents,dialogue,ACT V,SCENE II,CAESAR,3244,cleopatra
 1534,Antony and Cleopatra,ANTONY AND CLEOPATRA,Tragedy,1607,William Shakespeare,contents,dialogue,ACT V,SCENE II,CAESAR,3244,approve
@@ -8292,10 +8157,8 @@ gutenberg_id,short_title,gutenberg_title,genre,year,author,section,class,act,sce
 1534,Antony and Cleopatra,ANTONY AND CLEOPATRA,Tragedy,1607,William Shakespeare,contents,dialogue,ACT V,SCENE II,CLEOPATRA,3246,caesar
 1534,Antony and Cleopatra,ANTONY AND CLEOPATRA,Tragedy,1607,William Shakespeare,contents,dialogue,ACT V,SCENE II,CLEOPATRA,3246,behold
 1534,Antony and Cleopatra,ANTONY AND CLEOPATRA,Tragedy,1607,William Shakespeare,contents,dialogue,ACT V,SCENE II,CLEOPATRA,3247,pomp
-1534,Antony and Cleopatra,ANTONY AND CLEOPATRA,Tragedy,1607,William Shakespeare,contents,dialogue,ACT V,SCENE II,CLEOPATRA,3247,mine
 1534,Antony and Cleopatra,ANTONY AND CLEOPATRA,Tragedy,1607,William Shakespeare,contents,dialogue,ACT V,SCENE II,CLEOPATRA,3248,shift
 1534,Antony and Cleopatra,ANTONY AND CLEOPATRA,Tragedy,1607,William Shakespeare,contents,dialogue,ACT V,SCENE II,CLEOPATRA,3248,estates
-1534,Antony and Cleopatra,ANTONY AND CLEOPATRA,Tragedy,1607,William Shakespeare,contents,dialogue,ACT V,SCENE II,CLEOPATRA,3248,mine
 1534,Antony and Cleopatra,ANTONY AND CLEOPATRA,Tragedy,1607,William Shakespeare,contents,dialogue,ACT V,SCENE II,CLEOPATRA,3249,ingratitude
 1534,Antony and Cleopatra,ANTONY AND CLEOPATRA,Tragedy,1607,William Shakespeare,contents,dialogue,ACT V,SCENE II,CLEOPATRA,3249,seleucus
 1534,Antony and Cleopatra,ANTONY AND CLEOPATRA,Tragedy,1607,William Shakespeare,contents,dialogue,ACT V,SCENE II,CLEOPATRA,3250,wild
@@ -8324,7 +8187,6 @@ gutenberg_id,short_title,gutenberg_title,genre,year,author,section,class,act,sce
 1534,Antony and Cleopatra,ANTONY AND CLEOPATRA,Tragedy,1607,William Shakespeare,contents,dialogue,ACT V,SCENE II,CLEOPATRA,3258,honour
 1534,Antony and Cleopatra,ANTONY AND CLEOPATRA,Tragedy,1607,William Shakespeare,contents,dialogue,ACT V,SCENE II,CLEOPATRA,3258,lordliness
 1534,Antony and Cleopatra,ANTONY AND CLEOPATRA,Tragedy,1607,William Shakespeare,contents,dialogue,ACT V,SCENE II,CLEOPATRA,3259,meek
-1534,Antony and Cleopatra,ANTONY AND CLEOPATRA,Tragedy,1607,William Shakespeare,contents,dialogue,ACT V,SCENE II,CLEOPATRA,3259,mine
 1534,Antony and Cleopatra,ANTONY AND CLEOPATRA,Tragedy,1607,William Shakespeare,contents,dialogue,ACT V,SCENE II,CLEOPATRA,3259,servant
 1534,Antony and Cleopatra,ANTONY AND CLEOPATRA,Tragedy,1607,William Shakespeare,contents,dialogue,ACT V,SCENE II,CLEOPATRA,3260,parcel
 1534,Antony and Cleopatra,ANTONY AND CLEOPATRA,Tragedy,1607,William Shakespeare,contents,dialogue,ACT V,SCENE II,CLEOPATRA,3260,sum
@@ -8480,7 +8342,6 @@ gutenberg_id,short_title,gutenberg_title,genre,year,author,section,class,act,sce
 1534,Antony and Cleopatra,ANTONY AND CLEOPATRA,Tragedy,1607,William Shakespeare,contents,dialogue,ACT V,SCENE II,CLEOPATRA,3321,vapour
 1534,Antony and Cleopatra,ANTONY AND CLEOPATRA,Tragedy,1607,William Shakespeare,contents,dialogue,ACT V,SCENE II,IRAS,3322,gods
 1534,Antony and Cleopatra,ANTONY AND CLEOPATRA,Tragedy,1607,William Shakespeare,contents,dialogue,ACT V,SCENE II,IRAS,3322,forbid
-1534,Antony and Cleopatra,ANTONY AND CLEOPATRA,Tragedy,1607,William Shakespeare,contents,dialogue,ACT V,SCENE II,CLEOPATRA,3323,nay
 1534,Antony and Cleopatra,ANTONY AND CLEOPATRA,Tragedy,1607,William Shakespeare,contents,dialogue,ACT V,SCENE II,CLEOPATRA,3323,iras
 1534,Antony and Cleopatra,ANTONY AND CLEOPATRA,Tragedy,1607,William Shakespeare,contents,dialogue,ACT V,SCENE II,CLEOPATRA,3323,saucy
 1534,Antony and Cleopatra,ANTONY AND CLEOPATRA,Tragedy,1607,William Shakespeare,contents,dialogue,ACT V,SCENE II,CLEOPATRA,3323,lictors
@@ -8506,12 +8367,9 @@ gutenberg_id,short_title,gutenberg_title,genre,year,author,section,class,act,sce
 1534,Antony and Cleopatra,ANTONY AND CLEOPATRA,Tragedy,1607,William Shakespeare,contents,dialogue,ACT V,SCENE II,CLEOPATRA,3330,posture
 1534,Antony and Cleopatra,ANTONY AND CLEOPATRA,Tragedy,1607,William Shakespeare,contents,dialogue,ACT V,SCENE II,CLEOPATRA,3330,whore
 1534,Antony and Cleopatra,ANTONY AND CLEOPATRA,Tragedy,1607,William Shakespeare,contents,dialogue,ACT V,SCENE II,IRAS,3331,gods
-1534,Antony and Cleopatra,ANTONY AND CLEOPATRA,Tragedy,1607,William Shakespeare,contents,dialogue,ACT V,SCENE II,CLEOPATRA,3332,nay
 1534,Antony and Cleopatra,ANTONY AND CLEOPATRA,Tragedy,1607,William Shakespeare,contents,dialogue,ACT V,SCENE II,IRAS,3333,see't
-1534,Antony and Cleopatra,ANTONY AND CLEOPATRA,Tragedy,1607,William Shakespeare,contents,dialogue,ACT V,SCENE II,IRAS,3333,mine
 1534,Antony and Cleopatra,ANTONY AND CLEOPATRA,Tragedy,1607,William Shakespeare,contents,dialogue,ACT V,SCENE II,IRAS,3333,nails
 1534,Antony and Cleopatra,ANTONY AND CLEOPATRA,Tragedy,1607,William Shakespeare,contents,dialogue,ACT V,SCENE II,IRAS,3334,stronger
-1534,Antony and Cleopatra,ANTONY AND CLEOPATRA,Tragedy,1607,William Shakespeare,contents,dialogue,ACT V,SCENE II,IRAS,3334,mine
 1534,Antony and Cleopatra,ANTONY AND CLEOPATRA,Tragedy,1607,William Shakespeare,contents,dialogue,ACT V,SCENE II,IRAS,3334,eyes
 1534,Antony and Cleopatra,ANTONY AND CLEOPATRA,Tragedy,1607,William Shakespeare,contents,dialogue,ACT V,SCENE II,CLEOPATRA,3336,fool
 1534,Antony and Cleopatra,ANTONY AND CLEOPATRA,Tragedy,1607,William Shakespeare,contents,dialogue,ACT V,SCENE II,CLEOPATRA,3336,preparation
@@ -8533,11 +8391,9 @@ gutenberg_id,short_title,gutenberg_title,genre,year,author,section,class,act,sce
 1534,Antony and Cleopatra,ANTONY AND CLEOPATRA,Tragedy,1607,William Shakespeare,contents,dialogue,ACT V,SCENE II,CLEOPATRA,3342,noble
 1534,Antony and Cleopatra,ANTONY AND CLEOPATRA,Tragedy,1607,William Shakespeare,contents,dialogue,ACT V,SCENE II,CLEOPATRA,3342,charmian
 1534,Antony and Cleopatra,ANTONY AND CLEOPATRA,Tragedy,1607,William Shakespeare,contents,dialogue,ACT V,SCENE II,CLEOPATRA,3342,dispatch
-1534,Antony and Cleopatra,ANTONY AND CLEOPATRA,Tragedy,1607,William Shakespeare,contents,dialogue,ACT V,SCENE II,CLEOPATRA,3343,hast
 1534,Antony and Cleopatra,ANTONY AND CLEOPATRA,Tragedy,1607,William Shakespeare,contents,dialogue,ACT V,SCENE II,CLEOPATRA,3343,chare
 1534,Antony and Cleopatra,ANTONY AND CLEOPATRA,Tragedy,1607,William Shakespeare,contents,dialogue,ACT V,SCENE II,CLEOPATRA,3343,leave
 1534,Antony and Cleopatra,ANTONY AND CLEOPATRA,Tragedy,1607,William Shakespeare,contents,dialogue,ACT V,SCENE II,CLEOPATRA,3344,play
-1534,Antony and Cleopatra,ANTONY AND CLEOPATRA,Tragedy,1607,William Shakespeare,contents,dialogue,ACT V,SCENE II,CLEOPATRA,3344,till
 1534,Antony and Cleopatra,ANTONY AND CLEOPATRA,Tragedy,1607,William Shakespeare,contents,dialogue,ACT V,SCENE II,CLEOPATRA,3344,doomsday
 1534,Antony and Cleopatra,ANTONY AND CLEOPATRA,Tragedy,1607,William Shakespeare,contents,dialogue,ACT V,SCENE II,CLEOPATRA,3344,bring
 1534,Antony and Cleopatra,ANTONY AND CLEOPATRA,Tragedy,1607,William Shakespeare,contents,dialogue,ACT V,SCENE II,CLEOPATRA,3344,crown
@@ -8569,14 +8425,12 @@ gutenberg_id,short_title,gutenberg_title,genre,year,author,section,class,act,sce
 1534,Antony and Cleopatra,ANTONY AND CLEOPATRA,Tragedy,1607,William Shakespeare,contents,dialogue,ACT V,SCENE II,CLEOPATRA,3354,fleeting
 1534,Antony and Cleopatra,ANTONY AND CLEOPATRA,Tragedy,1607,William Shakespeare,contents,dialogue,ACT V,SCENE II,CLEOPATRA,3354,moon
 1534,Antony and Cleopatra,ANTONY AND CLEOPATRA,Tragedy,1607,William Shakespeare,contents,dialogue,ACT V,SCENE II,CLEOPATRA,3355,planet
-1534,Antony and Cleopatra,ANTONY AND CLEOPATRA,Tragedy,1607,William Shakespeare,contents,dialogue,ACT V,SCENE II,CLEOPATRA,3355,mine
 1534,Antony and Cleopatra,ANTONY AND CLEOPATRA,Tragedy,1607,William Shakespeare,contents,directions,ACT V,SCENE II,NA,NA,guardsman
 1534,Antony and Cleopatra,ANTONY AND CLEOPATRA,Tragedy,1607,William Shakespeare,contents,directions,ACT V,SCENE II,NA,NA,clown
 1534,Antony and Cleopatra,ANTONY AND CLEOPATRA,Tragedy,1607,William Shakespeare,contents,directions,ACT V,SCENE II,NA,NA,basket
 1534,Antony and Cleopatra,ANTONY AND CLEOPATRA,Tragedy,1607,William Shakespeare,contents,dialogue,ACT V,SCENE II,CLEOPATRA,3357,avoid
 1534,Antony and Cleopatra,ANTONY AND CLEOPATRA,Tragedy,1607,William Shakespeare,contents,dialogue,ACT V,SCENE II,CLEOPATRA,3357,leave
 1534,Antony and Cleopatra,ANTONY AND CLEOPATRA,Tragedy,1607,William Shakespeare,contents,directions,ACT V,SCENE II,NA,NA,guardsman
-1534,Antony and Cleopatra,ANTONY AND CLEOPATRA,Tragedy,1607,William Shakespeare,contents,dialogue,ACT V,SCENE II,CLEOPATRA,3358,hast
 1534,Antony and Cleopatra,ANTONY AND CLEOPATRA,Tragedy,1607,William Shakespeare,contents,dialogue,ACT V,SCENE II,CLEOPATRA,3358,pretty
 1534,Antony and Cleopatra,ANTONY AND CLEOPATRA,Tragedy,1607,William Shakespeare,contents,dialogue,ACT V,SCENE II,CLEOPATRA,3358,worm
 1534,Antony and Cleopatra,ANTONY AND CLEOPATRA,Tragedy,1607,William Shakespeare,contents,dialogue,ACT V,SCENE II,CLEOPATRA,3358,nilus
@@ -8620,8 +8474,6 @@ gutenberg_id,short_title,gutenberg_title,genre,year,author,section,class,act,sce
 1534,Antony and Cleopatra,ANTONY AND CLEOPATRA,Tragedy,1607,William Shakespeare,contents,directions,ACT V,SCENE II,NA,NA,basket
 1534,Antony and Cleopatra,ANTONY AND CLEOPATRA,Tragedy,1607,William Shakespeare,contents,dialogue,ACT V,SCENE II,CLEOPATRA,3372,farewell
 1534,Antony and Cleopatra,ANTONY AND CLEOPATRA,Tragedy,1607,William Shakespeare,contents,dialogue,ACT V,SCENE II,CLOWN,3373,worm
-1534,Antony and Cleopatra,ANTONY AND CLEOPATRA,Tragedy,1607,William Shakespeare,contents,dialogue,ACT V,SCENE II,CLEOPATRA,3374,ay
-1534,Antony and Cleopatra,ANTONY AND CLEOPATRA,Tragedy,1607,William Shakespeare,contents,dialogue,ACT V,SCENE II,CLEOPATRA,3374,ay
 1534,Antony and Cleopatra,ANTONY AND CLEOPATRA,Tragedy,1607,William Shakespeare,contents,dialogue,ACT V,SCENE II,CLEOPATRA,3374,farewell
 1534,Antony and Cleopatra,ANTONY AND CLEOPATRA,Tragedy,1607,William Shakespeare,contents,dialogue,ACT V,SCENE II,CLOWN,3375,worm
 1534,Antony and Cleopatra,ANTONY AND CLEOPATRA,Tragedy,1607,William Shakespeare,contents,dialogue,ACT V,SCENE II,CLOWN,3375,trusted
@@ -8779,7 +8631,6 @@ gutenberg_id,short_title,gutenberg_title,genre,year,author,section,class,act,sce
 1534,Antony and Cleopatra,ANTONY AND CLEOPATRA,Tragedy,1607,William Shakespeare,contents,dialogue,ACT V,SCENE II,CLEOPATRA,3423,air
 1534,Antony and Cleopatra,ANTONY AND CLEOPATRA,Tragedy,1607,William Shakespeare,contents,dialogue,ACT V,SCENE II,CLEOPATRA,3423,gentle
 1534,Antony and Cleopatra,ANTONY AND CLEOPATRA,Tragedy,1607,William Shakespeare,contents,dialogue,ACT V,SCENE II,CLEOPATRA,3424,antony
-1534,Antony and Cleopatra,ANTONY AND CLEOPATRA,Tragedy,1607,William Shakespeare,contents,dialogue,ACT V,SCENE II,CLEOPATRA,3424,nay
 1534,Antony and Cleopatra,ANTONY AND CLEOPATRA,Tragedy,1607,William Shakespeare,contents,directions,ACT V,SCENE II,NA,NA,applying
 1534,Antony and Cleopatra,ANTONY AND CLEOPATRA,Tragedy,1607,William Shakespeare,contents,directions,ACT V,SCENE II,NA,NA,asp
 1534,Antony and Cleopatra,ANTONY AND CLEOPATRA,Tragedy,1607,William Shakespeare,contents,directions,ACT V,SCENE II,NA,NA,arm

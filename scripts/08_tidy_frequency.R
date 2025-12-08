@@ -4,7 +4,7 @@ library(wordcloud)
 library(RColorBrewer)
 library(here)
 
-exists("stop_words_custom")
+exists("stop_words_custom_extended")
 
 # Configuration
 INPUT_DIR_FILTERED <- here("data", "processed", "filtered")
@@ -54,7 +54,7 @@ hamlet_counts <- hamlet_filtered %>%
 
 message("Unique words in Hamlet: ", format(nrow(hamlet_counts), big.mark = ","))
 
-# Plot top words in Hamlet (threshold: >20)
+# Plot most frequent words in Hamlet (threshold: >20)
 message("Creating bar plot for Hamlet (words > 20 occurrences)...")
 
 p1 <- hamlet_counts %>%
@@ -146,19 +146,22 @@ tragedies <- read_csv(
   file.path(INPUT_DIR_FILTERED, "by_stopwords", "tragedies_no_stopwords.csv"),
   show_col_types = FALSE
 ) %>%
-  filter(class == "dialogue")
+  filter(class == "dialogue") %>%
+  anti_join(stop_words_custom_extended, by = "word")
 
 comedies <- read_csv(
   file.path(INPUT_DIR_FILTERED, "by_stopwords", "comedies_no_stopwords.csv"),
   show_col_types = FALSE
   )%>%
-  filter(class == "dialogue") 
+  filter(class == "dialogue") %>%
+  anti_join(stop_words_custom_extended, by = "word")
 
 histories <- read_csv(
   file.path(INPUT_DIR_FILTERED, "by_stopwords", "histories_no_stopwords.csv"),
   show_col_types = FALSE
 ) %>%
-  filter(class == "dialogue")
+  filter(class == "dialogue")%>%
+  anti_join(stop_words_custom_extended, by = "word")
 
 message("✓ Loaded tragedies: ", format(nrow(tragedies), big.mark = ","), " tokens")
 message("✓ Loaded comedies:  ", format(nrow(comedies), big.mark = ","), " tokens")
@@ -169,7 +172,7 @@ tragedy_counts <- tragedies %>% count(word, sort = TRUE)
 comedy_counts <- comedies %>% count(word, sort = TRUE)
 history_counts <- histories %>% count(word, sort = TRUE)
 
-# Plot top words by genre
+# Plot most frequent words by genre
 message("\nCreating genre comparison plots...")
 
 # Tragedies
@@ -182,7 +185,7 @@ p_tragedy <- tragedy_counts %>%
     x = "Frequency",
     y = NULL,
     title = "Most Frequent Words in Tragedies",
-    subtitle = "Top 20 words"
+    subtitle = "Most Frequent 20 words"
   ) +
   theme_minimal()
 
@@ -205,7 +208,7 @@ p_comedy <- comedy_counts %>%
     x = "Frequency",
     y = NULL,
     title = "Most Frequent Words in Comedies",
-    subtitle = "Top 20 words"
+    subtitle = "Most Frequent 20 words"
   ) +
   theme_minimal()
 
@@ -228,7 +231,7 @@ p_history <- history_counts %>%
     x = "Frequency",
     y = NULL,
     title = "Most Frequent Words in Histories",
-    subtitle = "Top 20 words"
+    subtitle = "Most Frequent 20 words"
   ) +
   theme_minimal()
 
@@ -265,7 +268,7 @@ p_genre_compare <- genre_combined %>%
   labs(
     x = "Frequency",
     y = NULL,
-    title = "Top 15 Words by Genre",
+    title = "Most Frequent 15 Words by Genre",
     subtitle = "Comparing vocabulary across Shakespeare's genres"
   ) +
   theme_minimal() +

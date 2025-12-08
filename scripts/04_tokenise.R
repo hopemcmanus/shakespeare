@@ -33,8 +33,6 @@ message("Tokenising all text (dialogue + directions + references)...")
 shakespeare_tokens <- all_shakespeare %>%
   # Tokenise: split text into individual words
   unnest_tokens(word, text) %>%
-  # Normalize apostrophes: convert curly apostrophes to straight
-  mutate(word = str_replace_all(word, "['']", "'")) %>%
   # Select relevant columns (tokens only, no original text)
   select(
     gutenberg_id,

@@ -581,6 +581,7 @@ henry_viii_tokens,ONE
 henry_viii_tokens,PAGE
 henry_viii_tokens,PATIENCE
 henry_viii_tokens,PORTER
+henry_viii_tokens,PORTER'S MAN
 henry_viii_tokens,QUEEN KATHERINE
 henry_viii_tokens,SANDYS
 henry_viii_tokens,SCRIBE
@@ -1020,6 +1021,7 @@ romeo_and_juliet_tokens,APOTHECARY
 romeo_and_juliet_tokens,BALTHASAR
 romeo_and_juliet_tokens,BENVOLIO
 romeo_and_juliet_tokens,CAPULET
+romeo_and_juliet_tokens,CAPULET'S COUSIN
 romeo_and_juliet_tokens,CHORUS
 romeo_and_juliet_tokens,FIRST CITIZEN
 romeo_and_juliet_tokens,FIRST MUSICIAN
@@ -1075,6 +1077,7 @@ tempest_tokens,ADRIAN
 tempest_tokens,ALONSO
 tempest_tokens,ANTONIO
 tempest_tokens,ARIEL
+tempest_tokens,ARIEL'S SONG
 tempest_tokens,BOATSWAIN
 tempest_tokens,CALIBAN
 tempest_tokens,CERES
@@ -1103,11 +1106,13 @@ timon_of_athens_tokens,FIRST LORD
 timon_of_athens_tokens,FIRST SENATOR
 timon_of_athens_tokens,FIRST SERVANT
 timon_of_athens_tokens,FIRST STRANGER
+timon_of_athens_tokens,FIRST VARRO'S SERVANT
 timon_of_athens_tokens,FLAMINIUS
 timon_of_athens_tokens,FLAVIUS
 timon_of_athens_tokens,FOOL
 timon_of_athens_tokens,FOURTH FRIEND
 timon_of_athens_tokens,HORTENSIUS
+timon_of_athens_tokens,ISIDORE'S SERVANT
 timon_of_athens_tokens,JEWELLER
 timon_of_athens_tokens,LUCILIUS
 timon_of_athens_tokens,LUCIUS
@@ -1127,6 +1132,7 @@ timon_of_athens_tokens,SECOND LORD
 timon_of_athens_tokens,SECOND SENATOR
 timon_of_athens_tokens,SECOND SERVANT
 timon_of_athens_tokens,SECOND STRANGER
+timon_of_athens_tokens,SECOND VARRO'S SERVANT
 timon_of_athens_tokens,SEMPRONIUS
 timon_of_athens_tokens,SENATOR
 timon_of_athens_tokens,SERVANT
@@ -1144,6 +1150,7 @@ timon_of_athens_tokens,THIRD STRANGER
 timon_of_athens_tokens,TIMANDRA
 timon_of_athens_tokens,TIMON
 timon_of_athens_tokens,TITUS
+timon_of_athens_tokens,VARRO'S SERVANT
 timon_of_athens_tokens,VENTIDIUS
 titus_andronicus_tokens,AARON
 titus_andronicus_tokens,AEMILIUS

@@ -24,11 +24,9 @@ gutenberg_id,short_title,gutenberg_title,genre,year,author,section,class,act,sce
 1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,dialogue,ACT I,SCENE I,SLENDER,4,justice
 1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,dialogue,ACT I,SCENE I,SLENDER,4,peace
 1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,dialogue,ACT I,SCENE I,SLENDER,4,coram
-1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,dialogue,ACT I,SCENE I,SHALLOW,5,ay
 1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,dialogue,ACT I,SCENE I,SHALLOW,5,cousin
 1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,dialogue,ACT I,SCENE I,SHALLOW,5,slender
 1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,dialogue,ACT I,SCENE I,SHALLOW,5,custalorum
-1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,dialogue,ACT I,SCENE I,SLENDER,6,ay
 1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,dialogue,ACT I,SCENE I,SLENDER,6,ratolorum
 1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,dialogue,ACT I,SCENE I,SLENDER,6,gentleman
 1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,dialogue,ACT I,SCENE I,SLENDER,6,born
@@ -41,7 +39,6 @@ gutenberg_id,short_title,gutenberg_title,genre,year,author,section,class,act,sce
 1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,dialogue,ACT I,SCENE I,SLENDER,7,quittance
 1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,dialogue,ACT I,SCENE I,SLENDER,8,obligation
 1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,dialogue,ACT I,SCENE I,SLENDER,8,armigero
-1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,dialogue,ACT I,SCENE I,SHALLOW,9,ay
 1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,dialogue,ACT I,SCENE I,SHALLOW,9,time
 1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,dialogue,ACT I,SCENE I,SHALLOW,9,hundred
 1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,dialogue,ACT I,SCENE I,SLENDER,10,successors
@@ -167,7 +164,6 @@ gutenberg_id,short_title,gutenberg_title,genre,year,author,section,class,act,sce
 1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,dialogue,ACT I,SCENE I,SHALLOW,42,leave
 1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,dialogue,ACT I,SCENE I,SHALLOW,42,hundred
 1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,dialogue,ACT I,SCENE I,SHALLOW,42,pound
-1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,dialogue,ACT I,SCENE I,EVANS,43,ay
 1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,dialogue,ACT I,SCENE I,EVANS,43,father
 1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,dialogue,ACT I,SCENE I,EVANS,43,petter
 1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,dialogue,ACT I,SCENE I,EVANS,43,penny
@@ -345,10 +341,8 @@ gutenberg_id,short_title,gutenberg_title,genre,year,author,section,class,act,sce
 1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,dialogue,ACT I,SCENE I,SLENDER,94,pocket
 1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,dialogue,ACT I,SCENE I,BARDOLPH,95,banbury
 1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,dialogue,ACT I,SCENE I,BARDOLPH,95,cheese
-1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,dialogue,ACT I,SCENE I,SLENDER,96,ay
 1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,dialogue,ACT I,SCENE I,SLENDER,96,matter
 1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,dialogue,ACT I,SCENE I,PISTOL,97,mephostophilus
-1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,dialogue,ACT I,SCENE I,SLENDER,98,ay
 1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,dialogue,ACT I,SCENE I,SLENDER,98,matter
 1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,dialogue,ACT I,SCENE I,NYM,99,slice
 1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,dialogue,ACT I,SCENE I,NYM,99,pauca
@@ -372,7 +366,6 @@ gutenberg_id,short_title,gutenberg_title,genre,year,author,section,class,act,sce
 1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,dialogue,ACT I,SCENE I,EVANS,103,party
 1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,dialogue,ACT I,SCENE I,EVANS,104,lastly
 1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,dialogue,ACT I,SCENE I,EVANS,104,finally
-1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,dialogue,ACT I,SCENE I,EVANS,104,mine
 1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,dialogue,ACT I,SCENE I,EVANS,104,host
 1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,dialogue,ACT I,SCENE I,EVANS,104,garter
 1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,dialogue,ACT I,SCENE I,PAGE,105,hear
@@ -396,9 +389,7 @@ gutenberg_id,short_title,gutenberg_title,genre,year,author,section,class,act,sce
 1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,dialogue,ACT I,SCENE I,FALSTAFF,112,master
 1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,dialogue,ACT I,SCENE I,FALSTAFF,112,slender's
 1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,dialogue,ACT I,SCENE I,FALSTAFF,112,purse
-1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,dialogue,ACT I,SCENE I,SLENDER,113,ay
 1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,dialogue,ACT I,SCENE I,SLENDER,113,gloves
-1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,dialogue,ACT I,SCENE I,SLENDER,113,mine
 1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,dialogue,ACT I,SCENE I,SLENDER,114,chamber
 1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,dialogue,ACT I,SCENE I,SLENDER,114,groats
 1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,dialogue,ACT I,SCENE I,SLENDER,114,mill
@@ -424,7 +415,6 @@ gutenberg_id,short_title,gutenberg_title,genre,year,author,section,class,act,sce
 1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,dialogue,ACT I,SCENE I,PISTOL,119,sir
 1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,dialogue,ACT I,SCENE I,PISTOL,119,john
 1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,dialogue,ACT I,SCENE I,PISTOL,119,master
-1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,dialogue,ACT I,SCENE I,PISTOL,119,mine
 1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,dialogue,ACT I,SCENE I,PISTOL,120,combat
 1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,dialogue,ACT I,SCENE I,PISTOL,120,challenge
 1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,dialogue,ACT I,SCENE I,PISTOL,120,latten
@@ -470,7 +460,6 @@ gutenberg_id,short_title,gutenberg_title,genre,year,author,section,class,act,sce
 1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,dialogue,ACT I,SCENE I,BARDOLPH,134,conclusions
 1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,dialogue,ACT I,SCENE I,BARDOLPH,135,passed
 1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,dialogue,ACT I,SCENE I,BARDOLPH,135,careers
-1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,dialogue,ACT I,SCENE I,SLENDER,136,ay
 1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,dialogue,ACT I,SCENE I,SLENDER,136,spake
 1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,dialogue,ACT I,SCENE I,SLENDER,136,latin
 1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,dialogue,ACT I,SCENE I,SLENDER,136,matter
@@ -505,7 +494,6 @@ gutenberg_id,short_title,gutenberg_title,genre,year,author,section,class,act,sce
 1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,directions,ACT I,SCENE I,NA,NA,anne
 1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,directions,ACT I,SCENE I,NA,NA,page
 1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,dialogue,ACT I,SCENE I,FALSTAFF,142,wine
-1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,dialogue,ACT I,SCENE I,PAGE,143,nay
 1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,dialogue,ACT I,SCENE I,PAGE,143,daughter
 1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,dialogue,ACT I,SCENE I,PAGE,143,carry
 1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,dialogue,ACT I,SCENE I,PAGE,143,wine
@@ -574,11 +562,9 @@ gutenberg_id,short_title,gutenberg_title,genre,year,author,section,class,act,sce
 1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,dialogue,ACT I,SCENE I,SHALLOW,158,sir
 1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,dialogue,ACT I,SCENE I,SHALLOW,158,hugh
 1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,dialogue,ACT I,SCENE I,SHALLOW,158,understand
-1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,dialogue,ACT I,SCENE I,SLENDER,159,ay
 1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,dialogue,ACT I,SCENE I,SLENDER,159,sir
 1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,dialogue,ACT I,SCENE I,SLENDER,159,reasonable
 1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,dialogue,ACT I,SCENE I,SLENDER,160,reason
-1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,dialogue,ACT I,SCENE I,SHALLOW,161,nay
 1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,dialogue,ACT I,SCENE I,SHALLOW,161,understand
 1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,dialogue,ACT I,SCENE I,SLENDER,162,sir
 1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,dialogue,ACT I,SCENE I,EVANS,163,ear
@@ -588,7 +574,6 @@ gutenberg_id,short_title,gutenberg_title,genre,year,author,section,class,act,sce
 1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,dialogue,ACT I,SCENE I,EVANS,163,description
 1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,dialogue,ACT I,SCENE I,EVANS,163,matter
 1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,dialogue,ACT I,SCENE I,EVANS,164,capacity
-1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,dialogue,ACT I,SCENE I,SLENDER,165,nay
 1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,dialogue,ACT I,SCENE I,SLENDER,165,cousin
 1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,dialogue,ACT I,SCENE I,SLENDER,165,shallow
 1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,dialogue,ACT I,SCENE I,SLENDER,165,pray
@@ -601,7 +586,6 @@ gutenberg_id,short_title,gutenberg_title,genre,year,author,section,class,act,sce
 1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,dialogue,ACT I,SCENE I,EVANS,167,question
 1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,dialogue,ACT I,SCENE I,EVANS,167,question
 1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,dialogue,ACT I,SCENE I,EVANS,167,marriage
-1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,dialogue,ACT I,SCENE I,SHALLOW,168,ay
 1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,dialogue,ACT I,SCENE I,SHALLOW,168,sir
 1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,dialogue,ACT I,SCENE I,EVANS,169,marry
 1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,dialogue,ACT I,SCENE I,EVANS,169,mistress
@@ -631,7 +615,6 @@ gutenberg_id,short_title,gutenberg_title,genre,year,author,section,class,act,sce
 1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,dialogue,ACT I,SCENE I,SLENDER,176,hope
 1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,dialogue,ACT I,SCENE I,SLENDER,176,sir
 1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,dialogue,ACT I,SCENE I,SLENDER,176,reason
-1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,dialogue,ACT I,SCENE I,EVANS,177,nay
 1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,dialogue,ACT I,SCENE I,EVANS,177,got's
 1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,dialogue,ACT I,SCENE I,EVANS,177,lords
 1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,dialogue,ACT I,SCENE I,EVANS,177,ladies
@@ -644,7 +627,6 @@ gutenberg_id,short_title,gutenberg_title,genre,year,author,section,class,act,sce
 1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,dialogue,ACT I,SCENE I,SLENDER,180,request
 1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,dialogue,ACT I,SCENE I,SLENDER,180,cousin
 1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,dialogue,ACT I,SCENE I,SLENDER,181,reason
-1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,dialogue,ACT I,SCENE I,SHALLOW,182,nay
 1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,dialogue,ACT I,SCENE I,SHALLOW,182,conceive
 1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,dialogue,ACT I,SCENE I,SHALLOW,182,conceive
 1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,dialogue,ACT I,SCENE I,SHALLOW,182,sweet
@@ -683,10 +665,8 @@ gutenberg_id,short_title,gutenberg_title,genre,year,author,section,class,act,sce
 1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,dialogue,ACT I,SCENE I,EVANS,190,meaning
 1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,dialogue,ACT I,SCENE I,EVANS,190,resolutely
 1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,dialogue,ACT I,SCENE I,EVANS,191,meaning
-1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,dialogue,ACT I,SCENE I,SHALLOW,192,ay
 1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,dialogue,ACT I,SCENE I,SHALLOW,192,cousin
 1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,dialogue,ACT I,SCENE I,SHALLOW,192,meant
-1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,dialogue,ACT I,SCENE I,SLENDER,193,ay
 1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,dialogue,ACT I,SCENE I,SLENDER,193,hanged
 1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,dialogue,ACT I,SCENE I,SLENDER,193,la
 1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,dialogue,ACT I,SCENE I,SHALLOW,194,fair
@@ -739,7 +719,6 @@ gutenberg_id,short_title,gutenberg_title,genre,year,author,section,class,act,sce
 1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,dialogue,ACT I,SCENE I,SLENDER,205,beholding
 1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,dialogue,ACT I,SCENE I,SLENDER,205,friend
 1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,dialogue,ACT I,SCENE I,SLENDER,206,boy
-1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,dialogue,ACT I,SCENE I,SLENDER,206,till
 1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,dialogue,ACT I,SCENE I,SLENDER,206,mother
 1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,dialogue,ACT I,SCENE I,SLENDER,206,dead
 1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,dialogue,ACT I,SCENE I,SLENDER,207,live
@@ -748,7 +727,6 @@ gutenberg_id,short_title,gutenberg_title,genre,year,author,section,class,act,sce
 1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,dialogue,ACT I,SCENE I,SLENDER,207,born
 1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,dialogue,ACT I,SCENE I,ANNE,208,worship
 1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,dialogue,ACT I,SCENE I,ANNE,208,sit
-1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,dialogue,ACT I,SCENE I,ANNE,208,till
 1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,dialogue,ACT I,SCENE I,SLENDER,209,faith
 1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,dialogue,ACT I,SCENE I,SLENDER,209,eat
 1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,dialogue,ACT I,SCENE I,ANNE,210,pray
@@ -786,7 +764,6 @@ gutenberg_id,short_title,gutenberg_title,genre,year,author,section,class,act,sce
 1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,dialogue,ACT I,SCENE I,SLENDER,218,afraid
 1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,dialogue,ACT I,SCENE I,SLENDER,218,bear
 1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,dialogue,ACT I,SCENE I,SLENDER,218,loose
-1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,dialogue,ACT I,SCENE I,ANNE,219,ay
 1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,dialogue,ACT I,SCENE I,ANNE,219,sir
 1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,dialogue,ACT I,SCENE I,SLENDER,220,meat
 1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,dialogue,ACT I,SCENE I,SLENDER,220,drink
@@ -817,7 +794,6 @@ gutenberg_id,short_title,gutenberg_title,genre,year,author,section,class,act,sce
 1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,dialogue,ACT I,SCENE I,PAGE,226,pie
 1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,dialogue,ACT I,SCENE I,PAGE,226,choose
 1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,dialogue,ACT I,SCENE I,PAGE,226,sir
-1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,dialogue,ACT I,SCENE I,SLENDER,227,nay
 1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,dialogue,ACT I,SCENE I,SLENDER,227,pray
 1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,dialogue,ACT I,SCENE I,SLENDER,227,lead
 1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,dialogue,ACT I,SCENE I,PAGE,228,sir
@@ -852,7 +828,6 @@ gutenberg_id,short_title,gutenberg_title,genre,year,author,section,class,act,sce
 1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,dialogue,ACT I,SCENE II,EVANS,237,washer
 1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,dialogue,ACT I,SCENE II,EVANS,238,wringer
 1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,dialogue,ACT I,SCENE II,SIMPLE,239,sir
-1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,dialogue,ACT I,SCENE II,EVANS,240,nay
 1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,dialogue,ACT I,SCENE II,EVANS,240,petter
 1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,dialogue,ACT I,SCENE II,EVANS,240,letter
 1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,dialogue,ACT I,SCENE II,EVANS,240,oman
@@ -880,7 +855,6 @@ gutenberg_id,short_title,gutenberg_title,genre,year,author,section,class,act,sce
 1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,directions,ACT I,SCENE III,NA,NA,nym
 1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,directions,ACT I,SCENE III,NA,NA,pistol
 1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,directions,ACT I,SCENE III,NA,NA,robin
-1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,dialogue,ACT I,SCENE III,FALSTAFF,245,mine
 1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,dialogue,ACT I,SCENE III,FALSTAFF,245,host
 1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,dialogue,ACT I,SCENE III,FALSTAFF,245,garter
 1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,dialogue,ACT I,SCENE III,HOST,246,bully
@@ -888,7 +862,6 @@ gutenberg_id,short_title,gutenberg_title,genre,year,author,section,class,act,sce
 1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,dialogue,ACT I,SCENE III,HOST,246,speak
 1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,dialogue,ACT I,SCENE III,HOST,246,scholarly
 1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,dialogue,ACT I,SCENE III,HOST,246,wisely
-1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,dialogue,ACT I,SCENE III,FALSTAFF,247,mine
 1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,dialogue,ACT I,SCENE III,FALSTAFF,247,host
 1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,dialogue,ACT I,SCENE III,FALSTAFF,247,followers
 1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,dialogue,ACT I,SCENE III,HOST,248,discard
@@ -913,7 +886,6 @@ gutenberg_id,short_title,gutenberg_title,genre,year,author,section,class,act,sce
 1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,dialogue,ACT I,SCENE III,HOST,251,tap
 1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,dialogue,ACT I,SCENE III,HOST,251,bully
 1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,dialogue,ACT I,SCENE III,HOST,251,hector
-1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,dialogue,ACT I,SCENE III,FALSTAFF,252,mine
 1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,dialogue,ACT I,SCENE III,FALSTAFF,252,host
 1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,dialogue,ACT I,SCENE III,HOST,253,spoke
 1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,dialogue,ACT I,SCENE III,HOST,253,follow
@@ -1177,7 +1149,6 @@ gutenberg_id,short_title,gutenberg_title,genre,year,author,section,class,act,sce
 1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,dialogue,ACT I,SCENE III,NYM,324,possess
 1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,dialogue,ACT I,SCENE III,NYM,324,yellowness
 1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,dialogue,ACT I,SCENE III,NYM,324,revolt
-1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,dialogue,ACT I,SCENE III,NYM,324,mine
 1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,dialogue,ACT I,SCENE III,NYM,324,dangerous
 1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,dialogue,ACT I,SCENE III,NYM,325,true
 1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,dialogue,ACT I,SCENE III,NYM,325,humour
@@ -1230,12 +1201,10 @@ gutenberg_id,short_title,gutenberg_title,genre,year,author,section,class,act,sce
 1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,dialogue,ACT I,SCENE IV,MISTRESS QUICKLY,338,pass
 1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,dialogue,ACT I,SCENE IV,MISTRESS QUICKLY,338,peter
 1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,dialogue,ACT I,SCENE IV,MISTRESS QUICKLY,338,simple
-1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,dialogue,ACT I,SCENE IV,SIMPLE,340,ay
 1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,dialogue,ACT I,SCENE IV,SIMPLE,340,fault
 1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,dialogue,ACT I,SCENE IV,MISTRESS QUICKLY,341,master
 1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,dialogue,ACT I,SCENE IV,MISTRESS QUICKLY,341,slender's
 1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,dialogue,ACT I,SCENE IV,MISTRESS QUICKLY,341,master
-1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,dialogue,ACT I,SCENE IV,SIMPLE,342,ay
 1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,dialogue,ACT I,SCENE IV,SIMPLE,342,forsooth
 1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,dialogue,ACT I,SCENE IV,MISTRESS QUICKLY,343,wear
 1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,dialogue,ACT I,SCENE IV,MISTRESS QUICKLY,343,round
@@ -1252,7 +1221,6 @@ gutenberg_id,short_title,gutenberg_title,genre,year,author,section,class,act,sce
 1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,dialogue,ACT I,SCENE IV,SIMPLE,345,beard
 1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,dialogue,ACT I,SCENE IV,MISTRESS QUICKLY,346,softly
 1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,dialogue,ACT I,SCENE IV,MISTRESS QUICKLY,346,sprighted
-1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,dialogue,ACT I,SCENE IV,SIMPLE,347,ay
 1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,dialogue,ACT I,SCENE IV,SIMPLE,347,forsooth
 1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,dialogue,ACT I,SCENE IV,SIMPLE,347,tall
 1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,dialogue,ACT I,SCENE IV,SIMPLE,347,hands
@@ -1318,7 +1286,6 @@ gutenberg_id,short_title,gutenberg_title,genre,year,author,section,class,act,sce
 1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,dialogue,ACT I,SCENE IV,CAIUS,362,speak
 1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,dialogue,ACT I,SCENE IV,CAIUS,362,green
 1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,dialogue,ACT I,SCENE IV,CAIUS,362,box
-1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,dialogue,ACT I,SCENE IV,MISTRESS QUICKLY,363,ay
 1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,dialogue,ACT I,SCENE IV,MISTRESS QUICKLY,363,forsooth
 1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,dialogue,ACT I,SCENE IV,MISTRESS QUICKLY,363,fetch
 1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,dialogue,ACT I,SCENE IV,MISTRESS QUICKLY,364,glad
@@ -1384,7 +1351,6 @@ gutenberg_id,short_title,gutenberg_title,genre,year,author,section,class,act,sce
 1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,dialogue,ACT I,SCENE IV,CAIUS,377,vill
 1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,dialogue,ACT I,SCENE IV,CAIUS,377,varld
 1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,dialogue,ACT I,SCENE IV,CAIUS,377,leave
-1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,dialogue,ACT I,SCENE IV,MISTRESS QUICKLY,378,ay
 1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,dialogue,ACT I,SCENE IV,MISTRESS QUICKLY,378,mad
 1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,directions,ACT I,SCENE IV,NA,NA,diable
 1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,directions,ACT I,SCENE IV,NA,NA,diable
@@ -1416,7 +1382,6 @@ gutenberg_id,short_title,gutenberg_title,genre,year,author,section,class,act,sce
 1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,dialogue,ACT I,SCENE IV,MISTRESS QUICKLY,386,parson
 1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,dialogue,ACT I,SCENE IV,MISTRESS QUICKLY,386,hugh
 1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,dialogue,ACT I,SCENE IV,CAIUS,387,vell
-1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,dialogue,ACT I,SCENE IV,SIMPLE,388,ay
 1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,dialogue,ACT I,SCENE IV,SIMPLE,388,forsooth
 1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,dialogue,ACT I,SCENE IV,SIMPLE,388,desire
 1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,dialogue,ACT I,SCENE IV,MISTRESS QUICKLY,389,peace
@@ -1535,7 +1500,6 @@ gutenberg_id,short_title,gutenberg_title,genre,year,author,section,class,act,sce
 1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,dialogue,ACT I,SCENE IV,CAIUS,417,jack
 1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,dialogue,ACT I,SCENE IV,CAIUS,417,priest
 1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,dialogue,ACT I,SCENE IV,CAIUS,418,appointed
-1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,dialogue,ACT I,SCENE IV,CAIUS,418,mine
 1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,dialogue,ACT I,SCENE IV,CAIUS,418,host
 1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,dialogue,ACT I,SCENE IV,CAIUS,418,de
 1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,dialogue,ACT I,SCENE IV,CAIUS,418,jarteer
@@ -1740,7 +1704,6 @@ gutenberg_id,short_title,gutenberg_title,genre,year,author,section,class,act,sce
 1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,dialogue,ACT II,SCENE I,MISTRESS PAGE,478,trust
 1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,dialogue,ACT II,SCENE I,MISTRESS PAGE,478,coming
 1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,dialogue,ACT II,SCENE I,MISTRESS PAGE,478,ill
-1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,dialogue,ACT II,SCENE I,MISTRESS FORD,479,nay
 1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,dialogue,ACT II,SCENE I,MISTRESS FORD,479,ne'er
 1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,dialogue,ACT II,SCENE I,MISTRESS FORD,479,contrary
 1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,dialogue,ACT II,SCENE I,MISTRESS PAGE,480,faith
@@ -1816,7 +1779,6 @@ gutenberg_id,short_title,gutenberg_title,genre,year,author,section,class,act,sce
 1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,dialogue,ACT II,SCENE I,MISTRESS FORD,500,revenged
 1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,dialogue,ACT II,SCENE I,MISTRESS FORD,501,entertain
 1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,dialogue,ACT II,SCENE I,MISTRESS FORD,501,hope
-1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,dialogue,ACT II,SCENE I,MISTRESS FORD,501,till
 1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,dialogue,ACT II,SCENE I,MISTRESS FORD,501,wicked
 1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,dialogue,ACT II,SCENE I,MISTRESS FORD,501,fire
 1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,dialogue,ACT II,SCENE I,MISTRESS FORD,501,lust
@@ -1837,7 +1799,6 @@ gutenberg_id,short_title,gutenberg_title,genre,year,author,section,class,act,sce
 1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,dialogue,ACT II,SCENE I,MISTRESS PAGE,505,letter
 1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,dialogue,ACT II,SCENE I,MISTRESS PAGE,505,inherit
 1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,dialogue,ACT II,SCENE I,MISTRESS PAGE,505,protest
-1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,dialogue,ACT II,SCENE I,MISTRESS PAGE,505,mine
 1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,dialogue,ACT II,SCENE I,MISTRESS PAGE,506,warrant
 1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,dialogue,ACT II,SCENE I,MISTRESS PAGE,506,thousand
 1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,dialogue,ACT II,SCENE I,MISTRESS PAGE,506,letters
@@ -1857,15 +1818,12 @@ gutenberg_id,short_title,gutenberg_title,genre,year,author,section,class,act,sce
 1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,dialogue,ACT II,SCENE I,MISTRESS PAGE,510,twenty
 1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,dialogue,ACT II,SCENE I,MISTRESS PAGE,511,lascivious
 1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,dialogue,ACT II,SCENE I,MISTRESS PAGE,511,turtles
-1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,dialogue,ACT II,SCENE I,MISTRESS PAGE,511,ere
 1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,dialogue,ACT II,SCENE I,MISTRESS PAGE,511,chaste
 1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,dialogue,ACT II,SCENE I,MISTRESS FORD,512,hand
 1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,dialogue,ACT II,SCENE I,MISTRESS FORD,512,words
-1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,dialogue,ACT II,SCENE I,MISTRESS PAGE,514,nay
 1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,dialogue,ACT II,SCENE I,MISTRESS PAGE,514,makes
 1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,dialogue,ACT II,SCENE I,MISTRESS PAGE,514,ready
 1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,dialogue,ACT II,SCENE I,MISTRESS PAGE,514,wrangle
-1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,dialogue,ACT II,SCENE I,MISTRESS PAGE,514,mine
 1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,dialogue,ACT II,SCENE I,MISTRESS PAGE,515,honesty
 1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,dialogue,ACT II,SCENE I,MISTRESS PAGE,515,entertain
 1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,dialogue,ACT II,SCENE I,MISTRESS PAGE,515,acquainted
@@ -1887,13 +1845,10 @@ gutenberg_id,short_title,gutenberg_title,genre,year,author,section,class,act,sce
 1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,dialogue,ACT II,SCENE I,MISTRESS PAGE,521,fine
 1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,dialogue,ACT II,SCENE I,MISTRESS PAGE,521,baited
 1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,dialogue,ACT II,SCENE I,MISTRESS PAGE,521,delay
-1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,dialogue,ACT II,SCENE I,MISTRESS PAGE,521,till
 1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,dialogue,ACT II,SCENE I,MISTRESS PAGE,522,pawned
 1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,dialogue,ACT II,SCENE I,MISTRESS PAGE,522,horses
-1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,dialogue,ACT II,SCENE I,MISTRESS PAGE,522,mine
 1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,dialogue,ACT II,SCENE I,MISTRESS PAGE,522,host
 1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,dialogue,ACT II,SCENE I,MISTRESS PAGE,522,garter
-1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,dialogue,ACT II,SCENE I,MISTRESS FORD,523,nay
 1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,dialogue,ACT II,SCENE I,MISTRESS FORD,523,consent
 1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,dialogue,ACT II,SCENE I,MISTRESS FORD,523,villainy
 1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,dialogue,ACT II,SCENE I,MISTRESS FORD,523,sully
@@ -1959,7 +1914,6 @@ gutenberg_id,short_title,gutenberg_title,genre,year,author,section,class,act,sce
 1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,dialogue,ACT II,SCENE I,PISTOL,545,foot
 1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,dialogue,ACT II,SCENE I,PISTOL,545,night
 1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,dialogue,ACT II,SCENE I,PISTOL,546,heed
-1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,dialogue,ACT II,SCENE I,PISTOL,546,ere
 1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,dialogue,ACT II,SCENE I,PISTOL,546,summer
 1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,dialogue,ACT II,SCENE I,PISTOL,546,cuckoo
 1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,dialogue,ACT II,SCENE I,PISTOL,546,birds
@@ -2036,7 +1990,6 @@ gutenberg_id,short_title,gutenberg_title,genre,year,author,section,class,act,sce
 1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,dialogue,ACT II,SCENE I,FORD,567,melancholy
 1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,dialogue,ACT II,SCENE I,FORD,567,home
 1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,dialogue,ACT II,SCENE I,MISTRESS FORD,568,faith
-1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,dialogue,ACT II,SCENE I,MISTRESS FORD,568,hast
 1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,dialogue,ACT II,SCENE I,MISTRESS FORD,568,crotchets
 1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,dialogue,ACT II,SCENE I,MISTRESS FORD,568,head
 1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,dialogue,ACT II,SCENE I,MISTRESS FORD,568,mistress
@@ -2057,7 +2010,6 @@ gutenberg_id,short_title,gutenberg_title,genre,year,author,section,class,act,sce
 1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,directions,ACT II,SCENE I,NA,NA,quickly
 1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,dialogue,ACT II,SCENE I,MISTRESS PAGE,574,daughter
 1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,dialogue,ACT II,SCENE I,MISTRESS PAGE,574,anne
-1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,dialogue,ACT II,SCENE I,MISTRESS QUICKLY,575,ay
 1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,dialogue,ACT II,SCENE I,MISTRESS QUICKLY,575,forsooth
 1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,dialogue,ACT II,SCENE I,MISTRESS QUICKLY,575,pray
 1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,dialogue,ACT II,SCENE I,MISTRESS QUICKLY,575,mistress
@@ -2093,7 +2045,6 @@ gutenberg_id,short_title,gutenberg_title,genre,year,author,section,class,act,sce
 1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,dialogue,ACT II,SCENE I,PAGE,585,marry
 1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,dialogue,ACT II,SCENE I,FORD,586,lie
 1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,dialogue,ACT II,SCENE I,FORD,586,garter
-1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,dialogue,ACT II,SCENE I,PAGE,587,ay
 1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,dialogue,ACT II,SCENE I,PAGE,587,marry
 1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,dialogue,ACT II,SCENE I,PAGE,587,intend
 1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,dialogue,ACT II,SCENE I,PAGE,587,voyage
@@ -2119,7 +2070,6 @@ gutenberg_id,short_title,gutenberg_title,genre,year,author,section,class,act,sce
 1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,dialogue,ACT II,SCENE I,PAGE,594,money
 1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,dialogue,ACT II,SCENE I,PAGE,594,purse
 1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,dialogue,ACT II,SCENE I,PAGE,594,merrily
-1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,dialogue,ACT II,SCENE I,PAGE,595,mine
 1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,dialogue,ACT II,SCENE I,PAGE,595,host
 1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,dialogue,ACT II,SCENE I,HOST,596,bully
 1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,dialogue,ACT II,SCENE I,HOST,596,rook
@@ -2129,7 +2079,6 @@ gutenberg_id,short_title,gutenberg_title,genre,year,author,section,class,act,sce
 1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,dialogue,ACT II,SCENE I,HOST,596,justice
 1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,directions,ACT II,SCENE I,NA,NA,shallow
 1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,dialogue,ACT II,SCENE I,SHALLOW,597,follow
-1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,dialogue,ACT II,SCENE I,SHALLOW,597,mine
 1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,dialogue,ACT II,SCENE I,SHALLOW,597,host
 1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,dialogue,ACT II,SCENE I,SHALLOW,597,follow
 1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,dialogue,ACT II,SCENE I,SHALLOW,597,twenty
@@ -2153,7 +2102,6 @@ gutenberg_id,short_title,gutenberg_title,genre,year,author,section,class,act,sce
 1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,dialogue,ACT II,SCENE I,SHALLOW,601,caius
 1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,dialogue,ACT II,SCENE I,SHALLOW,601,french
 1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,dialogue,ACT II,SCENE I,SHALLOW,601,doctor
-1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,dialogue,ACT II,SCENE I,FORD,602,mine
 1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,dialogue,ACT II,SCENE I,FORD,602,host
 1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,dialogue,ACT II,SCENE I,FORD,602,garter
 1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,dialogue,ACT II,SCENE I,FORD,602,word
@@ -2182,7 +2130,6 @@ gutenberg_id,short_title,gutenberg_title,genre,year,author,section,class,act,sce
 1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,directions,ACT II,SCENE I,NA,NA,ford
 1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,directions,ACT II,SCENE I,NA,NA,host
 1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,directions,ACT II,SCENE I,NA,NA,forward
-1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,dialogue,ACT II,SCENE I,HOST,608,hast
 1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,dialogue,ACT II,SCENE I,HOST,608,suit
 1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,dialogue,ACT II,SCENE I,HOST,608,knight
 1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,dialogue,ACT II,SCENE I,HOST,608,guest
@@ -2203,7 +2150,6 @@ gutenberg_id,short_title,gutenberg_title,genre,year,author,section,class,act,sce
 1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,dialogue,ACT II,SCENE I,HOST,612,knight
 1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,dialogue,ACT II,SCENE I,HOST,612,myn
 1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,dialogue,ACT II,SCENE I,HOST,612,heers
-1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,dialogue,ACT II,SCENE I,SHALLOW,613,mine
 1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,dialogue,ACT II,SCENE I,SHALLOW,613,host
 1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,dialogue,ACT II,SCENE I,PAGE,614,heard
 1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,dialogue,ACT II,SCENE I,PAGE,614,frenchman
@@ -2259,7 +2205,6 @@ gutenberg_id,short_title,gutenberg_title,genre,year,author,section,class,act,sce
 1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,dialogue,ACT II,SCENE II,FALSTAFF,627,lend
 1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,dialogue,ACT II,SCENE II,FALSTAFF,627,penny
 1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,dialogue,ACT II,SCENE II,PISTOL,628,world's
-1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,dialogue,ACT II,SCENE II,PISTOL,628,mine
 1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,dialogue,ACT II,SCENE II,PISTOL,628,oyster
 1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,dialogue,ACT II,SCENE II,PISTOL,629,sword
 1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,dialogue,ACT II,SCENE II,FALSTAFF,630,penny
@@ -2291,7 +2236,6 @@ gutenberg_id,short_title,gutenberg_title,genre,year,author,section,class,act,sce
 1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,dialogue,ACT II,SCENE II,FALSTAFF,635,lost
 1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,dialogue,ACT II,SCENE II,FALSTAFF,635,handle
 1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,dialogue,ACT II,SCENE II,FALSTAFF,635,fan
-1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,dialogue,ACT II,SCENE II,FALSTAFF,635,mine
 1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,dialogue,ACT II,SCENE II,FALSTAFF,635,honour
 1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,dialogue,ACT II,SCENE II,FALSTAFF,636,hadst
 1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,dialogue,ACT II,SCENE II,PISTOL,637,didst
@@ -2325,15 +2269,12 @@ gutenberg_id,short_title,gutenberg_title,genre,year,author,section,class,act,sce
 1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,dialogue,ACT II,SCENE II,FALSTAFF,642,terms
 1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,dialogue,ACT II,SCENE II,FALSTAFF,643,honour
 1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,dialogue,ACT II,SCENE II,FALSTAFF,643,precise
-1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,dialogue,ACT II,SCENE II,FALSTAFF,643,ay
-1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,dialogue,ACT II,SCENE II,FALSTAFF,643,ay
 1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,dialogue,ACT II,SCENE II,FALSTAFF,643,leaving
 1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,dialogue,ACT II,SCENE II,FALSTAFF,643,fear
 1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,dialogue,ACT II,SCENE II,FALSTAFF,643,god
 1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,dialogue,ACT II,SCENE II,FALSTAFF,644,left
 1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,dialogue,ACT II,SCENE II,FALSTAFF,644,hand
 1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,dialogue,ACT II,SCENE II,FALSTAFF,644,hiding
-1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,dialogue,ACT II,SCENE II,FALSTAFF,644,mine
 1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,dialogue,ACT II,SCENE II,FALSTAFF,644,honour
 1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,dialogue,ACT II,SCENE II,FALSTAFF,644,necessity
 1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,dialogue,ACT II,SCENE II,FALSTAFF,644,fain
@@ -2400,9 +2341,7 @@ gutenberg_id,short_title,gutenberg_title,genre,year,author,section,class,act,sce
 1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,dialogue,ACT II,SCENE II,MISTRESS QUICKLY,663,nearer
 1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,dialogue,ACT II,SCENE II,FALSTAFF,665,warrant
 1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,dialogue,ACT II,SCENE II,FALSTAFF,665,hears
-1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,dialogue,ACT II,SCENE II,FALSTAFF,665,mine
 1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,dialogue,ACT II,SCENE II,FALSTAFF,665,people
-1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,dialogue,ACT II,SCENE II,FALSTAFF,665,mine
 1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,dialogue,ACT II,SCENE II,FALSTAFF,665,people
 1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,dialogue,ACT II,SCENE II,MISTRESS QUICKLY,666,god
 1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,dialogue,ACT II,SCENE II,MISTRESS QUICKLY,666,bless
@@ -2474,7 +2413,6 @@ gutenberg_id,short_title,gutenberg_title,genre,year,author,section,class,act,sce
 1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,dialogue,ACT II,SCENE II,MISTRESS QUICKLY,682,cup
 1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,dialogue,ACT II,SCENE II,MISTRESS QUICKLY,683,proudest
 1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,dialogue,ACT II,SCENE II,MISTRESS QUICKLY,683,earls
-1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,dialogue,ACT II,SCENE II,MISTRESS QUICKLY,683,nay
 1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,dialogue,ACT II,SCENE II,MISTRESS QUICKLY,684,pensioners
 1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,dialogue,ACT II,SCENE II,MISTRESS QUICKLY,684,warrant
 1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,dialogue,ACT II,SCENE II,FALSTAFF,685,mercury
@@ -2491,7 +2429,6 @@ gutenberg_id,short_title,gutenberg_title,genre,year,author,section,class,act,sce
 1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,dialogue,ACT II,SCENE II,MISTRESS QUICKLY,688,eleven
 1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,dialogue,ACT II,SCENE II,FALSTAFF,689,ten
 1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,dialogue,ACT II,SCENE II,FALSTAFF,689,eleven
-1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,dialogue,ACT II,SCENE II,MISTRESS QUICKLY,690,ay
 1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,dialogue,ACT II,SCENE II,MISTRESS QUICKLY,690,forsooth
 1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,dialogue,ACT II,SCENE II,MISTRESS QUICKLY,690,picture
 1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,dialogue,ACT II,SCENE II,MISTRESS QUICKLY,691,wot
@@ -2590,8 +2527,6 @@ gutenberg_id,short_title,gutenberg_title,genre,year,author,section,class,act,sce
 1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,dialogue,ACT II,SCENE II,MISTRESS QUICKLY,715,send
 1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,dialogue,ACT II,SCENE II,MISTRESS QUICKLY,716,page
 1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,dialogue,ACT II,SCENE II,MISTRESS QUICKLY,716,remedy
-1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,dialogue,ACT II,SCENE II,MISTRESS QUICKLY,718,nay
-1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,dialogue,ACT II,SCENE II,MISTRESS QUICKLY,719,nay
 1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,dialogue,ACT II,SCENE II,MISTRESS QUICKLY,719,word
 1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,dialogue,ACT II,SCENE II,MISTRESS QUICKLY,719,another's
 1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,dialogue,ACT II,SCENE II,MISTRESS QUICKLY,720,mind
@@ -2650,7 +2585,6 @@ gutenberg_id,short_title,gutenberg_title,genre,year,author,section,class,act,sce
 1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,dialogue,ACT II,SCENE II,BARDOLPH,733,draught
 1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,dialogue,ACT II,SCENE II,BARDOLPH,734,sack
 1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,dialogue,ACT II,SCENE II,FALSTAFF,735,brook
-1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,dialogue,ACT II,SCENE II,BARDOLPH,736,ay
 1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,dialogue,ACT II,SCENE II,BARDOLPH,736,sir
 1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,dialogue,ACT II,SCENE II,FALSTAFF,737,call
 1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,directions,ACT II,SCENE II,NA,NA,bardolph
@@ -2730,7 +2664,6 @@ gutenberg_id,short_title,gutenberg_title,genre,year,author,section,class,act,sce
 1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,dialogue,ACT II,SCENE II,FORD,758,acquainted
 1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,dialogue,ACT II,SCENE II,FORD,758,discover
 1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,dialogue,ACT II,SCENE II,FORD,759,lay
-1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,dialogue,ACT II,SCENE II,FORD,759,mine
 1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,dialogue,ACT II,SCENE II,FORD,759,imperfection
 1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,dialogue,ACT II,SCENE II,FORD,759,sir
 1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,dialogue,ACT II,SCENE II,FORD,760,john
@@ -3566,7 +3499,6 @@ gutenberg_id,short_title,gutenberg_title,genre,year,author,section,class,act,sce
 1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,directions,ACT III,SCENE I,NA,NA,host
 1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,directions,ACT III,SCENE I,NA,NA,caius
 1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,directions,ACT III,SCENE I,NA,NA,rugby
-1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,dialogue,ACT III,SCENE I,PAGE,984,nay
 1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,dialogue,ACT III,SCENE I,PAGE,984,master
 1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,dialogue,ACT III,SCENE I,PAGE,984,parson
 1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,dialogue,ACT III,SCENE I,PAGE,984,weapon
@@ -3613,7 +3545,6 @@ gutenberg_id,short_title,gutenberg_title,genre,year,author,section,class,act,sce
 1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,dialogue,ACT III,SCENE I,CAIUS,997,diable
 1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,dialogue,ACT III,SCENE I,CAIUS,997,jack
 1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,dialogue,ACT III,SCENE I,CAIUS,997,rugby
-1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,dialogue,ACT III,SCENE I,CAIUS,997,mine
 1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,dialogue,ACT III,SCENE I,CAIUS,997,host
 1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,dialogue,ACT III,SCENE I,CAIUS,997,de
 1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,dialogue,ACT III,SCENE I,CAIUS,997,jarteer
@@ -3625,7 +3556,6 @@ gutenberg_id,short_title,gutenberg_title,genre,year,author,section,class,act,sce
 1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,dialogue,ACT III,SCENE I,EVANS,999,soul
 1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,dialogue,ACT III,SCENE I,EVANS,999,appointed
 1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,dialogue,ACT III,SCENE I,EVANS,1000,judgment
-1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,dialogue,ACT III,SCENE I,EVANS,1000,mine
 1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,dialogue,ACT III,SCENE I,EVANS,1000,host
 1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,dialogue,ACT III,SCENE I,EVANS,1000,garter
 1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,dialogue,ACT III,SCENE I,HOST,1001,peace
@@ -3637,12 +3567,10 @@ gutenberg_id,short_title,gutenberg_title,genre,year,author,section,class,act,sce
 1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,dialogue,ACT III,SCENE I,HOST,1001,curer
 1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,dialogue,ACT III,SCENE I,HOST,1002,body
 1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,dialogue,ACT III,SCENE I,HOST,1002,curer
-1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,dialogue,ACT III,SCENE I,CAIUS,1003,ay
 1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,dialogue,ACT III,SCENE I,CAIUS,1003,dat
 1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,dialogue,ACT III,SCENE I,CAIUS,1003,excellent
 1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,dialogue,ACT III,SCENE I,HOST,1004,peace
 1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,dialogue,ACT III,SCENE I,HOST,1004,hear
-1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,dialogue,ACT III,SCENE I,HOST,1004,mine
 1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,dialogue,ACT III,SCENE I,HOST,1004,host
 1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,dialogue,ACT III,SCENE I,HOST,1004,garter
 1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,dialogue,ACT III,SCENE I,HOST,1004,politic
@@ -3733,13 +3661,11 @@ gutenberg_id,short_title,gutenberg_title,genre,year,author,section,class,act,sce
 1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,directions,ACT III,SCENE II,NA,NA,mistress
 1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,directions,ACT III,SCENE II,NA,NA,page
 1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,directions,ACT III,SCENE II,NA,NA,robin
-1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,dialogue,ACT III,SCENE II,MISTRESS PAGE,1022,nay
 1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,dialogue,ACT III,SCENE II,MISTRESS PAGE,1022,gallant
 1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,dialogue,ACT III,SCENE II,MISTRESS PAGE,1022,wont
 1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,dialogue,ACT III,SCENE II,MISTRESS PAGE,1022,follower
 1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,dialogue,ACT III,SCENE II,MISTRESS PAGE,1023,leader
 1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,dialogue,ACT III,SCENE II,MISTRESS PAGE,1023,lead
-1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,dialogue,ACT III,SCENE II,MISTRESS PAGE,1023,mine
 1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,dialogue,ACT III,SCENE II,MISTRESS PAGE,1023,eyes
 1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,dialogue,ACT III,SCENE II,MISTRESS PAGE,1023,eye
 1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,dialogue,ACT III,SCENE II,MISTRESS PAGE,1024,master's
@@ -3757,7 +3683,6 @@ gutenberg_id,short_title,gutenberg_title,genre,year,author,section,class,act,sce
 1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,dialogue,ACT III,SCENE II,MISTRESS PAGE,1029,sir
 1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,dialogue,ACT III,SCENE II,MISTRESS PAGE,1029,wife
 1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,dialogue,ACT III,SCENE II,MISTRESS PAGE,1029,home
-1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,dialogue,ACT III,SCENE II,FORD,1030,ay
 1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,dialogue,ACT III,SCENE II,FORD,1030,idle
 1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,dialogue,ACT III,SCENE II,FORD,1030,hang
 1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,dialogue,ACT III,SCENE II,FORD,1030,company
@@ -3786,7 +3711,6 @@ gutenberg_id,short_title,gutenberg_title,genre,year,author,section,class,act,sce
 1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,dialogue,ACT III,SCENE II,MISTRESS PAGE,1041,leave
 1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,dialogue,ACT III,SCENE II,MISTRESS PAGE,1041,sir
 1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,dialogue,ACT III,SCENE II,MISTRESS PAGE,1041,sick
-1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,dialogue,ACT III,SCENE II,MISTRESS PAGE,1041,till
 1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,directions,ACT III,SCENE II,NA,NA,mistress
 1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,directions,ACT III,SCENE II,NA,NA,page
 1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,directions,ACT III,SCENE II,NA,NA,robin
@@ -3908,7 +3832,6 @@ gutenberg_id,short_title,gutenberg_title,genre,year,author,section,class,act,sce
 1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,dialogue,ACT III,SCENE II,PAGE,1066,master
 1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,dialogue,ACT III,SCENE II,PAGE,1067,doctor
 1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,dialogue,ACT III,SCENE II,PAGE,1067,altogether
-1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,dialogue,ACT III,SCENE II,CAIUS,1068,ay
 1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,dialogue,ACT III,SCENE II,CAIUS,1068,gar
 1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,dialogue,ACT III,SCENE II,CAIUS,1068,de
 1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,dialogue,ACT III,SCENE II,CAIUS,1068,maid
@@ -4055,7 +3978,6 @@ gutenberg_id,short_title,gutenberg_title,genre,year,author,section,class,act,sce
 1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,dialogue,ACT III,SCENE III,MISTRESS PAGE,1109,jack
 1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,dialogue,ACT III,SCENE III,MISTRESS PAGE,1109,lent
 1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,dialogue,ACT III,SCENE III,MISTRESS PAGE,1109,true
-1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,dialogue,ACT III,SCENE III,ROBIN,1110,ay
 1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,dialogue,ACT III,SCENE III,ROBIN,1110,sworn
 1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,dialogue,ACT III,SCENE III,ROBIN,1110,master
 1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,dialogue,ACT III,SCENE III,ROBIN,1111,threatened
@@ -4123,7 +4045,6 @@ gutenberg_id,short_title,gutenberg_title,genre,year,author,section,class,act,sce
 1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,dialogue,ACT III,SCENE III,FALSTAFF,1128,eye
 1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,dialogue,ACT III,SCENE III,FALSTAFF,1129,emulate
 1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,dialogue,ACT III,SCENE III,FALSTAFF,1129,diamond
-1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,dialogue,ACT III,SCENE III,FALSTAFF,1129,hast
 1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,dialogue,ACT III,SCENE III,FALSTAFF,1129,arched
 1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,dialogue,ACT III,SCENE III,FALSTAFF,1129,beauty
 1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,dialogue,ACT III,SCENE III,FALSTAFF,1129,brow
@@ -4196,7 +4117,6 @@ gutenberg_id,short_title,gutenberg_title,genre,year,author,section,class,act,sce
 1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,dialogue,ACT III,SCENE III,MISTRESS FORD,1148,day
 1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,dialogue,ACT III,SCENE III,FALSTAFF,1149,mind
 1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,dialogue,ACT III,SCENE III,FALSTAFF,1149,deserve
-1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,dialogue,ACT III,SCENE III,MISTRESS FORD,1150,nay
 1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,dialogue,ACT III,SCENE III,MISTRESS FORD,1150,mind
 1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,directions,ACT III,SCENE III,NA,NA,robin
 1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,dialogue,ACT III,SCENE III,ROBIN,1151,mistress
@@ -4279,7 +4199,6 @@ gutenberg_id,short_title,gutenberg_title,genre,year,author,section,class,act,sce
 1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,dialogue,ACT III,SCENE III,MISTRESS FORD,1175,dear
 1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,dialogue,ACT III,SCENE III,MISTRESS FORD,1175,friend
 1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,dialogue,ACT III,SCENE III,MISTRESS FORD,1175,fear
-1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,dialogue,ACT III,SCENE III,MISTRESS FORD,1176,mine
 1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,dialogue,ACT III,SCENE III,MISTRESS FORD,1176,shame
 1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,dialogue,ACT III,SCENE III,MISTRESS FORD,1176,peril
 1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,dialogue,ACT III,SCENE III,MISTRESS FORD,1176,thousand
@@ -4370,7 +4289,6 @@ gutenberg_id,short_title,gutenberg_title,genre,year,author,section,class,act,sce
 1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,dialogue,ACT III,SCENE III,FORD,1202,buck
 1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,dialogue,ACT III,SCENE III,FORD,1202,buck
 1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,dialogue,ACT III,SCENE III,FORD,1202,buck
-1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,dialogue,ACT III,SCENE III,FORD,1202,ay
 1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,dialogue,ACT III,SCENE III,FORD,1203,buck
 1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,dialogue,ACT III,SCENE III,FORD,1203,warrant
 1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,dialogue,ACT III,SCENE III,FORD,1203,buck
@@ -4416,7 +4334,6 @@ gutenberg_id,short_title,gutenberg_title,genre,year,author,section,class,act,sce
 1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,dialogue,ACT III,SCENE III,CAIUS,1211,france
 1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,dialogue,ACT III,SCENE III,CAIUS,1211,jealous
 1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,dialogue,ACT III,SCENE III,CAIUS,1211,france
-1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,dialogue,ACT III,SCENE III,PAGE,1212,nay
 1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,dialogue,ACT III,SCENE III,PAGE,1212,follow
 1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,dialogue,ACT III,SCENE III,PAGE,1212,gentlemen
 1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,dialogue,ACT III,SCENE III,PAGE,1212,issue
@@ -4451,7 +4368,6 @@ gutenberg_id,short_title,gutenberg_title,genre,year,author,section,class,act,sce
 1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,dialogue,ACT III,SCENE III,MISTRESS FORD,1221,falstaff's
 1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,dialogue,ACT III,SCENE III,MISTRESS FORD,1222,gross
 1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,dialogue,ACT III,SCENE III,MISTRESS FORD,1222,jealousy
-1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,dialogue,ACT III,SCENE III,MISTRESS FORD,1222,till
 1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,dialogue,ACT III,SCENE III,MISTRESS PAGE,1223,lay
 1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,dialogue,ACT III,SCENE III,MISTRESS PAGE,1223,plot
 1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,dialogue,ACT III,SCENE III,MISTRESS PAGE,1223,tricks
@@ -4489,15 +4405,12 @@ gutenberg_id,short_title,gutenberg_title,genre,year,author,section,class,act,sce
 1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,dialogue,ACT III,SCENE III,MISTRESS PAGE,1232,heard
 1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,dialogue,ACT III,SCENE III,MISTRESS FORD,1233,master
 1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,dialogue,ACT III,SCENE III,MISTRESS FORD,1233,ford
-1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,dialogue,ACT III,SCENE III,FORD,1234,ay
 1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,dialogue,ACT III,SCENE III,MISTRESS FORD,1235,heaven
 1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,dialogue,ACT III,SCENE III,FORD,1236,amen
 1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,dialogue,ACT III,SCENE III,MISTRESS PAGE,1237,mighty
 1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,dialogue,ACT III,SCENE III,MISTRESS PAGE,1237,wrong
 1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,dialogue,ACT III,SCENE III,MISTRESS PAGE,1237,master
 1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,dialogue,ACT III,SCENE III,MISTRESS PAGE,1237,ford
-1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,dialogue,ACT III,SCENE III,FORD,1238,ay
-1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,dialogue,ACT III,SCENE III,FORD,1238,ay
 1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,dialogue,ACT III,SCENE III,FORD,1238,bear
 1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,dialogue,ACT III,SCENE III,EVANS,1239,anypody
 1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,dialogue,ACT III,SCENE III,EVANS,1239,house
@@ -4579,7 +4492,6 @@ gutenberg_id,short_title,gutenberg_title,genre,year,author,section,class,act,sce
 1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,dialogue,ACT III,SCENE III,EVANS,1261,tomorrow
 1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,dialogue,ACT III,SCENE III,EVANS,1261,lousy
 1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,dialogue,ACT III,SCENE III,EVANS,1261,knave
-1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,dialogue,ACT III,SCENE III,EVANS,1261,mine
 1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,dialogue,ACT III,SCENE III,EVANS,1261,host
 1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,dialogue,ACT III,SCENE III,CAIUS,1262,dat
 1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,dialogue,ACT III,SCENE III,CAIUS,1262,gar
@@ -4712,13 +4624,11 @@ gutenberg_id,short_title,gutenberg_title,genre,year,author,section,class,act,sce
 1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,dialogue,ACT III,SCENE IV,SHALLOW,1301,anne
 1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,dialogue,ACT III,SCENE IV,SHALLOW,1301,cousin
 1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,dialogue,ACT III,SCENE IV,SHALLOW,1301,loves
-1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,dialogue,ACT III,SCENE IV,SLENDER,1302,ay
 1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,dialogue,ACT III,SCENE IV,SLENDER,1302,love
 1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,dialogue,ACT III,SCENE IV,SLENDER,1302,woman
 1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,dialogue,ACT III,SCENE IV,SLENDER,1302,gloucestershire
 1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,dialogue,ACT III,SCENE IV,SHALLOW,1303,maintain
 1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,dialogue,ACT III,SCENE IV,SHALLOW,1303,gentlewoman
-1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,dialogue,ACT III,SCENE IV,SLENDER,1304,ay
 1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,dialogue,ACT III,SCENE IV,SLENDER,1304,cut
 1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,dialogue,ACT III,SCENE IV,SLENDER,1304,tail
 1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,dialogue,ACT III,SCENE IV,SLENDER,1304,degree
@@ -4751,7 +4661,6 @@ gutenberg_id,short_title,gutenberg_title,genre,year,author,section,class,act,sce
 1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,dialogue,ACT III,SCENE IV,SLENDER,1314,praise
 1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,dialogue,ACT III,SCENE IV,ANNE,1315,master
 1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,dialogue,ACT III,SCENE IV,ANNE,1315,slender
-1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,dialogue,ACT III,SCENE IV,SLENDER,1316,mine
 1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,dialogue,ACT III,SCENE IV,SLENDER,1317,father
 1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,dialogue,ACT III,SCENE IV,SLENDER,1317,uncle
 1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,dialogue,ACT III,SCENE IV,SLENDER,1317,motions
@@ -4777,7 +4686,6 @@ gutenberg_id,short_title,gutenberg_title,genre,year,author,section,class,act,sce
 1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,dialogue,ACT III,SCENE IV,PAGE,1323,sir
 1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,dialogue,ACT III,SCENE IV,PAGE,1323,daughter
 1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,dialogue,ACT III,SCENE IV,PAGE,1323,disposed
-1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,dialogue,ACT III,SCENE IV,FENTON,1324,nay
 1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,dialogue,ACT III,SCENE IV,FENTON,1324,master
 1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,dialogue,ACT III,SCENE IV,FENTON,1324,page
 1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,dialogue,ACT III,SCENE IV,FENTON,1324,impatient
@@ -4843,7 +4751,6 @@ gutenberg_id,short_title,gutenberg_title,genre,year,author,section,class,act,sce
 1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,dialogue,ACT III,SCENE IV,MISTRESS PAGE,1344,question
 1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,dialogue,ACT III,SCENE IV,MISTRESS PAGE,1344,loves
 1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,dialogue,ACT III,SCENE IV,MISTRESS PAGE,1345,affected
-1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,dialogue,ACT III,SCENE IV,MISTRESS PAGE,1346,till
 1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,dialogue,ACT III,SCENE IV,MISTRESS PAGE,1346,farewell
 1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,dialogue,ACT III,SCENE IV,MISTRESS PAGE,1346,sir
 1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,dialogue,ACT III,SCENE IV,MISTRESS PAGE,1347,father
@@ -4856,7 +4763,6 @@ gutenberg_id,short_title,gutenberg_title,genre,year,author,section,class,act,sce
 1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,directions,ACT III,SCENE IV,NA,NA,mistress
 1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,directions,ACT III,SCENE IV,NA,NA,page
 1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,directions,ACT III,SCENE IV,NA,NA,anne
-1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,dialogue,ACT III,SCENE IV,MISTRESS QUICKLY,1349,nay
 1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,dialogue,ACT III,SCENE IV,MISTRESS QUICKLY,1349,cast
 1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,dialogue,ACT III,SCENE IV,MISTRESS QUICKLY,1349,child
 1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,dialogue,ACT III,SCENE IV,MISTRESS QUICKLY,1350,fool
@@ -5008,7 +4914,6 @@ gutenberg_id,short_title,gutenberg_title,genre,year,author,section,class,act,sce
 1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,dialogue,ACT III,SCENE V,MISTRESS QUICKLY,1388,fault
 1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,dialogue,ACT III,SCENE V,MISTRESS QUICKLY,1389,mistook
 1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,dialogue,ACT III,SCENE V,MISTRESS QUICKLY,1389,erection
-1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,dialogue,ACT III,SCENE V,FALSTAFF,1390,mine
 1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,dialogue,ACT III,SCENE V,FALSTAFF,1390,build
 1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,dialogue,ACT III,SCENE V,FALSTAFF,1390,foolish
 1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,dialogue,ACT III,SCENE V,FALSTAFF,1390,woman's
@@ -5143,7 +5048,6 @@ gutenberg_id,short_title,gutenberg_title,genre,year,author,section,class,act,sce
 1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,dialogue,ACT III,SCENE V,FALSTAFF,1428,offended
 1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,dialogue,ACT III,SCENE V,FALSTAFF,1428,nostril
 1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,dialogue,ACT III,SCENE V,FORD,1429,lay
-1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,dialogue,ACT III,SCENE V,FALSTAFF,1430,nay
 1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,dialogue,ACT III,SCENE V,FALSTAFF,1430,hear
 1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,dialogue,ACT III,SCENE V,FALSTAFF,1430,master
 1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,dialogue,ACT III,SCENE V,FALSTAFF,1430,brook
@@ -5252,7 +5156,6 @@ gutenberg_id,short_title,gutenberg_title,genre,year,author,section,class,act,sce
 1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,dialogue,ACT III,SCENE V,FALSTAFF,1452,thrown
 1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,dialogue,ACT III,SCENE V,FALSTAFF,1452,etna
 1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,dialogue,ACT III,SCENE V,FALSTAFF,1452,thames
-1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,dialogue,ACT III,SCENE V,FALSTAFF,1453,ere
 1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,dialogue,ACT III,SCENE V,FALSTAFF,1453,leave
 1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,dialogue,ACT III,SCENE V,FALSTAFF,1453,husband
 1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,dialogue,ACT III,SCENE V,FALSTAFF,1453,morning
@@ -5458,7 +5361,6 @@ gutenberg_id,short_title,gutenberg_title,genre,year,author,section,class,act,sce
 1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,dialogue,ACT IV,SCENE I,EVANS,1513,plural
 1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,dialogue,ACT IV,SCENE I,EVANS,1513,william
 1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,dialogue,ACT IV,SCENE I,WILLIAM,1514,genitive
-1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,dialogue,ACT IV,SCENE I,EVANS,1515,ay
 1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,dialogue,ACT IV,SCENE I,WILLIAM,1516,genitive
 1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,dialogue,ACT IV,SCENE I,WILLIAM,1516,horum
 1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,dialogue,ACT IV,SCENE I,WILLIAM,1516,harum
@@ -5483,7 +5385,6 @@ gutenberg_id,short_title,gutenberg_title,genre,year,author,section,class,act,sce
 1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,dialogue,ACT IV,SCENE I,MISTRESS QUICKLY,1522,fie
 1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,dialogue,ACT IV,SCENE I,EVANS,1523,oman
 1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,dialogue,ACT IV,SCENE I,EVANS,1523,lunatics
-1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,dialogue,ACT IV,SCENE I,EVANS,1523,hast
 1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,dialogue,ACT IV,SCENE I,EVANS,1523,understandings
 1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,dialogue,ACT IV,SCENE I,EVANS,1524,genders
 1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,dialogue,ACT IV,SCENE I,EVANS,1524,foolish
@@ -5563,7 +5464,6 @@ gutenberg_id,short_title,gutenberg_title,genre,year,author,section,class,act,sce
 1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,directions,ACT IV,SCENE II,NA,NA,page
 1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,dialogue,ACT IV,SCENE II,MISTRESS PAGE,1543,sweetheart
 1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,dialogue,ACT IV,SCENE II,MISTRESS PAGE,1543,home
-1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,dialogue,ACT IV,SCENE II,MISTRESS FORD,1544,mine
 1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,dialogue,ACT IV,SCENE II,MISTRESS FORD,1544,people
 1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,dialogue,ACT IV,SCENE II,MISTRESS FORD,1547,speak
 1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,dialogue,ACT IV,SCENE II,MISTRESS FORD,1547,louder
@@ -5630,7 +5530,6 @@ gutenberg_id,short_title,gutenberg_title,genre,year,author,section,class,act,sce
 1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,dialogue,ACT IV,SCENE II,MISTRESS FORD,1568,basket
 1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,directions,ACT IV,SCENE II,NA,NA,falstaff
 1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,dialogue,ACT IV,SCENE II,FALSTAFF,1569,basket
-1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,dialogue,ACT IV,SCENE II,FALSTAFF,1569,ere
 1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,dialogue,ACT IV,SCENE II,MISTRESS PAGE,1570,alas
 1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,dialogue,ACT IV,SCENE II,MISTRESS PAGE,1570,master
 1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,dialogue,ACT IV,SCENE II,MISTRESS PAGE,1570,ford's
@@ -5640,7 +5539,6 @@ gutenberg_id,short_title,gutenberg_title,genre,year,author,section,class,act,sce
 1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,dialogue,ACT IV,SCENE II,MISTRESS PAGE,1570,pistols
 1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,dialogue,ACT IV,SCENE II,MISTRESS PAGE,1571,issue
 1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,dialogue,ACT IV,SCENE II,MISTRESS PAGE,1571,slip
-1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,dialogue,ACT IV,SCENE II,MISTRESS PAGE,1571,ere
 1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,dialogue,ACT IV,SCENE II,FALSTAFF,1573,creep
 1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,dialogue,ACT IV,SCENE II,FALSTAFF,1573,chimney
 1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,dialogue,ACT IV,SCENE II,MISTRESS FORD,1574,discharge
@@ -5727,7 +5625,6 @@ gutenberg_id,short_title,gutenberg_title,genre,year,author,section,class,act,sce
 1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,dialogue,ACT IV,SCENE II,MISTRESS PAGE,1598,cudgel
 1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,dialogue,ACT IV,SCENE II,MISTRESS FORD,1600,husband
 1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,dialogue,ACT IV,SCENE II,MISTRESS FORD,1600,coming
-1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,dialogue,ACT IV,SCENE II,MISTRESS PAGE,1601,ay
 1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,dialogue,ACT IV,SCENE II,MISTRESS PAGE,1601,sadness
 1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,dialogue,ACT IV,SCENE II,MISTRESS PAGE,1601,talks
 1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,dialogue,ACT IV,SCENE II,MISTRESS PAGE,1601,basket
@@ -5739,7 +5636,6 @@ gutenberg_id,short_title,gutenberg_title,genre,year,author,section,class,act,sce
 1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,dialogue,ACT IV,SCENE II,MISTRESS FORD,1604,meet
 1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,dialogue,ACT IV,SCENE II,MISTRESS FORD,1604,door
 1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,dialogue,ACT IV,SCENE II,MISTRESS FORD,1604,time
-1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,dialogue,ACT IV,SCENE II,MISTRESS PAGE,1605,nay
 1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,dialogue,ACT IV,SCENE II,MISTRESS PAGE,1605,presently
 1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,dialogue,ACT IV,SCENE II,MISTRESS PAGE,1605,dress
 1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,dialogue,ACT IV,SCENE II,MISTRESS PAGE,1605,witch
@@ -5797,7 +5693,6 @@ gutenberg_id,short_title,gutenberg_title,genre,year,author,section,class,act,sce
 1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,directions,ACT IV,SCENE II,NA,NA,sir
 1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,directions,ACT IV,SCENE II,NA,NA,hugh
 1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,directions,ACT IV,SCENE II,NA,NA,evans
-1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,dialogue,ACT IV,SCENE II,FORD,1619,ay
 1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,dialogue,ACT IV,SCENE II,FORD,1619,prove
 1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,dialogue,ACT IV,SCENE II,FORD,1619,true
 1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,dialogue,ACT IV,SCENE II,FORD,1619,master
@@ -5952,7 +5847,6 @@ gutenberg_id,short_title,gutenberg_title,genre,year,author,section,class,act,sce
 1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,dialogue,ACT IV,SCENE II,FORD,1664,element
 1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,dialogue,ACT IV,SCENE II,FORD,1664,witch
 1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,dialogue,ACT IV,SCENE II,FORD,1664,hag
-1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,dialogue,ACT IV,SCENE II,MISTRESS FORD,1666,nay
 1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,dialogue,ACT IV,SCENE II,MISTRESS FORD,1666,sweet
 1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,dialogue,ACT IV,SCENE II,MISTRESS FORD,1666,husband
 1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,dialogue,ACT IV,SCENE II,MISTRESS FORD,1666,gentlemen
@@ -5982,7 +5876,6 @@ gutenberg_id,short_title,gutenberg_title,genre,year,author,section,class,act,sce
 1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,dialogue,ACT IV,SCENE II,MISTRESS PAGE,1672,killed
 1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,dialogue,ACT IV,SCENE II,MISTRESS PAGE,1672,poor
 1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,dialogue,ACT IV,SCENE II,MISTRESS PAGE,1672,woman
-1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,dialogue,ACT IV,SCENE II,MISTRESS FORD,1673,nay
 1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,dialogue,ACT IV,SCENE II,MISTRESS FORD,1673,goodly
 1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,dialogue,ACT IV,SCENE II,MISTRESS FORD,1673,credit
 1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,dialogue,ACT IV,SCENE II,FORD,1674,hang
@@ -6015,7 +5908,6 @@ gutenberg_id,short_title,gutenberg_title,genre,year,author,section,class,act,sce
 1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,dialogue,ACT IV,SCENE II,MISTRESS PAGE,1681,trust
 1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,dialogue,ACT IV,SCENE II,MISTRESS PAGE,1681,beat
 1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,dialogue,ACT IV,SCENE II,MISTRESS PAGE,1681,pitifully
-1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,dialogue,ACT IV,SCENE II,MISTRESS FORD,1682,nay
 1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,dialogue,ACT IV,SCENE II,MISTRESS FORD,1682,mass
 1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,dialogue,ACT IV,SCENE II,MISTRESS FORD,1682,beat
 1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,dialogue,ACT IV,SCENE II,MISTRESS FORD,1682,unpitifully
@@ -6086,7 +5978,6 @@ gutenberg_id,short_title,gutenberg_title,genre,year,author,section,class,act,sce
 1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,dialogue,ACT IV,SCENE III,HOST,1703,gentlemen
 1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,dialogue,ACT IV,SCENE III,HOST,1703,speak
 1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,dialogue,ACT IV,SCENE III,HOST,1703,english
-1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,dialogue,ACT IV,SCENE III,BARDOLPH,1704,ay
 1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,dialogue,ACT IV,SCENE III,BARDOLPH,1704,sir
 1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,dialogue,ACT IV,SCENE III,BARDOLPH,1704,call
 1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,dialogue,ACT IV,SCENE III,HOST,1705,horses
@@ -6267,7 +6158,6 @@ gutenberg_id,short_title,gutenberg_title,genre,year,author,section,class,act,sce
 1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,dialogue,ACT IV,SCENE IV,MISTRESS PAGE,1765,tread
 1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,dialogue,ACT IV,SCENE IV,MISTRESS PAGE,1766,shape
 1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,dialogue,ACT IV,SCENE IV,MISTRESS PAGE,1766,profane
-1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,dialogue,ACT IV,SCENE IV,MISTRESS FORD,1767,till
 1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,dialogue,ACT IV,SCENE IV,MISTRESS FORD,1767,truth
 1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,dialogue,ACT IV,SCENE IV,MISTRESS FORD,1768,supposed
 1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,dialogue,ACT IV,SCENE IV,MISTRESS FORD,1768,fairies
@@ -6314,7 +6204,6 @@ gutenberg_id,short_title,gutenberg_title,genre,year,author,section,class,act,sce
 1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,dialogue,ACT IV,SCENE IV,PAGE,1783,send
 1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,dialogue,ACT IV,SCENE IV,PAGE,1783,falstaff
 1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,dialogue,ACT IV,SCENE IV,PAGE,1783,straight
-1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,dialogue,ACT IV,SCENE IV,FORD,1784,nay
 1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,dialogue,ACT IV,SCENE IV,FORD,1784,brook
 1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,dialogue,ACT IV,SCENE IV,FORD,1785,purpose
 1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,dialogue,ACT IV,SCENE IV,MISTRESS PAGE,1786,fear
@@ -6399,7 +6288,6 @@ gutenberg_id,short_title,gutenberg_title,genre,year,author,section,class,act,sce
 1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,dialogue,ACT IV,SCENE V,SIMPLE,1806,bold
 1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,dialogue,ACT IV,SCENE V,SIMPLE,1806,stay
 1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,dialogue,ACT IV,SCENE V,SIMPLE,1806,sir
-1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,dialogue,ACT IV,SCENE V,SIMPLE,1806,till
 1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,dialogue,ACT IV,SCENE V,SIMPLE,1806,speak
 1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,dialogue,ACT IV,SCENE V,HOST,1808,ha
 1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,dialogue,ACT IV,SCENE V,HOST,1808,fat
@@ -6418,7 +6306,6 @@ gutenberg_id,short_title,gutenberg_title,genre,year,author,section,class,act,sce
 1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,dialogue,ACT IV,SCENE V,HOST,1810,host
 1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,dialogue,ACT IV,SCENE V,HOST,1810,ephesian
 1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,dialogue,ACT IV,SCENE V,HOST,1810,calls
-1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,dialogue,ACT IV,SCENE V,FALSTAFF,1811,mine
 1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,dialogue,ACT IV,SCENE V,FALSTAFF,1811,host
 1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,dialogue,ACT IV,SCENE V,HOST,1812,bohemian
 1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,dialogue,ACT IV,SCENE V,HOST,1812,tartar
@@ -6435,7 +6322,6 @@ gutenberg_id,short_title,gutenberg_title,genre,year,author,section,class,act,sce
 1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,dialogue,ACT IV,SCENE V,HOST,1814,privacy
 1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,dialogue,ACT IV,SCENE V,HOST,1814,fie
 1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,directions,ACT IV,SCENE V,NA,NA,falstaff
-1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,dialogue,ACT IV,SCENE V,FALSTAFF,1815,mine
 1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,dialogue,ACT IV,SCENE V,FALSTAFF,1815,host
 1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,dialogue,ACT IV,SCENE V,FALSTAFF,1815,fat
 1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,dialogue,ACT IV,SCENE V,FALSTAFF,1815,woman
@@ -6445,7 +6331,6 @@ gutenberg_id,short_title,gutenberg_title,genre,year,author,section,class,act,sce
 1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,dialogue,ACT IV,SCENE V,SIMPLE,1817,wise
 1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,dialogue,ACT IV,SCENE V,SIMPLE,1817,woman
 1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,dialogue,ACT IV,SCENE V,SIMPLE,1817,brentford
-1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,dialogue,ACT IV,SCENE V,FALSTAFF,1818,ay
 1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,dialogue,ACT IV,SCENE V,FALSTAFF,1818,marry
 1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,dialogue,ACT IV,SCENE V,FALSTAFF,1818,mussel
 1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,dialogue,ACT IV,SCENE V,FALSTAFF,1818,shell
@@ -6473,7 +6358,6 @@ gutenberg_id,short_title,gutenberg_title,genre,year,author,section,class,act,sce
 1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,dialogue,ACT IV,SCENE V,SIMPLE,1826,spoken
 1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,dialogue,ACT IV,SCENE V,SIMPLE,1826,woman
 1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,dialogue,ACT IV,SCENE V,SIMPLE,1827,spoken
-1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,dialogue,ACT IV,SCENE V,HOST,1829,ay
 1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,dialogue,ACT IV,SCENE V,HOST,1829,quick
 1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,dialogue,ACT IV,SCENE V,SIMPLE,1830,conceal
 1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,dialogue,ACT IV,SCENE V,SIMPLE,1830,sir
@@ -6491,7 +6375,6 @@ gutenberg_id,short_title,gutenberg_title,genre,year,author,section,class,act,sce
 1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,dialogue,ACT IV,SCENE V,FALSTAFF,1836,told
 1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,dialogue,ACT IV,SCENE V,SIMPLE,1837,bold
 1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,dialogue,ACT IV,SCENE V,SIMPLE,1837,sir
-1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,dialogue,ACT IV,SCENE V,FALSTAFF,1838,ay
 1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,dialogue,ACT IV,SCENE V,FALSTAFF,1838,sir
 1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,dialogue,ACT IV,SCENE V,FALSTAFF,1838,bold
 1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,dialogue,ACT IV,SCENE V,SIMPLE,1839,worship
@@ -6505,8 +6388,6 @@ gutenberg_id,short_title,gutenberg_title,genre,year,author,section,class,act,sce
 1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,dialogue,ACT IV,SCENE V,HOST,1840,john
 1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,dialogue,ACT IV,SCENE V,HOST,1840,wise
 1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,dialogue,ACT IV,SCENE V,HOST,1840,woman
-1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,dialogue,ACT IV,SCENE V,FALSTAFF,1842,ay
-1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,dialogue,ACT IV,SCENE V,FALSTAFF,1842,mine
 1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,dialogue,ACT IV,SCENE V,FALSTAFF,1842,host
 1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,dialogue,ACT IV,SCENE V,FALSTAFF,1842,taught
 1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,dialogue,ACT IV,SCENE V,FALSTAFF,1842,wit
@@ -6545,14 +6426,12 @@ gutenberg_id,short_title,gutenberg_title,genre,year,author,section,class,act,sce
 1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,directions,ACT IV,SCENE V,NA,NA,sir
 1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,directions,ACT IV,SCENE V,NA,NA,hugh
 1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,directions,ACT IV,SCENE V,NA,NA,evans
-1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,dialogue,ACT IV,SCENE V,EVANS,1852,mine
 1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,dialogue,ACT IV,SCENE V,EVANS,1852,host
 1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,dialogue,ACT IV,SCENE V,HOST,1853,matter
 1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,dialogue,ACT IV,SCENE V,HOST,1853,sir
 1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,dialogue,ACT IV,SCENE V,EVANS,1854,care
 1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,dialogue,ACT IV,SCENE V,EVANS,1854,entertainments
 1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,dialogue,ACT IV,SCENE V,EVANS,1854,friend
-1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,dialogue,ACT IV,SCENE V,EVANS,1854,mine
 1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,dialogue,ACT IV,SCENE V,EVANS,1855,town
 1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,dialogue,ACT IV,SCENE V,EVANS,1855,tells
 1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,dialogue,ACT IV,SCENE V,EVANS,1855,cozen
@@ -6575,7 +6454,6 @@ gutenberg_id,short_title,gutenberg_title,genre,year,author,section,class,act,sce
 1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,directions,ACT IV,SCENE V,NA,NA,doctor
 1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,directions,ACT IV,SCENE V,NA,NA,caius
 1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,dialogue,ACT IV,SCENE V,CAIUS,1860,vere
-1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,dialogue,ACT IV,SCENE V,CAIUS,1860,mine
 1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,dialogue,ACT IV,SCENE V,CAIUS,1860,host
 1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,dialogue,ACT IV,SCENE V,CAIUS,1860,de
 1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,dialogue,ACT IV,SCENE V,CAIUS,1860,jarteer
@@ -6634,7 +6512,6 @@ gutenberg_id,short_title,gutenberg_title,genre,year,author,section,class,act,sce
 1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,dialogue,ACT IV,SCENE V,FALSTAFF,1871,whip
 1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,dialogue,ACT IV,SCENE V,FALSTAFF,1871,fine
 1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,dialogue,ACT IV,SCENE V,FALSTAFF,1871,wits
-1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,dialogue,ACT IV,SCENE V,FALSTAFF,1871,till
 1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,dialogue,ACT IV,SCENE V,FALSTAFF,1872,crestfallen
 1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,dialogue,ACT IV,SCENE V,FALSTAFF,1872,dried
 1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,dialogue,ACT IV,SCENE V,FALSTAFF,1872,pear
@@ -6752,7 +6629,6 @@ gutenberg_id,short_title,gutenberg_title,genre,year,author,section,class,act,sce
 1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,dialogue,ACT IV,SCENE VI,FENTON,1908,image
 1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,dialogue,ACT IV,SCENE VI,FENTON,1908,jest
 1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,dialogue,ACT IV,SCENE VI,FENTON,1909,hark
-1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,dialogue,ACT IV,SCENE VI,FENTON,1909,mine
 1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,dialogue,ACT IV,SCENE VI,FENTON,1909,host
 1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,dialogue,ACT IV,SCENE VI,FENTON,1910,tonight
 1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,dialogue,ACT IV,SCENE VI,FENTON,1910,herne's
@@ -6945,7 +6821,6 @@ gutenberg_id,short_title,gutenberg_title,genre,year,author,section,class,act,sce
 1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,dialogue,ACT V,SCENE I,FALSTAFF,1963,whipped
 1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,dialogue,ACT V,SCENE I,FALSTAFF,1963,top
 1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,dialogue,ACT V,SCENE I,FALSTAFF,1964,beaten
-1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,dialogue,ACT V,SCENE I,FALSTAFF,1964,till
 1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,dialogue,ACT V,SCENE I,FALSTAFF,1964,follow
 1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,dialogue,ACT V,SCENE I,FALSTAFF,1965,strange
 1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,dialogue,ACT V,SCENE I,FALSTAFF,1965,knave
@@ -6967,17 +6842,14 @@ gutenberg_id,short_title,gutenberg_title,genre,year,author,section,class,act,sce
 1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,dialogue,ACT V,SCENE II,PAGE,1968,couch
 1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,dialogue,ACT V,SCENE II,PAGE,1968,castle
 1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,dialogue,ACT V,SCENE II,PAGE,1968,ditch
-1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,dialogue,ACT V,SCENE II,PAGE,1968,till
 1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,dialogue,ACT V,SCENE II,PAGE,1968,light
 1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,dialogue,ACT V,SCENE II,PAGE,1969,fairies
 1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,dialogue,ACT V,SCENE II,PAGE,1969,remember
 1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,dialogue,ACT V,SCENE II,PAGE,1969,son
 1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,dialogue,ACT V,SCENE II,PAGE,1969,slender
 1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,dialogue,ACT V,SCENE II,PAGE,1969,daughter
-1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,dialogue,ACT V,SCENE II,SLENDER,1970,ay
 1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,dialogue,ACT V,SCENE II,SLENDER,1970,forsooth
 1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,dialogue,ACT V,SCENE II,SLENDER,1970,spoke
-1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,dialogue,ACT V,SCENE II,SLENDER,1970,nay
 1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,dialogue,ACT V,SCENE II,SLENDER,1970,word
 1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,dialogue,ACT V,SCENE II,SLENDER,1971,white
 1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,dialogue,ACT V,SCENE II,SLENDER,1971,cry
@@ -7292,7 +7164,6 @@ gutenberg_id,short_title,gutenberg_title,genre,year,author,section,class,act,sce
 1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,directions,ACT V,SCENE V,NA,NA,lies
 1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,dialogue,ACT V,SCENE V,EVANS,2041,bead
 1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,dialogue,ACT V,SCENE V,EVANS,2041,maid
-1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,dialogue,ACT V,SCENE V,EVANS,2042,ere
 1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,dialogue,ACT V,SCENE V,EVANS,2042,sleep
 1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,dialogue,ACT V,SCENE V,EVANS,2042,thrice
 1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,dialogue,ACT V,SCENE V,EVANS,2042,prayers
@@ -7319,7 +7190,6 @@ gutenberg_id,short_title,gutenberg_title,genre,year,author,section,class,act,sce
 1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,dialogue,ACT V,SCENE V,MISTRESS QUICKLY,2049,oafs
 1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,dialogue,ACT V,SCENE V,MISTRESS QUICKLY,2049,sacred
 1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,dialogue,ACT V,SCENE V,MISTRESS QUICKLY,2050,stand
-1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,dialogue,ACT V,SCENE V,MISTRESS QUICKLY,2050,till
 1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,dialogue,ACT V,SCENE V,MISTRESS QUICKLY,2050,perpetual
 1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,dialogue,ACT V,SCENE V,MISTRESS QUICKLY,2050,doom
 1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,dialogue,ACT V,SCENE V,MISTRESS QUICKLY,2051,wholesome
@@ -7379,7 +7249,6 @@ gutenberg_id,short_title,gutenberg_title,genre,year,author,section,class,act,sce
 1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,dialogue,ACT V,SCENE V,MISTRESS QUICKLY,2065,flowers
 1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,dialogue,ACT V,SCENE V,MISTRESS QUICKLY,2065,charactery
 1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,dialogue,ACT V,SCENE V,MISTRESS QUICKLY,2066,disperse
-1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,dialogue,ACT V,SCENE V,MISTRESS QUICKLY,2066,till
 1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,dialogue,ACT V,SCENE V,MISTRESS QUICKLY,2066,o'clock
 1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,dialogue,ACT V,SCENE V,MISTRESS QUICKLY,2067,dance
 1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,dialogue,ACT V,SCENE V,MISTRESS QUICKLY,2067,custom
@@ -7470,7 +7339,6 @@ gutenberg_id,short_title,gutenberg_title,genre,year,author,section,class,act,sce
 1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,dialogue,ACT V,SCENE V,SONG,2093,villainy
 1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,dialogue,ACT V,SCENE V,SONG,2094,pinch
 1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,dialogue,ACT V,SCENE V,SONG,2094,burn
-1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,dialogue,ACT V,SCENE V,SONG,2095,till
 1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,dialogue,ACT V,SCENE V,SONG,2095,candles
 1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,dialogue,ACT V,SCENE V,SONG,2095,starlight
 1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,dialogue,ACT V,SCENE V,SONG,2095,moonshine
@@ -7505,7 +7373,6 @@ gutenberg_id,short_title,gutenberg_title,genre,year,author,section,class,act,sce
 1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,directions,ACT V,SCENE V,NA,NA,page
 1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,directions,ACT V,SCENE V,NA,NA,mistress
 1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,directions,ACT V,SCENE V,NA,NA,ford
-1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,dialogue,ACT V,SCENE V,PAGE,2096,nay
 1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,dialogue,ACT V,SCENE V,PAGE,2096,fly
 1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,dialogue,ACT V,SCENE V,PAGE,2096,watched
 1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,dialogue,ACT V,SCENE V,PAGE,2097,herne
@@ -7563,7 +7430,6 @@ gutenberg_id,short_title,gutenberg_title,genre,year,author,section,class,act,sce
 1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,dialogue,ACT V,SCENE V,FALSTAFF,2110,begin
 1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,dialogue,ACT V,SCENE V,FALSTAFF,2110,perceive
 1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,dialogue,ACT V,SCENE V,FALSTAFF,2110,ass
-1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,dialogue,ACT V,SCENE V,FORD,2111,ay
 1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,dialogue,ACT V,SCENE V,FORD,2111,ox
 1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,dialogue,ACT V,SCENE V,FORD,2111,proofs
 1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,dialogue,ACT V,SCENE V,FORD,2111,extant
@@ -7604,7 +7470,6 @@ gutenberg_id,short_title,gutenberg_title,genre,year,author,section,class,act,sce
 1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,dialogue,ACT V,SCENE V,EVANS,2121,pray
 1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,dialogue,ACT V,SCENE V,FORD,2122,mistrust
 1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,dialogue,ACT V,SCENE V,FORD,2122,wife
-1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,dialogue,ACT V,SCENE V,FORD,2122,till
 1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,dialogue,ACT V,SCENE V,FORD,2122,woo
 1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,dialogue,ACT V,SCENE V,FORD,2123,english
 1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,dialogue,ACT V,SCENE V,FALSTAFF,2124,laid
@@ -7802,7 +7667,6 @@ gutenberg_id,short_title,gutenberg_title,genre,year,author,section,class,act,sce
 1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,dialogue,ACT V,SCENE V,CAIUS,2177,gar
 1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,dialogue,ACT V,SCENE V,CAIUS,2178,cozened
 1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,dialogue,ACT V,SCENE V,MISTRESS PAGE,2179,green
-1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,dialogue,ACT V,SCENE V,CAIUS,2180,ay
 1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,dialogue,ACT V,SCENE V,CAIUS,2180,gar
 1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,dialogue,ACT V,SCENE V,CAIUS,2180,boy
 1517,Merry Wives of Windsor,THE MERRY WIVES OF WINDSOR,Comedy,1601,William Shakespeare,contents,dialogue,ACT V,SCENE V,CAIUS,2180,gar

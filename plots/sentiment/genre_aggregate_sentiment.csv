@@ -1,0 +1,31 @@
+genre,act_num,sentiment_score,type,play,facet_label
+Comedy,I,1.1664877962640694,Aggregate,NA,Comedy - Aggregate
+Comedy,II,1.0814644506260673,Aggregate,NA,Comedy - Aggregate
+Comedy,III,0.5550773442461675,Aggregate,NA,Comedy - Aggregate
+Comedy,IV,0.5602447141984522,Aggregate,NA,Comedy - Aggregate
+Comedy,V,0.38605492555171317,Aggregate,NA,Comedy - Aggregate
+History,I,-0.19918720962779,Aggregate,NA,History - Aggregate
+History,II,0.020651010471642195,Aggregate,NA,History - Aggregate
+History,III,-0.05526989607125509,Aggregate,NA,History - Aggregate
+History,IV,-0.5209654019340265,Aggregate,NA,History - Aggregate
+History,V,0.5923234129069983,Aggregate,NA,History - Aggregate
+Tragedy,I,0.7191597689015581,Aggregate,NA,Tragedy - Aggregate
+Tragedy,II,0.09279982754109582,Aggregate,NA,Tragedy - Aggregate
+Tragedy,III,-0.4045127986626177,Aggregate,NA,Tragedy - Aggregate
+Tragedy,IV,-0.7239970727174276,Aggregate,NA,Tragedy - Aggregate
+Tragedy,V,-1.1413207613260954,Aggregate,NA,Tragedy - Aggregate
+Comedy,I,1.2448132780082988,Example,Twelfth Night,Comedy - Twelfth Night
+Comedy,II,2.145178764897075,Example,Twelfth Night,Comedy - Twelfth Night
+Comedy,III,-0.5731188759474949,Example,Twelfth Night,Comedy - Twelfth Night
+Comedy,IV,-0.28935185185185186,Example,Twelfth Night,Comedy - Twelfth Night
+Comedy,V,-0.9766855702583491,Example,Twelfth Night,Comedy - Twelfth Night
+History,I,-0.5924412665985699,Example,"Henry IV, Part 1","History - Henry IV, Part 1"
+History,II,-0.8720514653323803,Example,"Henry IV, Part 1","History - Henry IV, Part 1"
+History,III,0.33086804203970416,Example,"Henry IV, Part 1","History - Henry IV, Part 1"
+History,IV,0.3048780487804878,Example,"Henry IV, Part 1","History - Henry IV, Part 1"
+History,V,0.02403268445085316,Example,"Henry IV, Part 1","History - Henry IV, Part 1"
+Tragedy,I,-0.4694835680751174,Example,Hamlet,Tragedy - Hamlet
+Tragedy,II,0.42674253200568996,Example,Hamlet,Tragedy - Hamlet
+Tragedy,III,-0.22475066722854334,Example,Hamlet,Tragedy - Hamlet
+Tragedy,IV,-0.2963255630185697,Example,Hamlet,Tragedy - Hamlet
+Tragedy,V,-0.11102886750555144,Example,Hamlet,Tragedy - Hamlet

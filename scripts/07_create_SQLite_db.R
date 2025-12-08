@@ -21,6 +21,15 @@ if (file.exists(OUTPUT_DB_PATH)) {
   file.remove(OUTPUT_DB_PATH)
 }
 
+# Normalise Apostrophes
+#all_shakespeare <- all_shakespeare %>%
+#  mutate(
+#    text = text |>
+#      str_replace_all("[‘’]", "'") |>
+#      str_replace_all("[“”]", "\"")
+#  )
+# all_shakespeare
+
 # Connect to SQLite database
 message("Connecting to SQLite database...")
 con <- dbConnect(SQLite(), OUTPUT_DB_PATH)

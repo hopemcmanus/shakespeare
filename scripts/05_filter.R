@@ -1,6 +1,9 @@
 library(tidyverse)
 library(tidytext)
 library(here)
+library(dplyr)
+library(readr)
+
 
 # Configuration
 INPUT_DIR_TOKENS <- here("data", "processed", "tokens")
@@ -27,7 +30,11 @@ message("Loading tokenised Shakespeare data...")
 all_tokens <- read_csv(
   file.path(INPUT_DIR_TOKENS, "all_shakespeare_tokens.csv"),
   show_col_types = FALSE
-)
+) # %>% # if not yet 
+  #mutate(
+   # word = str_replace_all(word, "[‘’]", "'") #,
+   # word = str_replace_all(word, "[“”]", "\"")
+  # )
 
 message("✓ Loaded ", format(nrow(all_tokens), big.mark = ","), " tokens\n")
 
@@ -36,10 +43,11 @@ message("Creating custom stop word list...")
 stop_words_custom <- bind_rows(
   stop_words,
   tibble(word = c(
-    # Shakespearean pronouns and verbs
+    #
+    # Shakespearean interjections, pronouns and verbs
     "thou", "thee", "thy", "thine", "thyself",
     "hath", "doth", "dost", "art", "wilt", "shalt",
-    "tis", "'tis", "twas", "'twas",
+    "tis", "'tis", "twas", "'twas", "mine", "ay", "till", "hast", "nay", "ere",
     # Stage directions
     "enter", "exit", "exeunt", "re-enter",
     # Structural
@@ -47,7 +55,63 @@ stop_words_custom <- bind_rows(
   ))
 )
 
+stop_words_custom %>%
+mutate(word = str_replace_all(word, "['']", "'"))   # Normalize apostrophes
+
 message("✓ Stop word list: ", nrow(stop_words_custom), " words\n")
+
+#Extended custom stop word list to filter
+stop_words_custom_extended <- # bind_rows(
+  # stop_words_custom,
+    tibble(word = c(
+      # Formal & respectful titles
+      "sir", "madam", "lord", "lady", "grace", "majesty", "highness",
+      "excellency", "honor", "honour", "liege", "sovereign",
+      "worship", "worshipper", "princess", "prince", "duke", "duchess",
+      "earl", "countess", "thane", "king", "queen",
+      
+      # Social & occupational forms of address
+      "master", "mistress", "goodman", "goodwife", "goody",
+      "host", "hostess", "friar", "father", "abbot",
+      
+      # Familiar / relational forms
+      "cousin", "coz", "kinsman", "kinswoman", "brother",
+      "sister", "uncle", "aunt", "nephew", "niece",
+      "neighbor", "neighbour", "groom", "page", "servant",
+      "attendant", "messenger", "herald",
+      
+      # Affectionate forms
+      "sweetheart", "sweeting", "love", "dear", "beloved",
+      "fair", "youth", "maid", "maiden", "virgin",
+      
+      # Neutral / role-based classical forms
+      "soldier", "captain", "general", "doctor", "nurse",
+      "apothecary", "clown", "fool",
+      
+      # Derogatory / insulting direct-address forms
+      "knave", "rogue", "villain", "rascal", "varlet", "coxcomb",
+      "cur", "slave", "minion", "bawd", "strumpet", "harlot",
+      "wench", "churl", "dotard", "cutpurse", "caitiff",
+      "scullion", "malefactor", "miscreant", "fustilarian",
+      "moldwarp", "whoreson", "dog", "devil",
+      
+      # Rare or colourful Shakespearean address tokens
+      "sirrah", "prow", "swain", "swainling",
+      "gallant", "rival", "reveller", "usurer",
+      "mountebank", "cox", "breech", "wight"
+    ))
+#  )
+  
+#Check top words before filtration to change stop_words_custom
+#top_300_words <- all_tokens %>%
+# count(word, sort = TRUE) %>%   # count frequencies
+#  slice_head(n = 300)             # keep top 300
+
+# Optional: save to CSV
+#write_csv(top_200_words, "top_200_shakespeare_words.csv")
+
+#top_300_nonstop <- top_300_words %>%
+#  +     filter(!word %in% c(stop_words_custom$word, stop_words_custom_extended$word))
 
 # Initialise filter log
 filter_log <- tibble()
@@ -239,18 +303,23 @@ message("FILTER 7: By Custom Subset (HSC Plays)")
 message(strrep("-", 70))
 
 # HSC plays (2019/2027 prescriptions)
-hsc_ids <- c("1516", "1519", "1522", "1524", "1520", 
-             "1523", "1503", "1540", "1531", "1515")
+hsc_ids <- c("1516", "1519", "1522", "1524", "1523", "1503", "1540", "1531", "1515")
 
 all_tokens %>%
   filter(as.character(gutenberg_id) %in% hsc_ids) %>%
   save_filtered("by_subset", "hsc_plays", "HSC English prescribed plays (2019/2027)")
 
+# HSC plays directions and dialogue only, no stop words
+all_tokens %>%
+  filter(as.character(gutenberg_id) %in% hsc_ids, class %in% c("dialogue", "directions")) %>%
+  anti_join(stop_words_custom, by = "word") %>%
+  save_filtered("by_subset", "hsc_contents_filtered", "HSC plays - directions and dialogue lines, no stop words")
+
 # HSC plays dialogue only, no stop words
 all_tokens %>%
   filter(as.character(gutenberg_id) %in% hsc_ids, class == "dialogue") %>%
   anti_join(stop_words_custom, by = "word") %>%
-  save_filtered("by_subset", "hsc_dialogue_filtered", "HSC plays - dialogue only, no stop words")
+  save_filtered("by_subset", "hsc_dialogue_filtered", "HSC plays - dialogue lines, no stop words")
 
 # Filter 8: By act (examples)
 message("\n", strrep("-", 70))
